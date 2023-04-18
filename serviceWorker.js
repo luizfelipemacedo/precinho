@@ -1,29 +1,35 @@
-const staticLowPrice = "low-price-site-v1";
-
-const assets = [
-  "/",
-  "/src",
-  "src/index.html",
-  "src/css/style.css",
-  "src/script.js",
-  "src/public/icon-192x192.png",
-  "src/public/icon-256x256.png",
-  "src/public/icon-364x364.png",
-  "src/public/icon-512x512.png",
+const cacheName = 'site-cache';
+const urlsToCache = [
+  '/',
+  '/src',
+  'index.html',
+  '/src/css/style.css',
+  '/src/script.js',
+  '/public'
 ];
 
-self.addEventListener("install", installEvent => {
-  installEvent.waitUntil(
-    caches.open(staticLowPrice).then(cache => {
-      cache.addAll(assets)
-    })
-  )
-})
-
-self.addEventListener("fetch", fetchEvent => {
-    fetchEvent.respondWith(
-      caches.match(fetchEvent.request).then(res => {
-        return res || fetch(fetchEvent.request)
+self.addEventListener('install', function(event) {
+  event.waitUntil(
+    caches.open(cacheName)
+      .then(function(cache) {
+        console.log('Cache aberto');
+        return cache.addAll(urlsToCache);
       })
+      .catch(function(error) {
+        console.error('Erro ao fazer cache dos arquivos:', error);
+      })
+  );
+});
+
+self.addEventListener('fetch', function(event) {
+  event.respondWith(
+    caches.match(event.request)
+      .then(function(response) {
+        if (response) {
+          return response;
+        }
+        return fetch(event.request);
+      }
     )
-  })
+  );
+});

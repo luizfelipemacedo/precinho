@@ -1,5 +1,6 @@
 body {
     user-select: none;
+    font-family: system-ui, sans-serif;
   }
   
 #main-div {
@@ -9,4 +10,12 @@ body {
 
 #delete-geo {
     margin: 0 auto;
+}
+
+button {
+    transition: all 0.1s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.1);
 }

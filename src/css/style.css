@@ -19,3 +19,9 @@ button {
 button:hover {
     transform: scale(1.1);
 }
+
+#mapid {
+    margin-top: 10px;
+    height: 400px;
+    width: 100%;
+}

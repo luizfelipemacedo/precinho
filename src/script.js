@@ -18,6 +18,16 @@ if (localStorage.getItem('location')) {
     document.querySelector('#resultado').innerHTML = `Sua localização atual é:\n ${location.display_name}`;
     btn.remove();
     btn_del.style.display = "block";
+
+    var map = L.map('mapid').setView([location.lat, location.lon], 13);
+                
+                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
+                
+                L.marker([location.lat, location.lon]).addTo(map)
+                    .bindPopup('Você está aqui.')
+                    .openPopup();
 }
 
 function deleteGeo() {
@@ -40,9 +50,21 @@ function getLocation() {
                 document.querySelector('#resultado').innerHTML = `Sua localização atual é:\n ${data.display_name}`;
                 btn.remove();
                 btn_del.style.display = "block";
+
+                var map = L.map('mapid').setView([latitude, longitude], 13);
+                
+                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }).addTo(map);
+                
+                L.marker([latitude, longitude]).addTo(map)
+                    .bindPopup('Você está aqui.')
+                    .openPopup();
+
             }
         } catch (err) {
             console.log(err);
         }
     })
 }
+

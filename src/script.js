@@ -15,19 +15,12 @@ btn_del.addEventListener('click', deleteGeo);
 
 if (localStorage.getItem('location')) {
     const location = JSON.parse(localStorage.getItem('location'));
-    document.querySelector('#resultado').innerHTML = `Sua localização atual é:\n ${location.display_name}`;
+    document.querySelector('#resultado').innerHTML = `Sua localização atual é:\n ${location.data.display_name}`;
     btn.remove();
     btn_del.style.display = "block";
 
-    var map = L.map('mapid').setView([location.lat, location.lon], 13);
-                
-                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                }).addTo(map);
-                
-                L.marker([location.lat, location.lon]).addTo(map)
-                    .bindPopup('Você está aqui.')
-                    .openPopup();
+    drawMap(location.data.lat, location.data.lon);
+    getLocation();
 }
 
 function deleteGeo() {
@@ -35,36 +28,46 @@ function deleteGeo() {
     window.location.reload();
 }
 
-function getLocation() {
-    navigator.geolocation.watchPosition(async function (position) {
-        try {
-            const latitude = position.coords.latitude;
-            const longitude = position.coords.longitude;
-            if (latitude && longitude) {
-                const res = await fetch(
-                    `https://nominatim.openstreetmap.org/reverse?lat=${latitude}&lon=${longitude}&format=json`,
-                );
-                const data = await res.json();
-                console.log(data)
-                localStorage.setItem('location', JSON.stringify(data));
-                document.querySelector('#resultado').innerHTML = `Sua localização atual é:\n ${data.display_name}`;
-                btn.remove();
-                btn_del.style.display = "block";
+function drawMap(latitude, longitude) {
+    var map = L.map('mapid').setView([latitude, longitude], 13);
 
-                var map = L.map('mapid').setView([latitude, longitude], 13);
-                
-                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-                }).addTo(map);
-                
-                L.marker([latitude, longitude]).addTo(map)
-                    .bindPopup('Você está aqui.')
-                    .openPopup();
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
 
-            }
-        } catch (err) {
-            console.log(err);
-        }
-    })
+    L.marker([latitude, longitude]).addTo(map)
+        .bindPopup('Você está aqui.')
+        .openPopup();
 }
 
+function getLocation() {
+    if ('geolocation' in navigator) {
+        navigator.geolocation.watchPosition(async function (position) {
+            try {
+                const latitude = position.coords.latitude;
+                const longitude = position.coords.longitude;
+                if (latitude && longitude) {
+                    const res = await fetch(
+                        `https://nominatim.openstreetmap.org/reverse?lat=${latitude}&lon=${longitude}&format=json`,
+                    );
+                    const data = await res.json();
+                    console.log(data)
+                    const currentTime = new Date().toISOString();
+                    localStorage.setItem('location', JSON.stringify({ data, currentTime }));
+
+                    document.querySelector('#resultado').innerHTML = `Sua localização atual é:\n ${data.display_name}`;
+                    btn.remove();
+                    btn_del.style.display = "block";
+
+                    drawMap(latitude, longitude);
+                }
+            } catch (err) {
+                console.log(err);
+            }
+        }, function () {
+            M.toast({html: 'A localização está desligada. Por favor, habilite a localização para usar este recurso.'})
+        })
+    } else {
+        alert('Geolocalização não disponível!')
+    }
+}

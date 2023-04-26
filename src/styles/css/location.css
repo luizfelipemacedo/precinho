@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@200;300;400;500;600;700;800;900&display=swap');
+body{
+        display: flex;
+        justify-content: center;
+        background: black;
+}
+.fitter{
+        position: absolute;
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+        /* max-height: 100%;
+        aspect-ratio: 9 / 19; */
+}
+
+.background {
+        position: absolute;
+        top:0;
+        left:0;
+        background: linear-gradient(323.79deg, #0072B0 43.38%, #65BEF5 92.17%);
+        width:100%;
+        height:100%;
+}
+
+#page{
+        position: absolute;
+        width: 100%;
+        height: 90%;
+        padding: 25% 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+        user-select: none;
+}
+
+#header{
+        position: relative;
+        width: 76%;
+        left: 12%;
+
+        background-color: rgba(0, 0, 0, 0.0);
+}
+
+.h2{
+        font-family: 'Encode Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 4vh;
+        line-height:4vh;
+
+        color: #FFFFFF;
+
+        text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
+}
+.h1{
+        font-family: 'Encode Sans';
+        font-weight: 800;
+        font-size: 6vh;
+        
+        background: linear-gradient(#DE80AE, #DE80AE);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+
+        filter:
+        drop-shadow(-1px -1px 0 #ffecf5)
+        drop-shadow(1px -1px 0 #ffecf5)
+        drop-shadow(-1px 1px 0 #ffecf5)
+        drop-shadow(1px 1px 0 #ffecf5)
+        drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.3));
+
+}
+
+#location{
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.0);
+
+}
+
+#location .button{
+        background: #DE80AE;
+        box-sizing: border-box;
+        border: 0.1vh solid #DE80AE;
+        border-radius: 50px;
+        padding: 1.5vh 10px;
+        width: 80%;
+        margin: 0 auto;
+
+        color: white;
+        text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
+
+        text-align: center;
+        white-space: nowrap;
+
+        font-family: 'Encode Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 2.5vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.3));
+
+        transition: all 0.25s;
+}
+
+#location .button:active{
+        background: #da6ea2;
+        border-color: #da6ea2;
+        filter: drop-shadow(2px 2px 10px rgba(255, 0, 119, 0.6));
+}
+
+#location .button2{
+        border: 0.5vh solid #FFFFFF;
+        background: none;
+        color: white;
+}
+
+#location .button2:active{
+        background: rgba(0, 0, 0, 0.2);
+        border-color: white;
+        filter: drop-shadow(2px 2px 10px rgba(0, 0, 0, 0.5));
+}
+
+#location svg{
+        position: relative;
+        color: white;
+        fill: white;
+        margin: 0;
+        width: auto;
+        height: 3.5vh;
+        filter: drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3));
+}
+
+#location p.divider-text{
+        font-family: 'Encode Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 3vh;
+        text-align: center;
+        text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
+        color: #FFFFFF;
+}
+
+
+
+#saved-location{
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.0);
+        text-align: center;
+        margin-top: 50px;
+}
+#saved-location span{
+        font-family: 'Encode Sans';
+        font-style: normal;
+        color: white;
+        line-height: 45px;
+}
+#saved-location span.title{
+        font-weight: 600;
+        font-size: 26px;
+}
+#saved-location span.text{
+        font-weight: 300;
+        font-size: 24px;
+}
+#saved-location .divider-line{
+        background: white;
+        margin: 25px auto 0px auto;
+        width: 80%;
+        height: 2px;
+        border-radius: 200px;
+}

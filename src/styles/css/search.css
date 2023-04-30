@@ -1,0 +1,197 @@
+body{
+        background: white;
+}
+
+.background {
+        position: absolute;
+        top:0;
+        left:0;
+        background: white;
+        width:100%;
+}
+
+#search-area{
+        z-index: 10;
+        position: fixed;
+        width: 100%;
+        height: 12vh;
+        background: #65BEF5;
+
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 7% 6%;
+
+        box-shadow: 0 -50px 50px 50px rgba(0, 0, 0, 0.4);
+}
+
+#search-area .search-bar{
+        width: 82%;
+        height: 100%;
+        background: white;
+        border-radius: 15px;      
+}
+
+#search-area .search-bar input, #search-area .search-bar input:focus{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        border: none;
+        outline: none;
+        border-bottom: none;
+        box-shadow: none;
+
+        font-size: 4.5vw;
+        font-weight: 400;
+}
+
+#search-area .search-bar input::placeholder{
+        color: rgb(121, 121, 121);
+}
+
+#search-area .button-area{
+        width: 10%;
+        height: 100%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+}
+
+#search-area .button-area .search-button{
+        width: 100%;
+        height: 100%;
+        background: none;
+        border: none;
+}
+
+#search-area .button-area .search-button .search-icon{
+        color: white;
+        fill: white;
+        transition: all 0.2s;
+}
+
+#search-area .button-area .search-button:active .search-icon{
+        color: rgb(209, 209, 209);
+        fill: rgb(209, 209, 209);
+}
+
+/* ----------------- LISTA RESULTADO ----------------- */
+
+#resultado{
+        z-index: 0;
+        position: absolute;
+        padding-top: 14vh;
+        padding-bottom: 14vh;
+        width: 100%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+}
+
+#resultado .search-item{
+        background: linear-gradient(180deg, #65BEF5 5.21%, #06A1F5 100%);
+        border-radius: 16px;
+        width: 90%;
+        height: 12vh;
+        margin: 1vh auto;
+        text-align: center;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 3vh;
+        color: white;
+        font-weight: 500;
+}
+
+
+
+/* ----------------- BOTTOM TAB ----------------- */
+
+
+#bottom-tab{
+        z-index: 10;
+        position: fixed;
+        width: 100%;
+        height: 12%;
+        background: #F8F8F8;
+        bottom: 0;
+
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+
+        box-shadow: 0 50px 50px 50px rgba(0, 0, 0, 0.4);
+}
+
+#bottom-tab > div{
+        height: 100%;
+        width: 100%;
+        margin: 0 1vw;
+        background: red;
+}
+
+#bottom-tab .products{
+
+}
+
+#bottom-tab button{
+        background: none;
+        border: none;
+}
+
+
+
+
+#page{
+        position: absolute;
+        width: 100%;
+        height: 90%;
+        padding: 25% 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+        user-select: none;
+}
+
+#header{
+        position: relative;
+        width: 76%;
+        left: 12%;
+
+        background-color: rgba(0, 0, 0, 0.0);
+}
+
+.h2{
+        font-family: 'Encode Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 4vh;
+        line-height:4vh;
+
+        color: #FFFFFF;
+
+        text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
+}
+.h1{
+        font-family: 'Encode Sans';
+        font-weight: 800;
+        font-size: 6vh;
+        
+        background: linear-gradient(#DE80AE, #DE80AE);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+
+        filter:
+        drop-shadow(-1px -1px 0 #ffecf5)
+        drop-shadow(1px -1px 0 #ffecf5)
+        drop-shadow(-1px 1px 0 #ffecf5)
+        drop-shadow(1px 1px 0 #ffecf5)
+        drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.3));
+
+}

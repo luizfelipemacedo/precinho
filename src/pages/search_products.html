@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <!-- Leaflet CDN´s -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+    <!-- Materialize CDN´s -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <script src="../scripts/fittext.js"></script>
+
+    <link rel="manifest" href="/manifest.json">
+
+    <link rel="stylesheet" href="../styles/css/general.css" />
+    <link rel="stylesheet" href="../styles/css/search.css" />
+    <title>Buscar Produtos</title>
+</head>
+
+<body>
+    <div class="fitter">
+        <div class="background"></div>
+
+        <section id="search-area">
+            <div class="search-bar">
+                <input type="text" class="validate" placeholder="Digite sua pesquisa..." />
+            </div>
+            <div class="button-area">
+                <button type="button" class="search-button">
+                    <svg class="search-icon" viewBox="0 0 26 26" width="100%" height="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M17.4077 16.3522H18.5821L26 23.785L23.785 26L16.3522 18.582V17.4077L15.9508 16.9914C14.2561 18.4483 12.056 19.3253 9.66267 19.3253C4.3259 19.3253 3.8147e-06 14.9994 3.8147e-06 9.66266C3.8147e-06 4.3259 4.3259 0 9.66267 0C14.9994 0 19.3253 4.3259 19.3253 9.66266C19.3253 12.056 18.4483 14.2561 16.9914 15.9508L17.4077 16.3522ZM2.97313 9.66266C2.97313 13.3642 5.96112 16.3522 9.66267 16.3522C13.3642 16.3522 16.3522 13.3642 16.3522 9.66266C16.3522 5.96112 13.3642 2.97313 9.66267 2.97313C5.96112 2.97313 2.97313 5.96112 2.97313 9.66266Z"/>
+                    </svg>
+                </button>
+            </div>
+        </section>
+
+        <section id="resultado">
+                <div class="search-item">Item de pesquisa</div>
+                <div class="search-item">Item de pesquisa</div>
+                <div class="search-item">Item de pesquisa</div>
+                <div class="search-item">Item de pesquisa</div>
+                <div class="search-item">Item de pesquisa</div>
+                <div class="search-item">Item de pesquisa</div>
+                <div class="search-item">Item de pesquisa</div>
+                <div class="search-item">Item de pesquisa</div>
+                <div class="search-item">Item de pesquisa</div>
+        </section>
+
+        <section id="bottom-tab">
+            <div class="products">
+                <button type="button">
+                    <svg class="search-icon" viewBox="0 0 26 26" width="100%" height="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M17.4077 16.3522H18.5821L26 23.785L23.785 26L16.3522 18.582V17.4077L15.9508 16.9914C14.2561 18.4483 12.056 19.3253 9.66267 19.3253C4.3259 19.3253 3.8147e-06 14.9994 3.8147e-06 9.66266C3.8147e-06 4.3259 4.3259 0 9.66267 0C14.9994 0 19.3253 4.3259 19.3253 9.66266C19.3253 12.056 18.4483 14.2561 16.9914 15.9508L17.4077 16.3522ZM2.97313 9.66266C2.97313 13.3642 5.96112 16.3522 9.66267 16.3522C13.3642 16.3522 16.3522 13.3642 16.3522 9.66266C16.3522 5.96112 13.3642 2.97313 9.66267 2.97313C5.96112 2.97313 2.97313 5.96112 2.97313 9.66266Z"/>
+                    </svg>
+                    Listar produtos
+                </button>
+            </div>
+            
+            <div class="products">
+                <button type="button">
+                    <svg class="search-icon" viewBox="0 0 26 26" width="100%" height="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M17.4077 16.3522H18.5821L26 23.785L23.785 26L16.3522 18.582V17.4077L15.9508 16.9914C14.2561 18.4483 12.056 19.3253 9.66267 19.3253C4.3259 19.3253 3.8147e-06 14.9994 3.8147e-06 9.66266C3.8147e-06 4.3259 4.3259 0 9.66267 0C14.9994 0 19.3253 4.3259 19.3253 9.66266C19.3253 12.056 18.4483 14.2561 16.9914 15.9508L17.4077 16.3522ZM2.97313 9.66266C2.97313 13.3642 5.96112 16.3522 9.66267 16.3522C13.3642 16.3522 16.3522 13.3642 16.3522 9.66266C16.3522 5.96112 13.3642 2.97313 9.66267 2.97313C5.96112 2.97313 2.97313 5.96112 2.97313 9.66266Z"/>
+                    </svg>
+                    Listar produtos
+                </button>
+            </div>
+        </section>
+
+    </div>
+
+</body>
+<script>
+    //window.fitText(document.getElementsByClassName('button'), 1.5);
+</script>
+
+</html>

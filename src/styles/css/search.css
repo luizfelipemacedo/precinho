@@ -14,22 +14,22 @@ body{
         z-index: 10;
         position: fixed;
         width: 100%;
-        height: 12vh;
+        height: 10vh;
         background: #65BEF5;
 
         display: inline-flex;
         align-items: center;
         justify-content: space-between;
-        padding: 7% 6%;
+        padding: 0vh 6% 0 6%;
 
         box-shadow: 0 -50px 50px 50px rgba(0, 0, 0, 0.4);
 }
 
 #search-area .search-bar{
-        width: 82%;
-        height: 100%;
+        width: 85%;
+        height: 50%;
         background: white;
-        border-radius: 15px;      
+        border-radius: 10px;      
 }
 
 #search-area .search-bar input, #search-area .search-bar input:focus{
@@ -41,17 +41,17 @@ body{
         border-bottom: none;
         box-shadow: none;
 
-        font-size: 4.5vw;
+        font-size: 2.5vh;
         font-weight: 400;
 }
 
 #search-area .search-bar input::placeholder{
-        color: rgb(121, 121, 121);
+        color: rgb(80, 80, 80);
 }
 
 #search-area .button-area{
-        width: 10%;
-        height: 100%;
+        width: 12%;
+        height: 40%;
         display: inline-flex;
         align-items: center;
         justify-content: space-between;
@@ -90,6 +90,17 @@ body{
         justify-content: space-between;
 }
 
+#resultado #lista{
+        z-index: 0;
+        width: 100%;
+        height: 100%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+}
+
 #resultado .search-item{
         background: linear-gradient(180deg, #65BEF5 5.21%, #06A1F5 100%);
         border-radius: 16px;
@@ -106,9 +117,24 @@ body{
         color: white;
         font-weight: 500;
 }
-
-
-
+#resultado .search-item{
+        
+}
+#resultado span.instruction{
+        color: #65BEF5;
+        width: 90%;
+        font-family: 'Encode Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 3.6vh;
+        text-align: center;
+}
+#resultado span.instruction>svg{
+        color: #65BEF5;
+        fill: #65BEF5;
+        height: 2.5vh;
+        width: auto;
+}
 /* ----------------- BOTTOM TAB ----------------- */
 
 
@@ -116,7 +142,7 @@ body{
         z-index: 10;
         position: fixed;
         width: 100%;
-        height: 12%;
+        height: 12vh;
         background: #F8F8F8;
         bottom: 0;
 
@@ -124,26 +150,63 @@ body{
         align-items: center;
         justify-content: space-between;
 
-        box-shadow: 0 50px 50px 50px rgba(0, 0, 0, 0.4);
+        box-shadow: 0 50px 50px 60px rgba(0, 0, 0, 0.1);
 }
 
 #bottom-tab > div{
-        height: 100%;
+        height: 60%;
         width: 100%;
-        margin: 0 1vw;
-        background: red;
+        margin: 0 2vw;
 }
 
-#bottom-tab .products{
+#bottom-tab button{        
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        text-align: center;
+}
 
+#bottom-tab button span{        
+        font-family: 'Encode Sans';
+        font-weight: 500;
+        font-size: 1.8vh;
+        text-align: center;
+        color: #3BA6E8;
+}
+
+#bottom-tab button svg{
+        height: 50%;
+        color: #3BA6E8;
+        fill: #3BA6E8;
+}
+
+#bottom-tab button .disabled{
+        color: #a0a5ad;
+        fill: #a0a5ad;
+
+        transition: all 0.1s;
+}
+
+#bottom-tab button:active .disabled{
+        color: #7bbde6;
+        fill: #7bbde6;
 }
 
 #bottom-tab button{
         background: none;
         border: none;
 }
+#bottom-tab button::active{
+        background: none;
+        border: none;
+}
 
-
+#bottom-tab svg{
+        height: 4vh;
+}
 
 
 #page{

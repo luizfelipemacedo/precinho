@@ -1,0 +1,281 @@
+body{
+        background: white;
+}
+
+.background {
+        position: absolute;
+        top:0;
+        left:0;
+        background: white;
+        width:100%;
+}
+
+#search-area{
+        z-index: 10;
+        position: fixed;
+        width: 100%;
+        height: 10vh;
+        background: #65BEF5;
+
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0vh 6% 0 6%;
+
+        box-shadow: 0 -50px 50px 50px rgba(0, 0, 0, 0.4);
+}
+
+#search-area .search-bar{
+        width: 85%;
+        height: 50%;
+        background: white;
+        border-radius: 10px;      
+}
+
+#search-area .search-bar input, #search-area .search-bar input:focus{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        border: none;
+        outline: none;
+        border-bottom: none;
+        box-shadow: none;
+
+        font-size: 2.5vh;
+        font-weight: 400;
+}
+
+#search-area .search-bar input::placeholder{
+        color: rgb(80, 80, 80);
+}
+
+#search-area .button-area{
+        width: 12%;
+        height: 40%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+}
+
+#search-area .button-area .search-button{
+        width: 100%;
+        height: 100%;
+        background: none;
+        border: none;
+}
+
+#search-area .button-area .search-button .search-icon{
+        color: white;
+        fill: white;
+        transition: all 0.2s;
+}
+
+#search-area .button-area .search-button:active .search-icon{
+        color: rgb(209, 209, 209);
+        fill: rgb(209, 209, 209);
+}
+
+/* ----------------- LISTA RESULTADO ----------------- */
+
+#resultado{
+        z-index: 0;
+        position: absolute;
+        padding-top: 14vh;
+        padding-bottom: 14vh;
+        width: 100%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+}
+
+#resultado #lista{
+        z-index: 0;
+        width: 100%;
+        height: 100%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* justify-content: space-between; */
+        justify-content: center;
+        flex-wrap: wrap;
+}
+
+#resultado .search-item{
+        background: linear-gradient(180deg, #65BEF5 5.21%, #06A1F5 100%);
+        border-radius: 16px;
+        width: 90%;
+        height: 12vh;
+        margin: 1vh auto;
+        text-align: center;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 3vh;
+        color: white;
+        font-weight: 500;
+}
+#resultado .search-item{
+        
+}
+#resultado span.instruction{
+        color: #65BEF5;
+        width: 90%;
+        font-family: 'Encode Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 3.6vh;
+        text-align: center;
+}
+#resultado span.instruction>svg{
+        color: #65BEF5;
+        fill: #65BEF5;
+        height: 2.5vh;
+        width: auto;
+}
+/* ----------------- BOTTOM TAB ----------------- */
+
+
+#bottom-tab{
+        z-index: 10;
+        position: fixed;
+        width: 100%;
+        height: 12vh;
+        background: #F8F8F8;
+        bottom: 0;
+
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+
+        box-shadow: 0 50px 50px 60px rgba(0, 0, 0, 0.1);
+}
+
+#bottom-tab > div{
+        height: 60%;
+        width: 100%;
+        margin: 0 2vw;
+}
+
+#bottom-tab button{        
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        text-align: center;
+}
+
+#bottom-tab button span{        
+        font-family: 'Encode Sans';
+        font-weight: 500;
+        font-size: 1.8vh;
+        text-align: center;
+        color: #3BA6E8;
+}
+
+#bottom-tab button svg{
+        height: 50%;
+        color: #3BA6E8;
+        fill: #3BA6E8;
+}
+
+#bottom-tab button .disabled{
+        color: #a0a5ad;
+        fill: #a0a5ad;
+
+        transition: all 0.1s;
+}
+
+#bottom-tab button:active .disabled{
+        color: #7bbde6;
+        fill: #7bbde6;
+}
+
+#bottom-tab button{
+        background: none;
+        border: none;
+}
+#bottom-tab button::active{
+        background: none;
+        border: none;
+}
+
+#bottom-tab svg{
+        height: 4vh;
+}
+
+
+#page{
+        position: absolute;
+        width: 100%;
+        height: 90%;
+        padding: 25% 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+        user-select: none;
+}
+
+#header{
+        position: relative;
+        width: 76%;
+        left: 12%;
+
+        background-color: rgba(0, 0, 0, 0.0);
+}
+
+.h2{
+        font-family: 'Encode Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 4vh;
+        line-height:4vh;
+
+        color: #FFFFFF;
+
+        text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
+}
+.h1{
+        font-family: 'Encode Sans';
+        font-weight: 800;
+        font-size: 6vh;
+        
+        background: linear-gradient(#DE80AE, #DE80AE);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+
+        filter:
+        drop-shadow(-1px -1px 0 #ffecf5)
+        drop-shadow(1px -1px 0 #ffecf5)
+        drop-shadow(-1px 1px 0 #ffecf5)
+        drop-shadow(1px 1px 0 #ffecf5)
+        drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.3));
+
+}
+
+.product-image {
+        width: 200px;
+        height: 200px;
+        justify-content: center;
+        align-items: center;
+        object-fit: cover;
+}
+
+.product {
+        margin: 0;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+        margin-right: 30px;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        /* background-color: red; */
+}

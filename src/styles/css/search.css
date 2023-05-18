@@ -98,7 +98,9 @@ body{
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: space-between;
+        /* justify-content: space-between; */
+        justify-content: center;
+        flex-wrap: wrap;
 }
 
 #resultado .search-item{
@@ -257,4 +259,23 @@ body{
         drop-shadow(1px 1px 0 #ffecf5)
         drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.3));
 
+}
+
+.product-image {
+        width: 200px;
+        height: 200px;
+        justify-content: center;
+        align-items: center;
+        object-fit: cover;
+}
+
+.product {
+        margin: 0;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+        margin-right: 30px;
+        margin-bottom: 30px;
+        margin-left: 30px;
+        /* background-color: red; */
 }

@@ -11,18 +11,21 @@ const SEARCH_LOCATION_STRING = "Buscar localização atual";
 const UPDATE_LOCATION_STRING = "Atualizar localização atual";
 
 const geoButton = document.querySelector('#get-geo');
+const selectGeo = document.querySelector('#select-geo');
 const geoButtonText = document.querySelector('#get-geo > span.button-text');
-geoButton.addEventListener('click', getLocation);
-
 const btn_del = document.querySelector('#manual-location');
+
+selectGeo.addEventListener('click', window.location.href = '/src/pages/search_products.html');
 btn_del.addEventListener('click', deleteGeo);
+geoButton.addEventListener('click', getLocation);
 
 if (localStorage.getItem('location')) {
     const location = JSON.parse(localStorage.getItem('location'));
 
     switchToSavedLocation(location.data.address.city);
-    //drawMap(location.data.lat, location.data.lon);
     getLocation();
+} else {
+    document.querySelector('#select-geo').style.display = 'none';
 }
 
 function deleteGeo() {
@@ -30,21 +33,11 @@ function deleteGeo() {
     window.location.reload();
 }
 
-function drawMap(latitude, longitude) {
-    var map = L.map('mapid').setView([latitude, longitude], 13);
-
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
-
-    L.marker([latitude, longitude]).addTo(map)
-        .bindPopup('Você está aqui.')
-        .openPopup();
-}
-
 function switchToSavedLocation(city){
     document.querySelector('#saved-location > .text').innerHTML = `${city}`;
     document.querySelector('#saved-location').style.display = "block";
+    geoButton.style.display = "none";
+    document.querySelector("#select-geo").style.display = "block";
     geoButtonText.innerHTML = UPDATE_LOCATION_STRING;
 }
 
@@ -62,8 +55,6 @@ function getLocation() {
                     localStorage.setItem('location', JSON.stringify({ data, currentTime }));                    
                     
                     switchToSavedLocation(data.address.city);
-
-                    //drawMap(latitude, longitude);
                 }
             } catch (err) {
                 console.log(err);

@@ -25,7 +25,7 @@ function showProducts(products) {
         const image = product.image;
         const name = product.name;
         const price = product.price;
-        const market = product.market;
+        // const market = product.market;
 
         const productDiv = document.createElement('div');
         productDiv.classList.add('product');
@@ -33,21 +33,21 @@ function showProducts(products) {
         const productImage = document.createElement('img');
         productImage.src = image;
         productImage.classList.add('product-image');
-        productImage.style.width = '200px';
-        productImage.style.height = '200px';
         productDiv.appendChild(productImage);
-
-        const productName = document.createElement('p');
-        productName.textContent = `Nome do produto: ${name}`;
-        productDiv.appendChild(productName);
-
+        
         const productPrice = document.createElement('p');
-        productPrice.textContent = `Preço: R$${price}`;
+        productPrice.classList.add('product-price');
+        productPrice.textContent = `R$ ${price}`;
         productDiv.appendChild(productPrice);
 
-        const productMarket = document.createElement('p');
-        productMarket.textContent = `Mercado: ${market}`;
-        productDiv.appendChild(productMarket);
+        const productName = document.createElement('p');
+        productName.classList.add('product-name');
+        productName.textContent = `${name}`;
+        productDiv.appendChild(productName);
+
+        // const productMarket = document.createElement('p');
+        // productMarket.textContent = `Mercado: ${market}`;
+        // productDiv.appendChild(productMarket);
 
         lista.appendChild(productDiv);
     });
@@ -58,7 +58,7 @@ function searchChangedEvent() {
     var filteredProducts = data.filter(product => product.name.toLowerCase().includes(inputText.toLowerCase()));
 
     instruction.textContent = inputText.length > 0 ? "Digite para pesquisar" : "Digite para pesquisar";
-    lista.style.display = inputText.length > 0 ? "" : "none"; 
+    lista.style.display = inputText.length > 0 ? "none" : ""; 
 
     instruction.textContent = filteredProducts.length > 0 ? "" : "Nenhum produto encontrado.";
     instruction.style.display = filteredProducts.length > 0 ? "none" : "";

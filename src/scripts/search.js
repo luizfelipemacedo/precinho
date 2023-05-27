@@ -44,6 +44,10 @@ function showProducts(products) {
         productName.textContent = `${name}`;
         productDiv.appendChild(productName);
 
+        productDiv.addEventListener('click', () => {
+            window.location.href = `product.html?id=${name}`;
+          });
+
         lista.appendChild(productDiv);
     });
 }

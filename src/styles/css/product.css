@@ -1,0 +1,201 @@
+body {
+    background: white;
+}
+
+/* Product Conteiner */
+
+.product-image {
+    /* width: 385px;
+    height: 379px; */
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+}
+
+.product-title {
+    /* position: relative; */
+    /* width: 208px; */
+    height: 25px;
+    left: 13px;
+    top: 392px;
+
+    font-family: 'Encode Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* text-align: center; */
+
+    color: #878787;
+}
+
+.product-price {
+    /* position: absolute; */
+    /* width: 183px;
+    height: 60px; */
+    /* left: 13px;
+    top: 417px; */
+
+    font-family: 'Encode Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    /* text-align: center; */
+
+    color: #65BEF5;
+}
+
+
+.product-market {
+    /* position: absolute; */
+    width: 283px;
+    height: 19px;
+    left: 13px;
+    top: 478px;
+
+    font-family: 'Encode Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    /* identical to box height */
+
+    /* text-align: center; */
+
+    color: #5FD900;
+}
+
+.detalhes-produto {
+    align-items: center;
+    justify-content: center;
+}
+
+.product {
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+/* ----------------- BOTTOM TAB ----------------- */
+
+#bottom-tab {
+    z-index: 10;
+    position: fixed;
+    width: 100%;
+    height: 12vh;
+    background: #F8F8F8;
+    bottom: 0;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+
+    box-shadow: 0 50px 50px 60px rgba(0, 0, 0, 0.1);
+}
+
+#bottom-tab>div {
+    height: 60%;
+    width: 100%;
+    margin: 0 2vw;
+}
+
+#bottom-tab button {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#bottom-tab button span {
+    font-family: 'Encode Sans';
+    font-weight: 500;
+    font-size: 1.8vh;
+    text-align: center;
+    color: #3BA6E8;
+}
+
+#bottom-tab button svg {
+    height: 50%;
+    color: #3BA6E8;
+    fill: #3BA6E8;
+}
+
+#bottom-tab button .disabled {
+    color: #a0a5ad;
+    fill: #a0a5ad;
+
+    transition: all 0.1s;
+}
+
+#bottom-tab button:active .disabled {
+    color: #7bbde6;
+    fill: #7bbde6;
+}
+
+#bottom-tab button {
+    background: none;
+    border: none;
+}
+
+#bottom-tab button::active {
+    background: none;
+    border: none;
+}
+
+#bottom-tab svg {
+    height: 4vh;
+}
+
+
+#page {
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    padding: 25% 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    user-select: none;
+}
+
+#header {
+    position: relative;
+    width: 76%;
+    left: 12%;
+
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.h2 {
+    font-family: 'Encode Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4vh;
+    line-height: 4vh;
+
+    color: #FFFFFF;
+
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
+}
+
+.h1 {
+    font-family: 'Encode Sans';
+    font-weight: 800;
+    font-size: 6vh;
+
+    background: linear-gradient(#DE80AE, #DE80AE);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    filter:
+        drop-shadow(-1px -1px 0 #ffecf5) drop-shadow(1px -1px 0 #ffecf5) drop-shadow(-1px 1px 0 #ffecf5) drop-shadow(1px 1px 0 #ffecf5) drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.3));
+
+}

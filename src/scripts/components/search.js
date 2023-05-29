@@ -6,19 +6,36 @@ const lista = document.querySelector('#resultado > #lista');
 const searchInputField = document.querySelector('#search-area .search-bar input');
 searchInputField.addEventListener('input', searchChangedEvent);
 
-instruction.style.display = "";
-instructionIcon.style.display = "";
-lista.style.display = "none";
-
 const defaultInstructionText = instructionText.textContent;
 
-const orderButton = document.querySelector('#resultado > .order > button');
+const orderArea = document.querySelector('#resultado > #order');
+const orderButton = document.querySelector('#resultado > #order > button');
+const orderText = document.querySelector('#resultado > #order > .order-text');
 const orderWindow = document.querySelector('#order-window');
 const orderWindowBackground = document.querySelector('#order-window > .background');
-orderButton.addEventListener('click', openOrderWindow);
-orderWindowBackground.addEventListener('click', closeOrderWindow);
-orderWindow.className = "hidden";
-orderButton.style.display = "none";
+
+const orderByRelevanceItem = document.querySelector('#order-window > .window > ul > li#relevance');
+const orderByPriceItem = document.querySelector('#order-window > .window > ul > li#price');
+
+var orderType = 1; //1- Relevance | 2- Price
+
+function initializePage(){
+    orderWindow.className = "hidden";
+    orderArea.style.display = "none";
+    instruction.style.display = "";
+    instructionIcon.style.display = "";
+    lista.style.display = "none";
+
+    orderButton.addEventListener('click', openOrderWindow);
+    orderWindowBackground.addEventListener('click', closeOrderWindow);
+
+    orderByRelevanceItem.addEventListener('click', orderByRelevance);
+    orderByPriceItem.addEventListener('click', orderByPrice);
+
+    updateOrderType();
+}
+
+initializePage();
 
 let data = [];
 
@@ -89,7 +106,7 @@ function performSearch(searchString) {
         instructionIcon.style.display = "";
     }
 
-    orderButton.style.display = isSearching && foundProducts ? "" : "none";
+    orderArea.style.display = isSearching && foundProducts ? "" : "none";
     instruction.style.display = isSearching && foundProducts ? "none" : "";
     lista.style.display = filteredProducts.length > 0 ? "" : "none";
     
@@ -109,6 +126,39 @@ function openOrderWindow(){
 }
 function closeOrderWindow(){
     orderWindow.className = "hidden";
+}
+
+// ---------------- ORDER FUNCTIONS -------------------------
+
+function orderByRelevance(){
+    orderType = 1;
+    updateOrderType();
+
+    //PODE FAZER A MUDANÇA DE ORDENAÇÃO AQUI
+}
+
+function orderByPrice(){
+    orderType = 2;
+    updateOrderType();
+
+    //PODE FAZER A MUDANÇA DE ORDENAÇÃO AQUI
+}
+
+function updateOrderType(){
+    orderByRelevanceItem.className = orderType == 1 ? "active" : "";
+    orderByPriceItem.className = orderType == 2 ? "active" : "";
+
+    var text = "Ordenando por ";
+    if(orderType == 1)
+        text += "relevância";
+    else if(orderType == 2)
+        text += "menor preço";
+
+    orderText.innerHTML = text;
+
+    closeOrderWindow();
+
+    //PODE FAZER A MUDANÇA DE ORDENAÇÃO OU AQUI
 }
 
 // ---------------- TEST ONLY -------------------------
@@ -131,5 +181,5 @@ async function TestSearch(){
     // instructionIcon.style.display = "none";
     // lista.style.display = "";
 }
-//TestSearch();
+TestSearch();
 // ----------------------------------------------------

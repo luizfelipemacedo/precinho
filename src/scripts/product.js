@@ -1,12 +1,12 @@
+import { fetchData } from "./fetchData.js";
+
 const detalhesProduto = document.getElementById("detalhes-produto");
 const urlParams = new URLSearchParams(window.location.search);
 const produtoId = urlParams.get('id');
 console.log(produtoId);
 
 async function fetchProduto() {
-    const res = await fetch(`https://market-api-ten.vercel.app/all`);
-    const data = await res.json();
-
+    const data =  await fetchData();
     const product = data.filter(product => product.name === produtoId);
 
     console.log(product);
@@ -25,7 +25,7 @@ async function fetchProduto() {
     productDiv.appendChild(titulo);
 
     const preco = document.createElement("p");
-    preco.textContent = `R$${product[0].price.toString().replace('.', ',')}`;
+    preco.textContent = `R$${product[0].price.toLocaleString('pt-BR')}`;
     preco.classList.add('product-price');
     productDiv.appendChild(preco);
 
@@ -38,4 +38,3 @@ async function fetchProduto() {
   }
   
   fetchProduto();
-  

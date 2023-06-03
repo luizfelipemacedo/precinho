@@ -1,3 +1,5 @@
+import { fetchData } from "../fetchData.js";
+
 const instruction = document.querySelector('#resultado > .instruction');
 const instructionIcon = document.querySelector('#resultado > .instruction > svg');
 const instructionText = document.querySelector('#resultado > .instruction > span');
@@ -38,12 +40,6 @@ function initializePage(){
 initializePage();
 
 let data = [];
-
-async function fetchData() {
-    const res = await fetch('https://market-api-ten.vercel.app/all');
-    data = await res.json();
-    console.log(data);
-}
 
 function clearProductContainer() {
     while (lista.firstChild) {
@@ -118,7 +114,7 @@ function performSearch(searchString) {
 }
 
 (async () => {
-    await fetchData();
+    data = await fetchData();
 })();
 
 function openOrderWindow(){

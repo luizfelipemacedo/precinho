@@ -1,6 +1,8 @@
+import { inicializeMenu } from "./components/menu.js";
 import { fetchData } from "./fetchData.js";
 
 const lista = document.getElementById("lista");
+inicializeMenu();
 
 (async () => {
     if (JSON.parse(localStorage.getItem("favorites")).length === 0 || !localStorage.getItem("favorites")) {

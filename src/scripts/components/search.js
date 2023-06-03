@@ -1,4 +1,5 @@
 import { fetchData } from "../fetchData.js";
+import { inicializeMenu } from "./menu.js";
 
 const instruction = document.querySelector('#resultado > .instruction');
 const instructionIcon = document.querySelector('#resultado > .instruction > svg');
@@ -27,17 +28,18 @@ function initializePage(){
     instruction.style.display = "";
     instructionIcon.style.display = "";
     lista.style.display = "none";
-
+    
     orderButton.addEventListener('click', openOrderWindow);
     orderWindowBackground.addEventListener('click', closeOrderWindow);
-
+    
     orderByRelevanceItem.addEventListener('click', orderByRelevance);
     orderByPriceItem.addEventListener('click', orderByPrice);
-
+    
     updateOrderType();
 }
 
 initializePage();
+inicializeMenu();
 
 let data = [];
 
@@ -116,6 +118,7 @@ function performSearch(searchString) {
 (async () => {
     data = await fetchData();
 })();
+
 
 function openOrderWindow(){
     orderWindow.className = "";

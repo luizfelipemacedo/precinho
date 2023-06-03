@@ -55,10 +55,7 @@
                     </button>
                     <span class="order-text">Ordenando por relevância</span>
                 </div>
-                <div id="lista">
-                    <!--
-                        <div class="search-item">Item de pesquisa</div>
-                    -->                
+                <div id="lista">                
                 </div>
         </section>
         
@@ -76,16 +73,7 @@
 
         <div id="menu"></div>
     </div>
-    <!-- <div id="overlay"><img src="../overlay.png" width="100%"></div> -->
 </body>
 
 <script type="module" src="../scripts/components/search.js"></script>
-<script>  
-    $("#menu").load("../pages/components/menu.html", menuLoadCallback);    
-    function menuLoadCallback(){
-        document.querySelector('#bottom-tab > .favorites > button').className = "disabled";
-        document.querySelector('#bottom-tab > .stores > button').className = "disabled";
-    }
-</script>
-
 </html>

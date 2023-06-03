@@ -1,16 +1,3 @@
-body {
-        background: white;
-        user-select: none; /* disable selection for all objects*/
-}
-
-.background {
-        position: absolute;
-        top: 0;
-        left: 0;
-        background: white;
-        width: 100%;
-}
-
 #search-area {
         z-index: 10;
         position: fixed;
@@ -111,16 +98,17 @@ body {
 
 /* ----------------- ORDER  ----------------- */
 
-#resultado .order{
+#resultado #order{
         width: 90%;
         height: 3.5vh;
         margin-bottom: 3vh;
-
+        display: inline-flex;
+        justify-content: space-around;
         font-family: 'Encode Sans';
         font-style: normal;
 }
 
-#resultado .order button{   
+#resultado #order button{   
         background: none;     
         width: 25%;
         height: 100%;
@@ -139,16 +127,28 @@ body {
         transition: all 0.1s;
 }
 
-#resultado .order button svg{
+#resultado #order button svg{
         width: 15%;
         height: 100%;
         color: #5c5c5c;
         fill: #5c5c5c;
 }
 
-#resultado .order button:active{   
+#resultado #order button:active{   
         background: #0000001a;
 }
+
+#resultado #order span.order-text{
+        width: 60%;
+        height: 100%;
+        text-align: center;
+        display: inline-block;
+        font-size: 1.6vh;
+        line-height: 3vh;
+        font-weight: 400;
+        color: #8b8b8b;
+}
+
 
 #order-window{
         z-index: 15;
@@ -195,7 +195,7 @@ body {
 }
 
 #order-window .window ul li{
-        color: #65BEF5;
+        color: #8898a3;
         font-size: 2.6vh;
         font-weight: 500;
         margin: 1vh 0;
@@ -203,8 +203,8 @@ body {
         transition: all 0.2s;
 }
 
-#order-window .window ul li:active, #order-window .window ul li:hover{
-        color: #349ddf;
+#order-window .window ul li.active{
+        color: #55beff;
 }
 
 #order-window .divider-line{
@@ -315,78 +315,4 @@ body {
         fill: #65BEF5;
         height: 2.5vh;
         width: auto;
-}
-
-/* ----------------- BOTTOM TAB ----------------- */
-
-
-#bottom-tab {
-        z-index: 10;
-        position: fixed;
-        width: 100%;
-        height: 12vh;
-        background: #F8F8F8;
-        bottom: 0;
-
-        display: inline-flex;
-        align-items: center;
-        justify-content: space-between;
-
-        box-shadow: 0 50px 50px 60px rgba(0, 0, 0, 0.1);
-}
-
-#bottom-tab>div {
-        height: 60%;
-        width: 100%;
-        margin: 0 2vw;
-}
-
-#bottom-tab button {
-        width: 100%;
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-between;
-        text-align: center;
-}
-
-#bottom-tab button span {
-        font-family: 'Encode Sans';
-        font-weight: 500;
-        font-size: 1.8vh;
-        text-align: center;
-        color: #3BA6E8;
-}
-
-#bottom-tab button svg {
-        height: 50%;
-        color: #3BA6E8;
-        fill: #3BA6E8;
-}
-
-#bottom-tab button .disabled {
-        color: #a0a5ad;
-        fill: #a0a5ad;
-
-        transition: all 0.1s;
-}
-
-#bottom-tab button:active .disabled {
-        color: #7bbde6;
-        fill: #7bbde6;
-}
-
-#bottom-tab button {
-        background: none;
-        border: none;
-}
-
-#bottom-tab button::active {
-        background: none;
-        border: none;
-}
-
-#bottom-tab svg {
-        height: 4vh;
 }

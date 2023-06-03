@@ -1,3 +1,4 @@
+import { inicializeMenu } from "./components/menu.js";
 import { fetchData } from "./fetchData.js";
 
 const urlParams = new URLSearchParams(window.location.search);
@@ -6,6 +7,8 @@ console.log(produtoId);
 
 const detalhesProduto = document.getElementById("detalhes-produto");
 const favoriteButton = document.getElementById("fav-button");
+
+inicializeMenu();
 
 favoriteButton.addEventListener("click", handleFavorite);
 

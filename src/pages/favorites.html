@@ -16,7 +16,7 @@
     <link rel="manifest" href="/manifest.json">
 
     <link rel="stylesheet" href="../styles/css/general.css" />
-    <link rel="stylesheet" href="../styles/css/search.css" />
+    <link rel="stylesheet" href="../styles/css/favorites.css" />
     <link rel="stylesheet" href="../styles/css/components/menu.css" />
 
     <title>Favoritos</title>
@@ -26,7 +26,28 @@
     <div class="fitter">
         <div class="background"></div>
 
-        <p>Produtos Favoritados</p>
+        <div id="empty-list-area">
+            <svg viewBox="0 0 252 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g filter="url(#filter0_i_149_324)">
+                <path d="M126 0L155.745 91.6718H252L174.128 148.328L203.872 240L126 183.344L48.1277 240L77.8723 148.328L0 91.6718H96.2554L126 0Z" fill="#D9D9D9" fill-opacity="0.5"/>
+                </g>
+                <path d="M126 1.62008L155.269 91.8261L155.381 92.1718H155.745H250.463L173.834 147.924L173.54 148.137L173.652 148.482L202.922 238.69L126.294 182.939L126 182.725L125.706 182.939L49.0784 238.69L78.3479 148.482L78.4598 148.137L78.1664 147.924L1.53711 92.1718H96.2554H96.6189L96.731 91.8261L126 1.62008Z" stroke="#878787" stroke-opacity="0.05"/>
+                <defs>
+                <filter id="filter0_i_149_324" x="0" y="0" width="252" height="244" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+                <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+                <feOffset dy="6"/>
+                <feGaussianBlur stdDeviation="8"/>
+                <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+                <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+                <feBlend mode="normal" in2="shape" result="effect1_innerShadow_149_324"/>
+                </filter>
+                </defs>
+            </svg>
+            <p>A sua lista está vazia no momento.</p>
+            <p class="small">Busque produtos para adicionar aos seus favoritos.</p>
+        </div>
 
         <div id="lista"></div>
 

@@ -4,62 +4,122 @@ body {
 
 /* Product Conteiner */
 
-.product-image {
-    width: 385px;
-    height: 379px;
-    width: 200px;
-    height: 200px;
-    object-fit: contain;
-    margin-left: 22%;
-    margin-top: 25px;
+#detalhes-produto {
+    padding-bottom: 14vh;
 }
 
-.product-title {
-    height: 25px;
-    left: 13px;
-    top: 392px;
+/* PRODUCT IMAGE ------------------------- */
 
-    font-weight: 400;
-    font-size: 20px;
-
-    color: #878787;
-}
-
-.product-price {
-    font-weight: 700;
-    font-size: 24px;
-    color: #65BEF5;
-}
-
-.product-market {
-    width: 283px;
-    height: 19px;
-    left: 13px;
-    top: 478px;
-
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 19px;
-
-    color: #5FD900;
-}
-
-.detalhes-produto {
-    height: 20vh;
-    border-radius: 1.5vh;
-    padding: 0% 5%;
+.product-image-area{
+    position: relative;
+    background: #EDEDED;
+    height: 40vh;
 
     display: flex;
-    flex-direction: column;
-    justify-content: center;
     align-items: center;
-
-    font-family: 'Encode Sans';
-    font-style: normal;
-
-    transition: all 0.15s;
+    justify-content: center;
 }
 
-.product {
-    padding: 1vh;
+.product-image-area .product-image {
+    width: 90%;
+    height: 90%;    
+    object-fit: contain;
+    mix-blend-mode: multiply;
+}
+
+/* PRODUCT INFO ------------------------- */
+
+.product-info {
+    position: relative;
+    margin: 0;
+    padding: 2vh 5vw;
+}
+
+.product-info .product-title {
+    width: 80%;
+    font-weight: 400;
+    font-size: 2.6vh;
+    color: #6e6e6e;
+
+    margin: 0.5vh 0;
+}
+
+.product-info .product-price {
+    width: 70%;
+    font-weight: 700;
+    font-size: 4.6vh;
+    color: #65BEF5;
+
+    margin: 0.5vh 0;
+}
+
+.product-info .product-market {
+    width: 100%;
+    font-weight: 400;
+    font-size: 1.8vh;
+    color: #5FD900;
+
+    margin: 0.5vh 0;
+}
+
+/* FAV BUTTON ------------------------- */
+
+#fav-button {
+    position: absolute;    
+    right: 2vw;
+    top: 1vh;
+    width: 7vh;
+    height: 7vh;
+    background: none;
+    border: none;
+}
+
+#fav-button svg{
+    width: 100%;
+    height: 100%;
+    fill: rgba(114, 114, 114, 0.1);
+    
+    stroke:rgba(155, 155, 155, 0.2);
+    stroke-width: 1px;
+    stroke-linejoin: round;
+
+    transition: all 0.2s;
+}
+#fav-button.active svg{
+    fill: rgb(255, 240, 35);
+    filter: drop-shadow(1px 2px 3px rgb(0 0 0 / 0.4));
+    stroke:rgba(219, 168, 0, 0.5);
+
+    transition: all 0.2s;
+}
+#fav-button.active svg g{
+    filter: none;
+}
+
+/* BACK BUTTON ------------------------- */
+#top-header{
+    background-color: rgba(255, 252, 252, 0.0);
+    position: fixed;
+    width: 100%;
+    height: 6vh;
+    padding: 1vh 4vw;
+    z-index: 10;
+    transition: all 0.2s;
+}
+#top-header.scrolled{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 -25px 40px 25px rgba(0, 0, 0, 0.25);
+}
+#back-button{
+    position: relative;
+    width: 15%;
+    height: 100%;
+}
+#back-button svg{
+    position: absolute;
+    left: 0;
+    height: 100%;
+
+    fill: #65BEF5;
+    transform: rotate(-90deg);
 }

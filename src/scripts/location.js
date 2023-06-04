@@ -68,3 +68,5 @@ function getLocation() {
         alert('Geolocalização não disponível!')
     }
 }
+
+localStorage.removeItem('lastSearch');

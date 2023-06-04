@@ -1,5 +1,6 @@
 import { fetchData } from "../fetchData.js";
-import { inicializeMenu } from "./menu.js";
+import { loadMenuComponent } from "../components/menu.js";
+import { until } from "../asyncUtils.js";
 
 const instruction = document.querySelector('#resultado > .instruction');
 const instructionIcon = document.querySelector('#resultado > .instruction > svg');
@@ -20,6 +21,10 @@ const orderWindowBackground = document.querySelector('#order-window > .backgroun
 const orderByRelevanceItem = document.querySelector('#order-window > .window > ul > li#relevance');
 const orderByPriceItem = document.querySelector('#order-window > .window > ul > li#price');
 
+const pageOccluder = document.querySelector('#occluder');
+
+let data = [];
+
 var orderType = 1; //1- Relevance | 2- Price
 
 function initializePage(){
@@ -36,12 +41,27 @@ function initializePage(){
     orderByPriceItem.addEventListener('click', orderByPrice);
     
     updateOrderType();
+
+    restoreLastSearch();
+    
+    //save last page
+    localStorage.setItem("lastPage", window.location.href);
+}
+
+async function restoreLastSearch(){
+    var lastSearchString = localStorage.getItem("lastSearch");
+    await until(_ => data.length > 0);
+    if (lastSearchString)
+    {       
+        searchInputField.value = lastSearchString;
+        performSearch(lastSearchString);        
+    }
+    showPage(true);
 }
 
 initializePage();
-inicializeMenu();
-
-let data = [];
+loadMenuComponent();
+//inicializeMenu();
 
 function clearProductContainer() {
     while (lista.firstChild) {
@@ -113,6 +133,12 @@ function performSearch(searchString) {
     if (filteredProducts.length > 0 && inputText.length > 0) {
         showProducts(filteredProducts);
     }
+
+    localStorage.setItem("lastSearch", searchString);
+}
+
+function showPage(show){
+    pageOccluder.style.display = show ? "none" : "";
 }
 
 (async () => {
@@ -161,16 +187,6 @@ function updateOrderType(){
 }
 
 // ---------------- TEST ONLY -------------------------
-
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-const until = (predFn) => {
-    const poll = (done) => (predFn() ? done() : setTimeout(() => poll(done), 500));
-    return new Promise(poll);
-};
-
 async function TestSearch(){
     await until(_ => data.length > 0);
     searchInputField.value = "arroz";
@@ -180,5 +196,5 @@ async function TestSearch(){
     // instructionIcon.style.display = "none";
     // lista.style.display = "";
 }
-TestSearch();
+//TestSearch();
 // ----------------------------------------------------

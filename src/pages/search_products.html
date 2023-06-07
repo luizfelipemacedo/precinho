@@ -6,27 +6,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <!-- Leaflet CDN´s -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
-
     <!-- Materialize CDN´s -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
     <script src="../scripts/fittext.js"></script>
+    <script src="../scripts/jquery-3.7.0.min.js"></script>
 
     <link rel="manifest" href="/manifest.json">
 
     <link rel="stylesheet" href="../styles/css/general.css" />
-    <link rel="stylesheet" href="../styles/css/search.css" />    
+    <link rel="stylesheet" href="../styles/css/components/menu.css" />
+    <link rel="stylesheet" href="../styles/css/search.css" /> 
     <title>Buscar Produtos</title>
 </head>
 
 <body>
     <div class="fitter">
+        
         <div class="background"></div>
 
         <section id="search-area">
@@ -41,53 +38,45 @@
                 </button>
             </div>
         </section>
-
+        
         <section id="resultado">
-            <span class="instruction">
-                <svg viewBox="0 0 32 21" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M3.76 20.0933L-6.99382e-07 16.3333L16 0.333329L32 16.3333L28.24 20.0933L16 7.88L3.76 20.0933Z"/>
-                </svg>
-                <br>
-                Pesquise algum produto<br>
-                e encontre os melhores preços
-            </span>
-            <div id="lista">                
-                <!-- <div class="search-item">Item de pesquisa</div>
-                <div class="search-item">Item de pesquisa</div>
-                <div class="search-item">Item de pesquisa</div>
-                <div class="search-item">Item de pesquisa</div>
-                <div class="search-item">Item de pesquisa</div>
-                <div class="search-item">Item de pesquisa</div>
-                <div class="search-item">Item de pesquisa</div>
-                <div class="search-item">Item de pesquisa</div>
-                <div class="search-item">Item de pesquisa</div> -->
-            </div>
+                <span class="instruction">
+                    <svg viewBox="0 0 32 21" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M3.76 20.0933L-6.99382e-07 16.3333L16 0.333329L32 16.3333L28.24 20.0933L16 7.88L3.76 20.0933Z"/>
+                    </svg>
+                    <br>
+                    <span>Pesquise algum produto e encontre os melhores preços</span>
+                </span>
+                <div id="order">
+                    <button type="button">
+                        <span>Ordenar</span>
+                        <svg viewBox="0 0 8 3" mlns="http://www.w3.org/2000/svg">
+                            <path d="M7.36875 0.368751L8.25 1.25L4.5 5L0.75 1.25L1.63125 0.36875L4.5 3.23125L7.36875 0.368751Z"/>
+                        </svg>
+                    </button>
+                    <span class="order-text">Ordenando por relevância</span>
+                </div>
+                <div id="lista">                
+                </div>
+        </section>
+        
+        <section id="order-window" class="hidden">
+                <div class="background"></div>
+                <div class="window">
+                    <div class="divider-line">&nbsp;</div>
+                    <span>Ordenar por</span>
+                    <ul>
+                        <li id="relevance">Mais relevante</li>
+                        <li id="price">Menor preço</li>
+                    </ul>
+                </div>
         </section>
 
-        <section id="bottom-tab">
-            <div class="products">
-                <button type="button">
-                    <svg class="search-icon" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M17.4077 16.3522H18.5821L26 23.785L23.785 26L16.3522 18.582V17.4077L15.9508 16.9914C14.2561 18.4483 12.056 19.3253 9.66267 19.3253C4.3259 19.3253 3.8147e-06 14.9994 3.8147e-06 9.66266C3.8147e-06 4.3259 4.3259 0 9.66267 0C14.9994 0 19.3253 4.3259 19.3253 9.66266C19.3253 12.056 18.4483 14.2561 16.9914 15.9508L17.4077 16.3522ZM2.97313 9.66266C2.97313 13.3642 5.96112 16.3522 9.66267 16.3522C13.3642 16.3522 16.3522 13.3642 16.3522 9.66266C16.3522 5.96112 13.3642 2.97313 9.66267 2.97313C5.96112 2.97313 2.97313 5.96112 2.97313 9.66266Z"/>
-                    </svg>
-                    <span>Buscar produtos</span>
-                </button>
-            </div>
-            
-            <div class="stores">
-                <button type="button">
-                    <svg class="list-icon disabled" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M9.54784 1.56692H17.2174C17.6478 1.56692 18 1.91948 18 2.35038C18 2.78128 17.6478 3.13384 17.2174 3.13384L9.54784 3.13384C9.1174 3.13384 8.76523 2.78128 8.76523 2.35038C8.76523 1.91948 9.1174 1.56692 9.54784 1.56692ZM2.23042 2.35038C2.23042 1.91948 1.87824 1.56692 1.44781 1.56692H0.782609C0.352174 1.56692 0 1.91948 0 2.35038C0 2.78128 0.352174 3.13384 0.782609 3.13384H1.44781C1.87824 3.13384 2.23042 2.78128 2.23042 2.35038ZM9 13.3384C10.2913 13.3384 11.3478 14.3961 11.3478 15.6692C11.3478 16.9423 10.2913 18 9 18C7.7087 18 6.65217 16.9423 6.65217 15.6692C6.65217 14.3961 7.7087 13.3384 9 13.3384ZM9 14.9053C8.56956 14.9053 8.21739 15.2579 8.21739 15.6692C8.21739 16.0805 8.56956 16.4331 9 16.4331C9.43043 16.4331 9.78261 16.0805 9.78261 15.6692C9.78261 15.2579 9.43043 14.9053 9 14.9053ZM12.8543 6.67899C14.1456 6.67899 15.2022 7.73667 15.2022 9.00979C15.2022 10.2829 14.1456 11.3406 12.8543 11.3406C11.563 11.3406 10.5065 10.2829 10.5065 9.00979C10.5065 7.73667 11.5435 6.67899 12.8543 6.67899ZM12.8543 8.24591C12.4239 8.24591 12.0717 8.59848 12.0717 9.00979C12.0717 9.42111 12.4239 9.77367 12.8543 9.77367C13.2848 9.77367 13.6369 9.42111 13.6369 9.00979C13.6369 8.59848 13.2848 8.24591 12.8543 8.24591ZM5.59567 0C6.88698 0 7.9435 1.05768 7.9435 2.3308C7.9435 3.60392 6.88698 4.6616 5.59567 4.6616C4.30437 4.6616 3.24785 3.60392 3.24785 2.3308C3.24785 1.05768 4.30437 0 5.59567 0ZM5.59567 1.56692C5.16524 1.56692 4.81306 1.91948 4.81306 2.3308C4.81306 2.74212 5.16524 3.09468 5.59567 3.09468C6.02611 3.09468 6.37828 2.74212 6.37828 2.3308C6.37828 1.91948 6.04567 1.56692 5.59567 1.56692ZM15.9848 9.00979C15.9848 9.4407 16.3369 9.79325 16.7674 9.79325H17.2174C17.6478 9.79325 18 9.4407 18 9.00979C18 8.57889 17.6478 8.22633 17.2174 8.22633H16.7674C16.3369 8.22633 15.9848 8.57889 15.9848 9.00979ZM9.52825 9.00979C9.52825 8.57889 9.17608 8.22633 8.74564 8.22633H0.782609C0.352174 8.22633 0 8.57889 0 9.00979C0 9.4407 0.352174 9.79325 0.782609 9.79325H8.74564C9.17608 9.79325 9.52825 9.4407 9.52825 9.00979ZM12.3848 15.6692C12.3848 16.1001 12.737 16.4527 13.1674 16.4527H17.2174C17.6478 16.4527 18 16.1001 18 15.6692C18 15.2383 17.6478 14.8857 17.2174 14.8857H13.1674C12.737 14.8857 12.3848 15.2383 12.3848 15.6692ZM5.65433 15.6692C5.65433 15.2383 5.30215 14.8857 4.87172 14.8857H0.782609C0.352174 14.8857 0 15.2383 0 15.6692C0 16.1001 0.352174 16.4527 0.782609 16.4527H4.87172C5.30215 16.4527 5.65433 16.1001 5.65433 15.6692Z"/>
-                    </svg>
-                    <span class="disabled">Listar estabelecimentos</span>
-                </button>
-            </div>
-        </section>        
+        <div id="menu"></div>
+
+        <div id="occluder" style="display: block;"></div>
     </div>
-    <!-- <div id="overlay"><img src="../overlay.png" width="100%"></div> -->
 </body>
-<script>
-    //window.fitText(document.getElementsByClassName('button'), 1.5);
-</script>
-<script src="../scripts/search.js"></script>
+
+<script type="module" src="../scripts/components/search.js"></script>
 </html>

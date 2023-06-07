@@ -15,7 +15,9 @@ const selectGeo = document.querySelector('#select-geo');
 const geoButtonText = document.querySelector('#get-geo > span.button-text');
 const btn_del = document.querySelector('#manual-location');
 
-selectGeo.addEventListener('click', window.location.href = '/src/pages/search_products.html');
+selectGeo.addEventListener('click', function() {
+    window.location.href = '/src/pages/search_products.html';
+});
 btn_del.addEventListener('click', deleteGeo);
 geoButton.addEventListener('click', getLocation);
 
@@ -66,3 +68,5 @@ function getLocation() {
         alert('Geolocalização não disponível!')
     }
 }
+
+localStorage.removeItem('lastSearch');

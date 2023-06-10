@@ -1,5 +1,5 @@
 import { loadMenuComponent } from "./components/menu.js";
-import { fetchData } from "./fetchData.js";
+import { fetchData, handleServiceWorker } from "./fetchData.js";
 
 const urlParams = new URLSearchParams(window.location.search);
 const produtoId = urlParams.get('id');
@@ -70,6 +70,22 @@ async function handleFavorite() {
 
   if (!localStorage.getItem("favorites")) {
     localStorage.setItem("favorites", JSON.stringify([productName]));
+    if (!('Notification' in window)) {
+      alert('This browser does not support desktop notification');
+    } else if (Notification.permission === 'granted') {
+      // handleServiceWorker();
+      new Notification('Precinho', {
+        body: 'A partir de agora você será notificado quando os preços forem atualizados.',
+        vibrate: [200, 100, 200],
+        icon: '/public/icon-192x192.png'
+      })
+    } else if (Notification.permission !== 'denied') {
+      Notification.requestPermission().then((permission) => {
+        if (permission === 'granted') {
+          // handleServiceWorker();
+        }
+      });
+    }
   }
   else {
     const favorites = JSON.parse(localStorage.getItem("favorites"));

@@ -5,7 +5,7 @@
 //             .then(res => console.log("service worker registered"))
 //             .catch(err => console.log("service worker not registered", err))
 //     })
-// }
+// }  
 
 const SEARCH_LOCATION_STRING = "Buscar localização atual";
 const UPDATE_LOCATION_STRING = "Atualizar localização atual";

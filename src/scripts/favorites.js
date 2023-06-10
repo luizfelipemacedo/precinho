@@ -52,7 +52,7 @@ initializePage();
 
 async function initializePage(){
     lista.innerHTML = "";
-    if (JSON.parse(localStorage.getItem("favorites")).length === 0 || !localStorage.getItem("favorites")) {
+    if (!localStorage.getItem("favorites") || JSON.parse(localStorage.getItem("favorites")).length === 0) {
         console.log("Sem favoritos!");
         emptyArea.style.display = "";
     }

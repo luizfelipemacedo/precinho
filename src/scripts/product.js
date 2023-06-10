@@ -91,7 +91,6 @@ async function handleFavorite() {
 
 function backButtonClick(){  
   var lastPage = localStorage.getItem("lastPage");
-  alert("LAST PAGE: "+lastPage);
   var samePage = lastPage == window.location.href;
   if(lastPage && !samePage){
     window.location.href = lastPage;

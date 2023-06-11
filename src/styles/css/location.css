@@ -4,6 +4,19 @@ body{
         background: black;
 }
 
+dialog::backdrop {
+        background-color: rgb(0 0 0 / .3);
+        transition: ease-in 0.5;
+}
+
+dialog {
+        border: none;
+        border-radius: .5rem;
+        box-shadow: 0 0 1em rgb(0 0 0 / .3);
+        transition: ease-in 0.5;
+}
+
+
 .background {
         position: absolute;
         top:0;

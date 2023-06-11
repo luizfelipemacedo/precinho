@@ -5,7 +5,7 @@
 //             .then(res => console.log("service worker registered"))
 //             .catch(err => console.log("service worker not registered", err))
 //     })
-// }  
+// }
 
 const SEARCH_LOCATION_STRING = "Buscar localização atual";
 const UPDATE_LOCATION_STRING = "Atualizar localização atual";
@@ -13,12 +13,16 @@ const UPDATE_LOCATION_STRING = "Atualizar localização atual";
 const geoButton = document.querySelector('#get-geo');
 const selectGeo = document.querySelector('#select-geo');
 const geoButtonText = document.querySelector('#get-geo > span.button-text');
-const btn_del = document.querySelector('#manual-location');
+const manualLocation = document.querySelector('#manual-location');
 
 selectGeo.addEventListener('click', function() {
     window.location.href = '/src/pages/search_products.html';
 });
-btn_del.addEventListener('click', deleteGeo);
+
+manualLocation.addEventListener('click', function() {
+    window.location.href = '/src/pages/search_products.html';
+} );
+
 geoButton.addEventListener('click', getLocation);
 
 if (localStorage.getItem('location')) {
@@ -30,13 +34,8 @@ if (localStorage.getItem('location')) {
     document.querySelector('#select-geo').style.display = 'none';
 }
 
-function deleteGeo() {
-    localStorage.removeItem('location');
-    window.location.reload();
-}
-
 function switchToSavedLocation(city){
-    document.querySelector('#saved-location > .text').innerHTML = `${city}`;
+    document.querySelector('#saved-location > .text').innerHTML = `${city} - ES`;
     document.querySelector('#saved-location').style.display = "block";
     geoButton.style.display = "none";
     document.querySelector("#select-geo").style.display = "block";
@@ -52,7 +51,6 @@ function getLocation() {
                 if (latitude && longitude) {
                     const res = await fetch(`https://nominatim.openstreetmap.org/reverse?lat=${latitude}&lon=${longitude}&format=json`,);
                     const data = await res.json();
-                    console.log(data);
                     const currentTime = new Date().toISOString();
                     localStorage.setItem('location', JSON.stringify({ data, currentTime }));                    
                     

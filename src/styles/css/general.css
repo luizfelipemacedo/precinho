@@ -4,6 +4,7 @@ body{
         font-style: normal;
         background: white;
         user-select: none; /* disable selection for all objects*/
+        overscroll-behavior: contain;
 }
 .fitter{
         position: absolute;

@@ -52,6 +52,7 @@
 }
 
 #lista .product {
+        position: relative;
         width: 100%;
         height: 15vh;
         border-radius: 1.5vh;
@@ -125,9 +126,40 @@
         margin: 0.5vh 0;
 }
 
-.product:hover{
-        /* box-shadow: inset 0px 0px 3vh 0px rgba(0, 0, 0, 0.10); */
+#lista .product .fav-button{
+        position: absolute;
+        top: 5%;
+        right: 0;
+        width: 9%;
+}
+
+#lista .product .fav-button svg{
+        width: 100%;
+        height: 100%;
+        
+        stroke-width: 0.5px;
+        stroke-linejoin: round;
+    
+        fill: rgb(255, 240, 35);
+        filter: drop-shadow(1px 1px 2px rgb(0 0 0 / 0.4));
+        stroke:rgba(219, 168, 0, 0.3);
+
+        transition: all 0.2s;
+}
+#lista .product .fav-button svg g{
+        filter: none;
+}
+
+#lista .product .fav-button svg:active{
+        fill: rgba(117, 89, 2, 0.2);
+        stroke:rgba(90, 80, 36, 0.5);
+        filter: drop-shadow(1px 1px 3px rgb(0 0 0 / 0.6));
+        transition: all 0.1s;
+}
+
+/* .product:hover{
+        box-shadow: inset 0px 0px 3vh 0px rgba(0, 0, 0, 0.10);
 }
 .product:active{
-        /* box-shadow: inset 0px 0px 3vh 0px rgba(0, 0, 0, 0.2); */
-}
+        box-shadow: inset 0px 0px 3vh 0px rgba(0, 0, 0, 0.2);
+} */

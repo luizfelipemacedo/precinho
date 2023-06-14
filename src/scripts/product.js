@@ -1,11 +1,10 @@
 import { loadMenuComponent } from "./components/menu.js";
-import { fetchData } from "./fetchData.js";
+import { fetchData, handleServiceWorker } from "./fetchData.js";
 
 const urlParams = new URLSearchParams(window.location.search);
 const produtoId = urlParams.get('id');
 console.log(produtoId);
 
-const detalhesProduto = document.getElementById("detalhes-produto");
 const favoriteButton = document.getElementById("fav-button");
 const topHeader = document.getElementById("top-header");
 const backButton = document.getElementById("back-button");
@@ -21,34 +20,21 @@ backButton.addEventListener("click", backButtonClick);
 
     console.log(product);
 
-    //const productDiv = document.createElement('div');
-    //productDiv.classList.add('product');
-
-    //const image = document.createElement("img");
     const image = document.querySelector('#detalhes-produto > div.product-image-area > img.product-image');
     image.src = product[0].image;
-    //image.classList.add('product-image');
-    //detalhesProduto.appendChild(image);
 
-    //const titulo = document.createElement("h1");
     const titulo = document.querySelector('#detalhes-produto > div.product-info > h1.product-title');
     titulo.textContent = product[0].name;
-    //titulo.classList.add('product-title');
-    //productDiv.appendChild(titulo);
 
-    //const preco = document.createElement("p");
     const preco = document.querySelector('#detalhes-produto > div.product-info > p.product-price');
     preco.textContent = `R$${product[0].price.toLocaleString('pt-BR')}`;
-    //preco.classList.add('product-price');
-    //productDiv.appendChild(preco);
 
-    //const market = document.createElement("p");
     const market = document.querySelector('#detalhes-produto > div.product-info > p.product-market');
     market.textContent = `Preço mais baixo no supermecado ${product[0].market}`;
-    //market.classList.add('product-market');
-    //productDiv.appendChild(market);
 
-    //detalhesProduto.appendChild(productDiv);
+    const location = JSON.parse(localStorage.getItem("location"));
+    const marketLocation = document.querySelector('#detalhes-produto > div.product-info > a.market-location');
+    marketLocation.href = `https://www.google.com.br/maps/search/${product[0].market}+Supermercado/@${location.data.lat},${location.data.lon}`;
 
     const favorites = JSON.parse(localStorage.getItem("favorites")) || [];
     const isFav = favorites.includes(product[0].name);
@@ -70,6 +56,22 @@ async function handleFavorite() {
 
   if (!localStorage.getItem("favorites")) {
     localStorage.setItem("favorites", JSON.stringify([productName]));
+    if (!('Notification' in window)) {
+      alert('This browser does not support desktop notification');
+    } else if (Notification.permission === 'granted') {
+      // handleServiceWorker();
+      new Notification('Precinho', {
+        body: 'A partir de agora você será notificado quando os preços forem atualizados.',
+        vibrate: [200, 100, 200],
+        icon: '/public/icon-192x192.png'
+      })
+    } else if (Notification.permission !== 'denied') {
+      Notification.requestPermission().then((permission) => {
+        if (permission === 'granted') {
+          // handleServiceWorker();
+        }
+      });
+    }
   }
   else {
     const favorites = JSON.parse(localStorage.getItem("favorites"));
@@ -77,11 +79,9 @@ async function handleFavorite() {
     const index = favorites.indexOf(productName);
     if (index > -1) {
       favorites.splice(index, 1);
-      //favoriteButton.innerText = 'Adicionar aos Favoritos';
       favoriteButton.className = "disabled";
     } else {
       favorites.push(productName);
-      //favoriteButton.innerText = 'Remover dos Favoritos';
       favoriteButton.className = "active";
     }
 
@@ -91,7 +91,6 @@ async function handleFavorite() {
 
 function backButtonClick(){  
   var lastPage = localStorage.getItem("lastPage");
-  alert("LAST PAGE: "+lastPage);
   var samePage = lastPage == window.location.href;
   if(lastPage && !samePage){
     window.location.href = lastPage;

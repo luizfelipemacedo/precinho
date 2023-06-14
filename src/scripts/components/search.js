@@ -1,6 +1,7 @@
 import { fetchData } from "../fetchData.js";
 import { loadMenuComponent } from "../components/menu.js";
 import { until } from "../asyncUtils.js";
+const urlParams = new URLSearchParams(window.location.search);
 
 const instruction = document.querySelector('#resultado > .instruction');
 const instructionIcon = document.querySelector('#resultado > .instruction > svg');
@@ -42,9 +43,15 @@ function initializePage(){
     
     updateOrderType();
 
-    restoreLastSearch();
-    
-    //save last page
+    var marketParam = urlParams.get('market');
+    if(marketParam && marketParam.length > 0){
+        showStoreProducts(marketParam);
+    }
+    else{
+        restoreLastSearch();
+        //save last page        
+    }
+
     localStorage.setItem("lastPage", window.location.href);
 }
 
@@ -104,6 +111,10 @@ function showProducts(products) {
 
 function searchChangedEvent() {
     performSearch(String(this.value));
+    if(window.location.href.includes("?market")){
+        localStorage.setItem("lastPage", window.location.href.split("?market")[0]);
+        loadMenuComponent();
+    }
 }
 
 function performSearch(searchString) {
@@ -135,6 +146,31 @@ function performSearch(searchString) {
     }
 
     localStorage.setItem("lastSearch", searchString);
+}
+
+async function showStoreProducts(storeName){
+    searchInputField.value = storeName;
+    await until(_ => data.length > 0);
+
+    var storeProducts = data.filter(product => product.market.toLowerCase() == storeName.toLowerCase());
+
+    var foundProducts = storeProducts.length > 0;
+
+    instructionIcon.style.display = "none";
+
+    instructionText.textContent = foundProducts ? "" : "Nenhum produto encontrado";
+
+    orderArea.style.display = "none";
+    instruction.style.display = foundProducts ? "none" : "";
+    lista.style.display = storeProducts.length > 0 ? "" : "none";
+    
+    clearProductContainer();
+    
+    if (storeProducts.length > 0) {
+        showProducts(storeProducts);
+    }
+
+    showPage(true);
 }
 
 function showPage(show){

@@ -30,7 +30,7 @@ function inicializeMenu(htmlContent) {
         }
 
         function loadStoresPage() {
-            alert("EM BREVE");
+            window.location.href = "../pages/stores.html";
         }
 
         updateMenuActiveButton();
@@ -49,7 +49,12 @@ function updateMenuActiveButton(){
     var path = lastPage.substring(lastPage.lastIndexOf("/")+ 1);    
     var fileName = (path.match(/[^.]+(\.[^?#]+)?/) || [])[0];
     //e compara via hardcode
-    if(fileName == "search_products.html" || fileName == "product.html"){
+    if(lastPage.includes("?market=") || fileName == "stores.html"){
+        searchButton.className = "disabled";
+        favoritesButton.className = "disabled";
+        storesButton.className = "";
+    }
+    else if(fileName == "search_products.html" || fileName == "product.html"){
         searchButton.className = "";
         favoritesButton.className = "disabled";
         storesButton.className = "disabled";    
@@ -58,11 +63,6 @@ function updateMenuActiveButton(){
         searchButton.className = "disabled";
         favoritesButton.className = "";
         storesButton.className = "disabled";  
-    }
-    else if(fileName == "stores.html"){
-        searchButton.className = "disabled";
-        favoritesButton.className = "disabled";
-        storesButton.className = "";
     }
     else{        
         searchButton.className = "disabled";

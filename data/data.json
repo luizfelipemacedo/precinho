@@ -540,18 +540,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Açucar Demerara Caravelas 5kg",
-    "price": 26.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/235944-600-600/194004_1.png?v=638113056783870000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Mascavo Dacolônia 1kg",
-    "price": 16.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/212579-600-600/96143_1.png?v=638100861710000000",
-    "market": "Carone"
-  },
-  {
     "name": "Açúcar Demerara Guarani 1kg",
     "price": 3.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/224596-600-600/133536_1.png?v=638100974643130000",
@@ -582,6 +570,18 @@
     "market": "Carone"
   },
   {
+    "name": "Açucar Demerara Caravelas 5kg",
+    "price": 26.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/235944-600-600/194004_1.png?v=638113056783870000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar Mascavo Dacolônia 1kg",
+    "price": 16.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/212579-600-600/96143_1.png?v=638100861710000000",
+    "market": "Carone"
+  },
+  {
     "name": "Acucar Cristal Alcon 2kg",
     "price": 8.69,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/214508-600-600/99865_1.png?v=638100892163770000",
@@ -594,9 +594,9 @@
     "market": "Carone"
   },
   {
-    "name": "Açúcar Refinado União 1kg",
-    "price": 5.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247171-600-600/25472_99.png?v=638193211996930000",
+    "name": "Açúcar Cristal Santa Isabel 2kg",
+    "price": 8.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/208249-600-600/47083_1.png?v=638100783072370000",
     "market": "Carone"
   }
 ]

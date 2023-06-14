@@ -4,6 +4,19 @@ body{
         background: black;
 }
 
+dialog::backdrop {
+        background-color: rgb(0 0 0 / .3);
+        transition: ease-in 0.5;
+}
+
+dialog {
+        border: none;
+        border-radius: .5rem;
+        box-shadow: 0 0 1em rgb(0 0 0 / .3);
+        transition: ease-in 0.5;
+}
+
+
 .background {
         position: absolute;
         top:0;
@@ -50,7 +63,7 @@ body{
         font-size: 6vh;
         
         /* background: linear-gradient(#DE80AE, #DE80AE); */
-        background: linear-gradient(335.72deg, #5EF2BB 19.26%, rgba(94, 242, 187, 0) 88.63%), #4CD964;
+        background: linear-gradient(330deg, #56ffc7, #29ff70);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
@@ -61,9 +74,7 @@ body{
         drop-shadow(-1px 1px 0 #ffecf5) */
         /* drop-shadow(1px 1px 0 #ffecf5) */
         /* drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.3)); */
-
-        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
-
+        filter: drop-shadow(2px 1px 2px #00000062);
 }
 
 #location{
@@ -74,7 +85,8 @@ body{
 
 #location .button{
         /* background: #DE80AE; */
-        background: linear-gradient(185.02deg, #5EF2BB 4.04%, rgba(94, 242, 187, 0) 75.22%), #4CD964;
+        /* background: linear-gradient(185.02deg, #5EF2BB 4.04%, rgba(94, 242, 187, 0) 75.22%), #4CD964; */
+        background: linear-gradient(182deg, #41dba3 50%, #2cdd49), #4CD964;
         box-sizing: border-box;
         border: 0.1vh solid #4CD964;
         border-radius: 50px;
@@ -101,9 +113,9 @@ body{
 }
 
 #location .button:active{
-        background: #4cd96380;
-        border-color: #4cd96380;
-        filter: drop-shadow(2px 2px 10px rgba(255, 0, 119, 0.6));
+        background: #31d64c96;
+        border-color: #31d64c96;
+        filter: drop-shadow(2px 2px 10px rgba(0, 255, 170, 0.6));
 }
 
 #location .button2{

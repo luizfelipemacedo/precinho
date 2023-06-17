@@ -1,14 +1,38 @@
 [
   {
     "name": "Leite Longa Vida Damare Semi Desnatado 1L",
-    "price": 4.79,
+    "price": 4.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/55760_20220901164735_thumb_Leite_Damare_Semidesnatado.png",
     "market": "Extrabom"
   },
   {
     "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 4.79,
+    "price": 4.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Damare Desnatado 1L",
+    "price": 4.69,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4103_20220901164604_thumb_Leite_Damare_Desnatado.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Selita Desnatado 1L",
+    "price": 4.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4341_20191105171957_thumb_4341Leite_Longa_Vida_Selita_Desnatado_1L.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Selita Semi Desnatado 1L",
+    "price": 4.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4060_20191105171906_thumb_4060Leite_Longa_Vida_Selita_Semi_Desnatado_1L.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Selita Integral 1L",
+    "price": 4.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4045_20191108152900_thumb_4045leiteselitaintegral.png",
     "market": "Extrabom"
   },
   {
@@ -18,45 +42,21 @@
     "market": "Extrabom"
   },
   {
+    "name": "Leite Longa Vida Porto Alegre Integral 1L",
+    "price": 4.89,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4329_20211213112750_thumb_4329_Leite_Longa_Vida_Porto_Alegre_Integral_1L.png",
+    "market": "Extrabom"
+  },
+  {
     "name": "Leite Longa Vida Porto Alegre Desnatado 1L",
     "price": 4.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4320_20211213112721_thumb_4320_Leite_Longa_Vida_Porto_Alegre_Desnatado_1L.png",
     "market": "Extrabom"
   },
   {
-    "name": "Leite Longa Vida Selita Desnatado 1L",
-    "price": 5.19,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4341_20191105171957_thumb_4341Leite_Longa_Vida_Selita_Desnatado_1L.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Leite Longa Vida Selita Semi Desnatado 1L",
-    "price": 5.19,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4060_20191105171906_thumb_4060Leite_Longa_Vida_Selita_Semi_Desnatado_1L.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Leite Longa Vida Selita Integral 1L",
-    "price": 5.19,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4045_20191108152900_thumb_4045leiteselitaintegral.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Leite Longa Vida Damare Desnatado 1L",
-    "price": 5.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4103_20220901164604_thumb_Leite_Damare_Desnatado.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Leite Longa Vida Piracanjuba Semi Desnatado 1L",
-    "price": 5.99,
+    "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22455_extrabom_leites_leite-longa-vida-piracanjuba-semi-desnatado-1l_4.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Leite Longa Vida Piracanjuba Desnatado 1L",
-    "price": 5.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22454_extrabom_leites_leite-longa-vida-piracanjuba-desnatado-1l_3.jpg",
     "market": "Extrabom"
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "name": "Leite Longa Vida Damare Semi Desnatado 1l",
-    "price": 4.59,
+    "price": 4.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/231949-600-600/110132_1.png?v=638102961695900000",
     "market": "Carone"
   },
@@ -75,6 +75,12 @@
     "name": "Leite Longa Vida Uht Itambé Milk 1l",
     "price": 8.69,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233964-600-600/121507_1.png?v=638102982162300000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Longa Vida Semidesnatado Leitissimo Sache 1l",
+    "price": 8.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219640-600-600/192247_99.png?v=638100933971230000",
     "market": "Carone"
   },
   {
@@ -102,21 +108,15 @@
     "market": "Carone"
   },
   {
+    "name": "Leite Longa Vida Porto Alegre Integral Sem Lactose 1l",
+    "price": 7.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/217611-600-600/139194_1.png?v=638100917651600000",
+    "market": "Carone"
+  },
+  {
     "name": "Leite Longa Vida Leitíssimo Integral Zero Lactose 1l",
     "price": 9.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/195705-600-600/90159_1.png?v=638100230190670000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Longa Vida Itambé Pro Desnatado Sem Lactose 1l",
-    "price": 11.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/231052-600-600/113249_1.png?v=638101026652500000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Longa Vida Uht Molico Proteina 1l Zero Lactose",
-    "price": 12.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247034-600-600/118662_99.png?v=638187720585800000",
     "market": "Carone"
   },
   {
@@ -186,6 +186,18 @@
     "market": "Carone"
   },
   {
+    "name": "Arroz Tio Joao 5kg",
+    "price": 29.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203911-600-600/11037_1.png?v=638100351516670000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Calafate Integral 1kg",
+    "price": 6.39,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209982-600-600/35013_1.png?v=638100813690130000",
+    "market": "Carone"
+  },
+  {
     "name": "Arroz Integral Urbano 1kg",
     "price": 6.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/209176-600-600/84923_1.png?v=638100800902870000",
@@ -204,20 +216,8 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Tio Joao 5kg",
-    "price": 29.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203911-600-600/11037_1.png?v=638100351516670000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Calafate Integral 1kg",
-    "price": 6.39,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209982-600-600/35013_1.png?v=638100813690130000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Calafate Tp1 5kg",
-    "price": 21.99,
+    "price": 19.9,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/208967-600-600/20467_1.png?v=638100797435600000",
     "market": "Carone"
   },
@@ -330,33 +330,33 @@
     "market": "Carone"
   },
   {
+    "name": "Feijão Carioca Nico 1kg",
+    "price": 8.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/233330-600-600/115968_1.png?v=638102976564530000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Vermelho Imigrante 1kg",
+    "price": 9.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/229685-600-600/121760_1.png?v=638101015224830000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Manteiga Lourenção 1kg",
+    "price": 16.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210402-600-600/52293_1.png?v=638100821807700000",
+    "market": "Carone"
+  },
+  {
     "name": "Feijão Vermelho Lourenção 1kg",
     "price": 11.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210405-600-600/52296_1.png?v=638100821815070000",
     "market": "Carone"
   },
   {
-    "name": "Feijão Preto Das Montanhas 1kg",
-    "price": 9.19,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199531-600-600/109579_1.png?v=638100282015900000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijao Preto Imigrante 1kg",
     "price": 6.39,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/223247-600-600/121751_1.png?v=638100963265700000",
-    "market": "Carone"
-  },
-  {
-    "name": "Feijão Preto Livia Tipo 1kg",
-    "price": 8.19,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/221804-600-600/120793_1.png?v=638100951455170000",
-    "market": "Carone"
-  },
-  {
-    "name": "Feijão Carioca Nico 1kg",
-    "price": 8.19,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/233330-600-600/115968_1.png?v=638102976564530000",
     "market": "Carone"
   },
   {
@@ -414,9 +414,9 @@
     "market": "Extrabom"
   },
   {
-    "name": "Café Torrado e Moído Fort Pacote 500G",
+    "name": "Café 3 Corações Fort Vácuo 500G",
     "price": 15.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-3-coracoes-fort-500g.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
@@ -457,13 +457,13 @@
   },
   {
     "name": "Café Cafuso Extraforte 500g",
-    "price": 11.5,
+    "price": 13.5,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220317-600-600/124423_1.png?v=638100939164770000",
     "market": "Carone"
   },
   {
     "name": "Café Cafuso Tradicional 500g",
-    "price": 11.5,
+    "price": 13.5,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210562-600-600/24918_1.png?v=638100825331570000",
     "market": "Carone"
   },
@@ -594,9 +594,9 @@
     "market": "Carone"
   },
   {
-    "name": "Açúcar Cristal Santa Isabel 2kg",
-    "price": 8.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/208249-600-600/47083_1.png?v=638100783072370000",
+    "name": "Açúcar Cristal Santa Isabel 5kg",
+    "price": 19.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249166-600-600/47082_99.png?v=638216506472900000",
     "market": "Carone"
   }
 ]

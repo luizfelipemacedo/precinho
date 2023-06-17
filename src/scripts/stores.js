@@ -1,10 +1,11 @@
 import { loadMenuComponent } from "./components/menu.js";
-import { fetchData } from "./fetchData.js";
+import { fetchData, fetchCoord } from "./fetchData.js";
+import { getClosestStoreCoord } from "./marketDistance.js";
 
-function Store(name, count){
-    this.name = name;
-    this.count = count;
-};
+// function Store(name, count){
+//     this.name = name;
+//     this.count = count;
+// };
 
 const gpsSvg =`
 <svg viewBox="132.3 10 735.4 980" xmlns="http://www.w3.org/2000/svg">
@@ -15,16 +16,19 @@ const gpsSvg =`
 const lista = document.getElementById("lista");
 loadMenuComponent();
 
+var marketCoords;
+
 initializePage();
 
 async function initializePage(){
     lista.innerHTML = "";
 
     const data = await fetchData();
+    marketCoords = await fetchCoord();
 
     var storeObjectList = getStoreListFromData(data);
 
-    spawnStoreList(storeObjectList);
+    spawnStoreList(storeObjectList, marketCoords);
 
     //save last page
     localStorage.setItem("lastPage", window.location.href);
@@ -37,7 +41,7 @@ function getStoreListFromData(data){
         if(!storeList.includes(item.market))
             storeList.push(item.market);
     });
-    console.log("Store List: " + storeList);
+    //console.log("Store List: " + storeList);
 
     // storeList.forEach(store =>{
     //     var allStoreProducts = data.filter(item => item.market == store);
@@ -48,9 +52,11 @@ function getStoreListFromData(data){
     return storeList;
 }
 
-function spawnStoreList(storeList){
+function spawnStoreList(storeList, marketCoords){
     lista.innerHTML = "";
     storeList.forEach(store => {
+        var distance = getClosestStoreCoord(store, marketCoords);
+        distance = distance == null ? "- Km" : distance.toFixed(1) + " Km";
 
         const storeDiv = document.createElement('div');
         storeDiv.classList.add('store');
@@ -60,7 +66,7 @@ function spawnStoreList(storeList){
         storeDiv.appendChild(imageArea);
 
         const image = document.createElement('img');
-        image.src = image;
+        // image.src = image;
         image.alt = "";
         image.classList.add('product-image');
         image.setAttribute('draggable', false);
@@ -77,8 +83,9 @@ function spawnStoreList(storeList){
 
         const storeLocation = document.createElement('div');
         storeLocation.classList.add('location');
-        storeLocation.innerHTML = gpsSvg+"<span>1.5 Km</span>";
+        storeLocation.innerHTML = gpsSvg+`<span>${distance}</span>`;
         storeDiv.appendChild(storeLocation);
+        //storeLocation.style.display = distance == null || distance == "" ? "none" : "";
 
         // const storeProductCount = document.createElement('span');
         // storeProductCount.classList.add('store-name');

@@ -1,5 +1,6 @@
 import { loadMenuComponent } from "./components/menu.js";
-import { fetchData, handleServiceWorker } from "./fetchData.js";
+import { fetchData, fetchCoord, handleServiceWorker } from "./fetchData.js";
+import { getClosestStoreCoord } from "./marketDistance.js";
 
 const urlParams = new URLSearchParams(window.location.search);
 const produtoId = urlParams.get('id');
@@ -14,11 +15,17 @@ loadMenuComponent();
 favoriteButton.addEventListener("click", handleFavorite);
 backButton.addEventListener("click", backButtonClick);
 
+var marketCoords;
+
 (async () => {
     const data = await fetchData();
-    const product = data.filter(product => product.name === produtoId);
+    marketCoords = await fetchCoord();
 
+    const product = data.filter(product => product.name === produtoId);
     console.log(product);
+
+    var distance = getClosestStoreCoord(product[0].market, marketCoords);
+    distance = distance == null ? "" : "Estabelecimento mais próximo à "+ distance.toFixed(1) + " Km";
 
     const image = document.querySelector('#detalhes-produto > div.product-image-area > img.product-image');
     image.src = product[0].image;
@@ -30,10 +37,13 @@ backButton.addEventListener("click", backButtonClick);
     preco.textContent = `R$${product[0].price.toLocaleString('pt-BR')}`;
 
     const market = document.querySelector('#detalhes-produto > div.product-info > p.product-market');
-    market.textContent = `Preço mais baixo no supermecado ${product[0].market}`;
+    market.innerHTML = `Preço mais baixo no supermecado ${product[0].market}`;
+    
+    const marketDistance = document.querySelector('#detalhes-produto > div.product-info > p.product-market.distance');
+    marketDistance.textContent = `${distance}`;
 
     const location = JSON.parse(localStorage.getItem("location"));
-    const marketLocation = document.querySelector('#detalhes-produto > div.product-info > a.market-location');
+    const marketLocation = document.querySelector('#detalhes-produto > div.product-info .map-button');
     marketLocation.href = `https://www.google.com.br/maps/search/${product[0].market}+Supermercado/@${location.data.lat},${location.data.lon}`;
 
     const favorites = JSON.parse(localStorage.getItem("favorites")) || [];

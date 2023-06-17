@@ -20,7 +20,8 @@ const orderWindow = document.querySelector('#order-window');
 const orderWindowBackground = document.querySelector('#order-window > .background');
 
 const orderByRelevanceItem = document.querySelector('#order-window > .window > ul > li#relevance');
-const orderByPriceItem = document.querySelector('#order-window > .window > ul > li#price');
+const orderByLowerPriceItem = document.querySelector('#order-window > .window > ul > li#priceLower');
+const orderByHigherPriceItem = document.querySelector('#order-window > .window > ul > li#priceHigher');
 
 const pageOccluder = document.querySelector('#occluder');
 
@@ -39,8 +40,11 @@ function initializePage(){
     orderWindowBackground.addEventListener('click', closeOrderWindow);
     
     orderByRelevanceItem.addEventListener('click', orderByRelevance);
-    orderByPriceItem.addEventListener('click', orderByPrice);
+    orderByLowerPriceItem.addEventListener('click', orderByLowerPrice);
+    orderByHigherPriceItem.addEventListener('click', orderByHigherPrice);
     
+    if(localStorage.getItem("orderType"))
+        orderType = localStorage.getItem("orderType");
     updateOrderType();
 
     var marketParam = urlParams.get('market');
@@ -120,6 +124,11 @@ function searchChangedEvent() {
 function performSearch(searchString) {
     var inputText = searchString;
     var filteredProducts = data.filter(product => product.name.toLowerCase().includes(inputText.toLowerCase()));
+    
+    if(orderType == 2)
+        filteredProducts.sort((a,b) => a.price - b.price); //ordena por menor preço
+    else if(orderType == 3)
+        filteredProducts.sort((a,b) => b.price - a.price); //ordena por maior preço
 
     var isSearching = inputText.length > 0;
     var foundProducts = filteredProducts.length > 0;
@@ -193,33 +202,44 @@ function closeOrderWindow(){
 
 function orderByRelevance(){
     orderType = 1;
+    localStorage.setItem("orderType", orderType);
     updateOrderType();
 
-    //PODE FAZER A MUDANÇA DE ORDENAÇÃO AQUI
+    searchInputField.dispatchEvent(new Event("input"));
 }
 
-function orderByPrice(){
+function orderByLowerPrice(){
     orderType = 2;
+    localStorage.setItem("orderType", orderType);
     updateOrderType();
 
-    //PODE FAZER A MUDANÇA DE ORDENAÇÃO AQUI
+    searchInputField.dispatchEvent(new Event("input"));
+}
+
+function orderByHigherPrice(){
+    orderType = 3;
+    localStorage.setItem("orderType", orderType);
+    updateOrderType();
+
+    searchInputField.dispatchEvent(new Event("input"));
 }
 
 function updateOrderType(){
     orderByRelevanceItem.className = orderType == 1 ? "active" : "";
-    orderByPriceItem.className = orderType == 2 ? "active" : "";
+    orderByLowerPriceItem.className = orderType == 2 ? "active" : "";
+    orderByHigherPriceItem.className = orderType == 3 ? "active" : "";
 
     var text = "Ordenando por ";
     if(orderType == 1)
         text += "relevância";
     else if(orderType == 2)
         text += "menor preço";
+    else if(orderType == 3)
+        text += "maior preço";
 
     orderText.innerHTML = text;
 
-    closeOrderWindow();
-
-    //PODE FAZER A MUDANÇA DE ORDENAÇÃO OU AQUI
+    closeOrderWindow();    
 }
 
 // ---------------- TEST ONLY -------------------------

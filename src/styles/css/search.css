@@ -169,7 +169,7 @@
 #order-window .window{
         position: absolute;
         width: 100%;
-        height: 25vh;
+        height: 30vh; 
         padding: 20% 0;
         background: #ffffff;
         bottom: 0;
@@ -209,9 +209,9 @@
 
 #order-window .divider-line{
         background: rgb(0, 0, 0, 0.25);
-        margin: 20px auto 15px auto;
+        margin: 1vh auto 15px auto;
         width: 30%;
-        height: 8%;
+        height: 0.5vh;
         border-radius: 100vh;
 }
 

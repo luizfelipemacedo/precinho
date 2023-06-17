@@ -56,10 +56,56 @@ body {
 .product-info .product-market {
     width: 100%;
     font-weight: 400;
-    font-size: 1.8vh;
+    font-size: 2.0vh;
+    line-height: normal;
     color: #5FD900;
 
     margin: 0.5vh 0;
+}
+.product-info .product-market.distance {
+    font-weight: 400;
+    color: #318aff;
+    font-size: 1.8vh;
+    margin-top: 3vh;
+    text-align: center;
+}
+
+.product-info .map-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.product-info .map-button {
+    background-color: #fdfeff;
+    border-radius: 1.2vh;
+    height: 6.5vh;
+    padding: 1.0vh 3vw;
+    margin: 0.5vh auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 15px;
+    box-shadow: 0px 2px 14px rgba(0, 0, 0, 0.25);
+
+    transition: all 0.2s;
+}
+.product-info .map-button:active {
+    background-color: #e0eeff;
+    box-shadow: 0px 2px 14px rgba(57, 86, 180, 0.452);
+}
+.product-info .map-button img{
+    height: 100%;
+}
+
+.product-info .map-button span{
+    font-weight: 600;
+    font-size: 2.2vh;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+    color: #318aff;
 }
 
 /* FAV BUTTON ------------------------- */

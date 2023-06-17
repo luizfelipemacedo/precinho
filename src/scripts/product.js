@@ -139,13 +139,18 @@ async function handleFavorite() {
 function handleNotification(productName, favorites) {
   if (!favorites) {
     localStorage.setItem("favorites", JSON.stringify([productName]));
-
-    new Notification('Precinho', {
-      body: 'A partir de agora você será notificado quando os preços forem atualizados.',
-      vibrate: [200, 100, 200],
-      icon: '/public/icon-192x192.png'
-    })
-
+    
+  if (Notification.permission !== 'denied') {
+      Notification.requestPermission().then((permission) => {
+        if (permission === 'granted') {
+          new Notification('Precinho', {
+            body: 'A partir de agora você será notificado quando os preços forem atualizados.',
+            vibrate: [200, 100, 200],
+            icon: '/public/icon-192x192.png'
+          })
+        }
+      });
+    }
   }
 }
 

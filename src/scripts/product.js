@@ -62,7 +62,7 @@ var marketCoords;
 async function getRelatedProduts() {
   const data = await fetchData();
   const produtcName = produtoId.split(" ")[0];
-  const relatedProducts = data.filter(product => product.name.includes(produtcName));
+  const relatedProducts = data.filter(product => product.name.includes(produtcName)).slice(0, 10);
   const duplicateProductIndex = relatedProducts.findIndex(product => product.name === produtoId);
 
   if (duplicateProductIndex !== -1) {

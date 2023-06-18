@@ -1,36 +1,19 @@
-const cacheName = 'site-cache';
-const urlsToCache = [
-  '/',
-  'index.html',
-  '/src/css/style.css',
-  '/src/script.js',
-];
+const CACHE = "app-cache";
 
-self.addEventListener('install', function(event) {
-  event.waitUntil(
-    caches.open(cacheName)
-      .then(function(cache) {
-        console.log('Cache aberto');
-        return cache.addAll(urlsToCache);
-      })
-      .catch(function(error) {
-        console.error('Erro ao fazer cache dos arquivos:', error);
-      })
-  );
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
 });
 
-self.addEventListener('fetch', function(event) {
-  event.respondWith(
-    caches.match(event.request)
-      .then(function(response) {
-        if (response) {
-          return response;
-        }
-        return fetch(event.request);
-      }
-    )
-  );
-});
+workbox.routing.registerRoute(
+  new RegExp('/*'),
+  new workbox.strategies.StaleWhileRevalidate({
+    cacheName: CACHE
+  })
+);
 
 function enviarNotificacao() {
   self.registration.showNotification('Precinho', {
@@ -58,7 +41,7 @@ function agendarNotificacaoDiaria() {
   const tempoRestante = horarioNotificacao.getTime() - agora.getTime();
 
   if (tempoRestante > 0) {
-    setTimeout(function() {
+    setTimeout(function () {
       enviarNotificacao();
       agendarNotificacaoDiaria();
     }, tempoRestante);

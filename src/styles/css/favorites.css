@@ -43,7 +43,7 @@
 #lista {
         width: 100%;
         padding-top: 3vh;
-        padding-bottom: 16vh;
+        /* padding-bottom: 16vh; */
 
         display: grid;
         grid-template-columns: 85%;

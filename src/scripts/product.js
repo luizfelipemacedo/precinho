@@ -139,8 +139,8 @@ async function handleFavorite() {
 function handleNotification(productName, favorites) {
   if (!favorites) {
     localStorage.setItem("favorites", JSON.stringify([productName]));
-    
-  if (Notification.permission !== 'denied') {
+
+    if (Notification.permission !== 'denied') {
       Notification.requestPermission().then((permission) => {
         if (permission === 'granted') {
           new Notification('Precinho', {

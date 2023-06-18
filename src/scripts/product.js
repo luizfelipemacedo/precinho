@@ -44,7 +44,10 @@ var marketCoords;
 
     const location = JSON.parse(localStorage.getItem("location"));
     const marketLocation = document.querySelector('#detalhes-produto > div.product-info .map-button');
-    marketLocation.href = `https://www.google.com.br/maps/search/${product[0].market}+Supermercado/@${location.data.lat},${location.data.lon}`;
+    var mapButtonLink = `https://www.google.com.br/maps/search/${product[0].market}+Supermercado/`;
+    if(location != null && location.data != null && location.data.lat != null && location.data.lon != null)
+      mapButtonLink += `@${location.data.lat},${location.data.lon}`;
+    marketLocation.href = mapButtonLink;
 
     const favorites = JSON.parse(localStorage.getItem("favorites")) || [];
     const isFav = favorites.includes(product[0].name);

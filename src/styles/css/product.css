@@ -3,9 +3,11 @@ body {
 }
 
 /* Product Conteiner */
-
+#container{
+    position: relative;
+}
 #detalhes-produto {
-    padding-bottom: 14vh;
+    padding-bottom: 2vh;
 }
 
 /* PRODUCT IMAGE ------------------------- */
@@ -107,6 +109,48 @@ body {
     white-space: nowrap;
     color: #318aff;
 }
+
+/* RELATED PRODUCTS - Import most of existing style from favorites.css and override some ------------------------- */
+
+.lista-title{
+    width: 100%;
+    padding: 0 10%;
+    padding-top: 1.2vh;
+    font-weight: 600;
+    font-size: 2.3vh;
+    text-align: center;
+    color: #333333;
+}
+
+#lista {
+    width: 100%;
+    padding-top: 3vh;
+    grid-template-columns: 85%;
+    row-gap: 2vh;
+}
+
+#lista .product {
+    position: relative;
+    height: 12vh;
+}
+
+#lista .product .info {
+    height: 100%;
+}
+
+#lista .product .info .product-price {
+    font-size: 2.0vh;
+}
+
+#lista .product .info .product-name {
+    font-size: 1.7vh;
+    line-height: 2.0vh;
+}
+
+#lista .product .info .product-market {
+    font-size: 1.6vh;
+}
+
 
 /* FAV BUTTON ------------------------- */
 

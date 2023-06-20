@@ -43,7 +43,7 @@
 #lista {
         width: 100%;
         padding-top: 3vh;
-        /* padding-bottom: 16vh; */
+        padding-bottom: 16vh;
 
         display: grid;
         grid-template-columns: 85%;
@@ -85,7 +85,7 @@
 
 #lista .product .info {
         width: 100%;
-        height: 75%;
+        height: 85%;
         padding-left: 5%;
 
         display: flex;

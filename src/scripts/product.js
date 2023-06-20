@@ -155,13 +155,14 @@ function handleNotification(productName, favorites) {
 }
 
 function backButtonClick() {
-  var lastPage = localStorage.getItem("lastPage");
-  var samePage = lastPage == window.location.href;
-  if (lastPage && !samePage) {
-    window.location.href = lastPage;
-  }
-  else
-    window.location.href = "../pages/search_products.html";
+  // var lastPage = localStorage.getItem("lastPage");
+  // var samePage = lastPage == window.location.href;
+  // if (lastPage && !samePage) {
+  //   window.location.href = lastPage;
+  // }
+  // else
+  //   window.location.href = "../pages/search_products.html";
+  window.history.back();
 }
 
 window.onscroll = function () { scrollFunction() };

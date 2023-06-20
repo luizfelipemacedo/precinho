@@ -1,11 +1,11 @@
-// if ("serviceWorker" in navigator) {
-//     window.addEventListener("load", function () {
-//         navigator.serviceWorker
-//             .register("/serviceWorker.js")
-//             .then(res => console.log("service worker registered"))
-//             .catch(err => console.log("service worker not registered", err))
-//     })
-// }
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+        navigator.serviceWorker
+            .register("/serviceWorker.js")
+            .then(res => console.log("service worker registered"))
+            .catch(err => console.log("service worker not registered", err))
+    })
+}
 
 const SEARCH_LOCATION_STRING = "Buscar localização atual";
 const UPDATE_LOCATION_STRING = "Atualizar localização atual";
@@ -15,13 +15,13 @@ const selectGeo = document.querySelector('#select-geo');
 const geoButtonText = document.querySelector('#get-geo > span.button-text');
 const manualLocation = document.querySelector('#manual-location');
 
-selectGeo.addEventListener('click', function() {
+selectGeo.addEventListener('click', function () {
     window.location.href = '/src/pages/search_products.html';
 });
 
-manualLocation.addEventListener('click', function() {
+manualLocation.addEventListener('click', function () {
     window.location.href = '/src/pages/search_products.html';
-} );
+});
 
 geoButton.addEventListener('click', getLocation);
 
@@ -34,7 +34,7 @@ if (localStorage.getItem('location')) {
     document.querySelector('#select-geo').style.display = 'none';
 }
 
-function switchToSavedLocation(city){
+function switchToSavedLocation(city) {
     document.querySelector('#saved-location > .text').innerHTML = `${city} - ES`;
     document.querySelector('#saved-location').style.display = "block";
     geoButton.style.display = "none";
@@ -51,16 +51,16 @@ function getLocation() {
                 if (latitude && longitude) {
                     const res = await fetch(`https://nominatim.openstreetmap.org/reverse?lat=${latitude}&lon=${longitude}&format=json`,);
                     const data = await res.json();
-                    const currentTime = new Date().toISOString();
-                    localStorage.setItem('location', JSON.stringify({ data, currentTime }));                    
-                    
+                    const currentTime = new Date().toLocaleString('pt-br');
+                    localStorage.setItem('location', JSON.stringify({ data, currentTime }));
+
                     switchToSavedLocation(data.address.city);
                 }
             } catch (err) {
                 console.log(err);
             }
         }, function () {
-            M.toast({html: 'A localização está desligada. Por favor, habilite a localização para usar este recurso.'})
+            M.toast({ html: 'A localização está desligada. Por favor, habilite a localização para usar este recurso.' })
         })
     } else {
         alert('Geolocalização não disponível!')

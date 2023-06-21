@@ -25,7 +25,7 @@ Instale o arquivo `.apk` clicando neste [link](https://drive.google.com/file/d/1
 
 **IOS e Web** 🌐:
 
-Acesse a URL: [precinho.netlify.app](precinho.netlify.app).
+Acesse a URL: [precinho.netlify.app](https://precinho.netlify.app/).
 
 ## 🖊️ Metodologia
 

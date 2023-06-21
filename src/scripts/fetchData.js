@@ -1,13 +1,7 @@
 export async function fetchData() {
-    if (!sessionStorage.getItem("data")) {
         const res = await fetch("../../../data/products.json");
         const data = await res.json();
-        sessionStorage.setItem("data", JSON.stringify(data));
         return data;
-    } else {
-        const data = sessionStorage.getItem("data");
-        return JSON.parse(data);
-    }
 }
 
 export async function fetchCoord() {

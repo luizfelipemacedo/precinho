@@ -46,7 +46,7 @@ async function scrapeData(searchTerm) {
 
     try {
         const jsonData = JSON.stringify(formattedData, null, 2);
-        fs.writeFileSync('product.json', jsonData);
+        fs.writeFileSync('products.json', jsonData);
 
         console.log('Produtos atualizados com sucesso!');
 

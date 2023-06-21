@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.precinho.twa",
+        "sha256_cert_fingerprints": ["83:0D:51:9F:A5:E0:BD:40:30:F1:DD:31:01:9E:D3:E3:9B:21:E6:AD:36:F2:A2:31:3F:96:8B:52:C7:E9:7E:8D"]
+      }
+    }]

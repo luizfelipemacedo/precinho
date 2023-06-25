@@ -11,8 +11,6 @@ const topHeader = document.getElementById("top-header");
 const backButton = document.getElementById("back-button");
 const lista = document.getElementById("lista");
 
-loadMenuComponent();
-
 favoriteButton.addEventListener("click", handleFavorite);
 backButton.addEventListener("click", backButtonClick);
 
@@ -57,6 +55,8 @@ var marketCoords;
   document.title = product[0].name;
 
   getRelatedProduts();
+
+  loadMenuComponent();
 })();
 
 async function getRelatedProduts() {

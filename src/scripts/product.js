@@ -12,7 +12,6 @@ const topHeader = document.getElementById("top-header");
 const backButton = document.getElementById("back-button");
 const lista = document.getElementById("lista");
 
-loadMenuComponent();
 window.addEventListener("load", () => {
   if (!productID) {
     window.location.href = '/src/pages/search_products.html'
@@ -63,6 +62,7 @@ backButton.addEventListener("click", () => {
 
   getRelatedProduts();
   handleNotification();
+  loadMenuComponent();
 })();
 
 async function getRelatedProduts() {

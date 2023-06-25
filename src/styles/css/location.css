@@ -50,8 +50,10 @@ dialog {
         font-family: 'Encode Sans';
         font-style: normal;
         font-weight: 700;
-        font-size: 4vh;
-        line-height:4vh;
+        /* font-size: 4vh; */
+        font-size: clamp(7vw, 4vh, 9vw);
+        /* line-height: 4vh; */
+        line-height: clamp(7vw, 4vh, 9vw); 
 
         color: #FFFFFF;
 
@@ -60,7 +62,8 @@ dialog {
 .h1{
         font-family: 'Encode Sans';
         font-weight: 800;
-        font-size: 6vh;
+        /* font-size: 6vh;   */
+        font-size: clamp(10vw, 6.5vh, 14vw); 
         
         /* background: linear-gradient(#DE80AE, #DE80AE); */
         background: linear-gradient(330deg, #56ffc7, #29ff70);
@@ -91,7 +94,7 @@ dialog {
         border: 0.1vh solid #4CD964;
         border-radius: 50px;
         padding: 1.5vh 10px;
-        width: 80%;
+        width: 82vw;
         margin: 0 auto;
 
         color: white;
@@ -103,7 +106,8 @@ dialog {
         font-family: 'Encode Sans';
         font-style: normal;
         font-weight: 700;
-        font-size: 2.5vh;
+        /* font-size: 2.5vh; */
+        font-size: clamp(0.5vw, 2.5vh, 5vw);
         display: flex;
         align-items: center;
         justify-content: center;

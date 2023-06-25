@@ -1,6 +1,6 @@
 import { fetchData } from "../fetchData.js";
-import { loadMenuComponent } from "../components/menu.js";
 import { until } from "../asyncUtils.js";
+import { loadMenuComponent } from "../components/menu.js";
 const urlParams = new URLSearchParams(window.location.search);
 
 const instruction = document.querySelector('#resultado > .instruction');
@@ -57,6 +57,8 @@ function initializePage(){
     }
 
     localStorage.setItem("lastPage", window.location.href);
+
+    loadMenuComponent();
 }
 
 async function restoreLastSearch(){
@@ -71,8 +73,6 @@ async function restoreLastSearch(){
 }
 
 initializePage();
-loadMenuComponent();
-//inicializeMenu();
 
 function clearProductContainer() {
     while (lista.firstChild) {

@@ -14,11 +14,12 @@ const gpsSvg =`
 `;
 
 const lista = document.getElementById("lista");
-loadMenuComponent();
 
 var marketCoords;
 
 initializePage();
+
+loadMenuComponent();
 
 async function initializePage(){
     lista.innerHTML = "";
@@ -32,6 +33,8 @@ async function initializePage(){
 
     //save last page
     localStorage.setItem("lastPage", window.location.href);
+
+    loadMenuComponent();
 }
 
 function getStoreListFromData(data){

@@ -24,7 +24,6 @@ const favButtonInnerHtml=`
 
 const lista = document.getElementById("lista");
 const emptyArea = document.getElementById("empty-list-area");
-loadMenuComponent();
 
 // (async () => {
 //     if (JSON.parse(localStorage.getItem("favorites")).length === 0 || !localStorage.getItem("favorites")) {
@@ -49,6 +48,8 @@ loadMenuComponent();
 
 
 initializePage();
+
+loadMenuComponent();
 
 async function initializePage(){
     lista.innerHTML = "";

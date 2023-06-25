@@ -2,25 +2,31 @@ import { loadMenuComponent } from "./components/menu.js";
 import { fetchData, fetchCoord } from "./fetchData.js";
 import { getClosestStoreCoord } from "./marketDistance.js";
 
+var marketCoords;
 const urlParams = new URLSearchParams(window.location.search);
-const produtoId = urlParams.get('id');
-console.log(produtoId);
+const productID = urlParams.get('id');
+console.log(productID);
 
 const favoriteButton = document.getElementById("fav-button");
 const topHeader = document.getElementById("top-header");
 const backButton = document.getElementById("back-button");
 const lista = document.getElementById("lista");
 
+window.addEventListener("load", () => {
+  if (!productID) {
+    window.location.href = '/src/pages/search_products.html'
+  }
+});
 favoriteButton.addEventListener("click", handleFavorite);
-backButton.addEventListener("click", backButtonClick);
-
-var marketCoords;
+backButton.addEventListener("click", () => {
+  window.history.back();
+});
 
 (async () => {
   const data = await fetchData();
   marketCoords = await fetchCoord();
 
-  const product = data.filter(product => product.name === produtoId);
+  const product = data.filter(product => product.name === productID);
   console.log(product);
 
   var distance = getClosestStoreCoord(product[0].market, marketCoords);
@@ -55,15 +61,15 @@ var marketCoords;
   document.title = product[0].name;
 
   getRelatedProduts();
-
+  handleNotification();
   loadMenuComponent();
 })();
 
 async function getRelatedProduts() {
   const data = await fetchData();
-  const produtcName = produtoId.split(" ")[0];
+  const produtcName = productID.split(" ")[0];
   const relatedProducts = data.filter(product => product.name.includes(produtcName)).slice(0, 10);
-  const duplicateProductIndex = relatedProducts.findIndex(product => product.name === produtoId);
+  const duplicateProductIndex = relatedProducts.findIndex(product => product.name === productID);
 
   if (duplicateProductIndex !== -1) {
     relatedProducts.splice(duplicateProductIndex, 1);
@@ -117,30 +123,30 @@ async function getRelatedProduts() {
 }
 
 async function handleFavorite() {
-  const data = await fetchData();
-  const fav = data.filter(product => product.name === produtoId);
-  const productName = fav[0].name;
-  const favorites = JSON.parse(localStorage.getItem("favorites"));
+  const productName = productID;
 
-  handleNotification(productName, favorites);
-
-  const index = favorites.indexOf(productName);
-  if (index > -1) {
-    favorites.splice(index, 1);
-    favoriteButton.className = "disabled";
-  } else {
-    favorites.push(productName);
+  if (!localStorage.getItem("favorites")) {
+    localStorage.setItem("favorites", JSON.stringify([productName]));
     favoriteButton.className = "active";
+  } else {
+    const favorites = JSON.parse(localStorage.getItem("favorites"));
+    const index = favorites.indexOf(productName);
+    if (index > -1) {
+      favorites.splice(index, 1);
+      favoriteButton.className = "disabled";
+    } else {
+      favorites.push(productName);
+      favoriteButton.className = "active";
+    }
+
+    localStorage.setItem("favorites", JSON.stringify(favorites));
   }
 
-  localStorage.setItem("favorites", JSON.stringify(favorites));
 }
 
-function handleNotification(productName, favorites) {
-  if (!favorites) {
-    localStorage.setItem("favorites", JSON.stringify([productName]));
-
-    if (Notification.permission !== 'denied') {
+function handleNotification() {
+  if (Notification.permission !== 'denied') {
+    if (!localStorage.getItem('notificationDisplayed')) {
       Notification.requestPermission().then((permission) => {
         if (permission === 'granted') {
           new Notification('Precinho', {
@@ -148,21 +154,11 @@ function handleNotification(productName, favorites) {
             vibrate: [200, 100, 200],
             icon: '/public/icon-192x192.png'
           })
+          localStorage.setItem('notificationDisplayed', true);
         }
-      });
+      })
     }
   }
-}
-
-function backButtonClick() {
-  // var lastPage = localStorage.getItem("lastPage");
-  // var samePage = lastPage == window.location.href;
-  // if (lastPage && !samePage) {
-  //   window.location.href = lastPage;
-  // }
-  // else
-  //   window.location.href = "../pages/search_products.html";
-  window.history.back();
 }
 
 window.onscroll = function () { scrollFunction() };

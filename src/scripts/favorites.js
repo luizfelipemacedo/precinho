@@ -70,6 +70,8 @@ async function initializePage(){
 
     //save last page
     localStorage.setItem("lastPage", window.location.href);
+
+    loadMenuComponent();
 }
 
 function spawnFavoritesList(favoritesList){

@@ -132,6 +132,12 @@
     "market": "Carone"
   },
   {
+    "name": "Leite Uht Semidesnatado Italac 1l",
+    "price": 4.49,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247971-600-600/85238_99.png?v=638200172014800000",
+    "market": "Carone"
+  },
+  {
     "name": "Leite Lv Int Selita Purav 1l",
     "price": 4.58,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/247940-600-600/21242_99.png?v=638200099716500000",
@@ -177,12 +183,6 @@
     "name": "Leite Longa Vida Caprilat Integral Caixa 1l",
     "price": 19.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/234905-600-600/23322_1.png?v=638104505839500000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Uht Semidesnatado Italac 1l",
-    "price": 4.49,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247971-600-600/85238_99.png?v=638200172014800000",
     "market": "Carone"
   },
   {
@@ -324,12 +324,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Arroz Zuppa TP 2Kg",
-    "price": 7.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161449_20210819151020_thumb_161449_Arroz_Zuppa_TP_2Kg.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Arroz Tio João Integral Parboilizado Saquinhos 1kg",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100112_20190323112929_thumb_100112ArrozTioJoaoIntegralParboilizadoSaquinhos1kg.png",
@@ -381,6 +375,12 @@
     "name": "Arroz Sepé Premium Tipo 1 2Kg",
     "price": 9.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7888_7896009865862.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Arroz Prato Fino Tipo 1 2kg",
+    "price": 12.59,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8123_20220721151645_thumb_ARROZ_PRATO_FINO_BRANCO_2_KG.jpg",
     "market": "Extrabom"
   },
   {
@@ -756,15 +756,15 @@
     "market": "Carone"
   },
   {
-    "name": "Feijão Vermelho Imigrante 1kg",
-    "price": 9.19,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/229685-600-600/121760_1.png?v=638101015224830000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijão Carioca Nico 1kg",
     "price": 8.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233330-600-600/115968_1.png?v=638102976564530000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Vermelho Imigrante 1kg",
+    "price": 9.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/229685-600-600/121760_1.png?v=638101015224830000",
     "market": "Carone"
   },
   {
@@ -949,14 +949,8 @@
   },
   {
     "name": "Café Meridiano Extraforte 500g",
-    "price": 12.49,
+    "price": 12.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/205629-600-600/22281_1.png?v=638100740317770000",
-    "market": "Carone"
-  },
-  {
-    "name": "Café União Tradicional Pouch 500g",
-    "price": 14.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/236019-600-600/195268_1.png?v=638113132945830000",
     "market": "Carone"
   },
   {
@@ -967,8 +961,14 @@
   },
   {
     "name": "Café Torrado Moído Carnielli 500g",
-    "price": 45.99,
+    "price": 47.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203803-600-600/38818_1.png?v=638100349935800000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café União Tradicional Pouch 500g",
+    "price": 14.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/236019-600-600/195268_1.png?v=638113132945830000",
     "market": "Carone"
   },
   {
@@ -1680,12 +1680,6 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha Mandioca Amarela Ana Tipo 1 1kg",
-    "price": 6.89,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/236160-600-600/194986_1.png?v=638113842761970000",
-    "market": "Carone"
-  },
-  {
     "name": "Chocolate Bis Xtra Oreo 45g",
     "price": 2.56,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/61901_extrabom_bomboniere_chocolate-bis-xtra-oreo-45g.jpg",
@@ -2010,15 +2004,15 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Nissin Yakissoba Ufo Legumes 95g",
-    "price": 8.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/217789-600-600/192436_99.png?v=638100918935770000",
-    "market": "Carone"
-  },
-  {
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g",
     "price": 4.89,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220869-600-600/125334_1.png?v=638100944085370000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantâneo Nissin Yakissoba Ufo Legumes 95g",
+    "price": 8.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/217789-600-600/192436_99.png?v=638100918935770000",
     "market": "Carone"
   },
   {
@@ -2106,12 +2100,6 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Nissin Lámen Cremoso Picanha 85g",
-    "price": 2.38,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/206923-600-600/33881_1.png?v=638100760908800000",
-    "market": "Carone"
-  },
-  {
     "name": "Macarrão Instantâneo Nissin Yakissoba Ufo Carne 95g",
     "price": 8.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/217787-600-600/192437_99.png?v=638100918932170000",
@@ -2124,15 +2112,21 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g",
-    "price": 4.89,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/196806-600-600/125336_1.png?v=638100244649700000",
+    "name": "Macarrão Instantâneo Nissin Lámen Cremoso Picanha 85g",
+    "price": 2.38,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/206923-600-600/33881_1.png?v=638100760908800000",
     "market": "Carone"
   },
   {
     "name": "Macarrão Instantâneo Nissin Integral Espaguete T5 500g",
     "price": 11.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/225573-600-600/139048_99.png?v=638100983114600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantâneo Cup Noodles Curry 70g",
+    "price": 4.89,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/224521-600-600/130774_1.png?v=638100973982470000",
     "market": "Carone"
   }
 ]

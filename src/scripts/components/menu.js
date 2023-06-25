@@ -46,24 +46,30 @@ function updateMenuActiveButton(){
     var path = lastPage.substring(lastPage.lastIndexOf("/")+ 1);
     var fileName = (path.match(/[^.]+(\.[^?#]+)?/) || [])[0];
 
+    console.log(fileName);
+
     if(lastPage.includes("?market=") || fileName == "stores.html"){
         searchButton.className = "disabled";
         favoritesButton.className = "disabled";
         storesButton.className = "";
+        console.log("MENU > ESTABALECIMENTOS");
     }
     else if(fileName == "search_products.html" || fileName == "product.html"){
         searchButton.className = "";
         favoritesButton.className = "disabled";
-        storesButton.className = "disabled";    
+        storesButton.className = "disabled";
+        console.log("MENU > SEARCH");  
     }
     else if(fileName == "favorites.html"){
         searchButton.className = "disabled";
         favoritesButton.className = "";
         storesButton.className = "disabled";  
+        console.log("MENU > FAVORITES");
     }
     else{        
         searchButton.className = "disabled";
         favoritesButton.className = "disabled";
         storesButton.className = "disabled";
+        console.log("MENU > NOTHING");
     }
 }

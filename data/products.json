@@ -138,6 +138,12 @@
     "market": "Carone"
   },
   {
+    "name": "Leite Uht Desnatado Italac 1l",
+    "price": 4.78,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247990-600-600/85237_99.png?v=638200243824230000",
+    "market": "Carone"
+  },
+  {
     "name": "Leite De Amêndoa Nuts Original 1l",
     "price": 9.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233636-600-600/132903_1.png?v=638102979522900000",
@@ -258,12 +264,6 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Uht Desnatado Molico Caixa Com Tampa 1l",
-    "price": 7.49,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247012-600-600/89772_99.png?v=638187720388130000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Zuppa Tipo 1 1kg",
     "price": 3.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161453_20210910155419_thumb_161453_Arroz_Zuppa_Tipo_1_1kg.png",
@@ -285,12 +285,6 @@
     "name": "Arroz Calafate Gran Reserva 1Kg",
     "price": 5.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/64739_20211209143704_thumb_64739_Arroz_Calafate_Gran_Reserva_1Kg.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Arroz Integral Calafate 1kg",
-    "price": 5.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19247_7896010355055.JPG",
     "market": "Extrabom"
   },
   {
@@ -384,6 +378,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Arroz Saboroso TP1 5Kg",
+    "price": 18.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137986_20220422095538_thumb_137986_removebg_preview.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Farinha De Arroz Urbano 1kg",
     "price": 12.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/209179-600-600/84922_1.png?v=638100800915400000",
@@ -414,12 +414,6 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Arbório Paganini 1kg",
-    "price": 34.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207924-600-600/68739_1.png?v=638100778584930000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Calafate Integral 1kg",
     "price": 6.39,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/209982-600-600/35013_1.png?v=638100813690130000",
@@ -441,6 +435,12 @@
     "name": "Arroz Arbório Rampinelli 1kg",
     "price": 29.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/198530-600-600/133841_1.png?v=638100268416300000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Arbório Paganini 1kg",
+    "price": 34.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207924-600-600/68739_1.png?v=638100778584930000",
     "market": "Carone"
   },
   {
@@ -888,12 +888,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Café Torrado e Moído a Vácuo Extraforte 3 Corações Pacote 500G",
-    "price": 17.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7943_extrabom_cafes-chas_cafe-3-coracoes-extra-forte-vacuo-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Café Pilão Intenso Vácuo 500G",
     "price": 19.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8313_7896089012880.png",
@@ -912,6 +906,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Café Melitta Tradicional Vácuo 500G",
+    "price": 22.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Café Torrado E Moído A Vácuo Cafeteira Expresso 500g",
     "price": 20.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/198232-600-600/135231_12.png?v=638100264898770000",
@@ -924,12 +924,6 @@
     "market": "Carone"
   },
   {
-    "name": "Café Meridiano Extraforte 500g",
-    "price": 11.78,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205629-600-600/22281_1.png?v=638100740317770000",
-    "market": "Carone"
-  },
-  {
     "name": "Café Cafuso Extraforte 500g",
     "price": 12.38,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220317-600-600/124423_1.png?v=638100939164770000",
@@ -939,6 +933,12 @@
     "name": "Café Meridiano Tradicional 500g",
     "price": 19.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249519-600-600/22879_10.png?v=638221727557000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Meridiano Extraforte 500g",
+    "price": 11.78,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205629-600-600/22281_1.png?v=638100740317770000",
     "market": "Carone"
   },
   {
@@ -990,15 +990,15 @@
     "market": "Carone"
   },
   {
-    "name": "Café Em Grãos Lor Forza 500g",
-    "price": 57.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247644-600-600/120930_1.png?v=638198552637200000",
-    "market": "Carone"
-  },
-  {
     "name": "Café Melitta Tradicional A Vácuo 500g",
     "price": 17.96,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210211-600-600/23289_1.png?v=638100818480730000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Em Grãos Lor Forza 500g",
+    "price": 57.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247644-600-600/120930_1.png?v=638198552637200000",
     "market": "Carone"
   },
   {
@@ -1011,6 +1011,18 @@
     "name": "Café Torrado E Moído Pontões Vácuo 500g",
     "price": 12.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/216166-600-600/108974_1.png?v=638100905345730000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Meridiano Tradicional Torrado Grão 500g",
+    "price": 22.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205299-600-600/42835_1.png?v=638100735233830000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Meridiano Classico Torrado Grão 500g",
+    "price": 26.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249515-600-600/42812_10.png?v=638221727551370000",
     "market": "Carone"
   },
   {
@@ -1041,18 +1053,6 @@
     "name": "Café União Pouch Extra Forte 500g",
     "price": 11.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/236010-600-600/195267_1.png?v=638113098364530000",
-    "market": "Carone"
-  },
-  {
-    "name": "Café Torrado E Moído Chiara Gourmet 500g",
-    "price": 29.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/224145-600-600/135006_1.png?v=638100970313930000",
-    "market": "Carone"
-  },
-  {
-    "name": "Café Torrado Em Grão Campos Altos 500g",
-    "price": 35.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249499-600-600/131224_10.png?v=638221691393270000",
     "market": "Carone"
   },
   {
@@ -1686,15 +1686,15 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha De Mandioca Torrada Juju 1kg",
-    "price": 9.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/225203-600-600/131663_1.png?v=638100979871270000",
-    "market": "Carone"
-  },
-  {
     "name": "Farinha De Mandioca Leste Torrada 500g",
     "price": 5.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/229096-600-600/120735_1.png?v=638101010981900000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Torrada Juju 1kg",
+    "price": 9.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/225203-600-600/131663_1.png?v=638100979871270000",
     "market": "Carone"
   },
   {
@@ -1749,12 +1749,6 @@
     "name": "Biscoito Piraque Maltado Coberto 80g",
     "price": 4.29,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/149111_extrabom_biscoitos_biscoito-piraque-maltado-coberto-80g_6.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
-    "price": 4.59,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/58232_20211213111253_thumb_58232_Farinha_de_Trigo_Numero_Um_Embalagem_de_Papel_1kg.png",
     "market": "Extrabom"
   },
   {
@@ -1851,6 +1845,12 @@
     "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g_14.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Pão de Forma WickBold Estar Leve Integral 430g",
+    "price": 11.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17919_pao_de_forma_wickbold_estar_leve_bread_430g.jpg",
     "market": "Extrabom"
   },
   {

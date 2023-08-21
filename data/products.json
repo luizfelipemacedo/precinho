@@ -684,12 +684,6 @@
     "market": "Carone"
   },
   {
-    "name": "Feijão Carioca Nico 1kg",
-    "price": 4.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/233330-600-600/115968_1.png?v=638102976564530000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijão Carioca Produção Da Montanha 1kg",
     "price": 9.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/255468-600-600/109574_15.png?v=638253095694330000",
@@ -789,6 +783,12 @@
     "name": "Feijão Vermelho Lourenção 1kg",
     "price": 11.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210405-600-600/52296_1.png?v=638100821815070000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Vermelho Produto Da Montanha 1kg",
+    "price": 8.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199534-600-600/109580_1.png?v=638100282024800000",
     "market": "Carone"
   },
   {

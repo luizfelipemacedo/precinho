@@ -144,12 +144,6 @@
     "market": "Carone"
   },
   {
-    "name": "Bebida Vegetal Silk Amêndoa E Cacau 1l",
-    "price": 18.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/227512-600-600/128596_1.png?v=638100998077000000",
-    "market": "Carone"
-  },
-  {
     "name": "Bebida Vegetal Silk Castanha De Caju 1l",
     "price": 18.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/197516-600-600/130143_1.png?v=638100255101270000",
@@ -247,7 +241,7 @@
   },
   {
     "name": "Leite Longa Vida Itambé Nolac Desnatado Zero Lactose 1l",
-    "price": 9.19,
+    "price": 9.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/201193-600-600/100435_1.png?v=638100314504370000",
     "market": "Carone"
   },
@@ -261,6 +255,12 @@
     "name": "Leite Longa Vida Itambé Uht Integral 1l",
     "price": 6.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/212163-600-600/43790_99.png?v=638100854400700000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Longa Vida Leitissimo Integral Sachê 1l",
+    "price": 6.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/233491-600-600/123715_1.png?v=638102978303000000",
     "market": "Carone"
   },
   {
@@ -439,7 +439,7 @@
   },
   {
     "name": "Arroz Gourmet Japonês Sepé Tipo 1 1kg",
-    "price": 11.29,
+    "price": 11.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/195901-600-600/97986_1.png?v=638100232207270000",
     "market": "Carone"
   },
@@ -517,7 +517,7 @@
   },
   {
     "name": "Arroz Parboilizado Sepé Tipo 1 Pacote 1kg",
-    "price": 5.69,
+    "price": 6.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/207169-600-600/24100_1.png?v=638100765398670000",
     "market": "Carone"
   },
@@ -751,7 +751,7 @@
   },
   {
     "name": "Feijão Preto Livia Tipo 1kg",
-    "price": 8.19,
+    "price": 8.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/221804-600-600/120793_1.png?v=638100951455170000",
     "market": "Carone"
   },
@@ -1387,13 +1387,13 @@
   },
   {
     "name": "Chocolate Bis Xtra Black 45g",
-    "price": 3.39,
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/162907_extrabom_chocolates-especiais_chocolate-bis-xtra-black-45g_6.jpg",
     "market": "Extrabom"
   },
   {
     "name": "Chocolate Bis Xtra Oreo 45g",
-    "price": 3.39,
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/61901_extrabom_bomboniere_chocolate-bis-xtra-oreo-45g_6.jpg",
     "market": "Extrabom"
   },
@@ -1447,13 +1447,13 @@
   },
   {
     "name": "Chocolate Bis Black 100,8g",
-    "price": 7.79,
+    "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/98823_extrabom_chocolates-especiais_chocolate-bis-black-100-8g_6.jpg",
     "market": "Extrabom"
   },
   {
     "name": "Chocolate Bis Oreo 100,8g",
-    "price": 7.79,
+    "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/63823_extrabom_bomboniere_chocolate-bis-oreo-100-8g_6.jpg",
     "market": "Extrabom"
   },
@@ -1741,13 +1741,13 @@
   },
   {
     "name": "Chocolate Bis Xtra Black 45g",
-    "price": 3.39,
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/162907_extrabom_chocolates-especiais_chocolate-bis-xtra-black-45g_6.jpg",
     "market": "Extrabom"
   },
   {
     "name": "Chocolate Bis Xtra Oreo 45g",
-    "price": 3.39,
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/61901_extrabom_bomboniere_chocolate-bis-xtra-oreo-45g_6.jpg",
     "market": "Extrabom"
   },
@@ -1818,21 +1818,21 @@
     "market": "Extrabom"
   },
   {
-    "name": "Farinha de Trigo com Fermento Número Um 1Kg",
-    "price": 7.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8448_20211213112858_thumb_8448_Farinha_de_Trigo_com_Fermento_Numero_Um_1kg.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Chocolate Bis Black 100,8g",
-    "price": 7.79,
+    "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/98823_extrabom_chocolates-especiais_chocolate-bis-black-100-8g_6.jpg",
     "market": "Extrabom"
   },
   {
     "name": "Chocolate Bis Oreo 100,8g",
-    "price": 7.79,
+    "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/63823_extrabom_bomboniere_chocolate-bis-oreo-100-8g_6.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Farinha de Trigo com Fermento Número Um 1Kg",
+    "price": 7.39,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8448_20211213112858_thumb_8448_Farinha_de_Trigo_com_Fermento_Numero_Um_1kg.png",
     "market": "Extrabom"
   },
   {
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Farinha De Trigo Número 1 1kg",
-    "price": 4.29,
+    "price": 4.34,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249126-600-600/26266_99.png?v=638215966294970000",
     "market": "Carone"
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "name": "Farinha De Trigo Número 1 Papel 1kg",
-    "price": 4.29,
+    "price": 4.34,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249130-600-600/26278_99.png?v=638215966298400000",
     "market": "Carone"
   },

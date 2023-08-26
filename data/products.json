@@ -229,14 +229,8 @@
   },
   {
     "name": "Leite Longa Vida Damare Semi Desnatado 1l",
-    "price": 4.18,
+    "price": 3.95,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/231949-600-600/110132_1.png?v=638102961695900000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Longa Vida Itambé Integral Zero Lactose 1l",
-    "price": 6.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/201190-600-600/100434_99.png?v=638100314492330000",
     "market": "Carone"
   },
   {
@@ -261,6 +255,12 @@
     "name": "Leite Longa Vida Leitissimo Integral Sachê 1l",
     "price": 6.98,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233491-600-600/123715_1.png?v=638102978303000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Longa Vida Leitíssimo Desnatado 1l",
+    "price": 7.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/222189-600-600/112784_1.png?v=638100954643770000",
     "market": "Carone"
   },
   {
@@ -558,6 +558,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Feijão Carioca Zuppa Tipo 1 1Kg",
+    "price": 6.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173046_20220819153936_thumb_Feijao_Carioca_Zuppa_1kg.png",
+    "market": "Extrabom"
+  },
+  {
     "name": "Feijão Carioca Ranchinho 1kg",
     "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9011_20170517124553_thumb_9011_FeijaoRanchinhoCarioca1kg.jpg",
@@ -573,12 +579,6 @@
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9321_7896612700062.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Feijão Carioca Zuppa Tipo 1 1Kg",
-    "price": 7.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173046_20220819153936_thumb_Feijao_Carioca_Zuppa_1kg.png",
     "market": "Extrabom"
   },
   {
@@ -673,7 +673,7 @@
   },
   {
     "name": "Feijão Carioca Juju 1kg",
-    "price": 6.99,
+    "price": 6.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/209868-600-600/72443_1.png?v=638100811744600000",
     "market": "Carone"
   },
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "Açúcar Cristal Santa Isabel 5kg",
-    "price": 17.99,
+    "price": 18.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249166-600-600/47082_99.png?v=638216506472900000",
     "market": "Carone"
   },
@@ -1914,6 +1914,12 @@
     "market": "Carone"
   },
   {
+    "name": "PRODUTO PRÓXIMO DO VENCIMENTO\n(sujeito à disponibilidade de estoque)\nMacarrão Instantâneo Nissin Miojo Turma da Mônica Milho na Manteiga 75G",
+    "price": 0.84,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171767_extrabom_massas-instantaneas_macarrao-instantaneo-nissin-miojo-turma-da-monica-milho-na-manteiga-75g.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Macarrão Instantâneo Express Renata Carne 85g",
     "price": 1.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/111058_20200305133521_thumb_111058_Macarrao_Instantaneo_Express_Renata_Carne_85g.png",
@@ -1947,12 +1953,6 @@
     "name": "Macarrão Instantâneo Santa Amália Galinha Caipira 85G",
     "price": 1.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10369_20170725085058_thumb_10369_MacarraoInstantaneoSantaAmaliaGalinhaCaipira85g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Macarrão Instantâneo Nissin Miojo Turma da Mônica Milho na Manteiga 75G",
-    "price": 2.59,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171767_extrabom_massas-instantaneas_macarrao-instantaneo-nissin-miojo-turma-da-monica-milho-na-manteiga-75g.jpg",
     "market": "Extrabom"
   },
   {

@@ -253,13 +253,13 @@
   },
   {
     "name": "Leite Longa Vida Leitissimo Integral Sachê 1l",
-    "price": 6.98,
+    "price": 7.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233491-600-600/123715_1.png?v=638102978303000000",
     "market": "Carone"
   },
   {
     "name": "Leite Longa Vida Leitíssimo Desnatado 1l",
-    "price": 7.98,
+    "price": 9.69,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/222189-600-600/112784_1.png?v=638100954643770000",
     "market": "Carone"
   },
@@ -403,7 +403,7 @@
   },
   {
     "name": "Arroz Branco Prato Fino Tipo 1 5kg",
-    "price": 31.79,
+    "price": 29.9,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/211057-600-600/55040_1.png?v=638100834900130000",
     "market": "Carone"
   },
@@ -492,12 +492,6 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Para Risoto Camil Culinária Italiana 1kg",
-    "price": 23.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/213186-600-600/71012_1.png?v=638100871598130000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Para Risoto Palmares Tipo 1 1kg",
     "price": 11.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/235933-600-600/193346_1.png?v=638113056655370000",
@@ -525,6 +519,12 @@
     "name": "Arroz Parboilizado Tio João Tipo 1 Pacote 1kg",
     "price": 6.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/208999-600-600/33501_1.png?v=638100797886970000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Parboilizado Tio João Tipo 1 Pacote 2kg",
+    "price": 13.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/215540-600-600/80122_1.png?v=638100900260770000",
     "market": "Carone"
   },
   {
@@ -955,13 +955,13 @@
   },
   {
     "name": "Café Cafuso Extraforte 500g",
-    "price": 11.98,
+    "price": 12.38,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220317-600-600/124423_1.png?v=638100939164770000",
     "market": "Carone"
   },
   {
     "name": "Café Cafuso Tradicional 500g",
-    "price": 11.98,
+    "price": 12.38,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210562-600-600/24918_1.png?v=638100825331570000",
     "market": "Carone"
   },
@@ -1015,13 +1015,13 @@
   },
   {
     "name": "Café Número 1 Extraforte Almofada 500g",
-    "price": 11.98,
+    "price": 11.56,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249128-600-600/131769_99.png?v=638215966297300000",
     "market": "Carone"
   },
   {
     "name": "Café Número 1 Tradicional 500g",
-    "price": 11.98,
+    "price": 11.56,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249136-600-600/26260_99.png?v=638215966351330000",
     "market": "Carone"
   },
@@ -1117,7 +1117,7 @@
   },
   {
     "name": "Açúcar Mascavo Da Colônia 1kg",
-    "price": 14.99,
+    "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/112063_20191217123545_thumb_112063ACUCARMASCAVODACOLONIA1KG.png",
     "market": "Extrabom"
   },
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "Açúcar Cristal Santa Isabel 5kg",
-    "price": 18.29,
+    "price": 18.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249166-600-600/47082_99.png?v=638216506472900000",
     "market": "Carone"
   },
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "Açúcar União Refinado Especial 1kg",
-    "price": 5.49,
+    "price": 4.7,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/251919-600-600/25472_1.png?v=638227806095570000",
     "market": "Carone"
   },
@@ -1446,6 +1446,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Oleo Composto Faisão 200ML",
+    "price": 7.39,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137493_20211119085521_thumb_137493_Oleo_Composto_Faisao_200ML.png",
+    "market": "Extrabom"
+  },
+  {
     "name": "Chocolate Bis Black 100,8g",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/98823_extrabom_chocolates-especiais_chocolate-bis-black-100-8g_6.jpg",
@@ -1455,12 +1461,6 @@
     "name": "Chocolate Bis Oreo 100,8g",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/63823_extrabom_bomboniere_chocolate-bis-oreo-100-8g_6.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Oleo Composto Faisão 200ML",
-    "price": 7.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137493_20211119085521_thumb_137493_Oleo_Composto_Faisao_200ML.png",
     "market": "Extrabom"
   },
   {
@@ -1476,12 +1476,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Margarina cremosa com sal Qualy pote 500g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados :Contem",
-    "price": 9.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/102_extrabom_margarinas_margarina-cremosa-com-sal-qualy-pote-500g_2.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Margarina cremosa sem sal Qualy pote 500g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Gordura Vegetal : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados : Contém",
     "price": 10.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/42219_extrabom_margarinas_margarina-cremosa-sem-sal-qualy-pote-500g.jpg",
@@ -1491,6 +1485,12 @@
     "name": "Molho Especial Strogonoff Fugini Sachê 290G\nOs Molhos Gourmet FUGINI são opções requintadas e deliciosas para incrementar seus pratos. Super práticos, basta aquecer e pronto!",
     "price": 10.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/12458_20200221103403_thumb_12458_Molho_Especial_Strogonoff_Fugini_Sache_290G.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Margarina cremosa com sal Qualy pote 500g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados :Contem",
+    "price": 10.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/102_extrabom_margarinas_margarina-cremosa-com-sal-qualy-pote-500g_2.jpg",
     "market": "Extrabom"
   },
   {
@@ -1663,7 +1663,7 @@
   },
   {
     "name": "Farinha De Mandioca Amarela Tipo 1 Ana 1kg",
-    "price": 7.99,
+    "price": 7.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/236160-600-600/194986_1.png?v=638113842761970000",
     "market": "Carone"
   },
@@ -1735,7 +1735,7 @@
   },
   {
     "name": "Farinha Mandioca Juju 1kg",
-    "price": 5.79,
+    "price": 5.48,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/232624-600-600/72447_1.png?v=638102969755430000",
     "market": "Carone"
   },
@@ -1914,12 +1914,6 @@
     "market": "Carone"
   },
   {
-    "name": "PRODUTO PRÓXIMO DO VENCIMENTO\n(sujeito à disponibilidade de estoque)\nMacarrão Instantâneo Nissin Miojo Turma da Mônica Milho na Manteiga 75G",
-    "price": 0.84,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171767_extrabom_massas-instantaneas_macarrao-instantaneo-nissin-miojo-turma-da-monica-milho-na-manteiga-75g.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Macarrão Instantâneo Express Renata Carne 85g",
     "price": 1.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/111058_20200305133521_thumb_111058_Macarrao_Instantaneo_Express_Renata_Carne_85g.png",
@@ -1953,6 +1947,12 @@
     "name": "Macarrão Instantâneo Santa Amália Galinha Caipira 85G",
     "price": 1.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10369_20170725085058_thumb_10369_MacarraoInstantaneoSantaAmaliaGalinhaCaipira85g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Macarrão Instantâneo Nissin Miojo Turma da Mônica Milho na Manteiga 75G",
+    "price": 2.59,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171767_extrabom_massas-instantaneas_macarrao-instantaneo-nissin-miojo-turma-da-monica-milho-na-manteiga-75g.jpg",
     "market": "Extrabom"
   },
   {

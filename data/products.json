@@ -234,6 +234,12 @@
     "market": "Carone"
   },
   {
+    "name": "Leite Longa Vida Itambé Integral Zero Lactose 1l",
+    "price": 9.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/201190-600-600/100434_99.png?v=638100314492330000",
+    "market": "Carone"
+  },
+  {
     "name": "Leite Longa Vida Itambé Nolac Desnatado Zero Lactose 1l",
     "price": 9.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/201193-600-600/100435_1.png?v=638100314504370000",
@@ -255,12 +261,6 @@
     "name": "Leite Longa Vida Leitissimo Integral Sachê 1l",
     "price": 7.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233491-600-600/123715_1.png?v=638102978303000000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Longa Vida Leitíssimo Desnatado 1l",
-    "price": 9.69,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/222189-600-600/112784_1.png?v=638100954643770000",
     "market": "Carone"
   },
   {
@@ -504,6 +504,12 @@
     "market": "Carone"
   },
   {
+    "name": "Arroz Parboilizado Integral Rampinelli 1kg",
+    "price": 5.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203958-600-600/26642_1.png?v=638100352135430000",
+    "market": "Carone"
+  },
+  {
     "name": "Arroz Parboilizado Sepé Tipo 1 Integral 1kg",
     "price": 6.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/214471-600-600/99806_1.png?v=638100891724800000",
@@ -519,12 +525,6 @@
     "name": "Arroz Parboilizado Tio João Tipo 1 Pacote 1kg",
     "price": 6.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/208999-600-600/33501_1.png?v=638100797886970000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Parboilizado Tio João Tipo 1 Pacote 2kg",
-    "price": 13.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/215540-600-600/80122_1.png?v=638100900260770000",
     "market": "Carone"
   },
   {
@@ -1200,6 +1200,12 @@
     "market": "Carone"
   },
   {
+    "name": "Açúcar Demerara Caravelas 1kg",
+    "price": 5.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219850-600-600/118772_1.png?v=638100935535730000",
+    "market": "Carone"
+  },
+  {
     "name": "Açúcar Demerara Guarani 1kg",
     "price": 3.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/224596-600-600/133536_1.png?v=638100974643130000",
@@ -1293,12 +1299,6 @@
     "name": "Açúcar União Orgânico 1kg",
     "price": 10.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/251917-600-600/29514_1.png?v=638227806094600000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar União Refinado Especial 1kg",
-    "price": 4.7,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/251919-600-600/25472_1.png?v=638227806095570000",
     "market": "Carone"
   },
   {
@@ -2160,21 +2160,21 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Nissin Lámen Cremoso Molho De Queijo 88g",
-    "price": 2.55,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/227732-600-600/128733_1.png?v=638101000114400000",
-    "market": "Carone"
-  },
-  {
     "name": "Macarrão Instantâneo Nissin Lámen Cremoso Picanha 85g",
     "price": 2.55,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/206923-600-600/33881_1.png?v=638100760908800000",
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Nissin Lámen Frango Assado Toque De Limão 85g",
+    "name": "Macarrão Instantâneo Nissin Lámen Galinha Caipira 85g",
     "price": 2.55,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/215025-600-600/101326_1.png?v=638100896063400000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/204320-600-600/12534_1.png?v=638100358655000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantâneo Nissin Lámen Hot Calabresa 85g",
+    "price": 2.69,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207928-600-600/63621_1.png?v=638100778615770000",
     "market": "Carone"
   }
 ]

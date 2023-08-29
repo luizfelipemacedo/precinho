@@ -229,7 +229,7 @@
   },
   {
     "name": "Leite Longa Vida Damare Semi Desnatado 1l",
-    "price": 3.95,
+    "price": 4.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/231949-600-600/110132_1.png?v=638102961695900000",
     "market": "Carone"
   },
@@ -816,12 +816,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Café Meridiano Extra Forte 500G",
-    "price": 12.59,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8324_20170725093603_thumb_8324_cafe_meridiano_extra_forte_almofada_500g.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Café Cafuso 500G",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
@@ -867,6 +861,12 @@
     "name": "Café Tunico Blend 500g",
     "price": 15.59,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Café Meridiano Extra Forte 500G",
+    "price": 15.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8324_20170725093603_thumb_8324_cafe_meridiano_extra_forte_almofada_500g.jpg",
     "market": "Extrabom"
   },
   {
@@ -1123,7 +1123,7 @@
   },
   {
     "name": "Açúcar Cristal Alcon 5Kg",
-    "price": 15.99,
+    "price": 16.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/39157_acucar_cristal_alcon_5kg.jpg",
     "market": "Extrabom"
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "Cesta Básica Nossa Cesta Und.",
-    "price": 80.6,
+    "price": 80.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1290,15 +1290,15 @@
     "market": "Carone"
   },
   {
-    "name": "Açúcar Refinado Santa Isabel Extrafino 1kg",
-    "price": 4.19,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/220499-600-600/119292_1.png?v=638100940753470000",
-    "market": "Carone"
-  },
-  {
     "name": "Açúcar União Orgânico 1kg",
     "price": 10.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/251917-600-600/29514_1.png?v=638227806094600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar União Refinado Especial 1kg",
+    "price": 4.7,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/251919-600-600/25472_1.png?v=638227806095570000",
     "market": "Carone"
   },
   {
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "Cesta Básica Nossa Cesta Und.",
-    "price": 80.6,
+    "price": 80.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1639,7 +1639,7 @@
   },
   {
     "name": "Cesta Básica Nossa Cesta Und.",
-    "price": 80.6,
+    "price": 80.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -2160,6 +2160,12 @@
     "market": "Carone"
   },
   {
+    "name": "Macarrão Instantâneo Nissin Lámen Cremoso Molho De Queijo 88g",
+    "price": 2.55,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/227732-600-600/128733_1.png?v=638101000114400000",
+    "market": "Carone"
+  },
+  {
     "name": "Macarrão Instantâneo Nissin Lámen Cremoso Picanha 85g",
     "price": 2.55,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/206923-600-600/33881_1.png?v=638100760908800000",
@@ -2169,12 +2175,6 @@
     "name": "Macarrão Instantâneo Nissin Lámen Galinha Caipira 85g",
     "price": 2.55,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/204320-600-600/12534_1.png?v=638100358655000000",
-    "market": "Carone"
-  },
-  {
-    "name": "Macarrão Instantâneo Nissin Lámen Hot Calabresa 85g",
-    "price": 2.69,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207928-600-600/63621_1.png?v=638100778615770000",
     "market": "Carone"
   }
 ]

@@ -216,6 +216,12 @@
     "market": "Carone"
   },
   {
+    "name": "Leite Integral Piracanjuba Pirakids Zero Lactose 1l",
+    "price": 6.69,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/230766-600-600/112559_99.png?v=638101024265930000",
+    "market": "Carone"
+  },
+  {
     "name": "Leite Integral Uht Longa Vida Porto Alegre 1l",
     "price": 4.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/247954-600-600/90742_99.png?v=638200135933800000",
@@ -229,14 +235,8 @@
   },
   {
     "name": "Leite Longa Vida Damare Semi Desnatado 1l",
-    "price": 4.19,
+    "price": 3.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/231949-600-600/110132_1.png?v=638102961695900000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Longa Vida Itambé Integral Zero Lactose 1l",
-    "price": 5.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/201190-600-600/100434_99.png?v=638100314492330000",
     "market": "Carone"
   },
   {
@@ -409,7 +409,7 @@
   },
   {
     "name": "Arroz Branco Prato Fino Tipo 1 5kg",
-    "price": 30.9,
+    "price": 32.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/211057-600-600/55040_1.png?v=638100834900130000",
     "market": "Carone"
   },
@@ -655,7 +655,7 @@
   },
   {
     "name": "Feijao Preto Tp1 Combrasil 1kg",
-    "price": 7.78,
+    "price": 7.65,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/204668-600-600/27736_1.png?v=638100363834500000",
     "market": "Carone"
   },
@@ -733,13 +733,13 @@
   },
   {
     "name": "Feijão Preto Imigrante 1kg",
-    "price": 6.48,
+    "price": 6.78,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/223247-600-600/121751_1.png?v=638100963265700000",
     "market": "Carone"
   },
   {
     "name": "Feijão Preto Juju 1kg",
-    "price": 6.89,
+    "price": 7.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/209873-600-600/72445_1.png?v=638100811776800000",
     "market": "Carone"
   },
@@ -913,19 +913,19 @@
   },
   {
     "name": "Cafe Tm 3corac 500g Trad",
-    "price": 18.59,
+    "price": 15.78,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/208051-600-600/30293_1.png?v=638100780352600000",
     "market": "Carone"
   },
   {
     "name": "Café 3 Corações Torrado E Moído A Vácuo Extraforte Pacote 500g",
-    "price": 18.59,
+    "price": 15.78,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/200568-600-600/136798_1.png?v=638100305448030000",
     "market": "Carone"
   },
   {
     "name": "Café 3 Corações Torrado E Moído A Vácuo Tradicional Pacote 500g",
-    "price": 18.59,
+    "price": 15.78,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/200541-600-600/136797_1.png?v=638100305043130000",
     "market": "Carone"
   },
@@ -937,7 +937,7 @@
   },
   {
     "name": "Café 3 Corações Torrado E Moído Extraforte Pacote 500g",
-    "price": 18.59,
+    "price": 15.78,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/205342-600-600/20416_1.png?v=638100735888500000",
     "market": "Carone"
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "Cesta Básica Nossa Cesta Und.",
-    "price": 82.59,
+    "price": 81.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1333,7 +1333,7 @@
   },
   {
     "name": "Cesta Básica Nossa Cesta Und.",
-    "price": 82.59,
+    "price": 81.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1353,12 +1353,6 @@
     "name": "Sal Refinado Globo Light 500g",
     "price": 8.89,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210177-600-600/73596_1.png?v=638100817844530000",
-    "market": "Carone"
-  },
-  {
-    "name": "Sal Refinado Lebre 1kg",
-    "price": 2.69,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/214364-600-600/75399_1.png?v=638100889906200000",
     "market": "Carone"
   },
   {
@@ -1501,7 +1495,7 @@
   },
   {
     "name": "Oleo Soja Soya 900ml Pet",
-    "price": 5.49,
+    "price": 5.35,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/211252-600-600/26042_1.png?v=638100838037230000",
     "market": "Carone"
   },
@@ -1513,7 +1507,7 @@
   },
   {
     "name": "Óleo De Soja Abc 900ml",
-    "price": 5.89,
+    "price": 4.95,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233621-600-600/121886_1.png?v=638102979436570000",
     "market": "Carone"
   },
@@ -1633,7 +1627,7 @@
   },
   {
     "name": "Cesta Básica Nossa Cesta Und.",
-    "price": 82.59,
+    "price": 81.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1723,7 +1717,7 @@
   },
   {
     "name": "Farinha Mandioca Juju 1kg",
-    "price": 5.48,
+    "price": 5.45,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/232624-600-600/72447_1.png?v=638102969755430000",
     "market": "Carone"
   },
@@ -1861,7 +1855,7 @@
   },
   {
     "name": "Farinha De Trigo Número 1 1kg",
-    "price": 4.38,
+    "price": 4.25,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249126-600-600/26266_99.png?v=638215966294970000",
     "market": "Carone"
   },
@@ -1873,13 +1867,13 @@
   },
   {
     "name": "Farinha De Trigo Número 1 Papel 1kg",
-    "price": 4.38,
+    "price": 4.25,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249130-600-600/26278_99.png?v=638215966298400000",
     "market": "Carone"
   },
   {
     "name": "Farinha De Trigo Regina 1kg",
-    "price": 6.28,
+    "price": 5.75,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249135-600-600/26267_99.png?v=638215966350870000",
     "market": "Carone"
   },

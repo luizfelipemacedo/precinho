@@ -210,12 +210,6 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Fiore Semidesnatado Zero Lactose Sachê 1l",
-    "price": 9.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/230768-600-600/128319_1.png?v=638101024273400000",
-    "market": "Carone"
-  },
-  {
     "name": "Leite Integral Piracanjuba Pirakids Zero Lactose 1l",
     "price": 6.69,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/230766-600-600/112559_99.png?v=638101024265930000",
@@ -261,6 +255,12 @@
     "name": "Leite Longa Vida Leitissimo Integral Sachê 1l",
     "price": 6.98,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233491-600-600/123715_1.png?v=638102978303000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Longa Vida Leitíssimo Desnatado 1l",
+    "price": 7.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/222189-600-600/112784_1.png?v=638100954643770000",
     "market": "Carone"
   },
   {
@@ -594,12 +594,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
-    "price": 8.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Feijão Fradinho Nico Tipo 1 kg",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/107919_20210126174137_thumb_Feijao_Fradinho_Nico_Tipo_1_kg.png",
@@ -607,8 +601,14 @@
   },
   {
     "name": "Feijão Carioca Combrasil 1kg",
-    "price": 9.49,
+    "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8615_7896101062022.JPG",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
+    "price": 9.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
     "market": "Extrabom"
   },
   {
@@ -769,7 +769,7 @@
   },
   {
     "name": "Feijão Preto Tipo 1 Qui Feijão 1kg",
-    "price": 5.58,
+    "price": 6.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/209749-600-600/51310_1.png?v=638100809256000000",
     "market": "Carone"
   },
@@ -1063,13 +1063,13 @@
   },
   {
     "name": "Açúcar Refinado Caravelas 1Kg",
-    "price": 4.99,
+    "price": 4.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/79862_20170901084633_thumb_79862_AcucarRefinadoCaravelas1kg__2.jpg",
     "market": "Extrabom"
   },
   {
     "name": "Açúcar Refinado União 1Kg",
-    "price": 5.39,
+    "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
     "market": "Extrabom"
   },
@@ -1087,14 +1087,8 @@
   },
   {
     "name": "Açúcar Cristal Alcon 2kg",
-    "price": 7.79,
+    "price": 7.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/39156_20170705144313_thumb_39156_acucar_cristal_alcon_2kg.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Açúcar Cristal Santa Isabel 2Kg",
-    "price": 7.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
     "market": "Extrabom"
   },
   {
@@ -1107,6 +1101,12 @@
     "name": "Açúcar Cristal Orgânico União 1Kg",
     "price": 8.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10077_7891910020034.JPG",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Açúcar Cristal Santa Isabel 2Kg",
+    "price": 8.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
     "market": "Extrabom"
   },
   {
@@ -1374,6 +1374,12 @@
     "market": "Carone"
   },
   {
+    "name": "Biscoito recheado Mini Oreo original 35g",
+    "price": 2.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_12.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Chocolate Bis Xtra Black 45g",
     "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/162907_extrabom_chocolates-especiais_chocolate-bis-xtra-black-45g_6.jpg",
@@ -1383,6 +1389,18 @@
     "name": "Chocolate Bis Xtra Oreo 45g",
     "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/61901_extrabom_bomboniere_chocolate-bis-xtra-oreo-45g_6.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Biscoito recheado Oreo chocolate 90g",
+    "price": 4.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_18.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Biscoito recheado Oreo original 90g",
+    "price": 4.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22370_extrabom_biscoitos_biscoito-recheado-oreo-original-90g_18.jpg",
     "market": "Extrabom"
   },
   {
@@ -1458,39 +1476,21 @@
     "market": "Extrabom"
   },
   {
+    "name": "Biscoito recheado Oreo milkshake de morango multipack 144g",
+    "price": 7.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g_14.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Biscoito recheado Oreo original multipack 144g",
+    "price": 7.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54202_extrabom_biscoitos_biscoito-recheado-oreo-original-multipack-144g_14.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Biscoito recheado Oreo chocolate multipack 144g",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54201_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-multipack-144g_14.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Margarina cremosa com sal Qualy pote 500g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados :Contem",
-    "price": 9.13,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/102_extrabom_margarinas_margarina-cremosa-com-sal-qualy-pote-500g_2.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Margarina cremosa sem sal Qualy pote 500g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Gordura Vegetal : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados : Contém",
-    "price": 10.59,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/42219_extrabom_margarinas_margarina-cremosa-sem-sal-qualy-pote-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Molho Especial Strogonoff Fugini Sachê 290G\nOs Molhos Gourmet FUGINI são opções requintadas e deliciosas para incrementar seus pratos. Super práticos, basta aquecer e pronto!",
-    "price": 10.59,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/12458_20200221103403_thumb_12458_Molho_Especial_Strogonoff_Fugini_Sache_290G.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Maionese Hellmann's Light 500G\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
-    "price": 10.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g_35.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Queijo Parmesão de Castanha de Caju Ralado Vida Veg 50G",
-    "price": 12.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174229_extrabom_queijos_queijo-parmesao-de-castanha-de-caju-ralado-vida-veg-50g_2.jpg",
     "market": "Extrabom"
   },
   {
@@ -1722,6 +1722,12 @@
     "market": "Carone"
   },
   {
+    "name": "Biscoito recheado Mini Oreo original 35g",
+    "price": 2.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_12.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Chocolate Bis Xtra Black 45g",
     "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/162907_extrabom_chocolates-especiais_chocolate-bis-xtra-black-45g_6.jpg",
@@ -1755,6 +1761,18 @@
     "name": "Farinha de Trigo Número Um 1Kg",
     "price": 4.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Biscoito recheado Oreo chocolate 90g",
+    "price": 4.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_18.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Biscoito recheado Oreo original 90g",
+    "price": 4.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22370_extrabom_biscoitos_biscoito-recheado-oreo-original-90g_18.jpg",
     "market": "Extrabom"
   },
   {
@@ -1821,24 +1839,6 @@
     "name": "Chocolate Bis Oreo 100,8g",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/63823_extrabom_bomboniere_chocolate-bis-oreo-100-8g_6.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Farinha de Trigo Regina Integral 1kg",
-    "price": 7.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/33759_20230606165509_thumb_Sem_titulo0088.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "MAGGI Toque Defumado Tempero Vidro 85G",
-    "price": 7.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/155906_extrabom_tempero-maggi-toque-defumado-95g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
-    "price": 7.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png",
     "market": "Extrabom"
   },
   {
@@ -2035,7 +2035,7 @@
   },
   {
     "name": "Macarrão Instantaneo Renata Legumes 85g",
-    "price": 1.24,
+    "price": 1.69,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/206173-600-600/22947_1.png?v=638100749718200000",
     "market": "Carone"
   },

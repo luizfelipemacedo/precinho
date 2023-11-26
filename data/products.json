@@ -198,6 +198,12 @@
     "market": "Carone"
   },
   {
+    "name": "Bebida À Base De Castanha Mixed Nuts A Tal Da Castanha Caixa 1l",
+    "price": 23.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226745-600-600/134470_1.png?v=638100991987930000",
+    "market": "Carone"
+  },
+  {
     "name": "Sorvete Baton Duo Chocolate Preto + Chocolate Branco Garoto Pote 1l",
     "price": 33.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/216952-600-600/138206_99.png?v=638100912056570000",
@@ -222,6 +228,12 @@
     "market": "Carone"
   },
   {
+    "name": "Leite Uht Integral Damare Caixa 1l",
+    "price": 3.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247952-600-600/110130_99.png?v=638200135932070000",
+    "market": "Carone"
+  },
+  {
     "name": "Leite Selita Longa Vida Integral 1l",
     "price": 3.85,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/247940-600-600/21242_99.png?v=638200099716500000",
@@ -240,12 +252,6 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Uht Integral Damare Caixa 1l",
-    "price": 3.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247952-600-600/110130_99.png?v=638200135932070000",
-    "market": "Carone"
-  },
-  {
     "name": "Leite Uht Desnatado Porto Alegre 1l",
     "price": 3.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/247951-600-600/90741_99.png?v=638200135931600000",
@@ -255,12 +261,6 @@
     "name": "Leite Uht Integral Italac Caixa 1l",
     "price": 3.89,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/247941-600-600/85239_99.png?v=638200099725700000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Uht Selita Desnatado Com Tampa 1l",
-    "price": 3.85,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247988-600-600/21239_99.png?v=638200207963900000",
     "market": "Carone"
   },
   {
@@ -414,18 +414,6 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Italiana Capone Carnaroli 1kg",
-    "price": 39.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219152-600-600/190834_1.png?v=638100929956930000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Japonês Mirokumai Curto 5kg",
-    "price": 104.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/228088-600-600/130237_1.png?v=638101003159300000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Italiano Capone Arborio 1kg",
     "price": 29.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/219159-600-600/190836_1.png?v=638100930009030000",
@@ -441,6 +429,18 @@
     "name": "Arroz Italiano Campiverdi Carnaroli 1kg",
     "price": 28.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/234117-600-600/125619_1.png?v=638102983402670000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Italiana Capone Carnaroli 1kg",
+    "price": 39.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219152-600-600/190834_1.png?v=638100929956930000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Japonês Mirokumai Curto 5kg",
+    "price": 104.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/228088-600-600/130237_1.png?v=638101003159300000",
     "market": "Carone"
   },
   {
@@ -504,27 +504,27 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Integral Jasmine Agulhinha 1kg",
-    "price": 15.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/212046-600-600/28921_1.png?v=638100852380430000",
+    "name": "Arroz Parboilizado Integral Rampinelli 1kg",
+    "price": 6.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203958-600-600/26642_1.png?v=638100352135430000",
     "market": "Carone"
   },
   {
-    "name": "Arroz Sepé Gourmet Japonês 5kg",
-    "price": 57.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/216059-600-600/94598_1.png?v=638100904435900000",
+    "name": "Arroz Parb Tp1 Rampineli 5kg",
+    "price": 25.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210635-600-600/25271_1.png?v=638100826678330000",
     "market": "Carone"
   },
   {
-    "name": "Arroz Sepé Gourmet Integral 5kg",
-    "price": 37.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/214179-600-600/99502_1.png?v=638100887065300000",
+    "name": "Arroz Integral Bella Dica 1kg",
+    "price": 6.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/195902-600-600/97891_1.png?v=638100232207870000",
     "market": "Carone"
   },
   {
-    "name": "Arroz Tio Urbano Arborio 1kg",
-    "price": 31.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/232604-600-600/84927_1.png?v=638102969494900000",
+    "name": "Arroz Calafate Gran Reserva 1kg",
+    "price": 6.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209946-600-600/35011_1.png?v=638100813136330000",
     "market": "Carone"
   },
   {
@@ -846,12 +846,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Café Pilão Vácuo 500G",
-    "price": 13.78,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7999_20221103135801_thumb_cafe_pilao_a_vacuo_tradicional_500g.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Café 3 Corações Tradicional Vácuo 500G",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-3-coracoes-tradicional-vacuo-500g.jpg",
@@ -1051,7 +1045,7 @@
   },
   {
     "name": "Café Torrado E Moído Pontões Vácuo 500g",
-    "price": 12.79,
+    "price": 11.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/216166-600-600/108974_1.png?v=638100905345730000",
     "market": "Carone"
   },

@@ -288,12 +288,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Arroz Integral Calafate 1kg",
-    "price": 7.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19247_7896010355055.JPG",
-    "market": "Extrabom"
-  },
-  {
     "name": "Arroz Integral Parboilizado Gourmet Sepé 1kg",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/31632_20231103123006_thumb_Sem_titulo11.png",
@@ -384,6 +378,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Arroz Tio João Orgânico 1kg",
+    "price": 14.99,
+    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "market": "Extrabom"
+  },
+  {
     "name": "Farinha De Arroz Urbano 1kg",
     "price": 13.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/209179-600-600/84922_1.png?v=638100800915400000",
@@ -414,6 +414,18 @@
     "market": "Carone"
   },
   {
+    "name": "Arroz Italiana Capone Carnaroli 1kg",
+    "price": 39.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219152-600-600/190834_1.png?v=638100929956930000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Japonês Mirokumai Curto 5kg",
+    "price": 104.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/228088-600-600/130237_1.png?v=638101003159300000",
+    "market": "Carone"
+  },
+  {
     "name": "Arroz Italiano Capone Arborio 1kg",
     "price": 29.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/219159-600-600/190836_1.png?v=638100930009030000",
@@ -429,18 +441,6 @@
     "name": "Arroz Italiano Campiverdi Carnaroli 1kg",
     "price": 28.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/234117-600-600/125619_1.png?v=638102983402670000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Italiana Capone Carnaroli 1kg",
-    "price": 39.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219152-600-600/190834_1.png?v=638100929956930000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Japonês Mirokumai Curto 5kg",
-    "price": 104.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/228088-600-600/130237_1.png?v=638101003159300000",
     "market": "Carone"
   },
   {
@@ -504,27 +504,27 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Parboilizado Integral Rampinelli 1kg",
-    "price": 6.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203958-600-600/26642_1.png?v=638100352135430000",
+    "name": "Arroz Integral Jasmine Agulhinha 1kg",
+    "price": 15.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/212046-600-600/28921_1.png?v=638100852380430000",
     "market": "Carone"
   },
   {
-    "name": "Arroz Parb Tp1 Rampineli 5kg",
-    "price": 25.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210635-600-600/25271_1.png?v=638100826678330000",
+    "name": "Arroz Sepé Gourmet Japonês 5kg",
+    "price": 57.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/216059-600-600/94598_1.png?v=638100904435900000",
     "market": "Carone"
   },
   {
-    "name": "Arroz Integral Bella Dica 1kg",
-    "price": 6.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/195902-600-600/97891_1.png?v=638100232207870000",
+    "name": "Arroz Sepé Gourmet Integral 5kg",
+    "price": 37.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/214179-600-600/99502_1.png?v=638100887065300000",
     "market": "Carone"
   },
   {
-    "name": "Arroz Calafate Gran Reserva 1kg",
-    "price": 6.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209946-600-600/35011_1.png?v=638100813136330000",
+    "name": "Arroz Tio Urbano Arborio 1kg",
+    "price": 31.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/232604-600-600/84927_1.png?v=638102969494900000",
     "market": "Carone"
   },
   {
@@ -954,12 +954,6 @@
     "market": "Carone"
   },
   {
-    "name": "Café À Vácuo Meridiano Extraforte 500g",
-    "price": 11.78,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/206956-600-600/34753_1.png?v=638100761372230000",
-    "market": "Carone"
-  },
-  {
     "name": "Café Número 1 Tradicional 500g",
     "price": 10.76,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249136-600-600/26260_99.png?v=638215966351330000",
@@ -969,6 +963,12 @@
     "name": "Café Torrado Moído Carnielli 500g",
     "price": 41.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203803-600-600/38818_1.png?v=638100349935800000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café À Vácuo Meridiano Extraforte 500g",
+    "price": 11.78,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/206956-600-600/34753_1.png?v=638100761372230000",
     "market": "Carone"
   },
   {
@@ -1491,12 +1491,6 @@
     "name": "Oleo De Soja 900ml Cesta",
     "price": 6.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/248424-600-600/155510_1.png?v=638203604159630000",
-    "market": "Carone"
-  },
-  {
-    "name": "Óleo De Soja Liza Pet 900ml",
-    "price": 6.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/235719-600-600/20413_1.png?v=638111106130800000",
     "market": "Carone"
   },
   {

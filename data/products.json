@@ -144,12 +144,6 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Fiore Semidesnatado Zero Lactose Sachê 1l",
-    "price": 9.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/230768-600-600/128319_1.png?v=638101024273400000",
-    "market": "Carone"
-  },
-  {
     "name": "Sorvete Perfetto Variatta Leite Trufado Leve 2l, Pague 1,8l",
     "price": 27.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/199810-600-600/111715_1.png?v=638100286817770000",
@@ -210,15 +204,15 @@
     "market": "Carone"
   },
   {
-    "name": "Bebida À Base De Castanha Mixed Nuts A Tal Da Castanha Caixa 1l",
-    "price": 23.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226745-600-600/134470_1.png?v=638100991987930000",
-    "market": "Carone"
-  },
-  {
     "name": "Bebida De Castanha De Caju Orgânica Original A Tal Da Castanha Caixa 1l",
     "price": 23.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/215021-600-600/101347_1.png?v=638100896037900000",
+    "market": "Carone"
+  },
+  {
+    "name": "Bebida À Base De Castanha Mixed Nuts A Tal Da Castanha Caixa 1l",
+    "price": 23.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226745-600-600/134470_1.png?v=638100991987930000",
     "market": "Carone"
   },
   {
@@ -246,26 +240,32 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Selita Longa Vida Integral 1l",
-    "price": 3.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247940-600-600/21242_99.png?v=638200099716500000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Uht Selita Semidesnatado Com Tampa 1l",
-    "price": 3.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247955-600-600/21247_99.png?v=638200135935670000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Lv Semi Des Damare 1l",
+    "name": "Leite Uht Integral Damare Caixa 1l",
     "price": 3.58,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/231949-600-600/110132_1.png?v=638102961695900000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247952-600-600/110130_99.png?v=638200135932070000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Uht Desnatado Porto Alegre 1l",
+    "price": 3.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247951-600-600/90741_99.png?v=638200135931600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Uht Integral Italac Caixa 1l",
+    "price": 3.89,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247941-600-600/85239_99.png?v=638200099725700000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Uht Selita Desnatado Com Tampa 1l",
+    "price": 3.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247988-600-600/21239_99.png?v=638200207963900000",
     "market": "Carone"
   },
   {
     "name": "Arroz Zuppa Tipo 1 1kg",
-    "price": 5.49,
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161453_20210910155419_thumb_161453_Arroz_Zuppa_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
@@ -420,24 +420,6 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Italiana Capone Carnaroli 1kg",
-    "price": 39.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219152-600-600/190834_1.png?v=638100929956930000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Japonês Mirokumai Curto 5kg",
-    "price": 104.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/228088-600-600/130237_1.png?v=638101003159300000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Tipo 1 Rampinelli 2kg",
-    "price": 9.89,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/198529-600-600/133842_1.png?v=638100268415200000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Italiano Capone Arborio 1kg",
     "price": 29.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/219159-600-600/190836_1.png?v=638100930009030000",
@@ -456,15 +438,21 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Terra Livre Orgânico Cateto 1kg",
-    "price": 24.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249382-600-600/135889_1.png?v=638219135472630000",
+    "name": "Arroz Italiana Capone Carnaroli 1kg",
+    "price": 39.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219152-600-600/190834_1.png?v=638100929956930000",
     "market": "Carone"
   },
   {
-    "name": "Arroz Tipo 1 Polido Saboroso 5kg",
-    "price": 23.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/198430-600-600/135505_1.png?v=638100267371730000",
+    "name": "Arroz Japonês Mirokumai Curto 5kg",
+    "price": 104.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/228088-600-600/130237_1.png?v=638101003159300000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Tipo 1 Rampinelli 2kg",
+    "price": 9.89,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/198529-600-600/133842_1.png?v=638100268415200000",
     "market": "Carone"
   },
   {
@@ -477,6 +465,18 @@
     "name": "Arroz Tipo 1 Polido Saboroso 2kg",
     "price": 11.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/198437-600-600/135522_1.png?v=638100267437500000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Tipo 1 Polido Saboroso 5kg",
+    "price": 23.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/198430-600-600/135505_1.png?v=638100267371730000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Terra Livre Orgânico Cateto 1kg",
+    "price": 24.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249382-600-600/135889_1.png?v=638219135472630000",
     "market": "Carone"
   },
   {
@@ -498,12 +498,6 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Rampineli Parbolizado 1kg",
-    "price": 5.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/204247-600-600/39550_1.png?v=638100357645400000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Tio João 5kg",
     "price": 33.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203911-600-600/11037_1.png?v=638100351516670000",
@@ -522,21 +516,21 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Integral Jasmine Agulhinha 1kg",
-    "price": 15.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/212046-600-600/28921_1.png?v=638100852380430000",
+    "name": "Arroz Calafate Gran Reserva 1kg",
+    "price": 6.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209946-600-600/35011_1.png?v=638100813136330000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Parboilizado Integral Rampinelli 1kg",
+    "price": 6.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203958-600-600/26642_1.png?v=638100352135430000",
     "market": "Carone"
   },
   {
     "name": "Feijão Carioca Sarcel 1kg",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/20815_20231103161259_thumb_Sem_titulo8i.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Feijão Carioca Nico Tipo 1 1kg",
-    "price": 5.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8636_20170921125534_thumb_8636_FeijaoCariocaNicoTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -648,6 +642,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Feijão Manteiga das Montanhas 1kg",
+    "price": 18.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/2930_7898293221959.JPG",
+    "market": "Extrabom"
+  },
+  {
     "name": "Feijão Manteiga Lourenção 1kg",
     "price": 18.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210402-600-600/52293_1.png?v=638100821807700000",
@@ -708,15 +708,15 @@
     "market": "Carone"
   },
   {
-    "name": "Feijão Carioca Juju 1kg",
-    "price": 6.49,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209868-600-600/72443_1.png?v=638100811744600000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijão Branco Lourenção 1kg",
     "price": 15.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/215414-600-600/92636_1.png?v=638100899330570000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Carioca Juju 1kg",
+    "price": 6.49,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209868-600-600/72443_1.png?v=638100811744600000",
     "market": "Carone"
   },
   {
@@ -756,6 +756,12 @@
     "market": "Carone"
   },
   {
+    "name": "Feijão Preto Livia Tipo 1kg",
+    "price": 7.69,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/221804-600-600/120793_1.png?v=638100951455170000",
+    "market": "Carone"
+  },
+  {
     "name": "Feijão Vermelho Produto Da Montanha 1kg",
     "price": 10.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/199534-600-600/109580_1.png?v=638100282024800000",
@@ -765,12 +771,6 @@
     "name": "Feijão Preto Leste Uberabinha 1kg",
     "price": 8.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/205337-600-600/20497_1.png?v=638100735879900000",
-    "market": "Carone"
-  },
-  {
-    "name": "Feijão Preto Livia Tipo 1kg",
-    "price": 7.69,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/221804-600-600/120793_1.png?v=638100951455170000",
     "market": "Carone"
   },
   {
@@ -942,12 +942,6 @@
     "market": "Carone"
   },
   {
-    "name": "Café Número 1 Tradicional 500g",
-    "price": 10.16,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249136-600-600/26260_99.png?v=638215966351330000",
-    "market": "Carone"
-  },
-  {
     "name": "Café Pilão Tradicional Pouch 500g",
     "price": 15.9,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/222005-600-600/117397_99.png?v=638100953250500000",
@@ -990,15 +984,15 @@
     "market": "Carone"
   },
   {
-    "name": "Café Meridiano Tradicional Torrado Grão 500g",
-    "price": 19.98,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205299-600-600/42835_1.png?v=638100735233830000",
-    "market": "Carone"
-  },
-  {
     "name": "Café Meridiano Classico Torrado Grão 500g",
     "price": 26.98,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249515-600-600/42812_10.png?v=638221727551370000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Meridiano Tradicional Torrado Grão 500g",
+    "price": 19.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205299-600-600/42835_1.png?v=638100735233830000",
     "market": "Carone"
   },
   {
@@ -1041,6 +1035,12 @@
     "name": "Café Número 1 Extraforte Almofada 500g",
     "price": 10.16,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249128-600-600/131769_99.png?v=638215966297300000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Torrado E Moído Pontões Vácuo 500g",
+    "price": 11.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/216166-600-600/108974_1.png?v=638100905345730000",
     "market": "Carone"
   },
   {
@@ -1152,15 +1152,15 @@
     "market": "Extrabom"
   },
   {
-    "name": "Açúcar Refinado Caravelas 1kg",
-    "price": 5.19,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/215507-600-600/108487_1.png?v=638100900009670000",
-    "market": "Carone"
-  },
-  {
     "name": "Açúcar Refinado Guarani 1kg",
     "price": 5.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210949-600-600/25677_1.png?v=638100833290000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar Refinado Caravelas 1kg",
+    "price": 5.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/215507-600-600/108487_1.png?v=638100900009670000",
     "market": "Carone"
   },
   {
@@ -1224,18 +1224,6 @@
     "market": "Carone"
   },
   {
-    "name": "Açúcar Cristal Itaja Orgânico 1kg",
-    "price": 8.89,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199612-600-600/110172_1.png?v=638100283118730000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Granulado Doçúcar União 1kg",
-    "price": 7.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205158-600-600/28206_1.png?v=638100374380430000",
-    "market": "Carone"
-  },
-  {
     "name": "Açúcar União Refinado Especial 1kg",
     "price": 5.69,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/251919-600-600/25472_1.png?v=638227806095570000",
@@ -1245,6 +1233,18 @@
     "name": "Açúcar Granulado Premium União 1kg",
     "price": 8.39,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/206565-600-600/32934_1.png?v=638100755766030000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar Cristal Itaja Orgânico 1kg",
+    "price": 8.89,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199612-600-600/110172_1.png?v=638100283118730000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar Granulado Doçúcar União 1kg",
+    "price": 7.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205158-600-600/28206_1.png?v=638100374380430000",
     "market": "Carone"
   },
   {
@@ -1494,12 +1494,6 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha de Mandioca Leste Torrada 500G",
-    "price": 5.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/95684_20191007150841_thumb_Farinha_de_Mandioca_Leste_Torrada_500g.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Farinha de Mandioca Ranchinho 1Kg",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8483_20201020160422_thumb_Farinha_de_Mandioca_Ranchinho_1kg.png",
@@ -1509,12 +1503,6 @@
     "name": "Farinha de Mandioca Branca Nico 1kg",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8425_20170921125304_thumb_8425_FarinhadeMandiocaBrancaNico1kg.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Farinha de Mandioca Dinda 1Kg",
-    "price": 6.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8447_farinha_de_mandioca_dinda_1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -1632,15 +1620,15 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha De Mandioca Branca Pinduca 1kg",
-    "price": 7.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207850-600-600/45739_1.png?v=638100777392030000",
-    "market": "Carone"
-  },
-  {
     "name": "Farinha De Mandioca Torrada Juju 1kg",
     "price": 9.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/225203-600-600/131663_1.png?v=638100979871270000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Branca Pinduca 1kg",
+    "price": 7.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207850-600-600/45739_1.png?v=638100777392030000",
     "market": "Carone"
   },
   {
@@ -1659,6 +1647,12 @@
     "name": "Farinha De Mandioca Lourenção Branca 1kg",
     "price": 11.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210416-600-600/52298_1.png?v=638100822150600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Pinduca Torrada Papel 1kg",
+    "price": 9.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/211318-600-600/41540_1.png?v=638100839648600000",
     "market": "Carone"
   },
   {
@@ -1812,9 +1806,27 @@
     "market": "Carone"
   },
   {
+    "name": "Farinha De Trigo Regina Gourmet 1kg",
+    "price": 5.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249144-600-600/124646_99.png?v=638215966421200000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Trigo Integral Regina 1kg",
+    "price": 5.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249139-600-600/99930_99.png?v=638215966356830000",
+    "market": "Carone"
+  },
+  {
     "name": "Farinha De Trigo Número 1 Papel 1kg",
     "price": 4.28,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249130-600-600/26278_99.png?v=638215966298400000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Trigo Número 1 Com Fermento 1kg",
+    "price": 6.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/266580-600-600/47817_10.png?v=638366982127600000",
     "market": "Carone"
   },
   {
@@ -1968,15 +1980,15 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Nissin Yakissoba Ufo Carne 95g",
-    "price": 8.19,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/217787-600-600/192437_99.png?v=638100918932170000",
-    "market": "Carone"
-  },
-  {
     "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g",
     "price": 3.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220871-600-600/125333_1.png?v=638100944091330000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantâneo Nissin Yakissoba Ufo Carne 95g",
+    "price": 8.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/217787-600-600/192437_99.png?v=638100918932170000",
     "market": "Carone"
   },
   {
@@ -2013,6 +2025,12 @@
     "name": "Macarrão Instantâneo Cup Noodles Cheddar 69g",
     "price": 3.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220865-600-600/125332_1.png?v=638100944079430000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantâneo Nissin Lámen Cremoso Molho De Queijo 88g",
+    "price": 2.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/227732-600-600/128733_1.png?v=638101000114400000",
     "market": "Carone"
   },
   {
@@ -2085,12 +2103,6 @@
     "name": "Macarrão Instantâneo Nissin Lámen Costela 85g",
     "price": 1.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220500-600-600/119283_1.png?v=638100940758370000",
-    "market": "Carone"
-  },
-  {
-    "name": "Macarrão Instantâneo Nissin Lámen Picanha 85g",
-    "price": 1.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/213961-600-600/74369_1.png?v=638100883924530000",
     "market": "Carone"
   }
 ]

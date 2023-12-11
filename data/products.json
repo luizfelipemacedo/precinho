@@ -108,15 +108,15 @@
     "market": "Extrabom"
   },
   {
-    "name": "Leite Longa Vida Ninho Integral Vitaminado 1lt",
-    "price": 6.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141384_20200918155839_thumb_141384_LEITE_LV_NINHO_INTEGRAL_VIT_1L.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Leite Longa Vida Molico Desnatado 1l",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/144375_20200831143703_thumb_LEITE_LV_MOLICO_DESNATADO_1L.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Ninho Semi Desnatado Zero Lac 1l",
+    "price": 6.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/144374_20200907150111_thumb_LEITE_LV_NINHO_SEMI_DESN_ZERO_LAC_1L.png",
     "market": "Extrabom"
   },
   {
@@ -150,15 +150,15 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Fiore Pasteurizado Integral A2a2 Garrafa 1l",
-    "price": 7.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247989-600-600/136765_99.png?v=638200207967500000",
-    "market": "Carone"
-  },
-  {
     "name": "Sorvete Perfetto Variatta Leite Trufado Leve 2l, Pague 1,8l",
     "price": 27.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/199810-600-600/111715_1.png?v=638100286817770000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Fiore Pasteurizado Integral A2a2 Garrafa 1l",
+    "price": 7.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247989-600-600/136765_99.png?v=638200207967500000",
     "market": "Carone"
   },
   {
@@ -171,12 +171,6 @@
     "name": "Bebida Castanha De Caju E Coco A Tal Da Castanha 1l",
     "price": 23.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/199560-600-600/109945_1.png?v=638100282451870000",
-    "market": "Carone"
-  },
-  {
-    "name": "Bebida À Base De Amêndoa A Tal Da Castanha Caixa 1l",
-    "price": 23.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226744-600-600/134469_1.png?v=638100991982230000",
     "market": "Carone"
   },
   {
@@ -216,15 +210,15 @@
     "market": "Carone"
   },
   {
-    "name": "Bebida À Base De Castanha Mixed Nuts A Tal Da Castanha Caixa 1l",
-    "price": 23.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226745-600-600/134470_1.png?v=638100991987930000",
-    "market": "Carone"
-  },
-  {
     "name": "Bebida De Castanha De Caju Orgânica Original A Tal Da Castanha Caixa 1l",
     "price": 23.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/215021-600-600/101347_1.png?v=638100896037900000",
+    "market": "Carone"
+  },
+  {
+    "name": "Bebida À Base De Castanha Mixed Nuts A Tal Da Castanha Caixa 1l",
+    "price": 23.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226745-600-600/134470_1.png?v=638100991987930000",
     "market": "Carone"
   },
   {
@@ -261,6 +255,12 @@
     "name": "Leite Uht Selita Semidesnatado Com Tampa 1l",
     "price": 3.78,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/247955-600-600/21247_99.png?v=638200135935670000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Lv Semi Des Damare 1l",
+    "price": 3.69,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/231949-600-600/110132_1.png?v=638102961695900000",
     "market": "Carone"
   },
   {
@@ -516,15 +516,15 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Calafate Gran Reserva 1kg",
-    "price": 6.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209946-600-600/35011_1.png?v=638100813136330000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Parboilizado Integral Rampinelli 1kg",
     "price": 6.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203958-600-600/26642_1.png?v=638100352135430000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Integral Bella Dica 1kg",
+    "price": 6.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/195902-600-600/97891_1.png?v=638100232207870000",
     "market": "Carone"
   },
   {
@@ -708,30 +708,6 @@
     "market": "Carone"
   },
   {
-    "name": "Feijão Vermelho Lourenção 1kg",
-    "price": 11.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210405-600-600/52296_1.png?v=638100821815070000",
-    "market": "Carone"
-  },
-  {
-    "name": "Feijão Preto Das Montanhas 1kg",
-    "price": 10.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199531-600-600/109579_1.png?v=638100282015900000",
-    "market": "Carone"
-  },
-  {
-    "name": "Feijão Carioca Lourenção 1kg",
-    "price": 10.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210417-600-600/52300_1.png?v=638100822155430000",
-    "market": "Carone"
-  },
-  {
-    "name": "Feijão Carioca Imigrante 1kg",
-    "price": 6.69,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/229684-600-600/121759_1.png?v=638101015218730000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijão Preto Lourenção 1kg",
     "price": 9.69,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210415-600-600/52299_1.png?v=638100822149000000",
@@ -762,15 +738,39 @@
     "market": "Carone"
   },
   {
-    "name": "Feijão Preto Livia Tipo 1kg",
-    "price": 6.49,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/221804-600-600/120793_1.png?v=638100951455170000",
+    "name": "Feijão Vermelho Lourenção 1kg",
+    "price": 11.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210405-600-600/52296_1.png?v=638100821815070000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Preto Das Montanhas 1kg",
+    "price": 10.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199531-600-600/109579_1.png?v=638100282015900000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Carioca Lourenção 1kg",
+    "price": 10.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210417-600-600/52300_1.png?v=638100822155430000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Carioca Imigrante 1kg",
+    "price": 6.69,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/229684-600-600/121759_1.png?v=638101015218730000",
     "market": "Carone"
   },
   {
     "name": "Feijão Preto Leste Uberabinha 1kg",
     "price": 8.19,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/205337-600-600/20497_1.png?v=638100735879900000",
+    "market": "Carone"
+  },
+  {
+    "name": "Feijão Preto Livia Tipo 1kg",
+    "price": 6.49,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/221804-600-600/120793_1.png?v=638100951455170000",
     "market": "Carone"
   },
   {
@@ -925,7 +925,7 @@
   },
   {
     "name": "Café Número 1 Tradicional 500g",
-    "price": 9.96,
+    "price": 10.76,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249136-600-600/26260_99.png?v=638215966351330000",
     "market": "Carone"
   },
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "Café Número 1 Extraforte Almofada 500g",
-    "price": 9.96,
+    "price": 10.76,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249128-600-600/131769_99.png?v=638215966297300000",
     "market": "Carone"
   },
@@ -1095,12 +1095,6 @@
     "name": "Açúcar Cristal Santa Isabel 2Kg",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Açúcar Demerara Orgânico Native 1Kg",
-    "price": 9.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10120_20180320084752_thumb_10120AcucarDemeraraOrganicoNative1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -1224,6 +1218,12 @@
     "market": "Carone"
   },
   {
+    "name": "Açúcar Granulado Premium União 1kg",
+    "price": 8.39,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/206565-600-600/32934_1.png?v=638100755766030000",
+    "market": "Carone"
+  },
+  {
     "name": "Açúcar Cristal Itaja Orgânico 1kg",
     "price": 8.89,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/199612-600-600/110172_1.png?v=638100283118730000",
@@ -1233,12 +1233,6 @@
     "name": "Açúcar Granulado Doçúcar União 1kg",
     "price": 7.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/205158-600-600/28206_1.png?v=638100374380430000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Granulado Premium União 1kg",
-    "price": 8.39,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/206565-600-600/32934_1.png?v=638100755766030000",
     "market": "Carone"
   },
   {
@@ -1572,12 +1566,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Farinha De Mandioca Branca Da Montanha 1kg",
-    "price": 9.89,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199522-600-600/109575_1.png?v=638100281952970000",
-    "market": "Carone"
-  },
-  {
     "name": "Farinha De Mandioca Amarela Lorenção 1kg",
     "price": 11.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210406-600-600/52295_1.png?v=638100821820700000",
@@ -1614,12 +1602,6 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha De Mandioca Pinduca Torrada Papel 1kg",
-    "price": 9.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/211318-600-600/41540_1.png?v=638100839648600000",
-    "market": "Carone"
-  },
-  {
     "name": "Farinha De Mandioca Biju Yoki Flocos 500g",
     "price": 13.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203509-600-600/10464_1.png?v=638100346277430000",
@@ -1636,12 +1618,6 @@
     "price": 7.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/236160-600-600/194986_1.png?v=638113842761970000",
     "market": "Carone"
-  },
-  {
-    "name": "Biscoito Recheado BONO Fininho Chocolate 57g\n*% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **VD não estabelecido.",
-    "price": 2.15,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/145730_extrabom_biscoitos_biscoito-recheado-bono-fininho-chocolate-57g_18.jpg",
-    "market": "Extrabom"
   },
   {
     "name": "Biscoito recheado Mini Oreo original 35g",
@@ -1755,6 +1731,12 @@
     "name": "Farinha de Trigo Regina Gourmet 1kg",
     "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100462_20200127141730_thumb_100462Farinha_de_Trigo_Regina_Gourmet_1kg.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Biscoito recheado Chocolícia 132g",
+    "price": 7.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167890_extrabom_biscoitos_biscoito-recheado-chocolicia-132g_2.jpg",
     "market": "Extrabom"
   },
   {

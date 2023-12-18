@@ -102,12 +102,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Leite Longa Vida Itambé Kids Natural Milk Integral 1L",
-    "price": 7.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/99348_20190608103132_thumb_99348LeiteLongaVidaNaturalMilk1L.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Leite Longa Vida Itambé Premium Dez Vitaminas Integral 1L",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4059_7896051111771.JPG",
@@ -117,6 +111,12 @@
     "name": "Leite Longa Vida Integral Leitíssimo Sachê 1L",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/107887_20210211135222_thumb_Leite_Longa_Vida_Integral_Leitissimo_Sache_1L.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Itambé Zero Lactose Semidesnatado 1L",
+    "price": 7.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4051_7896051111764.JPG",
     "market": "Extrabom"
   },
   {
@@ -258,9 +258,9 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Uht Desnatado Italac 1l",
-    "price": 3.53,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247990-600-600/85237_99.png?v=638200243824230000",
+    "name": "Leite Lv Int Leitissimo 1l",
+    "price": 6.95,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203360-600-600/37962_1.png?v=638100343545730000",
     "market": "Carone"
   },
   {
@@ -342,12 +342,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Arroz Sepé Bianco Tipo 1 2kg",
-    "price": 10.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7852_7896009863752.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 2kg",
     "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7793_7896546113327.jpg",
@@ -381,6 +375,12 @@
     "name": "Ração Vittamax Filhote de Pequenas Raças Arroz e Frango 1kg",
     "price": 18.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/178389_20230621115704_thumb_Sem_titulo131.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Arroz Minaminai Azuma 1kg",
+    "price": 18.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/49786_20200303145011_thumb_Arroz_Minaminai_1kg.png",
     "market": "Extrabom"
   },
   {
@@ -666,12 +666,6 @@
     "market": "Carone"
   },
   {
-    "name": "Feijão Vermelho Combrasil 1kg",
-    "price": 12.29,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/204667-600-600/27738_1.png?v=638100363818870000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijao Preto Tp1 Combrasil 1kg",
     "price": 8.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/204668-600-600/27736_1.png?v=638100363834500000",
@@ -762,12 +756,6 @@
     "market": "Carone"
   },
   {
-    "name": "Feijao Preto Tp1 1kg Cesta",
-    "price": 7.49,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/234661-600-600/155507_1.png?v=638104502914370000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijão Preto Tipo 1 Ana Plus 1kg",
     "price": 6.69,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/232766-600-600/43450_1.png?v=638102971036470000",
@@ -778,12 +766,6 @@
     "price": 9.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/223537-600-600/137419_1.png?v=638100965631200000",
     "market": "Carone"
-  },
-  {
-    "name": "Café Número Um Extra Forte 500G",
-    "price": 11.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/111647_20230606094402_thumb_Sem_titulo6666.png",
-    "market": "Extrabom"
   },
   {
     "name": "Café Número Um Tradicional 500G",
@@ -900,12 +882,6 @@
     "market": "Carone"
   },
   {
-    "name": "Café Meridiano Extraforte 500g",
-    "price": 11.98,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205629-600-600/22281_1.png?v=638100740317770000",
-    "market": "Carone"
-  },
-  {
     "name": "Café Cafuso Extraforte 500g",
     "price": 11.3,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220317-600-600/124423_1.png?v=638100939164770000",
@@ -921,6 +897,12 @@
     "name": "Café Meridiano Tradicional 500g",
     "price": 17.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249519-600-600/22879_10.png?v=638221727557000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Meridiano Extraforte 500g",
+    "price": 11.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205629-600-600/22281_1.png?v=638100740317770000",
     "market": "Carone"
   },
   {
@@ -1014,15 +996,15 @@
     "market": "Carone"
   },
   {
-    "name": "Café Meridiano Classico Torrado Grão 500g",
-    "price": 27.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249515-600-600/42812_10.png?v=638221727551370000",
-    "market": "Carone"
-  },
-  {
     "name": "Café Meridiano Tradicional Torrado Grão 500g",
     "price": 21.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/205299-600-600/42835_1.png?v=638100735233830000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Meridiano Classico Torrado Grão 500g",
+    "price": 27.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249515-600-600/42812_10.png?v=638221727551370000",
     "market": "Carone"
   },
   {

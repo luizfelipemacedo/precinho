@@ -180,15 +180,15 @@
     "market": "Carone"
   },
   {
-    "name": "Bebida Aveia Nude Integral 1l",
-    "price": 19.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/252211-600-600/191315_99.png?v=638228344328430000",
-    "market": "Carone"
-  },
-  {
     "name": "Bebida À Base De Amêndoa A Tal Da Castanha Caixa 1l",
     "price": 19.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/226744-600-600/134469_1.png?v=638100991982230000",
+    "market": "Carone"
+  },
+  {
+    "name": "Bebida Aveia Nude Integral 1l",
+    "price": 19.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/252211-600-600/191315_99.png?v=638228344328430000",
     "market": "Carone"
   },
   {
@@ -240,15 +240,15 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Uht Desnatado Italac 1l",
-    "price": 4.28,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247990-600-600/85237_99.png?v=638200243824230000",
-    "market": "Carone"
-  },
-  {
     "name": "Leite Lv Int Leitissimo 1l",
     "price": 7.98,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203360-600-600/37962_1.png?v=638100343545730000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Uht Desnatado Italac 1l",
+    "price": 4.28,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247990-600-600/85237_99.png?v=638200243824230000",
     "market": "Carone"
   },
   {
@@ -438,15 +438,15 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Integral Urbano 1kg",
-    "price": 9.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209176-600-600/84923_1.png?v=638100800902870000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Tio João 5kg",
     "price": 35.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203911-600-600/11037_1.png?v=638100351516670000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Integral Urbano 1kg",
+    "price": 9.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/209176-600-600/84923_1.png?v=638100800902870000",
     "market": "Carone"
   },
   {
@@ -534,15 +534,15 @@
     "market": "Extrabom"
   },
   {
-    "name": "Feijão Preto Nico Tipo 1 1Kg",
-    "price": 7.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Feijão Carioca Ranchinho 1kg",
     "price": 8.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9011_20170517124553_thumb_9011_FeijaoRanchinhoCarioca1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Feijão Preto Nico Tipo 1 1Kg",
+    "price": 8.69,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -924,12 +924,6 @@
     "market": "Carone"
   },
   {
-    "name": "Café Meridiano Extraforte 500g",
-    "price": 13.98,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205629-600-600/22281_1.png?v=638100740317770000",
-    "market": "Carone"
-  },
-  {
     "name": "Café Cafuso Extraforte 500g",
     "price": 11.36,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/220317-600-600/124423_1.png?v=638100939164770000",
@@ -945,6 +939,12 @@
     "name": "Café Meridiano Tradicional 500g",
     "price": 17.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249519-600-600/22879_10.png?v=638221727557000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Meridiano Extraforte 500g",
+    "price": 13.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205629-600-600/22281_1.png?v=638100740317770000",
     "market": "Carone"
   },
   {
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "Açúcar Refinado União 1Kg",
-    "price": 5.79,
+    "price": 5.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
     "market": "Extrabom"
   },
@@ -1488,12 +1488,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Oleo Composto Faisão 200ML",
-    "price": 7.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137493_20211119085521_thumb_137493_Oleo_Composto_Faisao_200ML.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Biscoito recheado Oreo milkshake de morango multipack 144g",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g_21.jpg",
@@ -1506,6 +1500,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Biscoito recheado Oreo chocolate multipack 144g",
+    "price": 7.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54201_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-multipack-144g_26.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Óleo De Soja Abc 900ml",
     "price": 5.89,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/233621-600-600/121886_1.png?v=638102979436570000",
@@ -1513,7 +1513,7 @@
   },
   {
     "name": "Óleo De Soja Liza Pet 900ml",
-    "price": 6.49,
+    "price": 5.98,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/235719-600-600/20413_1.png?v=638111106130800000",
     "market": "Carone"
   },
@@ -2058,12 +2058,6 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Nissin Lámen Costela 85g",
-    "price": 2.48,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/220500-600-600/119283_1.png?v=638100940758370000",
-    "market": "Carone"
-  },
-  {
     "name": "Macarrão Instantâneo Nissin Lámen Picanha 85g",
     "price": 2.48,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/213961-600-600/74369_1.png?v=638100883924530000",
@@ -2169,6 +2163,12 @@
     "name": "Macarrão Instantâneo Nissin Lámen Hot Calabresa 85g",
     "price": 2.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/207928-600-600/63621_1.png?v=638100778615770000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g",
+    "price": 3.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/220869-600-600/125334_1.png?v=638100944085370000",
     "market": "Carone"
   }
 ]

@@ -10,7 +10,7 @@
 
 ## 🎯 Objetivo Geral do Projeto
 
-Nosso objetivo é fornecer aos consumidores, em especial do Espiríto Santo, uma ferramenta capaz de auxiliar no momento de pesquisar produtos em supermercados. 
+Nosso objetivo é fornecer aos consumidores, em especial do Espírito Santo, uma ferramenta capaz de auxiliar no momento de pesquisar produtos em supermercados. 
 Com isso em mente, nossa solução permite que sejam feitas comparações de preços, alertas em forma de notificação e obtenção de referência geográfica por 
 meio da localização do usuário com base nos produtos das maiores redes de supermercados da Grande Vitória.
 
@@ -41,8 +41,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/luizfelipemacedoc">
-        <img src="https://github.com/luizfelipemacedoc.png" width="100px;" alt="Foto do Luiz Felipe"/><br>
+      <a href="https://github.com/luizfelipemacedo">
+        <img src="https://github.com/luizfelipemacedo.png" width="100px;" alt="Foto do Luiz Felipe"/><br>
         <sub>
           <b>Luiz Felipe Macedo</b>
         </sub>

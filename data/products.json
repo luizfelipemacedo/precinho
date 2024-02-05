@@ -96,12 +96,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Leite Pasteurizado Integral Fiore 1L",
-    "price": 7.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/6875_20230531171142_thumb_Sem_titulo0075.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Leite Longa Vida Itambé Zero Lactose Semidesnatado 1L",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4051_7896051111764.JPG",
@@ -117,6 +111,12 @@
     "name": "Leite Fiore Zero Lactose Semi Desnatado 1L",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/108551_20230531173956_thumb_Sem_titulo0076.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Molico Desnatado + Pro 1L",
+    "price": 10.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141387_20200519172718_thumb_Proteinas_FRONT.png",
     "market": "Extrabom"
   },
   {
@@ -654,12 +654,6 @@
     "market": "Carone"
   },
   {
-    "name": "Feijão Manteiga Das Montanhas 1kg",
-    "price": 14.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199530-600-600/109581_1.png?v=638100282014030000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijão Carioca Qui Feijão 1kg",
     "price": 8.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/209750-600-600/51308_1.png?v=638100809264000000",
@@ -798,18 +792,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Café 3 Corações Fort Vácuo 500G",
-    "price": 11.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Café Torrado e Moído Fort Pacote 500G",
-    "price": 11.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-3-coracoes-fort-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 12.38,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
@@ -906,6 +888,18 @@
     "market": "Extrabom"
   },
   {
+    "name": "Café 3 Corações Premium Estrada Real 500G",
+    "price": 25.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/157500_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-500g_5.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Café 3 Corações Premium Estrada Real Vácuo 500G",
+    "price": 25.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/157499_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-vacuo-500g_5.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Café Torrado E Moído Pilão Tradicional Abre & Fecha 500g",
     "price": 16.9,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/222083-600-600/120931_1.png?v=638100953794670000",
@@ -972,12 +966,6 @@
     "market": "Carone"
   },
   {
-    "name": "Café Pilão Intenso Vácuo 500g",
-    "price": 16.9,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210188-600-600/23189_1.png?v=638100818113730000",
-    "market": "Carone"
-  },
-  {
     "name": "Café União Tradicional Pouch 500g",
     "price": 12.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/236019-600-600/195268_1.png?v=638113132945830000",
@@ -993,6 +981,12 @@
     "name": "Café Torrado Moído Carnielli 500g",
     "price": 38.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203803-600-600/38818_1.png?v=638100349935800000",
+    "market": "Carone"
+  },
+  {
+    "name": "Café Pilão Intenso Vácuo 500g",
+    "price": 16.9,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210188-600-600/23189_1.png?v=638100818113730000",
     "market": "Carone"
   },
   {
@@ -1158,6 +1152,18 @@
     "market": "Extrabom"
   },
   {
+    "name": "Açúcar Demerara Guarani 1kg",
+    "price": 5.19,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/224596-600-600/133536_1.png?v=638100974643130000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar Mascavo Guimarães 1kg",
+    "price": 13.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/206128-600-600/22893_1.png?v=638100749146400000",
+    "market": "Carone"
+  },
+  {
     "name": "Açúcar Cristal Delta 5kg",
     "price": 18.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/204606-600-600/18143_1.png?v=638100362698830000",
@@ -1191,24 +1197,6 @@
     "name": "Açúcar União Orgânico 1kg",
     "price": 9.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/251917-600-600/29514_1.png?v=638227806094600000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Cristal Alcon 2kg",
-    "price": 8.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/214508-600-600/99865_1.png?v=638100892163770000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Demerara Guarani 1kg",
-    "price": 5.19,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/224596-600-600/133536_1.png?v=638100974643130000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Mascavo Guimarães 1kg",
-    "price": 13.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/206128-600-600/22893_1.png?v=638100749146400000",
     "market": "Carone"
   },
   {
@@ -1392,7 +1380,7 @@
     "market": "Extrabom"
   },
   {
-    "name": "Biscoito Passatempo Recheado Chocolate 130g\nLeve 4 Pague 3\nCONTÉM GLÚTEN.",
+    "name": "Biscoito Passatempo Recheado Chocolate 130g\nCONTÉM GLÚTEN.",
     "price": 3.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62379_extrabom_biscoitos_biscoito-passatempo-recheado-chocolate-130g_35.jpg",
     "market": "Extrabom"
@@ -1405,7 +1393,7 @@
   },
   {
     "name": "Snack Mucilon Tomate 35g\nO MINISTÉRIO DA SAÚDE INFORMA: APÓS OS 6 (SEIS) MESES DE IDADE CONTINUE AMAMENTANDO SEU FILHO E OFEREÇA NOVOS ALIMENTOS",
-    "price": 3.67,
+    "price": 4.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165346_20230419105933_thumb_63ff50b8e816b50c47f9ffaf_1.jpg",
     "market": "Extrabom"
   },
@@ -1527,12 +1515,6 @@
     "name": "Oleo Soja Soya 900ml Pet",
     "price": 6.39,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/211252-600-600/26042_1.png?v=638100838037230000",
-    "market": "Carone"
-  },
-  {
-    "name": "Óleo Soja Leve 900ml Pet",
-    "price": 5.58,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/267677-600-600/93512_1.png?v=638388475785900000",
     "market": "Carone"
   },
   {
@@ -1698,15 +1680,15 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha De Mandioca Torrada Das Montanhas 1kg",
-    "price": 10.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199526-600-600/109578_1.png?v=638100281962730000",
-    "market": "Carone"
-  },
-  {
     "name": "Farinha De Mandioca Lourenção Branca 1kg",
     "price": 10.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210416-600-600/52298_1.png?v=638100822150600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Torrada Das Montanhas 1kg",
+    "price": 10.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199526-600-600/109578_1.png?v=638100281962730000",
     "market": "Carone"
   },
   {
@@ -1734,7 +1716,7 @@
     "market": "Carone"
   },
   {
-    "name": "Biscoito Recheado BONO Fininho Chocolate 57g\nLeve 4 Pague 3\n*% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **VD não estabelecido.",
+    "name": "Biscoito Recheado BONO Fininho Chocolate 57g\n*% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **VD não estabelecido.",
     "price": 2.15,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/145730_extrabom_biscoitos_biscoito-recheado-bono-fininho-chocolate-57g_18.jpg",
     "market": "Extrabom"
@@ -1746,13 +1728,13 @@
     "market": "Extrabom"
   },
   {
-    "name": "Biscoito Passatempo Recheado Chocolate 130g\nLeve 4 Pague 3\nCONTÉM GLÚTEN.",
+    "name": "Biscoito Passatempo Recheado Chocolate 130g\nCONTÉM GLÚTEN.",
     "price": 3.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62379_extrabom_biscoitos_biscoito-passatempo-recheado-chocolate-130g_35.jpg",
     "market": "Extrabom"
   },
   {
-    "name": "Cookie Nestle CLASSIC Gotas de Chocolate 60g\nLeve 4 Pague 3\nCONTÉM LACTOSE. CONTÉM GLÚTEN.",
+    "name": "Cookie Nestle CLASSIC Gotas de Chocolate 60g\nCONTÉM LACTOSE. CONTÉM GLÚTEN.",
     "price": 3.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88672_extrabom_biscoitos_cookie-classic-gotas-de-chocolate-60g_14.jpg",
     "market": "Extrabom"
@@ -1776,7 +1758,7 @@
     "market": "Extrabom"
   },
   {
-    "name": "Cookie NEGRESCO Gotas de Baunilha 60g\nLeve 4 Pague 3\nCONTÉM LACTOSE. CONTÉM GLÚTEN. % Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **VD não estabelecido. ***Porção de referência p",
+    "name": "Cookie NEGRESCO Gotas de Baunilha 60g\nCONTÉM LACTOSE. CONTÉM GLÚTEN. % Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **VD não estabelecido. ***Porção de referência p",
     "price": 3.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88671_extrabom_biscoitos_cookie-negresco-gotas-de-baunilha-60g_18.jpg",
     "market": "Extrabom"
@@ -1807,13 +1789,13 @@
   },
   {
     "name": "Snack Mucilon Morango e Banana 35g",
-    "price": 3.67,
+    "price": 4.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/176040_20230419155516_thumb_63ff5119e816b50c47f9ffc0_1.jpg",
     "market": "Extrabom"
   },
   {
     "name": "Snack Mucilon Tomate 35g\nO MINISTÉRIO DA SAÚDE INFORMA: APÓS OS 6 (SEIS) MESES DE IDADE CONTINUE AMAMENTANDO SEU FILHO E OFEREÇA NOVOS ALIMENTOS",
-    "price": 3.67,
+    "price": 4.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165346_20230419105933_thumb_63ff50b8e816b50c47f9ffaf_1.jpg",
     "market": "Extrabom"
   },
@@ -1890,15 +1872,15 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha De Trigo Número 1 Com Fermento 1kg",
-    "price": 5.98,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/266580-600-600/47817_10.png?v=638366982127600000",
-    "market": "Carone"
-  },
-  {
     "name": "Farinha De Trigo Número 1 Papel 1kg",
     "price": 4.39,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249130-600-600/26278_99.png?v=638215966298400000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Trigo Número 1 Com Fermento 1kg",
+    "price": 5.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/266580-600-600/47817_10.png?v=638366982127600000",
     "market": "Carone"
   },
   {
@@ -2046,15 +2028,15 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantãneo Nissin Yakissoba 500g",
-    "price": 9.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207719-600-600/58600_1.png?v=638100774349830000",
-    "market": "Carone"
-  },
-  {
     "name": "Macarrão Instantâneo Lámen Bacon 85g",
     "price": 2.48,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/208907-600-600/12218_1.png?v=638100796451770000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantãneo Nissin Yakissoba 500g",
+    "price": 9.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207719-600-600/58600_1.png?v=638100774349830000",
     "market": "Carone"
   },
   {

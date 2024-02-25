@@ -54,12 +54,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Leite Longa Vida Porto Alegre Zero Lactose Semi Desnatado 1L",
-    "price": 4.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/58178_20231227113121_thumb_Sem_titulo500.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Leite Longa Vida Selita Zero Lactose 1L",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/39149_7896484411554.jpg",
@@ -108,15 +102,21 @@
     "market": "Extrabom"
   },
   {
-    "name": "Leite Longa Vida Ninho Integral Zero Lactose 1l",
-    "price": 6.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/144373_20200907150547_thumb_LEITE_LV_NINHO_INTEGRAL_ZERO_LAC_1L.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Leite Longa Vida Molico Zero Lactose Desnatado 1l",
     "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141386_20200918160148_thumb_141386_leite_lv_ninho_semi_desn_zero_lac_1l.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Itambé Zero Lactose Desnatado 1L",
+    "price": 6.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/41460_7896051128076.JPG",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Leite Longa Vida Piracanjuba A2A2 Zero Lactose Semidesnatado 1L",
+    "price": 7.39,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/187240_extrabom_leites-longa-vida_leite-longa-vida-piracanjuba-a2a2-zero-lactose-semidesnatado-1l.jpg",
     "market": "Extrabom"
   },
   {
@@ -198,15 +198,15 @@
     "market": "Carone"
   },
   {
-    "name": "Bebida À Base De Amêndoa A Tal Da Castanha Caixa 1l",
-    "price": 21.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226744-600-600/134469_1.png?v=638100991982230000",
-    "market": "Carone"
-  },
-  {
     "name": "Bebida Aveia Nude Integral 1l",
     "price": 19.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/252211-600-600/191315_99.png?v=638228344328430000",
+    "market": "Carone"
+  },
+  {
+    "name": "Bebida À Base De Amêndoa A Tal Da Castanha Caixa 1l",
+    "price": 21.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226744-600-600/134469_1.png?v=638100991982230000",
     "market": "Carone"
   },
   {
@@ -378,9 +378,9 @@
     "market": "Extrabom"
   },
   {
-    "name": "Arroz Minaminai Azuma 1kg",
-    "price": 18.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/49786_20200303145011_thumb_Arroz_Minaminai_1kg.png",
+    "name": "Ração Vittamax Adulto Pequenas Raças Arroz e Frango 1kg",
+    "price": 19.59,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/178397_20230601153221_thumb_Sem_titulo.png",
     "market": "Extrabom"
   },
   {
@@ -720,12 +720,6 @@
     "market": "Carone"
   },
   {
-    "name": "Feijão Carioca Lourenção 1kg",
-    "price": 11.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210417-600-600/52300_1.png?v=638100822155430000",
-    "market": "Carone"
-  },
-  {
     "name": "Feijão Preto Lourenção 1kg",
     "price": 11.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210415-600-600/52299_1.png?v=638100822149000000",
@@ -828,12 +822,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Café 3 Corações Pouch Tradicional Leve 500g Pague 475g",
-    "price": 15.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174498_extrabom_cafes-chas_cafe-3-coracoes-pouch-tradicional-leve-500g-pague-475g.jpg",
-    "market": "Extrabom"
-  },
-  {
     "name": "Café 3 Corações Tradicional 500G",
     "price": 16.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-3-coracoes-tradicional-500g.jpg",
@@ -879,6 +867,12 @@
     "name": "Café Tunico Gourmet 500G",
     "price": 22.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/188322_20240118152445_thumb_WhatsApp_Image_2024_01_10_at_10.28.40__1__removebg_preview__1.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Café Melitta Tradicional Vácuo 500G",
+    "price": 22.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
@@ -985,7 +979,7 @@
   },
   {
     "name": "Café Torrado Em Grão Campos Altos 500g",
-    "price": 38.79,
+    "price": 39.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249499-600-600/131224_10.png?v=638221691393270000",
     "market": "Carone"
   },
@@ -1086,6 +1080,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Açúcar Demerara Orgânico Native 1Kg",
+    "price": 8.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10120_20180320084752_thumb_10120AcucarDemeraraOrganicoNative1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Açúcar Cristal Santa Isabel 2Kg",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
@@ -1149,12 +1149,6 @@
     "name": "Açúcar Mascavo Guimarães 1kg",
     "price": 13.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/206128-600-600/22893_1.png?v=638100749146400000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Refinado Caravelas 1kg",
-    "price": 4.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/215507-600-600/108487_1.png?v=638100900009670000",
     "market": "Carone"
   },
   {
@@ -1836,6 +1830,12 @@
     "market": "Carone"
   },
   {
+    "name": "Farinha De Trigo Venturelli Integral 1kg",
+    "price": 6.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/234004-600-600/116829_1.png?v=638102982401970000",
+    "market": "Carone"
+  },
+  {
     "name": "Farinha De Trigo Regina Gourmet 1kg",
     "price": 6.48,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249144-600-600/124646_99.png?v=638215966421200000",
@@ -1848,21 +1848,15 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha De Trigo Venturelli Integral 1kg",
-    "price": 6.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/234004-600-600/116829_1.png?v=638102982401970000",
+    "name": "Farinha De Trigo Número 1 Papel 1kg",
+    "price": 3.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249130-600-600/26278_99.png?v=638215966298400000",
     "market": "Carone"
   },
   {
     "name": "Farinha De Trigo Número 1 Com Fermento 1kg",
     "price": 5.98,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/266580-600-600/47817_10.png?v=638366982127600000",
-    "market": "Carone"
-  },
-  {
-    "name": "Farinha De Trigo Número 1 Papel 1kg",
-    "price": 3.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249130-600-600/26278_99.png?v=638215966298400000",
     "market": "Carone"
   },
   {
@@ -1902,51 +1896,9 @@
     "market": "Extrabom"
   },
   {
-    "name": "Sujeito à disponibilidade de estoque\nMacarrão Instantâneo Nissin Miojo Turma da Mônica Milho na Manteiga 75G",
-    "price": 1.96,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171767_extrabom_massas-instantaneas_macarrao-instantaneo-nissin-miojo-turma-da-monica-milho-na-manteiga-75g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Sujeito à disponibilidade de estoque\nMacarrão Instantâneo Nissin Miojo Turma Chico Bento Caldo de Feijão 75g",
-    "price": 1.96,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/143051_20200717162814_thumb_143051_Macarrao_Instantaneo_Nissin_Miojo_Turma_Chico_Bento_Caldo_de_Feijao_75g.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Sujeito à disponibilidade de estoque\nMacarrão Instantâneo Nissin Miojo Turma Chico Bento Canja de Galinha 75g",
-    "price": 1.96,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/143050_20200717162855_thumb_143050_Macarrao_Instantaneo_Nissin_Miojo_Turma_Chico_Bento_Canja_de_Galinha_75g.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Sujeito à disponibilidade de estoque\nMacarrão Instantâneo Lámen Nissin Miojo Turma da Mônica Tomate 85G",
-    "price": 1.96,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8891_20190529122939_thumb_8891MacarraoInstantaneoLamenNissinMiojoTurmadaMonicaTomate85g.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Sujeito à disponibilidade de estoque\nMacarrão Instantâneo Lámen Nissin Miojo Turma da Mônica Galinha 85g",
-    "price": 1.96,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8884_20190529122903_thumb_8884MacarraoInstantaneoLamenNissinMiojoTurmadaMonicaGalinha85g.png",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Sujeito à disponibilidade de estoque\nMacarrão Instantâneo Lámen Nissin Miojo Turma da Mônica Carne 85G",
-    "price": 1.96,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8881_20190529122740_thumb_8881MacarraoInstantaneoLamenNissinMiojoTurmadaMonicaCarne85g.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Sujeito à disponibilidade de estoque\nMacarrão Instantâneo Lámen Nissin Miojo Cremoso Picanha 88G",
     "price": 1.96,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8829_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-cremoso-picanha-88g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Sujeito à disponibilidade de estoque\nMacarrão Instantâneo Lámen Nissin Miojo Galinha 85G",
-    "price": 1.96,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8767_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-galinha-85g.jpg",
     "market": "Extrabom"
   },
   {
@@ -1974,6 +1926,24 @@
     "market": "Extrabom"
   },
   {
+    "name": "Macarrão Instantâneo Nissin Miojo Turma da Mônica Milho na Manteiga 75G",
+    "price": 2.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171767_extrabom_massas-instantaneas_macarrao-instantaneo-nissin-miojo-turma-da-monica-milho-na-manteiga-75g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Macarrão Instantâneo Nissin Miojo Turma Chico Bento Caldo de Feijão 75g",
+    "price": 2.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/143051_20200717162814_thumb_143051_Macarrao_Instantaneo_Nissin_Miojo_Turma_Chico_Bento_Caldo_de_Feijao_75g.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Macarrão Instantâneo Nissin Miojo Turma Chico Bento Canja de Galinha 75g",
+    "price": 2.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/143050_20200717162855_thumb_143050_Macarrao_Instantaneo_Nissin_Miojo_Turma_Chico_Bento_Canja_de_Galinha_75g.png",
+    "market": "Extrabom"
+  },
+  {
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Camarão com Alho 85g",
     "price": 2.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/111525_20210420145830_thumb_111525.png",
@@ -1992,6 +1962,30 @@
     "market": "Extrabom"
   },
   {
+    "name": "Macarrão Instantâneo Lámen Nissin Miojo Costela 85G",
+    "price": 2.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88404_20180102094152_thumb_88404nissinmiojocostela.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Macarrão Instantâneo Lámen Nissin Miojo Frango com Alho 85g",
+    "price": 2.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88403_20180102094101_thumb_88403nissinmiojofrangoalho.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Macarrão Instantâneo Lámen Nissin Miojo Turma da Mônica Tomate 85G",
+    "price": 2.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8891_20190529122939_thumb_8891MacarraoInstantaneoLamenNissinMiojoTurmadaMonicaTomate85g.png",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Macarrão Instantâneo Lámen Nissin Miojo Turma da Mônica Galinha 85g",
+    "price": 2.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8884_20190529122903_thumb_8884MacarraoInstantaneoLamenNissinMiojoTurmadaMonicaGalinha85g.png",
+    "market": "Extrabom"
+  },
+  {
     "name": "Macarrão Instantâneo Renata Galinha 85g",
     "price": 1.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/206141-600-600/22937_1.png?v=638100749335870000",
@@ -2004,15 +1998,15 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Lámen Bacon 85g",
-    "price": 2.48,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/208907-600-600/12218_1.png?v=638100796451770000",
-    "market": "Carone"
-  },
-  {
     "name": "Macarrão Instantâneo Renata De Carne 85gr",
     "price": 1.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/206176-600-600/22942_1.png?v=638100749733170000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantâneo Lámen Bacon 85g",
+    "price": 2.48,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/208907-600-600/12218_1.png?v=638100796451770000",
     "market": "Carone"
   },
   {
@@ -2106,12 +2100,6 @@
     "market": "Carone"
   },
   {
-    "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g",
-    "price": 5.38,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/196806-600-600/125336_1.png?v=638100244649700000",
-    "market": "Carone"
-  },
-  {
     "name": "Macarrão Instantâneo Nissin Lámen Hot Calabresa 85g",
     "price": 2.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/207928-600-600/63621_1.png?v=638100778615770000",
@@ -2133,6 +2121,12 @@
     "name": "Macarrão Instantâneo Lámen Turma Da Monica Carne 85g",
     "price": 2.59,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/204292-600-600/12517_1.png?v=638100358266100000",
+    "market": "Carone"
+  },
+  {
+    "name": "Macarrão Instantâneo Lamén Turma Da Monica De Galinha 85g",
+    "price": 2.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/204290-600-600/12519_1.png?v=638100358263300000",
     "market": "Carone"
   }
 ]

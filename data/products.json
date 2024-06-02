@@ -1,20 +1,20 @@
 [
   {
-    "name": "Leite Longa Vida Capel Integral 1L",
-    "price": 5.29,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4039_7897366700162.jpg",
+    "name": "Leite Longa Vida Porto Alegre Desnatado 1L",
+    "price": 5.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4320_20211213112721_thumb_4320_Leite_Longa_Vida_Porto_Alegre_Desnatado_1L.png",
     "market": "Extrabom"
   },
   {
     "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 5.39,
+    "price": 5.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png",
     "market": "Extrabom"
   },
   {
-    "name": "Leite Longa Vida Porto Alegre Desnatado 1L",
+    "name": "Leite Longa Vida Capel Integral 1L",
     "price": 5.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4320_20211213112721_thumb_4320_Leite_Longa_Vida_Porto_Alegre_Desnatado_1L.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4039_7897366700162.jpg",
     "market": "Extrabom"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Leite Longa Vida Selita Integral 1L",
-    "price": 5.69,
+    "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4045_20240301164853_thumb_Sem_titu45lo.png",
     "market": "Extrabom"
   },
@@ -192,15 +192,15 @@
     "market": "Carone"
   },
   {
-    "name": "Bebida À Base De Castanha Mixed Nuts A Tal Da Castanha Caixa 1l",
-    "price": 19.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226745-600-600/134470_1.png?v=638100991987930000",
-    "market": "Carone"
-  },
-  {
     "name": "Bebida De Castanha De Caju Orgânica Original A Tal Da Castanha Caixa 1l",
     "price": 19.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/215021-600-600/101347_1.png?v=638100896037900000",
+    "market": "Carone"
+  },
+  {
+    "name": "Bebida À Base De Castanha Mixed Nuts A Tal Da Castanha Caixa 1l",
+    "price": 19.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/226745-600-600/134470_1.png?v=638100991987930000",
     "market": "Carone"
   },
   {
@@ -222,21 +222,27 @@
     "market": "Carone"
   },
   {
-    "name": "Leite Lv Int Leitissimo 1l",
-    "price": 7.98,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203360-600-600/37962_1.png?v=638100343545730000",
-    "market": "Carone"
-  },
-  {
     "name": "Leite Uht Desnatado Italac 1l",
     "price": 5.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/247990-600-600/85237_99.png?v=638200243824230000",
     "market": "Carone"
   },
   {
+    "name": "Leite Lv Int Leitissimo 1l",
+    "price": 7.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/203360-600-600/37962_1.png?v=638100343545730000",
+    "market": "Carone"
+  },
+  {
     "name": "Leite Uht Semidesnatado Italac 1l",
     "price": 5.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/247971-600-600/85238_99.png?v=638200172014800000",
+    "market": "Carone"
+  },
+  {
+    "name": "Leite Uht Integral Damare Caixa 1l",
+    "price": 5.28,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247952-600-600/110130_99.png?v=638200135932070000",
     "market": "Carone"
   },
   {
@@ -255,12 +261,6 @@
     "name": "Leite Lv Semi Des Damare 1l",
     "price": 5.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/231949-600-600/110132_1.png?v=638102961695900000",
-    "market": "Carone"
-  },
-  {
-    "name": "Leite Uht Desnatado Porto Alegre 1l",
-    "price": 4.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/247951-600-600/90741_99.png?v=638200135931600000",
     "market": "Carone"
   },
   {
@@ -420,15 +420,15 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Arbório Paganini 1kg",
-    "price": 28.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207924-600-600/68739_1.png?v=638100778584930000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Rampineli Parbolizado 1kg",
     "price": 6.29,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/204247-600-600/39550_1.png?v=638100357645400000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Arbório Paganini 1kg",
+    "price": 28.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207924-600-600/68739_1.png?v=638100778584930000",
     "market": "Carone"
   },
   {
@@ -474,24 +474,6 @@
     "market": "Carone"
   },
   {
-    "name": "Arroz Tipo 1 Camil 5kg",
-    "price": 34.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/254995-600-600/52822_1.png?v=638237503873000000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Tipo 1 Palmares 5kg",
-    "price": 29.9,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/211907-600-600/43606_1.png?v=638100849841200000",
-    "market": "Carone"
-  },
-  {
-    "name": "Arroz Tipo 1 Rampinelli 2kg",
-    "price": 13.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/198529-600-600/133842_1.png?v=638100268415200000",
-    "market": "Carone"
-  },
-  {
     "name": "Arroz Parb Tp1 Rampineli 5kg",
     "price": 34.79,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/210635-600-600/25271_1.png?v=638100826678330000",
@@ -519,6 +501,24 @@
     "name": "Arroz Parboilizado Integral Rampinelli 1kg",
     "price": 8.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/203958-600-600/26642_1.png?v=638100352135430000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Tipo 1 Camil 5kg",
+    "price": 34.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/254995-600-600/52822_1.png?v=638237503873000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Tipo 1 Palmares 5kg",
+    "price": 29.9,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/211907-600-600/43606_1.png?v=638100849841200000",
+    "market": "Carone"
+  },
+  {
+    "name": "Arroz Tipo 1 Rampinelli 2kg",
+    "price": 13.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/198529-600-600/133842_1.png?v=638100268415200000",
     "market": "Carone"
   },
   {
@@ -1080,12 +1080,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Açúcar Demerara Caravelas 1kg",
-    "price": 4.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101903_20190103101129_thumb_101903ACUCARDEMERARACARAVELAS1KG.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Açúcar Refinado Granulado Doçúcar União 1Kg",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9424_7891910007059.JPG",
@@ -1200,36 +1194,6 @@
     "market": "Carone"
   },
   {
-    "name": "Açúcar Alcon Cristal 5kg",
-    "price": 16.98,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/214501-600-600/99864_1.png?v=638100892137170000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Demerara Caravelas 1kg",
-    "price": 4.79,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219850-600-600/118772_1.png?v=638100935535730000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar União Naturale 1kg",
-    "price": 7.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/251786-600-600/57651_1.png?v=638227768952230000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açucar Orgânico Guarani 1kg",
-    "price": 5.99,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/224597-600-600/133535_1.png?v=638100974648000000",
-    "market": "Carone"
-  },
-  {
-    "name": "Açúcar Orgânico Itajá 5kg",
-    "price": 37.59,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/229457-600-600/127436_1.png?v=638101013540500000",
-    "market": "Carone"
-  },
-  {
     "name": "Açúcar Refinado Caravelas 1kg",
     "price": 4.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/215507-600-600/108487_1.png?v=638100900009670000",
@@ -1263,6 +1227,36 @@
     "name": "Açúcar União Orgânico 1kg",
     "price": 9.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/251917-600-600/29514_1.png?v=638227806094600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar Alcon Cristal 5kg",
+    "price": 16.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/214501-600-600/99864_1.png?v=638100892137170000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar Demerara Caravelas 1kg",
+    "price": 4.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/219850-600-600/118772_1.png?v=638100935535730000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar União Naturale 1kg",
+    "price": 7.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/251786-600-600/57651_1.png?v=638227768952230000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açucar Orgânico Guarani 1kg",
+    "price": 5.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/224597-600-600/133535_1.png?v=638100974648000000",
+    "market": "Carone"
+  },
+  {
+    "name": "Açúcar Orgânico Itajá 5kg",
+    "price": 37.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/229457-600-600/127436_1.png?v=638101013540500000",
     "market": "Carone"
   },
   {
@@ -1434,21 +1428,21 @@
     "market": "Extrabom"
   },
   {
+    "name": "Óleo de Soja Liza 900ml",
+    "price": 5.58,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8958_extrabom_oleos-azeites_oleo-de-soja-liza-900ml_2.jpg",
+    "market": "Extrabom"
+  },
+  {
     "name": "Margarina cremosa sem sal Qualy pote 250g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados : Contém",
-    "price": 5.27,
+    "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/86047_extrabom_manteigas_margarina-cremosa-sem-sal-qualy-pote-250g.jpg",
     "market": "Extrabom"
   },
   {
     "name": "Margarina cremosa com sal Qualy pote 250g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados :",
-    "price": 5.37,
+    "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100_extrabom_margarinas_margarina-cremosa-com-sal-qualy-pote-250g_7.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Óleo de Soja Liza 900ml",
-    "price": 5.58,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8958_extrabom_oleos-azeites_oleo-de-soja-liza-900ml_2.jpg",
     "market": "Extrabom"
   },
   {
@@ -1566,21 +1560,15 @@
     "market": "Extrabom"
   },
   {
-    "name": "Farinha de Mandioca Branca Juparana 1kg",
-    "price": 6.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83260_20190226104522_thumb_83260FarinhadeMandiocaBrancaJuparana1kg.png",
+    "name": "Farinha de Mandioca Amarela Fina Rocha 1kg",
+    "price": 5.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/106146_20190514134524_thumb_106146FarinhadeMandiocaAmarelaFinaRocha1kg.png",
     "market": "Extrabom"
   },
   {
     "name": "Farinha de Mandioca Branca Monsil 1Kg",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8463_7896035911250.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "name": "Farinha de Mandioca Amarela Juparanã 1kg",
-    "price": 6.59,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -1602,15 +1590,15 @@
     "market": "Extrabom"
   },
   {
-    "name": "Farinha de Mandioca Torrado Japurana 1kg",
-    "price": 7.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83263_20190130150417_thumb_83263FarinhadeMandiocaTorradoJapurana1kg.png",
+    "name": "Farinha de Mandioca Branca Juparana 1kg",
+    "price": 7.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83260_20190226104522_thumb_83260FarinhadeMandiocaBrancaJuparana1kg.png",
     "market": "Extrabom"
   },
   {
-    "name": "Farinha de Mandioca Amarela Fina Rocha 1kg",
-    "price": 7.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/106146_20190514134524_thumb_106146FarinhadeMandiocaAmarelaFinaRocha1kg.png",
+    "name": "Farinha de Mandioca Amarela Juparanã 1kg",
+    "price": 7.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -1629,6 +1617,12 @@
     "name": "Farinha de Mandioca Leste 1Kg",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8457_7896010300192.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "name": "Farinha de Mandioca Torrado Japurana 1kg",
+    "price": 9.39,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83263_20190130150417_thumb_83263FarinhadeMandiocaTorradoJapurana1kg.png",
     "market": "Extrabom"
   },
   {
@@ -1660,6 +1654,90 @@
     "price": 91.51,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
+  },
+  {
+    "name": "Farinha De Mandioca Leste Torrada 500g",
+    "price": 4.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/229096-600-600/120735_1.png?v=638101010981900000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Torrada Juju 1kg",
+    "price": 6.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/225203-600-600/131663_1.png?v=638100979871270000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Branca Pinduca 1kg",
+    "price": 5.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/207850-600-600/45739_1.png?v=638100777392030000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Torrada Lourenção 1kg",
+    "price": 9.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/205983-600-600/32128_1.png?v=638100746617400000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Amarela Juju 1kg",
+    "price": 6.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/271359-600-600/128705_10.png?v=638524474533600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Amarela Da Montanha 1kg",
+    "price": 10.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199524-600-600/109576_1.png?v=638100281959900000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Branca Da Montanha 1kg",
+    "price": 9.99,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/271358-600-600/109575_10.png?v=638524474434070000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Amarela Lorenção 1kg",
+    "price": 8.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/267407-600-600/52295_10.png?v=638385397963170000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Lourenção Branca 1kg",
+    "price": 8.59,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/210416-600-600/52298_1.png?v=638100822150600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Torrada Das Montanhas 1kg",
+    "price": 9.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/199526-600-600/109578_1.png?v=638100281962730000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Branca Pinduca 500g",
+    "price": 3.79,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/208828-600-600/83161_1.png?v=638100794654400000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Pinduca Torrada Papel 1kg",
+    "price": 8.29,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/211318-600-600/41540_1.png?v=638100839648600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha Mandioca Juju 1kg",
+    "price": 5.4,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/232624-600-600/72447_1.png?v=638102969755430000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Mandioca Amarela Tipo 1 Ana 1kg",
+    "price": 6.49,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/236160-600-600/194986_1.png?v=638113842761970000",
+    "market": "Carone"
   },
   {
     "name": "Biscoito Recheado BONO Fininho Chocolate 57g\n*% Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **VD não estabelecido.",
@@ -1728,12 +1806,6 @@
     "market": "Extrabom"
   },
   {
-    "name": "Farinha de Trigo Número Um 1Kg",
-    "price": 3.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png",
-    "market": "Extrabom"
-  },
-  {
     "name": "Farinha de Trigo Regina 1Kg",
     "price": 4.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8464_20240502153745_thumb_Sem_titulo25.png",
@@ -1782,6 +1854,12 @@
     "market": "Extrabom"
   },
   {
+    "name": "Farinha de Trigo Regina Integral 1kg",
+    "price": 5.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/33759_20240502154543_thumb_Sem_titulo27.png",
+    "market": "Extrabom"
+  },
+  {
     "name": "Farinha Trigo Venturelli 1kg",
     "price": 5.99,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/234000-600-600/116823_1.png?v=638102982375730000",
@@ -1800,12 +1878,6 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha De Trigo Venturelli Integral 1kg",
-    "price": 6.49,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/234004-600-600/116829_1.png?v=638102982401970000",
-    "market": "Carone"
-  },
-  {
     "name": "Farinha De Trigo Regina Gourmet 1kg",
     "price": 5.49,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/249144-600-600/124646_99.png?v=638215966421200000",
@@ -1818,15 +1890,21 @@
     "market": "Carone"
   },
   {
-    "name": "Farinha De Trigo Número 1 Papel 1kg",
-    "price": 3.98,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249130-600-600/26278_99.png?v=638215966298400000",
+    "name": "Farinha De Trigo Venturelli Integral 1kg",
+    "price": 6.49,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/234004-600-600/116829_1.png?v=638102982401970000",
     "market": "Carone"
   },
   {
     "name": "Farinha De Trigo Número 1 Com Fermento 1kg",
     "price": 5.98,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/266580-600-600/47817_10.png?v=638366982127600000",
+    "market": "Carone"
+  },
+  {
+    "name": "Farinha De Trigo Número 1 Papel 1kg",
+    "price": 3.98,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/249130-600-600/26278_99.png?v=638215966298400000",
     "market": "Carone"
   },
   {

@@ -2,10 +2,10 @@ name: Puppeteer Automation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   push:
-   branches:
-    - main
+    branches:
+      - main
 jobs:
   puppeteer_job:
     runs-on: ubuntu-latest
@@ -17,7 +17,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: "18"
 
       - name: Install dependencies
         run: npm install
@@ -26,7 +26,7 @@ jobs:
         run: |
           cd data
           xvfb-run --server-args="-screen 0 1024x768x24" node script.js
-      
+
       - name: Commit and push changes
         run: |
           git config --global user.name "luizfelipemacedoc"

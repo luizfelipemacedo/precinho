@@ -1,5 +1,8 @@
 import fs from "fs";
+import { join } from "node:path";
 import puppeteer from "puppeteer";
+
+const __dirname = new URL(".", import.meta.url).pathname;
 
 async function scrapeData(searchTerm) {
   const browser = await puppeteer.launch({ headless: "false" });
@@ -69,6 +72,7 @@ async function scrapeData(searchTerm) {
     "farinha de mandioca",
     "farinha de trigo",
     "macarrao instantaneo",
+    "frango kg",
   ];
   const scrapePromises = searchTerms.map((searchTerm) =>
     scrapeData(searchTerm)
@@ -79,14 +83,16 @@ async function scrapeData(searchTerm) {
 
   console.log(scrappedData.length);
 
-  const formattedData = scrappedData.map((item) => ({
+  const formattedData = scrappedData.map((item, index) => ({
+    id: String(index + 1),
     ...item,
     price: parseFloat(item.price?.trim().replace("R$", "").replace(",", ".")),
   }));
 
   try {
     const jsonData = JSON.stringify(formattedData, null, 2);
-    fs.writeFileSync("products.json", jsonData);
+    const filePath = join(__dirname, "products.json");
+    fs.writeFileSync(filePath, jsonData);
 
     console.log("Produtos atualizados com sucesso!");
   } catch (error) {

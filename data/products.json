@@ -925,16 +925,16 @@
   },
   {
     "id": "133",
-    "name": "Farinha de Mandioca Branca Monsil 1Kg",
-    "price": 6.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8463_7896035911250.jpg",
+    "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg",
+    "price": 6.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173044_20220819154652_thumb_Farinha_Amarela_Zuppa_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "134",
-    "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg",
+    "name": "Farinha de Mandioca Branca Monsil 1Kg",
     "price": 6.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173044_20220819154652_thumb_Farinha_Amarela_Zuppa_1kg.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8463_7896035911250.jpg",
     "market": "Extrabom"
   },
   {
@@ -946,23 +946,23 @@
   },
   {
     "id": "136",
-    "name": "Farinha de Mandioca Amarela Fina Amafil 1kg",
-    "price": 6.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8400_7896035911991.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "137",
     "name": "Farinha de Mandioca Amarela Fina Rocha 1kg",
-    "price": 7.39,
+    "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/106146_20190514134524_thumb_106146FarinhadeMandiocaAmarelaFinaRocha1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "138",
+    "id": "137",
     "name": "Farinha de Mandioca Torrada Monsil 1Kg",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8479_7896035911168.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "138",
+    "name": "Farinha de Mandioca Amarela Fina Amafil 1kg",
+    "price": 7.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8400_7896035911991.jpg",
     "market": "Extrabom"
   },
   {

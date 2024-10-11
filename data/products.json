@@ -78,65 +78,65 @@
   },
   {
     "id": "12",
-    "name": "Leite Longa Vida Itambé Kids Natural Milk Integral 1L",
-    "price": 6.19,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/99348_20190608103132_thumb_99348LeiteLongaVidaNaturalMilk1L.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "13",
-    "name": "Leite Longa Vida Itambé Zero Lactose Integral 1L",
-    "price": 6.19,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/76245_20190417163959_thumb_76245LeiteLongaVidaItambeNolacIntegral1L.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "14",
-    "name": "Leite Longa Vida Itambé Zero Lactose Desnatado 1L",
-    "price": 6.19,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/41460_7896051128076.JPG",
-    "market": "Extrabom"
-  },
-  {
-    "id": "15",
-    "name": "Leite Longa Vida Itambé Zero Lactose Semidesnatado 1L",
-    "price": 6.19,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4051_7896051111764.JPG",
-    "market": "Extrabom"
-  },
-  {
-    "id": "16",
     "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "17",
+    "id": "13",
     "name": "Leite Longa Vida Piracanjuba Semi Desnatado 1L",
     "price": 6.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22455_extrabom_leites_leite-longa-vida-piracanjuba-semi-desnatado-1l_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "18",
+    "id": "14",
     "name": "Leite Longa Vida Porto Alegre Zero Lactose Semi Desnatado 1L",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/58178_20231227113121_thumb_Sem_titulo500.png",
     "market": "Extrabom"
   },
   {
-    "id": "19",
+    "id": "15",
+    "name": "Leite Longa Vida Itambé Zero Lactose Desnatado 1L",
+    "price": 6.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/41460_7896051128076.JPG",
+    "market": "Extrabom"
+  },
+  {
+    "id": "16",
     "name": "Leite Longa Vida Piracanjuba Desnatado 1L",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22454_extrabom_leites_leite-longa-vida-piracanjuba-desnatado-1l_3.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "20",
+    "id": "17",
     "name": "Leite Longa Vida Piracanjuba Integral 1L",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22453_extrabom_leites_leite-longa-vida-piracanjuba-integral-1l_3.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "18",
+    "name": "Leite Longa Vida Piracanjuba Desnatado Fibra 1L",
+    "price": 6.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/184436_extrabom_leite-longa-vida-piracanjuba-desnatado-fibra-1l.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "19",
+    "name": "Leite Longa Vida Piracanjuba Desnatado Cálcio 1L",
+    "price": 6.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/184439_extrabom_leite-longa-vida-piracanjuba-desnatado-calcio-1l.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "20",
+    "name": "Leite Longa Vida Itambé Kids Natural Milk Integral 1L",
+    "price": 6.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/99348_20190608103132_thumb_99348LeiteLongaVidaNaturalMilk1L.png",
     "market": "Extrabom"
   },
   {
@@ -442,30 +442,30 @@
   },
   {
     "id": "64",
-    "name": "Café Cafuso 500G",
-    "price": 16.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "65",
     "name": "Café Meridiano Extra Forte 500G",
     "price": 17.18,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png",
     "market": "Extrabom"
   },
   {
-    "id": "66",
+    "id": "65",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 17.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "67",
+    "id": "66",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 17.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "67",
+    "name": "Café Meridiano Tradicional 500G",
+    "price": 18.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8096_20240926133746_thumb_Cafe_Meridiano_Tradicional_500G.png",
     "market": "Extrabom"
   },
   {
@@ -484,79 +484,79 @@
   },
   {
     "id": "70",
-    "name": "Café Meridiano Tradicional 500G",
-    "price": 19.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8096_20240926133746_thumb_Cafe_Meridiano_Tradicional_500G.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "71",
     "name": "Café 3 Corações Fort Vácuo 500G",
     "price": 19.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "71",
     "name": "Café em Pó Fort 500g",
     "price": 19.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-torrado-e-moido-fort-pacote-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "72",
     "name": "Café Tunico Gourmet 500G",
     "price": 22.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/188322_20240118152445_thumb_WhatsApp_Image_2024_01_10_at_10.28.40__1__removebg_preview__1.png",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "73",
     "name": "Café 3 Corações Pouch Extra Forte Leve 500g Pague 475g",
     "price": 23.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174497_extrabom_cafes-chas_cafe-3-coracoes-pouch-extra-forte-leve-500g-pague-475g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "74",
     "name": "Farinha Láctea NESTLÉ Leve 600g Pague 500g\nALÉRGICOS: CONTÉM LEITE E DERIVADOS DE TRIGO. PODE CONTER SOJA, CENTEIO, CEVADA E AVEIA. CONTÉM LACTOSE. CONTÉM GLÚTEN.",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171746_extrabom_bebida-lactea_farinha-lactea-nestle-leve-600g-pague-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "75",
     "name": "Café em pó 3 Corações Vácuo 500g",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-torrado-e-moido-a-vacuo-tradicional-3-coracoes-pacote-500g_13.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "76",
     "name": "Café em pó 3 Corações Tradicional 500g",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "77",
     "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7943_extrabom_cafes-chas_cafe-torrado-e-moido-a-vacuo-extraforte-3-coracoes-pacote-500g_20.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "78",
     "name": "Café em pó 3 Corações Extraforte 500g",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-torrado-e-moido-extraforte-3-coracoes-pacote-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Tradicional Vácuo 500G",
     "price": 24.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Meridiano Torrado em Grão 500G",
+    "price": 26.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8135_20210503164226_thumb_8135_Cafe_Meridiano_Torrado_em_Grao_500g.png",
     "market": "Extrabom"
   },
   {
@@ -667,7 +667,7 @@
   {
     "id": "96",
     "name": "Açúcar Cristal Alcon 5Kg",
-    "price": 16.9,
+    "price": 17.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/39157_acucar_cristal_alcon_5kg.jpg",
     "market": "Extrabom"
   },
@@ -751,7 +751,7 @@
   {
     "id": "108",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 86.83,
+    "price": 87.91,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -885,14 +885,14 @@
     "id": "127",
     "name": "Maionese Hellmanns Alho Squeeze 335g",
     "price": 12.69,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g_5.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g_12.jpg",
     "market": "Extrabom"
   },
   {
     "id": "128",
     "name": "Maionese Hellmanns Churrasco Squeeze 335g",
     "price": 12.69,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g_6.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g_13.jpg",
     "market": "Extrabom"
   },
   {
@@ -1024,7 +1024,7 @@
   {
     "id": "147",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 86.83,
+    "price": 87.91,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1074,7 +1074,7 @@
     "id": "154",
     "name": "Chocolate KITKAT 4 Fingers ao Leite 41,5g\nCONTÉM GLÚTEN.",
     "price": 3.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/81470_extrabom_bomboniere_chocolate-kitkat-4-fingers-ao-leite-41-5g_13.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/81470_20241010170840_thumb_Sem_titulo2.png",
     "market": "Extrabom"
   },
   {
@@ -1373,8 +1373,8 @@
   },
   {
     "id": "197",
-    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 35,70",
-    "price": 11.9,
+    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 35,97",
+    "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png",
     "market": "Extrabom"
   },
@@ -1422,30 +1422,30 @@
   },
   {
     "id": "204",
-    "name": "Frango Passarinho Lar 1kg",
-    "price": 13.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19372_20240919091646_thumb_Frango_Passarinho_Lar_1kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "205",
     "name": "Sobrecoxa de Frango Congelado Uniaves kg\nR$ 19,49",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193777_20240917161735_thumb_Sobrecoxa_de_Frango_Congelado_Uniaves_kg.PNG",
     "market": "Extrabom"
   },
   {
-    "id": "206",
+    "id": "205",
     "name": "Sobrecoxa de Frango Congelado Oi Frango Bandeja 1kg",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167755_20211119094233_thumb_167755_Sobrecoxa_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "207",
+    "id": "206",
     "name": "Coxa de frango congelada Sadia 1kg",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg_4.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "207",
+    "name": "Frango Passarinho Lar 1kg",
+    "price": 14.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19372_20240919091646_thumb_Frango_Passarinho_Lar_1kg.png",
     "market": "Extrabom"
   }
 ]

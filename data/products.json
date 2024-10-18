@@ -197,16 +197,16 @@
   },
   {
     "id": "29",
-    "name": "Café Grão da Roça Tradicional 500G",
+    "name": "Café Grão da Roça Extra Forte 500G",
     "price": 17.58,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
     "id": "30",
-    "name": "Café Grão da Roça Extra Forte 500G",
+    "name": "Café Grão da Roça Tradicional 500G",
     "price": 17.58,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
   {
@@ -533,9 +533,9 @@
   },
   {
     "id": "77",
-    "name": "Farofa Pronta de Mandioca Suave Rocha 250g",
+    "name": "Farofa Pronta de Mandioca Bacon Rocha 250g",
     "price": 3.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/96899_20190514105015_thumb_96899FarofaProntadeMandiocaSuaveRocha250g.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/96901_20190514105050_thumb_96901FarofaProntadeMandiocaBaconRocha250g.png",
     "market": "Extrabom"
   },
   {
@@ -547,23 +547,23 @@
   },
   {
     "id": "79",
+    "name": "Farinha de Mandioca Dinda 1Kg",
+    "price": 4.39,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8447_farinha_de_mandioca_dinda_1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
     "name": "Farinha de Mandioca Leste Torrada 500G",
     "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/95684_20240924140845_thumb_Farinha_de_Mandioca_Leste_Torrada_500G.png",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "81",
     "name": "Farinha de Mandioca Branca Juju 1kg",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85567_20191010164351_thumb_Farinha_de_Mandioca_Branca_Juju_1kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "81",
-    "name": "Farinha de Mandioca Dinda 1Kg",
-    "price": 5.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8447_farinha_de_mandioca_dinda_1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -596,16 +596,16 @@
   },
   {
     "id": "86",
-    "name": "Farinha de Mandioca Branca Monsil 1Kg",
-    "price": 6.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8463_7896035911250.jpg",
+    "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg",
+    "price": 6.39,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173044_20220819154652_thumb_Farinha_Amarela_Zuppa_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "87",
-    "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg",
+    "name": "Farinha de Mandioca Branca Monsil 1Kg",
     "price": 6.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173044_20220819154652_thumb_Farinha_Amarela_Zuppa_1kg.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8463_7896035911250.jpg",
     "market": "Extrabom"
   },
   {

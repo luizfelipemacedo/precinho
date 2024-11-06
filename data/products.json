@@ -470,93 +470,93 @@
   },
   {
     "id": "68",
+    "name": "Café Grão 3 Corações Espresso Gourmet 500g",
+    "price": 18.99,
+    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "market": "Extrabom"
+  },
+  {
+    "id": "69",
     "name": "Café Meridiano Extra Forte 500G",
     "price": 18.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png",
     "market": "Extrabom"
   },
   {
-    "id": "69",
+    "id": "70",
     "name": "Café em Pó Fort 500g",
     "price": 20.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-torrado-e-moido-fort-pacote-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "70",
+    "id": "71",
     "name": "Café 3 Corações Pouch Tradicional Leve 500g Pague 475g",
     "price": 21.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174498_extrabom_cafes-chas_cafe-3-coracoes-pouch-tradicional-leve-500g-pague-475g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "71",
+    "id": "72",
     "name": "Café 3 Corações Pouch Extra Forte Leve 500g Pague 475g",
     "price": 21.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174497_extrabom_cafes-chas_cafe-3-coracoes-pouch-extra-forte-leve-500g-pague-475g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "73",
     "name": "Café 3 Corações Fort Vácuo 500G",
     "price": 22.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "74",
     "name": "Café Pilão Intenso Vácuo 500G",
     "price": 22.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8313_7896089012880.png",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "75",
     "name": "Café Pilão Extra Forte Vácuo 500G",
     "price": 22.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8266_7896089013405.png",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "76",
     "name": "Café em pó 3 Corações Tradicional 500g",
     "price": 22.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "77",
     "name": "Café Pilão Vácuo 500G",
     "price": 22.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7999_20221103135801_thumb_cafe_pilao_a_vacuo_tradicional_500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "78",
     "name": "Café em pó 3 Corações Extraforte 500g",
     "price": 22.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-torrado-e-moido-extraforte-3-coracoes-pacote-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "79",
     "name": "Farinha Láctea NESTLÉ Leve 600g Pague 500g\nALÉRGICOS: CONTÉM LEITE E DERIVADOS DE TRIGO. PODE CONTER SOJA, CENTEIO, CEVADA E AVEIA. CONTÉM LACTOSE. CONTÉM GLÚTEN.",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171746_extrabom_bebida-lactea_farinha-lactea-nestle-leve-600g-pague-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "80",
     "name": "Café em pó 3 Corações Vácuo 500g",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-torrado-e-moido-a-vacuo-tradicional-3-coracoes-pacote-500g_13.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "80",
-    "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
-    "price": 24.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7943_extrabom_cafes-chas_cafe-torrado-e-moido-a-vacuo-extraforte-3-coracoes-pacote-500g_20.jpg",
     "market": "Extrabom"
   },
   {
@@ -603,51 +603,51 @@
   },
   {
     "id": "87",
+    "name": "Açúcar Cristal Orgânico União 1Kg",
+    "price": 6.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10077_7891910020034.JPG",
+    "market": "Extrabom"
+  },
+  {
+    "id": "88",
     "name": "Açúcar Cristal Orgânico Itajá 1kg",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88184_extrabom_acucar-adocantes_acucar-cristal-organico-itaja-1kg_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "88",
+    "id": "89",
     "name": "Açúcar Demerara União Naturale 1kg",
     "price": 7.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/59826_20170822083152_thumb_59826_AcucarDemeraraUniaoNaturale1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "89",
+    "id": "90",
     "name": "Açúcar Demerara Orgânico Itajá 1kg",
     "price": 8.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88183_extrabom_acucar-adocantes_acucar-demerara-organico-itaja-1kg_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "90",
+    "id": "91",
+    "name": "Açúcar Cristal Santa Isabel 2Kg",
+    "price": 8.39,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "92",
     "name": "Açúcar Cristal Alcon 2kg",
     "price": 8.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/39156_20170705144313_thumb_39156_acucar_cristal_alcon_2kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "91",
+    "id": "93",
     "name": "Açúcar Cristal Orgânico Native 1Kg",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10102_20240426094610_thumb_Sem_titulo28.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "92",
-    "name": "Açúcar Cristal Orgânico União 1Kg",
-    "price": 8.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10077_7891910020034.JPG",
-    "market": "Extrabom"
-  },
-  {
-    "id": "93",
-    "name": "Açúcar Cristal Santa Isabel 2Kg",
-    "price": 8.89,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
     "market": "Extrabom"
   },
   {
@@ -695,7 +695,7 @@
   {
     "id": "100",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 86.86,
+    "price": 88.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -751,7 +751,7 @@
   {
     "id": "108",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 86.86,
+    "price": 88.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -919,7 +919,7 @@
   {
     "id": "132",
     "name": "Farinha de Mandioca Branca Juju 1kg",
-    "price": 4.89,
+    "price": 5.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85567_20191010164351_thumb_Farinha_de_Mandioca_Branca_Juju_1kg.png",
     "market": "Extrabom"
   },
@@ -1031,7 +1031,7 @@
   {
     "id": "148",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 86.86,
+    "price": 88.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1338,23 +1338,23 @@
   },
   {
     "id": "192",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nR$ 10,79",
-    "price": 8.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "193",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 8,99",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "194",
+    "id": "193",
     "name": "Coxa bandeja Seara 1kg",
     "price": 9.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/188514_extrabom_coxa-bandeja-seara-1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "194",
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nR$ 11,88",
+    "price": 9.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png",
     "market": "Extrabom"
   },
   {
@@ -1408,51 +1408,51 @@
   },
   {
     "id": "202",
+    "name": "Coxa e Sobrecoxa de Frango Congelada Seara Pacote 1,5kg\nAproximadamente 1,5Kg\nR$ 19,49",
+    "price": 12.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/96139_20190401113607_thumb_96139CoxaeSobrecoxadeFrangoCongeladoSearakg.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "203",
     "name": "Moela de Frango Uniaves Bandeja 1kg",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19858_20170126084843_thumb_19858_moela_frango_uniaves_congelada_bandeja_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "203",
+    "id": "204",
     "name": "Coxa de Frango Congelada Oi Frango 1Kg",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167989_20220218152655_thumb_167989_COXAS_FRANGO_CONG_OI_FGO_BDJ_1KG_removebg_preview.png",
     "market": "Extrabom"
   },
   {
-    "id": "204",
+    "id": "205",
     "name": "Coxa de Frango Uniaves Pacote 1,2kg\nAproximadamente 1,200Kg\nR$ 16,79",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/138369_20240925094005_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
   {
-    "id": "205",
+    "id": "206",
     "name": "Sobrecoxa de Frango Congelado Uniaves Pacote 1,300kg\nAproximadamente 1,300kg\nR$ 19,49",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193777_20241025092026_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "206",
+    "id": "207",
     "name": "Sobrecoxa de Frango Congelado Oi Frango Bandeja 1kg",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167755_20211119094233_thumb_167755_Sobrecoxa_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "207",
+    "id": "208",
     "name": "Coxa de frango congelada Sadia 1kg",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg_4.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "208",
-    "name": "Frango Passarinho Lar 1kg",
-    "price": 14.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19372_20240919091646_thumb_Frango_Passarinho_Lar_1kg.png",
     "market": "Extrabom"
   }
 ]

@@ -324,7 +324,7 @@
   {
     "id": "47",
     "name": "Arroz Zuppa Tipo 1 1kg",
-    "price": 5.99,
+    "price": 5.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161453_20210910155419_thumb_161453_Arroz_Zuppa_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
@@ -953,30 +953,30 @@
   },
   {
     "id": "137",
+    "name": "Café Cafuso 500G",
+    "price": 17.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "138",
     "name": "Café Número Um Extra Forte 500G",
     "price": 18.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/111647_20230606094402_thumb_Sem_titulo6666.png",
     "market": "Extrabom"
   },
   {
-    "id": "138",
+    "id": "139",
     "name": "Café Número Um Tradicional 500G",
     "price": 18.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8153_20230606163011_thumb_CAFEN01_TRADICIONAL500G__1.png",
     "market": "Extrabom"
   },
   {
-    "id": "139",
+    "id": "140",
     "name": "Café Meridiano Tradicional 500G",
     "price": 18.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8096_20240926133746_thumb_Cafe_Meridiano_Tradicional_500G.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "140",
-    "name": "Café Cafuso 500G",
-    "price": 18.78,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
     "market": "Extrabom"
   },
   {
@@ -1240,30 +1240,30 @@
   },
   {
     "id": "178",
+    "name": "Açúcar Refinado Caravelas 1Kg",
+    "price": 4.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/79862_20170901084633_thumb_79862_AcucarRefinadoCaravelas1kg__2.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "179",
     "name": "Açúcar Demerara Santa Isabel 1kg",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189528_20231106092700_thumb_Sem_titulo232.png",
     "market": "Extrabom"
   },
   {
-    "id": "179",
-    "name": "Açúcar Demerara Caravelas 1kg",
-    "price": 4.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101903_20190103101129_thumb_101903ACUCARDEMERARACARAVELAS1KG.png",
-    "market": "Extrabom"
-  },
-  {
     "id": "180",
-    "name": "Açúcar Refinado Caravelas 1Kg",
+    "name": "Açúcar Refinado União 1Kg",
     "price": 4.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/79862_20170901084633_thumb_79862_AcucarRefinadoCaravelas1kg__2.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
     "market": "Extrabom"
   },
   {
     "id": "181",
-    "name": "Açúcar Refinado União 1Kg",
-    "price": 4.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
+    "name": "Açúcar Demerara Caravelas 1kg",
+    "price": 5.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101903_20190103101129_thumb_101903ACUCARDEMERARACARAVELAS1KG.png",
     "market": "Extrabom"
   },
   {
@@ -1745,14 +1745,14 @@
   {
     "id": "250",
     "name": "Maionese Hellmann's Light 500G\n50% OFF na 2 Und.\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
-    "price": 9.79,
+    "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g_37.jpg",
     "market": "Extrabom"
   },
   {
     "id": "251",
     "name": "Maionese Hellmann's Tradicional 500G\n50% OFF na 2 Und.",
-    "price": 9.79,
+    "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1049_extrabom_molhos_maionese-hellmann-s-tradicional-500g_12.jpg",
     "market": "Extrabom"
   },
@@ -1821,16 +1821,16 @@
   },
   {
     "id": "261",
-    "name": "Óleo Soja Leve 900ml Pet",
+    "name": "Oleo Soja Soya 900ml Pet",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/427501-600-600/imagem1.png?v=638671300265300000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/420129-600-600/imagem1.png?v=638671281227070000",
     "market": "Carone"
   },
   {
     "id": "262",
-    "name": "Oleo Soja Soya 900ml Pet",
+    "name": "Óleo Soja Leve 900ml Pet",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/420129-600-600/imagem1.png?v=638671281227070000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/427501-600-600/imagem1.png?v=638671300265300000",
     "market": "Carone"
   },
   {
@@ -1905,44 +1905,44 @@
   },
   {
     "id": "273",
+    "name": "Farinha de Mandioca Amarela Juparanã 1kg",
+    "price": 6.39,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "274",
     "name": "Farinha de Mandioca Amarela Fina Rocha 1kg",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/106146_20190514134524_thumb_106146FarinhadeMandiocaAmarelaFinaRocha1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "274",
+    "id": "275",
     "name": "Farinha de Mandioca Amarela Fina Amafil 1kg",
     "price": 6.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8400_7896035911991.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "275",
+    "id": "276",
     "name": "Farinha de Mandioca Amarelinha da Bahia Leste 1kg",
     "price": 6.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8391_20170527110859_thumb_8391_FarinhadeMandiocaAmarelinhadaBahiaLeste1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "276",
+    "id": "277",
     "name": "Farinha de Mandioca Torrada Monsil 1Kg",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8479_7896035911168.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "277",
+    "id": "278",
     "name": "Farinha de Mandioca Torrada Amafil 1kg",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/42151_20170718082254_thumb_42151_FarinhadeMandiocaTorradaAmafil1kg.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "278",
-    "name": "Farinha de Mandioca Amarela Juparanã 1kg",
-    "price": 7.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -2661,58 +2661,58 @@
   },
   {
     "id": "381",
-    "name": "Moela Frango Congelada Oi Frango Bandeja 1kg",
-    "price": 11.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167754_20211215095847_thumb_Moela_Frango_Congelada_Oi_Frango_Bandeja_1kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "382",
     "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 35,97",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png",
     "market": "Extrabom"
   },
   {
-    "id": "383",
+    "id": "382",
     "name": "Coxa e Sobrecoxa de Frango Congelado Oi Frango Pacote 1,5Kg\nAproximadamente 1,5Kg\nR$ 17,99",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/52377_20190502133456_thumb_52377CoxaeSobrecoxadeFrangoCongeladoOiFrangoPacote1_5Kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "384",
+    "id": "383",
     "name": "Moela de Frango Congelada Uniaves 1Kg",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4255_20170515171727_thumb_4255_moela_frango_uniaves_congelada_bandeja_1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "385",
+    "id": "384",
     "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 20,38",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg",
     "market": "Extrabom"
   },
   {
+    "id": "385",
+    "name": "Coxa de Frango Congelada Oi Frango 1Kg",
+    "price": 12.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167989_20220218152655_thumb_167989_COXAS_FRANGO_CONG_OI_FGO_BDJ_1KG_removebg_preview.png",
+    "market": "Extrabom"
+  },
+  {
     "id": "386",
+    "name": "Moela Frango Congelada Oi Frango Bandeja 1kg",
+    "price": 12.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167754_20211215095847_thumb_Moela_Frango_Congelada_Oi_Frango_Bandeja_1kg.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "387",
     "name": "Coxa e Sobrecoxa de Frango Congelada Seara Pacote 1,5kg\nAproximadamente 1,5Kg\nR$ 19,49",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/96139_20190401113607_thumb_96139CoxaeSobrecoxadeFrangoCongeladoSearakg.png",
     "market": "Extrabom"
   },
   {
-    "id": "387",
+    "id": "388",
     "name": "Moela de Frango Uniaves Bandeja 1kg",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19858_20170126084843_thumb_19858_moela_frango_uniaves_congelada_bandeja_1kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "388",
-    "name": "Coxa de Frango Congelada Oi Frango 1Kg",
-    "price": 13.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167989_20220218152655_thumb_167989_COXAS_FRANGO_CONG_OI_FGO_BDJ_1KG_removebg_preview.png",
     "market": "Extrabom"
   },
   {
@@ -2724,23 +2724,23 @@
   },
   {
     "id": "390",
+    "name": "Sobrecoxa de Frango Congelada Bandeja Sadia 1kg",
+    "price": 13.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/126_extrabom_aves-congeladas_sobrecoxa-de-frango-congelada-bandeja-sadia-1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "391",
     "name": "Sobrecoxa de Frango Congelado Uniaves Pacote 1,300kg\nAproximadamente 1,300kg\nR$ 19,49",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193777_20241025092026_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "391",
+    "id": "392",
     "name": "Sobrecoxa de Frango Congelado Oi Frango Bandeja 1kg",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167755_20211119094233_thumb_167755_Sobrecoxa_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "392",
-    "name": "Coxa de frango congelada Sadia 1kg",
-    "price": 14.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg_4.jpg",
     "market": "Extrabom"
   },
   {

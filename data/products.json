@@ -71,30 +71,30 @@
   },
   {
     "id": "11",
-    "name": "Leite Longa Vida Porto Alegre Integral Zero Lactose 1L",
-    "price": 5.89,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167510_20231227114331_thumb_Sem_titulo501.png",
+    "name": "Leite Longa Vida Piracanjuba Semi Desnatado 1L",
+    "price": 5.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22455_extrabom_leites_leite-longa-vida-piracanjuba-semi-desnatado-1l_4.jpg",
     "market": "Extrabom"
   },
   {
     "id": "12",
     "name": "Leite Longa Vida Piracanjuba Desnatado 1L",
-    "price": 6.49,
+    "price": 5.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22454_extrabom_leites_leite-longa-vida-piracanjuba-desnatado-1l_3.jpg",
     "market": "Extrabom"
   },
   {
     "id": "13",
     "name": "Leite Longa Vida Piracanjuba Integral 1L",
-    "price": 6.49,
+    "price": 5.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22453_extrabom_leites_leite-longa-vida-piracanjuba-integral-1l_3.jpg",
     "market": "Extrabom"
   },
   {
     "id": "14",
-    "name": "Leite Longa Vida Piracanjuba Semi Desnatado 1L",
+    "name": "Leite Longa Vida Porto Alegre Integral Zero Lactose 1L",
     "price": 6.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22455_extrabom_leites_leite-longa-vida-piracanjuba-semi-desnatado-1l_4.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167510_20231227114331_thumb_Sem_titulo501.png",
     "market": "Extrabom"
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "id": "19",
-    "name": "Leite Longa Vida Itambé Kids Natural Milk Integral 1L",
+    "name": "Leite Longa Vida Itambé Zero Lactose Desnatado 1L",
     "price": 6.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/99348_20190608103132_thumb_99348LeiteLongaVidaNaturalMilk1L.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/41460_7896051128076.JPG",
     "market": "Extrabom"
   },
   {
@@ -771,30 +771,30 @@
   },
   {
     "id": "111",
+    "name": "Café Meridiano Tradicional 500G",
+    "price": 24.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8096_20240926133746_thumb_Cafe_Meridiano_Tradicional_500G.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "112",
     "name": "Café Melitta Extra Forte 500G",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "112",
+    "id": "113",
     "name": "Café Melitta Tradicional Vácuo 500G",
     "price": 24.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "113",
+    "id": "114",
     "name": "Café Pilão Extra Forte Vácuo 500G",
     "price": 25.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8266_7896089013405.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "114",
-    "name": "Café Pilão Vácuo 500G",
-    "price": 25.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7999_20221103135801_thumb_cafe_pilao_a_vacuo_tradicional_500g.jpg",
     "market": "Extrabom"
   },
   {
@@ -827,16 +827,16 @@
   },
   {
     "id": "119",
-    "name": "Café Torrado E Moído A Vácuo Cafeteira Expresso 500g",
+    "name": "Café Italiano Torrado Moído Pilão Cafeteria Vácuo 500g",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/437683-600-600/imagem1.png?v=638671332338270000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/437628-600-600/imagem1.png?v=638671332337630000",
     "market": "Carone"
   },
   {
     "id": "120",
-    "name": "Café Italiano Torrado Moído Pilão Cafeteria Vácuo 500g",
+    "name": "Café Torrado E Moído A Vácuo Cafeteira Expresso 500g",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/437628-600-600/imagem1.png?v=638671332337630000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/437683-600-600/imagem1.png?v=638671332338270000",
     "market": "Carone"
   },
   {
@@ -1324,23 +1324,23 @@
   },
   {
     "id": "190",
+    "name": "SAL REFINADO GLOBO 1KG",
+    "price": null,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/417367-600-600/imagem1.png?v=638671275302970000",
+    "market": "Carone"
+  },
+  {
+    "id": "191",
     "name": "SAL REFINADO SMARTLIGHT 500G",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/414214-600-600/imagem1.png?v=638671269261630000",
     "market": "Carone"
   },
   {
-    "id": "191",
+    "id": "192",
     "name": "SAL REFINADO LEBRE 1KG",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/422832-600-600/imagem1.png?v=638671287908370000",
-    "market": "Carone"
-  },
-  {
-    "id": "192",
-    "name": "SAL REFINADO GLOBO 1KG",
-    "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/417367-600-600/imagem1.png?v=638671275302970000",
     "market": "Carone"
   },
   {
@@ -1458,7 +1458,7 @@
   {
     "id": "209",
     "name": "Farofa Pronta de Mandioca Yoki 200G",
-    "price": 3.59,
+    "price": 3.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8527_extrabom_farinhas-farofas_farofa-pronta-de-mandioca-yoki-200g_1.jpg",
     "market": "Extrabom"
   },
@@ -1534,65 +1534,65 @@
   },
   {
     "id": "220",
-    "name": "Farinha de Mandioca Amarela Juju 1kg",
-    "price": 5.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85568_20220523120408_thumb_85568_FARINHA_MAND_AMAR_JUJU_1KG_removebg_preview.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "221",
     "name": "Farinha de Mandioca Branca Juju 1kg",
     "price": 5.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85567_20191010164351_thumb_Farinha_de_Mandioca_Branca_Juju_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "222",
+    "id": "221",
     "name": "Farinha de Mandioca Amarela Juparanã 1kg",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "223",
+    "id": "222",
     "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173044_20220819154652_thumb_Farinha_Amarela_Zuppa_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "224",
+    "id": "223",
     "name": "Farinha de Mandioca Amarela Fina Rocha 1kg",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/106146_20190514134524_thumb_106146FarinhadeMandiocaAmarelaFinaRocha1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "225",
+    "id": "224",
     "name": "Farinha de Mandioca Amarela Fina Amafil 1kg",
     "price": 6.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8400_7896035911991.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "226",
+    "id": "225",
     "name": "Farinha de Mandioca Amarelinha da Bahia Leste 1kg",
     "price": 6.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8391_20170527110859_thumb_8391_FarinhadeMandiocaAmarelinhadaBahiaLeste1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "227",
+    "id": "226",
     "name": "Farinha de Mandioca Torrada Monsil 1Kg",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8479_7896035911168.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "228",
+    "id": "227",
     "name": "Farinha de Mandioca Torrado Japurana 1kg",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83263_20190130150417_thumb_83263FarinhadeMandiocaTorradoJapurana1kg.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "228",
+    "name": "Farinha de Mandioca Branca Juparana 1kg",
+    "price": 7.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83260_20190226104522_thumb_83260FarinhadeMandiocaBrancaJuparana1kg.png",
     "market": "Extrabom"
   },
   {
@@ -2178,8 +2178,8 @@
   },
   {
     "id": "312",
-    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 35,97",
-    "price": 11.99,
+    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 38,97",
+    "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png",
     "market": "Extrabom"
   },

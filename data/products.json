@@ -100,14 +100,14 @@
   {
     "id": "15",
     "name": "Leite Longa Vida Piracanjuba Desnatado 1L",
-    "price": 5.99,
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22454_extrabom_leites_leite-longa-vida-piracanjuba-desnatado-1l_3.jpg",
     "market": "Extrabom"
   },
   {
     "id": "16",
     "name": "Leite Longa Vida Piracanjuba Integral 1L",
-    "price": 5.99,
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22453_extrabom_leites_leite-longa-vida-piracanjuba-integral-1l_3.jpg",
     "market": "Extrabom"
   },
@@ -316,72 +316,72 @@
   },
   {
     "id": "46",
+    "name": "Feijão Preto Zuppa Tipo 1 1kg",
+    "price": 6.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "47",
     "name": "Feijão Carioca Juju Tipo 1 1kg",
     "price": 6.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85562_20210204152621_thumb_85562_Feijao_Carioca_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "47",
+    "id": "48",
     "name": "Feijão Preto Nico Tipo 1 1Kg",
     "price": 6.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "48",
+    "id": "49",
+    "name": "Feijão Carioca Combrasil 1kg",
+    "price": 6.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8615_7896101062022.JPG",
+    "market": "Extrabom"
+  },
+  {
+    "id": "50",
     "name": "Feijão Preto Sarcel 1kg",
     "price": 7.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/87088_20190820151359_thumb_87088FeijaoPretoSarcel1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "49",
+    "id": "51",
     "name": "Feijão Preto Ranchinho 1kg",
     "price": 7.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9081_7896612700055.png",
     "market": "Extrabom"
   },
   {
-    "id": "50",
-    "name": "Feijão Preto Zuppa Tipo 1 1kg",
-    "price": 7.89,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "51",
+    "id": "52",
     "name": "Feijão Preto Lívia Tipo 1 1kg",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
   {
-    "id": "52",
-    "name": "Feijão Carioca Combrasil 1kg",
-    "price": 8.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8615_7896101062022.JPG",
+    "id": "53",
+    "name": "Feijão Preto Combrasil Tipo 1 1kg",
+    "price": 7.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9071_7896101062015.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "53",
+    "id": "54",
     "name": "Feijão Preto Juju Tipo 1 1kg",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85565_20210204152652_thumb_85565_Feijao_Preto_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "54",
+    "id": "55",
     "name": "Feijão Fradinho Nico Tipo 1 kg",
     "price": 8.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/107919_20210126174137_thumb_Feijao_Fradinho_Nico_Tipo_1_kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "55",
-    "name": "Feijão Preto Combrasil Tipo 1 1kg",
-    "price": 8.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9071_7896101062015.JPG",
     "market": "Extrabom"
   },
   {
@@ -422,141 +422,141 @@
   {
     "id": "61",
     "name": "Café Número Um Extra Forte 500G",
-    "price": 16.99,
+    "price": 19.78,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/111647_20230606094402_thumb_Sem_titulo6666.png",
     "market": "Extrabom"
   },
   {
     "id": "62",
-    "name": "Café Cafuso Extra Forte 500G",
-    "price": 16.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100480_20200625125831_thumb_100480_Cafe_Cafuso_Extra_Forte_500g.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "63",
-    "name": "Café Cafuso 500G",
-    "price": 16.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "64",
     "name": "Café Número Um Tradicional 500G",
-    "price": 16.99,
+    "price": 19.78,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8153_20230606163011_thumb_CAFEN01_TRADICIONAL500G__1.png",
     "market": "Extrabom"
   },
   {
-    "id": "65",
+    "id": "63",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 19.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "66",
+    "id": "64",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 19.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
+    "id": "65",
+    "name": "Café Cafuso Extra Forte 500G",
+    "price": 19.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100480_20200625125831_thumb_100480_Cafe_Cafuso_Extra_Forte_500g.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "66",
+    "name": "Café Cafuso 500G",
+    "price": 19.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
+    "market": "Extrabom"
+  },
+  {
     "id": "67",
-    "name": "Café Melitta Especial Vácuo 500G",
-    "price": 19.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8167_extrabom_cafes-chas_cafe-melitta-especial-vacuo-500g.jpg",
+    "name": "Café 3 Corações Fort Vácuo 500G",
+    "price": 21.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "68",
-    "name": "Café Meridiano Extra Forte 500G",
-    "price": 20.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "69",
     "name": "Café em Pó Fort 500g",
     "price": 21.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-torrado-e-moido-fort-pacote-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "70",
+    "id": "69",
     "name": "Café 3 Corações Pouch Tradicional Leve 500g Pague 475g",
-    "price": 22.78,
+    "price": 24.68,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174498_extrabom_cafes-chas_cafe-3-coracoes-pouch-tradicional-leve-500g-pague-475g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "71",
+    "id": "70",
     "name": "Café 3 Corações Pouch Extra Forte Leve 500g Pague 475g",
-    "price": 22.78,
+    "price": 24.68,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174497_extrabom_cafes-chas_cafe-3-coracoes-pouch-extra-forte-leve-500g-pague-475g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
-    "name": "Café 3 Corações Fort Vácuo 500G",
-    "price": 22.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "73",
-    "name": "Café em pó 3 Corações Tradicional 500g",
-    "price": 23.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "74",
-    "name": "Café em pó 3 Corações Extraforte 500g",
-    "price": 23.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-torrado-e-moido-extraforte-3-coracoes-pacote-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "75",
+    "id": "71",
     "name": "Farinha Láctea NESTLÉ Leve 600g Pague 500g\nALÉRGICOS: CONTÉM LEITE E DERIVADOS DE TRIGO. PODE CONTER SOJA, CENTEIO, CEVADA E AVEIA. CONTÉM LACTOSE. CONTÉM GLÚTEN.",
     "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171746_extrabom_bebida-lactea_farinha-lactea-nestle-leve-600g-pague-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "72",
     "name": "Café Melitta Extra Forte 500G",
-    "price": 24.9,
+    "price": 25.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "73",
     "name": "Café Melitta Tradicional Pouch 500g",
-    "price": 24.9,
+    "price": 25.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
-    "name": "Café Meridiano Tradicional 500G",
-    "price": 24.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8096_20240926133746_thumb_Cafe_Meridiano_Tradicional_500G.png",
+    "id": "74",
+    "name": "Café Melitta Tradicional Vácuo 500G",
+    "price": 25.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "75",
     "name": "Café em pó 3 Corações Vácuo 500g",
-    "price": 24.9,
+    "price": 25.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-torrado-e-moido-a-vacuo-tradicional-3-coracoes-pacote-500g_13.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "76",
+    "name": "Café em pó 3 Corações Tradicional 500g",
+    "price": 25.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "77",
     "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
-    "price": 24.9,
+    "price": 25.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7943_extrabom_cafes-chas_cafe-torrado-e-moido-a-vacuo-extraforte-3-coracoes-pacote-500g_20.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "78",
+    "name": "Café em pó 3 Corações Extraforte 500g",
+    "price": 25.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-torrado-e-moido-extraforte-3-coracoes-pacote-500g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "79",
+    "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
+    "price": 26.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Melitta Sabor da Fazenda Pouch 500g",
+    "price": 26.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
@@ -758,21 +758,21 @@
   {
     "id": "109",
     "name": "Biscoito Passatempo Recheado Chocolate 130g\nCONTÉM GLÚTEN.",
-    "price": 3.39,
+    "price": 3.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62379_extrabom_biscoitos_biscoito-passatempo-recheado-chocolate-130g_35.jpg",
     "market": "Extrabom"
   },
   {
     "id": "110",
     "name": "Biscoito Recheado Oreo Chocolate 90g",
-    "price": 4.29,
+    "price": 3.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_50.jpg",
     "market": "Extrabom"
   },
   {
     "id": "111",
     "name": "Biscoito Recheado Oreo original 90g",
-    "price": 4.29,
+    "price": 3.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22370_extrabom_biscoitos_biscoito-recheado-oreo-original-90g_50.jpg",
     "market": "Extrabom"
   },
@@ -834,37 +834,37 @@
   },
   {
     "id": "120",
+    "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
+    "price": 9.29,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g_50.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "121",
     "name": "Queijo Parmesão de Castanha de Caju Ralado Vida Veg 50G",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174229_extrabom_queijos_queijo-parmesao-de-castanha-de-caju-ralado-vida-veg-50g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "121",
+    "id": "122",
     "name": "Maionese Hellmann's Light 500G\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g_37.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "122",
+    "id": "123",
     "name": "Maionese Hellmann's Tradicional 500G",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1049_extrabom_molhos_maionese-hellmann-s-tradicional-500g_12.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "123",
+    "id": "124",
     "name": "Margarina cremosa sem sal Qualy pote 500g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Gordura Vegetal : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados : Contém",
     "price": 10.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/42219_extrabom_margarinas_margarina-cremosa-sem-sal-qualy-pote-500g_2.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "124",
-    "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
-    "price": 10.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g_50.jpg",
     "market": "Extrabom"
   },
   {
@@ -1045,50 +1045,50 @@
   {
     "id": "150",
     "name": "Biscoito Passatempo Recheado Chocolate 130g\nCONTÉM GLÚTEN.",
-    "price": 3.39,
+    "price": 3.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62379_extrabom_biscoitos_biscoito-passatempo-recheado-chocolate-130g_35.jpg",
     "market": "Extrabom"
   },
   {
     "id": "151",
+    "name": "Biscoito Recheado Oreo Chocolate 90g",
+    "price": 3.19,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_50.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "152",
+    "name": "Biscoito Recheado Oreo original 90g",
+    "price": 3.19,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22370_extrabom_biscoitos_biscoito-recheado-oreo-original-90g_50.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "153",
     "name": "Cookie NEGRESCO Gotas de Baunilha 60g\nCONTÉM LACTOSE. CONTÉM GLÚTEN. % Valores Diários de referência com base em uma dieta de 2.000 kcal ou 8.400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas. **VD não estabelecido. ***Porção de referência p",
     "price": 3.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88671_extrabom_biscoitos_cookie-negresco-gotas-de-baunilha-60g_18.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "152",
+    "id": "154",
     "name": "Farinha de Trigo Rosa Branca Papel 1kg",
     "price": 3.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100620_20241210165731_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "153",
+    "id": "155",
     "name": "Farinha de Trigo Rosa Branca 1kg",
     "price": 3.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19733_20241210165650_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
-    "id": "154",
+    "id": "156",
     "name": "Farinha de Trigo Tipo 1 Extra Clara Adria Premium 1kg",
     "price": 3.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/184652_extrabom_farinhas-farofas_farinha-de-trigo-tipo-1-extra-clara-adria-premium-pacote-1kg.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "155",
-    "name": "Biscoito Recheado Oreo Chocolate 90g",
-    "price": 4.29,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_50.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "156",
-    "name": "Biscoito Recheado Oreo original 90g",
-    "price": 4.29,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/22370_extrabom_biscoitos_biscoito-recheado-oreo-original-90g_50.jpg",
     "market": "Extrabom"
   },
   {

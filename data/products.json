@@ -561,16 +561,16 @@
   },
   {
     "id": "81",
-    "name": "Açúcar Cristal Extra Fino Santa Isabel 1Kg",
-    "price": 4.59,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9416_7898187830038.JPG",
+    "name": "Açúcar Refinado União 1Kg",
+    "price": 4.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
     "market": "Extrabom"
   },
   {
     "id": "82",
-    "name": "Açúcar Refinado União 1Kg",
+    "name": "Açúcar Cristal Extra Fino Santa Isabel 1Kg",
     "price": 4.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9416_7898187830038.JPG",
     "market": "Extrabom"
   },
   {
@@ -582,16 +582,16 @@
   },
   {
     "id": "84",
-    "name": "Açúcar Demerara Santa Isabel 1kg",
+    "name": "Açúcar Demerara Caravelas 1kg",
     "price": 5.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189528_20231106092700_thumb_Sem_titulo232.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101903_20190103101129_thumb_101903ACUCARDEMERARACARAVELAS1KG.png",
     "market": "Extrabom"
   },
   {
     "id": "85",
-    "name": "Açúcar Demerara Caravelas 1kg",
-    "price": 5.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101903_20190103101129_thumb_101903ACUCARDEMERARACARAVELAS1KG.png",
+    "name": "Açúcar Demerara Santa Isabel 1kg",
+    "price": 5.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189528_20231106092700_thumb_Sem_titulo232.png",
     "market": "Extrabom"
   },
   {
@@ -639,7 +639,7 @@
   {
     "id": "92",
     "name": "Açúcar Cristal Santa Isabel 2Kg",
-    "price": 8.79,
+    "price": 8.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
     "market": "Extrabom"
   },
@@ -667,14 +667,14 @@
   {
     "id": "96",
     "name": "Açúcar Cristal Alcon 5Kg",
-    "price": 17.98,
+    "price": 18.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/39157_acucar_cristal_alcon_5kg.jpg",
     "market": "Extrabom"
   },
   {
     "id": "97",
     "name": "Açúcar Cristal Santa Isabel 5Kg",
-    "price": 19.49,
+    "price": 19.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9397_7898187830052.png",
     "market": "Extrabom"
   },
@@ -688,7 +688,7 @@
   {
     "id": "99",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 89.88,
+    "price": 90.87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -744,7 +744,7 @@
   {
     "id": "107",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 89.88,
+    "price": 90.87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1170,142 +1170,142 @@
   },
   {
     "id": "168",
-    "name": "Macarrão Instantâneo Express Renata Carne 85g",
-    "price": 1.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/111058_20200305133521_thumb_111058_Macarrao_Instantaneo_Express_Renata_Carne_85g.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "169",
     "name": "Macarrão Instantâneo Express Renata Galinha 85g",
     "price": 1.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/111056_20200305133419_thumb_111056_Macarrao_Instantaneo_Express_Renata_Galinha_85g.png",
     "market": "Extrabom"
   },
   {
-    "id": "170",
+    "id": "169",
     "name": "Macarrão Instantâneo Villoni 63G Carne",
     "price": 1.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/131952_20220224140921_thumb_131952_Macarrao_Instantaneo_Villoni_Carne_63g_removebg_preview.png",
     "market": "Extrabom"
   },
   {
-    "id": "171",
+    "id": "170",
     "name": "Macarrão Instantâneo Villoni 63g Legumes",
     "price": 1.49,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
   {
-    "id": "172",
+    "id": "171",
     "name": "Macarrão Instantaneo Villoni 63g Galinha Caipira",
     "price": 1.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/131946_20240909163200_thumb_MACARRAO_VILLOLI_FRANGO_CAIPIRA.png",
     "market": "Extrabom"
   },
   {
-    "id": "173",
+    "id": "172",
     "name": "Macarrão Instantâneo Villoni 63G Frango",
     "price": 1.49,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
   {
-    "id": "174",
+    "id": "173",
     "name": "Macarrão Instantâneo Adria Galinha Caipira 75g",
     "price": 1.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200425_20241023160434_thumb_200425.png",
     "market": "Extrabom"
   },
   {
-    "id": "175",
+    "id": "174",
     "name": "Macarrão Instantâneo Adria Galinha 75g",
     "price": 1.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200424_extrabom_massas_macarrao-instantaneo-adria-galinha-75g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "176",
+    "id": "175",
     "name": "Macarrão Instantâneo Adria Carne 75g",
     "price": 1.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200423_extrabom_massas_macarrao-instantaneo-adria-carne-75g_1.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "177",
+    "id": "176",
     "name": "Macarrão Instantâneo Zuppa Galinha 85g",
     "price": 1.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193425_20240524165542_thumb_Sem_titulo6.png",
     "market": "Extrabom"
   },
   {
-    "id": "178",
+    "id": "177",
     "name": "Macarrão Instantâneo Zuppa Carne 85g",
     "price": 1.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193424_20240524165407_thumb_Sem_titulo5.png",
     "market": "Extrabom"
   },
   {
-    "id": "179",
+    "id": "178",
     "name": "Macarrão Instantâneo Zuppa Galinha Caipira 85g",
     "price": 1.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193423_20240524165135_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "180",
+    "id": "179",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Misteriojo Carne 85g",
     "price": 2.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200730_extrabom_massas-instantaneas_macarrao-instantaneo-lamen-nissin-miojo-misteriojo-carne-85g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "181",
+    "id": "180",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Misteriojo Galinha 85g",
     "price": 2.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200729_extrabom_massas-instantaneas_macarrao-instantaneo-lamen-nissin-miojo-misteriojo-galinha-85g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "182",
+    "id": "181",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Pao na Chapa com Manteiga 85g",
     "price": 2.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199010_extrabom_massas-instantaneas_macarrao-instantaneo-lamen-nissin-miojo-pao-na-chapa-com-manteiga-85g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "183",
+    "id": "182",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Omelete com Presunto e Queijo 85g",
     "price": 2.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/198986_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-omelete-com-presunto-e-queijo.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "184",
+    "id": "183",
     "name": "Macarrão Instantâneo Nissin Miojo Turma do Chico Bento Galinha Caipira com Tomate 75g",
     "price": 2.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/198635_extrabom_massas-instantaneas_macarrao-instantaneo-nissin-miojo-turma-do-chico-bento-galinha-caipira-com-tomate-75g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "185",
+    "id": "184",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Galinha Caipira Picante 85g",
     "price": 2.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189190_extrabom_massas-instantaneas_macarrao-instantaneo-lamen-nissin-miojo-galinha-caipira-picante-85g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "186",
+    "id": "185",
     "name": "Macarrão Instantâneo Nissin Miojo Turma do Chico Bento Milho na Manteiga 75g",
     "price": 2.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171767_extrabom_massas-instantaneas_macarrao-instantaneo-nissin-miojo-turma-do-chico-bento-milho-na-manteiga-75g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "187",
+    "id": "186",
     "name": "Macarrão Instantâneo Nissin Miojo Turma Chico Bento Caldo de Feijão 75g",
     "price": 2.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/143051_20200717162814_thumb_143051_Macarrao_Instantaneo_Nissin_Miojo_Turma_Chico_Bento_Caldo_de_Feijao_75g.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "187",
+    "name": "Macarrão Instantâneo Nissin Miojo Turma Chico Bento Canja de Galinha 75g",
+    "price": 2.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/143050_20200717162855_thumb_143050_Macarrao_Instantaneo_Nissin_Miojo_Turma_Chico_Bento_Canja_de_Galinha_75g.png",
     "market": "Extrabom"
   },
   {

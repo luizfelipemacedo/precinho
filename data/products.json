@@ -631,16 +631,16 @@
   },
   {
     "id": "91",
-    "name": "Feijão Carioca Lívia Tipo 1 1kg",
-    "price": 5.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8627_20170921130942_thumb_8627_FeijaoCariocaLiviaTipo11kg.jpg",
+    "name": "Feijão Preto Norte Tp 1kg",
+    "price": 5.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/133950_20210701110710_thumb_Feijao_Preto_Norte_Tp_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "92",
-    "name": "Feijão Preto Norte Tp 1kg",
+    "name": "Feijão Carioca Lívia Tipo 1 1kg",
     "price": 5.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/133950_20210701110710_thumb_Feijao_Preto_Norte_Tp_1kg.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8627_20170921130942_thumb_8627_FeijaoCariocaLiviaTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -687,72 +687,72 @@
   },
   {
     "id": "99",
-    "name": "Feijão Preto Lívia Tipo 1 1kg",
-    "price": 7.98,
-    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
-    "market": "Extrabom"
-  },
-  {
-    "id": "100",
     "name": "Feijão Carioca Combrasil 1kg",
     "price": 8.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8615_7896101062022.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "101",
+    "id": "100",
     "name": "Feijão Preto Juju Tipo 1 1kg",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85565_20210204152652_thumb_85565_Feijao_Preto_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "102",
+    "id": "101",
     "name": "Feijão Fradinho Nico Tipo 1 kg",
     "price": 8.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/107919_20210126174137_thumb_Feijao_Fradinho_Nico_Tipo_1_kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "103",
+    "id": "102",
     "name": "Feijão Preto Combrasil Tipo 1 1kg",
     "price": 8.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9071_7896101062015.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "104",
+    "id": "103",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
     "price": 9.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "105",
+    "id": "104",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 9.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "106",
+    "id": "105",
     "name": "Feijão Carioca das Montanhas 1kg",
     "price": 9.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/2938_7898293221966.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "107",
+    "id": "106",
     "name": "Feijão Fradinho das Montanhas 1kg",
     "price": 10.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/2972_7898137890167.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "108",
+    "id": "107",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 10.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9321_7896612700062.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "108",
+    "name": "Feijão Vermelho Juju Tipo 1 1kg",
+    "price": 10.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
@@ -1353,7 +1353,7 @@
   {
     "id": "194",
     "name": "AÇÚCAR CRISTAL COAGRO 5KG",
-    "price": 18.99,
+    "price": 17.98,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
@@ -2626,128 +2626,128 @@
   },
   {
     "id": "376",
-    "name": "Coxa com Sobrecoxa de Frango com Dorso Lar kg\nQuantidade mínima: 1,500 kg",
-    "price": 8.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179640_20230613092146_thumb_Captura_de_tela_2023_06_13_092105_removebg_preview.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "377",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nR$ 10,79",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "378",
+    "id": "377",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 9,99",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "379",
+    "id": "378",
     "name": "Coxa de Frango Uniaves Pacote 1,2kg\nAproximadamente 1,200Kg\nR$ 14,39",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/138369_20240925094005_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
   {
-    "id": "380",
+    "id": "379",
     "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 38,97",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png",
     "market": "Extrabom"
   },
   {
-    "id": "381",
+    "id": "380",
     "name": "Coxa e Sobrecoxa de Frango Congelada Seara Pacote 1,5kg\nAproximadamente 1,5Kg\nR$ 19,49",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/96139_20190401113607_thumb_96139CoxaeSobrecoxadeFrangoCongeladoSearakg.png",
     "market": "Extrabom"
   },
   {
-    "id": "382",
+    "id": "381",
     "name": "Coxa e Sobrecoxa de Frango Congelado Oi Frango Pacote 1,5Kg\nAproximadamente 1,5Kg\nR$ 19,49",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/52377_20190502133456_thumb_52377CoxaeSobrecoxadeFrangoCongeladoOiFrangoPacote1_5Kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "383",
+    "id": "382",
     "name": "Moela de Frango Congelada Uniaves 1Kg",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4255_20170515171727_thumb_4255_moela_frango_uniaves_congelada_bandeja_1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "384",
-    "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 22,08",
-    "price": 12.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "385",
+    "id": "383",
     "name": "Coxa bandeja Seara 1kg",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/188514_extrabom_coxa-bandeja-seara-1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "386",
+    "id": "384",
     "name": "Moela Frango Congelada Oi Frango Bandeja 1kg",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167754_20211215095847_thumb_Moela_Frango_Congelada_Oi_Frango_Bandeja_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "387",
+    "id": "385",
     "name": "Frango a passarinho Seara IQF 1kg",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3788_extrabom_aves-congeladas_frango-passarinho-iqf-seara-1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "388",
+    "id": "386",
     "name": "Frango Kajory Resfriado Pacote 3Kg\nAproximadamente 3Kg\nR$ 44,97",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1764_1764.png",
     "market": "Extrabom"
   },
   {
-    "id": "389",
+    "id": "387",
     "name": "Ração PURINA ALPO Cães Adultos Sabor Carne, Frango, Cereais e Vegetais 1kg\nAlimento completo para cães adultos. Imagem meramente ilustrativa. USO PROIBIDO NA ALIMENTAÇÃO DE RUMINANTES.",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/14506_20220719105858_thumb_7891000050804.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "390",
+    "id": "388",
     "name": "Sobrecoxa de Frango Congelado Uniaves Pacote 1,300kg\nAproximadamente 1,300kg\nR$ 20,79",
     "price": 15.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193777_20241025092026_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "391",
+    "id": "389",
     "name": "Frango Passarinho Lar 1kg",
     "price": 15.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19372_20240919091646_thumb_Frango_Passarinho_Lar_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "392",
+    "id": "390",
     "name": "Coxa de frango congelada Sadia 1kg",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "393",
+    "id": "391",
     "name": "Moela de Frango Sadia 1Kg",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3250_extrabom_aves-congeladas_moela-de-frango-sadia-1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "392",
+    "name": "Coxas de Frango Bandeja Sadia 1Kg",
+    "price": 16.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/47_extrabom_aves-congeladas_coxa-frango-bandeja-sadia-1kg_2.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "393",
+    "name": "Coxinha da Asa de Frango Congelada OI Frango Bandeja 1kg",
+    "price": 17.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167990_20240826161807_thumb_coxa.png",
     "market": "Extrabom"
   },
   {

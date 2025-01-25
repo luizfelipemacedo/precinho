@@ -25,7 +25,7 @@ jobs:
       - name: Run Puppeteer script
         run: |
           cd data
-          xvfb-run --server-args="-screen 0 1024x768x24" node script.js
+          xvfb-run --server-args="-screen 0 1024x768x24" node scrapeData.js
 
       - name: Commit and push changes
         run: |

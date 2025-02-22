@@ -79,7 +79,7 @@
   {
     "id": "12",
     "name": "Leite Longa Vida Itambé Zero Lactose Desnatado 1L",
-    "price": 6.79,
+    "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/41460_7896051128076.JPG",
     "market": "Extrabom"
   },
@@ -128,7 +128,7 @@
   {
     "id": "19",
     "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
-    "price": 8.99,
+    "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg",
     "market": "Extrabom"
   },
@@ -310,7 +310,7 @@
   {
     "id": "45",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 92.5,
+    "price": 92.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -359,7 +359,7 @@
   {
     "id": "52",
     "name": "Arroz Integral Parboilizado Gourmet Sepé 5kg",
-    "price": 34.99,
+    "price": 32.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/98003_20200218154710_thumb_98003_Arroz_Integral_Parboilizado_Gourmet_Sepe_5kg.png",
     "market": "Extrabom"
   },
@@ -407,44 +407,44 @@
   },
   {
     "id": "59",
+    "name": "Arroz Prato Fino Tipo 1 5kg",
+    "price": 34.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8127_20220721151754_thumb_ARROZ_PRATO_FINO_BRANCO_5KG.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "60",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
     "price": 25.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "60",
+    "id": "61",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 2kg",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7793_7896546113327.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "61",
+    "id": "62",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 5kg",
     "price": 23.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7800_7896546110050.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "62",
+    "id": "63",
     "name": "Arroz Saboroso Tipo 1 2kg",
     "price": 9.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/172987_20220819154506_thumb_Arroz_Saboroso_5kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "63",
+    "id": "64",
     "name": "Arroz Saboroso TP1 5Kg",
     "price": 21.5,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137986_20220422095538_thumb_137986_removebg_preview.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "64",
-    "name": "Arroz Sepé Bianco Tipo 1 1Kg",
-    "price": 5.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7848_20241004103605_thumb_Sem_titulo2.png",
     "market": "Extrabom"
   },
   {
@@ -618,7 +618,7 @@
   {
     "id": "89",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 92.5,
+    "price": 92.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -660,21 +660,21 @@
   {
     "id": "95",
     "name": "Feijão Preto Lívia Tipo 1 1kg",
-    "price": 6.79,
+    "price": 6.49,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
   {
     "id": "96",
     "name": "Feijão Preto Nico Tipo 1 1Kg",
-    "price": 6.98,
+    "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg",
     "market": "Extrabom"
   },
   {
     "id": "97",
     "name": "Feijão Preto Norte Tp 1kg",
-    "price": 5.99,
+    "price": 5.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/133950_20210701110710_thumb_Feijao_Preto_Norte_Tp_1kg.png",
     "market": "Extrabom"
   },
@@ -702,7 +702,7 @@
   {
     "id": "101",
     "name": "Feijão Rajado Nico Tipo 1 1Kg",
-    "price": 9.39,
+    "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg",
     "market": "Extrabom"
   },
@@ -730,7 +730,7 @@
   {
     "id": "105",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
-    "price": 10.39,
+    "price": 9.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg",
     "market": "Extrabom"
   },
@@ -926,21 +926,21 @@
   {
     "id": "133",
     "name": "Café 3 Corações Fort Vácuo 500G",
-    "price": 33.9,
+    "price": 31.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "134",
     "name": "Café 3 Corações Pouch Extra Forte Leve 500g Pague 475g",
-    "price": 28.9,
+    "price": 32.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174497_extrabom_cafes-chas_cafe-3-coracoes-pouch-extra-forte-leve-500g-pague-475g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "135",
     "name": "Café 3 Corações Pouch Tradicional Leve 500g Pague 475g",
-    "price": 28.9,
+    "price": 32.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174498_extrabom_cafes-chas_cafe-3-coracoes-pouch-tradicional-leve-500g-pague-475g.jpg",
     "market": "Extrabom"
   },
@@ -989,35 +989,35 @@
   {
     "id": "142",
     "name": "Café em pó 3 Corações Extraforte 500g",
-    "price": 32.99,
+    "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-torrado-e-moido-extraforte-3-coracoes-pacote-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "143",
     "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
-    "price": 35.9,
+    "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7943_extrabom_cafes-chas_cafe-torrado-e-moido-a-vacuo-extraforte-3-coracoes-pacote-500g_20.jpg",
     "market": "Extrabom"
   },
   {
     "id": "144",
     "name": "Café em pó 3 Corações Tradicional 500g",
-    "price": 32.99,
+    "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "145",
     "name": "Café em pó 3 Corações Vácuo 500g",
-    "price": 35.9,
+    "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-torrado-e-moido-a-vacuo-tradicional-3-coracoes-pacote-500g_13.jpg",
     "market": "Extrabom"
   },
   {
     "id": "146",
     "name": "Café em Pó Fort 500g",
-    "price": 33.9,
+    "price": 31.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-torrado-e-moido-fort-pacote-500g.jpg",
     "market": "Extrabom"
   },
@@ -1234,7 +1234,7 @@
   {
     "id": "177",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 92.5,
+    "price": 92.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1577,7 +1577,7 @@
   {
     "id": "226",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 92.5,
+    "price": 92.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1661,7 +1661,7 @@
   {
     "id": "238",
     "name": "Oléo de Soja Concordia Pet 900ML",
-    "price": 7.58,
+    "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165062_extrabom_oleo-de-soja_oleo-de-soja-concordia-pet-900ml.jpg",
     "market": "Extrabom"
   },
@@ -1689,7 +1689,7 @@
   {
     "id": "242",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 92.5,
+    "price": 92.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1948,7 +1948,7 @@
   {
     "id": "279",
     "name": "Farinha de Mandioca Branca Nico 1kg",
-    "price": 5.79,
+    "price": 5.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8425_20170921125304_thumb_8425_FarinhadeMandiocaBrancaNico1kg.jpg",
     "market": "Extrabom"
   },
@@ -2179,7 +2179,7 @@
   {
     "id": "312",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 92.5,
+    "price": 92.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -2676,7 +2676,7 @@
   {
     "id": "383",
     "name": "Coração de Frango Sadia 1kg",
-    "price": 37.9,
+    "price": 39.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/133_extrabom_aves-congeladas_coracao-de-frango-sadia-1kg.jpg",
     "market": "Extrabom"
   },

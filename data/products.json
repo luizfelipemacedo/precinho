@@ -310,7 +310,7 @@
   {
     "id": "45",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 87.26,
+    "price": 86.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -618,7 +618,7 @@
   {
     "id": "89",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 87.26,
+    "price": 86.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1142,44 +1142,44 @@
   },
   {
     "id": "164",
-    "name": "Café em Grãos Lor Forza 500g",
-    "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/434456-600-600/imagem1.png?v=638671321165470000",
-    "market": "Carone"
-  },
-  {
-    "id": "165",
     "name": "Café Pilão Tradicional Pouch 500g",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/433154-600-600/imagem1.png?v=638671317248970000",
     "market": "Carone"
   },
   {
-    "id": "166",
+    "id": "165",
     "name": "Café Pilão Extraforte Pouch 500g",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/433135-600-600/imagem1.png?v=638671317248200000",
     "market": "Carone"
   },
   {
-    "id": "167",
+    "id": "166",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/430785-600-600/imagem1.png?v=638671309794270000",
     "market": "Carone"
   },
   {
-    "id": "168",
+    "id": "167",
     "name": "Café À Vácuo Meridiano Extraforte 500g",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/418817-600-600/imagem1.png?v=638671278684630000",
     "market": "Carone"
   },
   {
-    "id": "169",
+    "id": "168",
     "name": "Café Pilão Intenso Vácuo 500g",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/421045-600-600/imagem1.png?v=638671283426330000",
+    "market": "Carone"
+  },
+  {
+    "id": "169",
+    "name": "Café em Grãos Lor Forza 500g",
+    "price": null,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/434456-600-600/imagem1.png?v=638671321165470000",
     "market": "Carone"
   },
   {
@@ -1205,36 +1205,36 @@
   },
   {
     "id": "173",
+    "name": "Café Número 1 Extraforte Almofada 500g",
+    "price": null,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/421455-600-600/imagem1.png?v=638671284307300000",
+    "market": "Carone"
+  },
+  {
+    "id": "174",
+    "name": "Café Torrado E Moído Pontões Vácuo 500g",
+    "price": null,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/429519-600-600/imagem1.png?v=638671306717000000",
+    "market": "Carone"
+  },
+  {
+    "id": "175",
     "name": "Café Torrado E Moído Fort Vácuo 500g",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/414720-600-600/imagem1.png?v=638671270058130000",
     "market": "Carone"
   },
   {
-    "id": "174",
+    "id": "176",
     "name": "Café Torrado Em Grão Campos Altos 500g",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/437277-600-600/imagem1.png?v=638671330856430000",
     "market": "Carone"
   },
   {
-    "id": "175",
-    "name": "Café Torrado E Moído Pontões Almofada 500g",
-    "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/429509-600-600/imagem1.png?v=638671306716870000",
-    "market": "Carone"
-  },
-  {
-    "id": "176",
-    "name": "Café Melitta Torrado E Moído Extraforte 500g",
-    "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/421170-600-600/imagem1.png?v=638671283662570000",
-    "market": "Carone"
-  },
-  {
     "id": "177",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 87.26,
+    "price": 86.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1429,114 +1429,114 @@
   },
   {
     "id": "205",
-    "name": "Açúcar Demerara Guarani 1kg",
-    "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/439169-600-600/imagem1.png?v=638671337476000000",
-    "market": "Carone"
-  },
-  {
-    "id": "206",
-    "name": "Açúcar Cristal Alcon 2kg",
-    "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/427726-600-600/imagem1.png?v=638671300993430000",
-    "market": "Carone"
-  },
-  {
-    "id": "207",
-    "name": "Açúcar Mascavo Guimarães 1kg",
-    "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/420726-600-600/imagem1.png?v=638671283113430000",
-    "market": "Carone"
-  },
-  {
-    "id": "208",
     "name": "Açúcar Cristal Delta 1kg",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/440923-600-600/imagem1.png?v=638671344437370000",
     "market": "Carone"
   },
   {
-    "id": "209",
+    "id": "206",
     "name": "Açucar Orgânico Guarani 1kg",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/439156-600-600/imagem1.png?v=638671337475870000",
     "market": "Carone"
   },
   {
-    "id": "210",
+    "id": "207",
     "name": "Açúcar Orgânico Itajá 5kg",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/436634-600-600/imagem1.png?v=638671329328630000",
     "market": "Carone"
   },
   {
-    "id": "211",
+    "id": "208",
     "name": "Açúcar Demerara Caravelas 1kg",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/434575-600-600/imagem1.png?v=638671321175100000",
     "market": "Carone"
   },
   {
-    "id": "212",
+    "id": "209",
     "name": "Açúcar Alcon Cristal 5kg",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/427707-600-600/imagem1.png?v=638671300993270000",
     "market": "Carone"
   },
   {
-    "id": "213",
+    "id": "210",
     "name": "Açúcar União Naturale 1kg",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/423532-600-600/imagem1.png?v=638671289502470000",
     "market": "Carone"
   },
   {
-    "id": "214",
+    "id": "211",
     "name": "Açúcar Cristal União 2kg",
     "price": null,
     "image": "https://tezegw.vteximg.com.br/arquivos/ids/418484-600-600/imagem1.png?v=638671277497270000",
     "market": "Carone"
   },
   {
-    "id": "215",
-    "name": "Açúcar Orgânico Demara Native 5kg",
+    "id": "212",
+    "name": "Açúcar Demerara Guarani 1kg",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/439709-600-600/imagem1.png?v=638671339421070000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/439169-600-600/imagem1.png?v=638671337476000000",
+    "market": "Carone"
+  },
+  {
+    "id": "213",
+    "name": "Açúcar Cristal Alcon 2kg",
+    "price": null,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/427726-600-600/imagem1.png?v=638671300993430000",
+    "market": "Carone"
+  },
+  {
+    "id": "214",
+    "name": "Açúcar Mascavo Guimarães 1kg",
+    "price": null,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/420726-600-600/imagem1.png?v=638671283113430000",
+    "market": "Carone"
+  },
+  {
+    "id": "215",
+    "name": "Açúcar Orgânico Demerara Itajá 1kg",
+    "price": null,
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/430685-600-600/imagem1.png?v=638671309792100000",
     "market": "Carone"
   },
   {
     "id": "216",
-    "name": "Açúcar Granulado Premium União 1kg",
+    "name": "Açucar Cristal Santa Isabel 5kg",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/421622-600-600/imagem1.png?v=638671284986100000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/425223-600-600/imagem1.png?v=638671293548400000",
     "market": "Carone"
   },
   {
     "id": "217",
-    "name": "Açúcar União Refinado Especial 1kg",
+    "name": "Açúcar Orgânico Claro Native 5kg",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/419596-600-600/imagem1.png?v=638671280549400000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/423505-600-600/imagem1.png?v=638671289502000000",
     "market": "Carone"
   },
   {
     "id": "218",
-    "name": "Açúcar Cristal Itaja Orgânico 1kg",
+    "name": "Açúcar Orgânico Dourado Native 1kg",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/430713-600-600/imagem1.png?v=638671309792230000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/417997-600-600/imagem1.png?v=638671276683230000",
     "market": "Carone"
   },
   {
     "id": "219",
-    "name": "Açúcar Cristal Santa Isabel 2kg",
+    "name": "Açúcar Orgânico Cristal Native 1kg",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/425169-600-600/imagem1.png?v=638671293546130000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/418007-600-600/imagem1.png?v=638671276683330000",
     "market": "Carone"
   },
   {
     "id": "220",
-    "name": "Açúcar Orgânico Demerara Itajá 1kg",
+    "name": "Açúcar Orgânico Demara Native 5kg",
     "price": null,
-    "image": "https://tezegw.vteximg.com.br/arquivos/ids/430685-600-600/imagem1.png?v=638671309792100000",
+    "image": "https://tezegw.vteximg.com.br/arquivos/ids/439709-600-600/imagem1.png?v=638671339421070000",
     "market": "Carone"
   },
   {
@@ -1584,7 +1584,7 @@
   {
     "id": "227",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 87.26,
+    "price": 86.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1703,7 +1703,7 @@
   {
     "id": "244",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 87.26,
+    "price": 86.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1745,7 +1745,7 @@
   {
     "id": "250",
     "name": "Biscoito Recheado Oreo Chocolate 90g",
-    "price": 3.59,
+    "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_50.jpg",
     "market": "Extrabom"
   },
@@ -1759,7 +1759,7 @@
   {
     "id": "252",
     "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
-    "price": 10.99,
+    "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g_50.jpg",
     "market": "Extrabom"
   },
@@ -1948,7 +1948,7 @@
   {
     "id": "279",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 87.26,
+    "price": 86.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -2165,7 +2165,7 @@
   {
     "id": "310",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 87.26,
+    "price": 86.86,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -2598,8 +2598,8 @@
   },
   {
     "id": "372",
-    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 41,94",
-    "price": 13.98,
+    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 43,77",
+    "price": 14.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png",
     "market": "Extrabom"
   },
@@ -2717,8 +2717,8 @@
   },
   {
     "id": "389",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 9,39",
-    "price": 9.39,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 9,79",
+    "price": 9.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },

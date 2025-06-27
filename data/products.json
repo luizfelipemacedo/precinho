@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.39,
+    "price": 85.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.39,
+    "price": 85.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -302,8 +302,8 @@
   },
   {
     "id": "44",
-    "name": "Feijão Carioca Zuppa Tipo 1 1Kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 5,89",
-    "price": 5.49,
+    "name": "Feijão Carioca Zuppa Tipo 1 1Kg\n\nR$ 4,49\n\nSEM CLUBE\n\nR$ 4,99",
+    "price": 4.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173046_20220819153936_thumb_Feijao_Carioca_Zuppa_1kg.png",
     "market": "Extrabom"
   },
@@ -316,8 +316,8 @@
   },
   {
     "id": "46",
-    "name": "Feijão Preto Combrasil Tipo 1 1kg",
-    "price": 6.49,
+    "name": "Feijão Preto Combrasil Tipo 1 1kg\n\nR$ 4,98\n\nSEM CLUBE\n\nR$ 5,49",
+    "price": 4.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9071_20250625171600_thumb_Sem_titulo6.png",
     "market": "Extrabom"
   },
@@ -358,8 +358,8 @@
   },
   {
     "id": "52",
-    "name": "Feijão Preto Zuppa Tipo 1 1kg",
-    "price": 3.98,
+    "name": "Feijão Preto Zuppa Tipo 1 1kg\n\nR$ 4,49\n\nSEM CLUBE\n\nR$ 4,79",
+    "price": 4.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg",
     "market": "Extrabom"
   },
@@ -372,8 +372,8 @@
   },
   {
     "id": "54",
-    "name": "Feijão Vermelho Combrasil T1 1Kg",
-    "price": 11.98,
+    "name": "Feijão Vermelho Combrasil T1 1Kg\n\nR$ 10,98\n\nSEM CLUBE\n\nR$ 11,98",
+    "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
@@ -414,15 +414,15 @@
   },
   {
     "id": "60",
-    "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
-    "price": 9.98,
+    "name": "Feijão Vermelho Zuppa Tipo 1 1kg\n\nR$ 8,99\n\nSEM CLUBE\n\nR$ 9,98",
+    "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "61",
-    "name": "Café 3 Corações Fort Vácuo 500G\n\nR$ 31,59\n\nSEM CLUBE\n\nR$ 33,80",
-    "price": 31.59,
+    "name": "Café 3 Corações Fort Vácuo 500G\n\nR$ 27,95\n\nSEM CLUBE\n\nR$ 33,80",
+    "price": 27.95,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
     "market": "Extrabom"
   },
@@ -477,22 +477,22 @@
   },
   {
     "id": "69",
-    "name": "Café em pó 3 Corações Extraforte 500g",
-    "price": 37.8,
+    "name": "Café em pó 3 Corações Extraforte 500g\n\nR$ 32,98\n\nSEM CLUBE\n\nR$ 35,80",
+    "price": 32.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "70",
-    "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
-    "price": 37.8,
+    "name": "Café em pó 3 Corações Extraforte Vácuo 500g\n\nR$ 32,98\n\nSEM CLUBE\n\nR$ 35,80",
+    "price": 32.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7943_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "71",
-    "name": "Café em pó 3 Corações Tradicional 500g",
-    "price": 37.8,
+    "name": "Café em pó 3 Corações Tradicional 500g\n\nR$ 32,98\n\nSEM CLUBE\n\nR$ 35,80",
+    "price": 32.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g_7.jpg",
     "market": "Extrabom"
   },
@@ -505,8 +505,8 @@
   },
   {
     "id": "73",
-    "name": "Café em Pó Fort 500g\n\nR$ 31,59\n\nSEM CLUBE\n\nR$ 33,90",
-    "price": 31.59,
+    "name": "Café em Pó Fort 500g\n\nR$ 27,95\n\nSEM CLUBE\n\nR$ 33,80",
+    "price": 27.95,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
@@ -569,7 +569,7 @@
   {
     "id": "82",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.39,
+    "price": 85.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -744,7 +744,7 @@
   {
     "id": "107",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.39,
+    "price": 85.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -807,7 +807,7 @@
   {
     "id": "116",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.39,
+    "price": 85.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -911,8 +911,8 @@
   },
   {
     "id": "131",
-    "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg",
-    "price": 5.98,
+    "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg\n\nR$ 4,79\n\nSEM CLUBE\n\nR$ 5,49",
+    "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173044_20220819154652_thumb_Farinha_Amarela_Zuppa_1kg.png",
     "market": "Extrabom"
   },
@@ -1010,7 +1010,7 @@
   {
     "id": "145",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.39,
+    "price": 85.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1023,22 +1023,22 @@
   },
   {
     "id": "147",
-    "name": "Farinha de Trigo Número Um 1Kg",
-    "price": 3.99,
+    "name": "Farinha de Trigo Número Um 1Kg\n\nR$ 3,28\n\nSEM CLUBE\n\nR$ 3,79",
+    "price": 3.28,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "148",
-    "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
-    "price": 3.99,
+    "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg\n\nR$ 3,28\n\nSEM CLUBE\n\nR$ 3,79",
+    "price": 3.28,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/58232_20240502144927_thumb_Sem_titulo21.png",
     "market": "Extrabom"
   },
   {
     "id": "149",
-    "name": "Farinha de Trigo Regina 1Kg\n\nR$ 4,49\n\nSEM CLUBE\n\nR$ 4,89",
-    "price": 4.49,
+    "name": "Farinha de Trigo Regina 1Kg\n\nR$ 4,19\n\nSEM CLUBE\n\nR$ 4,79",
+    "price": 4.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8464_20240502153745_thumb_Sem_titulo25.png",
     "market": "Extrabom"
   },
@@ -1065,15 +1065,15 @@
   },
   {
     "id": "153",
-    "name": "Farinha de Trigo Rosa Branca 1kg",
-    "price": 4.59,
+    "name": "Farinha de Trigo Rosa Branca 1kg\n\nR$ 3,19\n\nSEM CLUBE\n\nR$ 3,79",
+    "price": 3.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19733_20241210165650_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
     "id": "154",
-    "name": "Farinha de Trigo Rosa Branca Papel 1kg",
-    "price": 4.99,
+    "name": "Farinha de Trigo Rosa Branca Papel 1kg\n\nR$ 3,19\n\nSEM CLUBE\n\nR$ 3,79",
+    "price": 3.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100620_20241210165731_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
@@ -1115,7 +1115,7 @@
   {
     "id": "160",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.39,
+    "price": 85.6,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1296,8 +1296,8 @@
   },
   {
     "id": "186",
-    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nDe: R$ 41,97 Por: R$ 35,97",
-    "price": 11.99,
+    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 38,97",
+    "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png",
     "market": "Extrabom"
   },

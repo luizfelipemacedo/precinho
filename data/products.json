@@ -36,15 +36,15 @@
   },
   {
     "id": "6",
-    "name": "Leite Longa Vida Damare Desnatado 1L",
-    "price": 4.79,
+    "name": "Leite Longa Vida Damare Desnatado 1L\n\nR$ 4,48\n\nSEM CLUBE\n\nR$ 4,78",
+    "price": 4.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4103_20240927103338_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
     "id": "7",
-    "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 4.79,
+    "name": "Leite Longa Vida Damare Integral 1L\n\nR$ 4,48\n\nSEM CLUBE\n\nR$ 4,78",
+    "price": 4.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png",
     "market": "Extrabom"
   },
@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.6,
+    "price": 84.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -162,8 +162,8 @@
   },
   {
     "id": "24",
-    "name": "Arroz Calafate Tipo 1 5 Kg\n\nR$ 16,98\n\nSEM CLUBE\n\nR$ 17,90",
-    "price": 16.98,
+    "name": "Arroz Calafate Tipo 1 5 Kg",
+    "price": 17.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8067_7896010300017.jpg",
     "market": "Extrabom"
   },
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.6,
+    "price": 84.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -387,7 +387,7 @@
   {
     "id": "56",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
-    "price": 10.98,
+    "price": 9.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
@@ -533,29 +533,29 @@
   },
   {
     "id": "77",
-    "name": "Café Grão Melitta Spresso Pouch 500g",
-    "price": 69.98,
+    "name": "Café Grão Melitta Spresso Pouch 500g\n\nR$ 59,98\n\nSEM CLUBE\n\nR$ 69,98",
+    "price": 59.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg",
     "market": "Extrabom"
   },
   {
     "id": "78",
-    "name": "Café Melitta Especial Vácuo 500G",
+    "name": "Café Melitta Especial Vácuo 500G\n\nR$ 49,90\n\nSEM CLUBE\n\nR$ 54,90",
     "price": 49.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8167_extrabom_cafes-chas_cafe-melitta-especial-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "79",
-    "name": "Café Melitta Extra Forte 500G",
-    "price": 36.98,
+    "name": "Café Melitta Extra Forte 500G\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 35,80",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "80",
-    "name": "Café Melitta Sabor da Fazenda Pouch 500g",
-    "price": 44.98,
+    "name": "Café Melitta Sabor da Fazenda Pouch 500g\n\nR$ 34,98\n\nSEM CLUBE\n\nR$ 37,98",
+    "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg",
     "market": "Extrabom"
   },
@@ -569,7 +569,7 @@
   {
     "id": "82",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.6,
+    "price": 84.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -618,7 +618,7 @@
   {
     "id": "89",
     "name": "Açúcar Cristal Orgânico Native 1Kg",
-    "price": 9.79,
+    "price": 9.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10102_20240426094610_thumb_Sem_titulo28.png",
     "market": "Extrabom"
   },
@@ -632,7 +632,7 @@
   {
     "id": "91",
     "name": "Açúcar Cristal Santa Isabel 2Kg",
-    "price": 7.89,
+    "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
     "market": "Extrabom"
   },
@@ -744,7 +744,7 @@
   {
     "id": "107",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.6,
+    "price": 84.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -807,7 +807,7 @@
   {
     "id": "116",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.6,
+    "price": 84.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -898,7 +898,7 @@
   {
     "id": "129",
     "name": "Farinha de Mandioca Amarela Juju 1kg",
-    "price": 6.98,
+    "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85568_20220523120408_thumb_85568_FARINHA_MAND_AMAR_JUJU_1KG_removebg_preview.png",
     "market": "Extrabom"
   },
@@ -1010,7 +1010,7 @@
   {
     "id": "145",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.6,
+    "price": 84.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1115,7 +1115,7 @@
   {
     "id": "160",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.6,
+    "price": 84.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1318,7 +1318,7 @@
   {
     "id": "189",
     "name": "Asa Frango Sadia Bandeja 1Kg",
-    "price": 21.9,
+    "price": 18.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10_extrabom_aves-congeladas_asa-frango-sadia-bandeja-1kg.jpg",
     "market": "Extrabom"
   },

@@ -37,21 +37,21 @@
   {
     "id": "6",
     "name": "Leite Longa Vida Damare Desnatado 1L",
-    "price": 4.59,
+    "price": 4.78,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4103_20240927103338_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
     "id": "7",
     "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 4.59,
+    "price": 4.78,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png",
     "market": "Extrabom"
   },
   {
     "id": "8",
     "name": "Leite Longa Vida Damare Semi Desnatado 1L",
-    "price": 4.59,
+    "price": 4.78,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/55760_20220901164735_thumb_Leite_Damare_Semidesnatado.png",
     "market": "Extrabom"
   },
@@ -142,14 +142,14 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.08,
+    "price": 87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
     "id": "22",
     "name": "Arroz Alegre Tipo 1 5 kg",
-    "price": 16.98,
+    "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165535_20230817151529_thumb_Arroz_alegre.jpg",
     "market": "Extrabom"
   },
@@ -162,7 +162,7 @@
   },
   {
     "id": "24",
-    "name": "Arroz Calafate Tipo 1 5 Kg",
+    "name": "Arroz Calafate Tipo 1 5 Kg\n\nR$ 17,90\n\nSEM CLUBE\n\nR$ 19,98",
     "price": 17.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8067_7896010300017.jpg",
     "market": "Extrabom"
@@ -247,7 +247,7 @@
   {
     "id": "36",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
-    "price": 17.8,
+    "price": 18.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg",
     "market": "Extrabom"
   },
@@ -267,8 +267,8 @@
   },
   {
     "id": "39",
-    "name": "Arroz Saboroso TP1 5Kg",
-    "price": 16.98,
+    "name": "Arroz Saboroso TP1 5Kg\n\nR$ 16,90\n\nSEM CLUBE\n\nR$ 18,90",
+    "price": 16.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137986_20220422095538_thumb_137986_removebg_preview.jpg",
     "market": "Extrabom"
   },
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.08,
+    "price": 87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -421,8 +421,8 @@
   },
   {
     "id": "61",
-    "name": "Café 3 Corações Fort Vácuo 500G\n\nR$ 27,59\n\nSEM CLUBE\n\nR$ 33,80",
-    "price": 27.59,
+    "name": "Café 3 Corações Fort Vácuo 500G",
+    "price": 35.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
     "market": "Extrabom"
   },
@@ -491,8 +491,8 @@
   },
   {
     "id": "71",
-    "name": "Café em Pó Fort 500g\n\nR$ 27,59\n\nSEM CLUBE\n\nR$ 33,80",
-    "price": 27.59,
+    "name": "Café em Pó Fort 500g",
+    "price": 35.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
@@ -569,7 +569,7 @@
   {
     "id": "82",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.08,
+    "price": 87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -744,7 +744,7 @@
   {
     "id": "107",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.08,
+    "price": 87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -807,92 +807,92 @@
   {
     "id": "116",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.08,
+    "price": 87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
     "id": "117",
-    "name": "Maionese Hellmann's Apimentada 335 g",
-    "price": 15.99,
+    "name": "Maionese Hellmann's Apimentada 335 g\n\nR$ 13,90\n\nSEM CLUBE\n\nR$ 14,99",
+    "price": 13.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159939_extrabom_maioneses-molhos_maionese-hellmann-s-apimentada-335-g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "118",
-    "name": "Bebida Vegetal NATURES HEART Aveia 1L\nAlérgicos: contem aveia. Pode conter centeio e cevada. Contem glúten.",
-    "price": 21.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/169095_extrabom_bebida-de-cereais_bebida-vegetal-natures-heart-aveia-1l_8.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "119",
     "name": "Bebida Vegetal NATURES HEART Cacau 1L\nNão contem glúten.",
     "price": 21.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165350_extrabom_bebida-de-cereais_bebida-vegetal-natures-heart-cacau-1l.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "120",
+    "id": "119",
     "name": "Biscoito Passatempo Recheado Chocolate 130g\nCONTÉM GLÚTEN.\n\nR$ 2,49\n\nSEM CLUBE\n\nR$ 3,29",
     "price": 2.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62379_extrabom_biscoitos_biscoito-passatempo-recheado-chocolate-130g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "121",
+    "id": "120",
     "name": "Biscoito recheado Mini Oreo original 35g",
     "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "122",
+    "id": "121",
     "name": "Biscoito Recheado Oreo Chocolate 90g",
     "price": 3.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_50.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "123",
+    "id": "122",
     "name": "Biscoito Recheado Oreo Milkshake de Morango Multipack 144g",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g_50.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "124",
+    "id": "123",
     "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g_50.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "125",
+    "id": "124",
     "name": "Biscoito recheado Oreo original multipack 144g",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54202_extrabom_biscoitos_biscoito-recheado-oreo-original-multipack-144g_41.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "126",
+    "id": "125",
     "name": "Bombom GAROTO Serenata de Amor 825g\nALÉRGICOS: CONTÉM CASTANHA-DE-CAJU E DERIVADOS DE LEITE, DE SOJA, DE AVEIA, DE CENTEIO E DE TRIGO. PODE CONTER AMENDOIM, AMÊNDOA, CASTANHA-DO-PARÁ, AVELÃ, NOZES E CEVADA. CONTÉM LACTOSE. CONTÉM GLÚTEN. Contém aromatizante sintético idêntico ao natural.",
     "price": 57.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/113657_extrabom_bomboniere_bombom-garoto-serenata-de-amor-825g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "127",
+    "id": "126",
     "name": "Chocolate Sonho de Valsa Pacote 1Kg",
     "price": 67.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10641_extrabom_bomboniere_chocolate-sonho-de-valsa-pacote-1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "128",
+    "id": "127",
     "name": "Maionese Hellmann's Light 500G\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "128",
+    "name": "Maionese Hellmann's Tradicional 335G\n\nR$ 13,90\n\nSEM CLUBE\n\nR$ 14,99",
+    "price": 13.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g_2.jpg",
     "market": "Extrabom"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "id": "145",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.08,
+    "price": 87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1115,7 +1115,7 @@
   {
     "id": "160",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.08,
+    "price": 87,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },

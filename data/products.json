@@ -37,21 +37,21 @@
   {
     "id": "6",
     "name": "Leite Longa Vida Damare Desnatado 1L",
-    "price": 4.78,
+    "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4103_20240927103338_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
     "id": "7",
     "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 4.78,
+    "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png",
     "market": "Extrabom"
   },
   {
     "id": "8",
     "name": "Leite Longa Vida Damare Semi Desnatado 1L",
-    "price": 4.78,
+    "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/55760_20220901164735_thumb_Leite_Damare_Semidesnatado.png",
     "market": "Extrabom"
   },
@@ -261,7 +261,7 @@
   {
     "id": "38",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 5kg",
-    "price": 17.99,
+    "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7800_20250326170832_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
@@ -666,37 +666,37 @@
   },
   {
     "id": "96",
+    "name": "Açúcar Demerara Orgânico Native 1Kg",
+    "price": 10.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10120_20240422104710_thumb_Sem_titulo27.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "97",
     "name": "Açúcar Demerara União Naturale 1kg",
     "price": 6.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/59826_20250716152631_thumb_image__2__removebg_preview.png",
     "market": "Extrabom"
   },
   {
-    "id": "97",
+    "id": "98",
     "name": "Açúcar Mascavo Da Colônia 1kg",
     "price": 13.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/112063_20191217123545_thumb_112063ACUCARMASCAVODACOLONIA1KG.png",
     "market": "Extrabom"
   },
   {
-    "id": "98",
+    "id": "99",
     "name": "Açúcar Mascavo União 1kg",
     "price": 21.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/106191_20200311094324_thumb_Acucar_Mascavo_Uniao_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "99",
+    "id": "100",
     "name": "Açúcar Refinado Caravelas 1Kg",
     "price": 4.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/79862_20170901084633_thumb_79862_AcucarRefinadoCaravelas1kg__2.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "100",
-    "name": "Açúcar Refinado Granulado Doçúcar União 1Kg",
-    "price": 6.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9424_7891910007059.JPG",
     "market": "Extrabom"
   },
   {
@@ -751,14 +751,14 @@
   {
     "id": "108",
     "name": "Óleo de Soja Coamo PVC 900Ml",
-    "price": 7.48,
+    "price": 7.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/65639_20201008094536_thumb_65639_OLEO_SOJA_COAMO_900ML.png",
     "market": "Extrabom"
   },
   {
     "id": "109",
     "name": "Oléo de Soja Concordia Pet 900ML",
-    "price": 7.48,
+    "price": 7.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165062_extrabom_oleo-de-soja_oleo-de-soja-concordia-pet-900ml.jpg",
     "market": "Extrabom"
   },
@@ -772,120 +772,120 @@
   {
     "id": "111",
     "name": "Óleo de Soja Primor 900ml",
-    "price": 7.58,
+    "price": 7.78,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/194543_extrabom_oleo-de-soja_oleo-de-soja-primor-900ml.jpg",
     "market": "Extrabom"
   },
   {
     "id": "112",
-    "name": "Óleo de Soja Soya 900Ml",
-    "price": 7.89,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8960_7891107101621.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "113",
     "name": "Óleo de Soja Vila Velha 900ml",
-    "price": 7.48,
+    "price": 7.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19735_20180502095541_thumb_19735oleo_vila_velha_900ml.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "114",
+    "id": "113",
     "name": "Cesta Básica Nossa Cesta Unidade",
     "price": 87.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
-    "id": "115",
+    "id": "114",
     "name": "Maionese Hellmann's Apimentada 335 g",
     "price": 15.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159939_extrabom_maioneses-molhos_maionese-hellmann-s-apimentada-335-g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "116",
+    "id": "115",
     "name": "Bebida Vegetal NATURES HEART Aveia 1L\nAlérgicos: contem aveia. Pode conter centeio e cevada. Contem glúten.",
     "price": 21.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/169095_extrabom_bebida-de-cereais_bebida-vegetal-natures-heart-aveia-1l_8.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "117",
+    "id": "116",
     "name": "Bebida Vegetal NATURES HEART Cacau 1L\nNão contem glúten.",
     "price": 21.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165350_extrabom_bebida-de-cereais_bebida-vegetal-natures-heart-cacau-1l.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "118",
+    "id": "117",
     "name": "Biscoito recheado Mini Oreo original 35g",
     "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "119",
+    "id": "118",
     "name": "Biscoito Recheado Oreo Chocolate 90g",
     "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_50.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "120",
+    "id": "119",
     "name": "Biscoito Recheado Oreo Milkshake de Morango Multipack 144g",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g_50.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "121",
+    "id": "120",
     "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g_50.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "122",
+    "id": "121",
     "name": "Biscoito recheado Oreo original multipack 144g",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54202_extrabom_biscoitos_biscoito-recheado-oreo-original-multipack-144g_41.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "123",
+    "id": "122",
     "name": "Bombom GAROTO Serenata de Amor 825g\nALÉRGICOS: CONTÉM CASTANHA-DE-CAJU E DERIVADOS DE LEITE, DE SOJA, DE AVEIA, DE CENTEIO E DE TRIGO. PODE CONTER AMENDOIM, AMÊNDOA, CASTANHA-DO-PARÁ, AVELÃ, NOZES E CEVADA. CONTÉM LACTOSE. CONTÉM GLÚTEN. Contém aromatizante sintético idêntico ao natural.",
     "price": 57.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/113657_extrabom_bomboniere_bombom-garoto-serenata-de-amor-825g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "124",
+    "id": "123",
     "name": "Maionese Hellmann's Light 500G\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "125",
+    "id": "124",
     "name": "Maionese Hellmann's Tradicional 335G",
     "price": 15.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "126",
+    "id": "125",
     "name": "Maionese Hellmann's Tradicional 500G",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1049_extrabom_molhos_maionese-hellmann-s-tradicional-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "127",
+    "id": "126",
     "name": "Maionese Hellmanns Alho Squeeze 335g",
     "price": 15.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "127",
+    "name": "Maionese Hellmanns Churrasco Squeeze 335g",
+    "price": 15.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g.jpg",
     "market": "Extrabom"
   },
   {
@@ -912,7 +912,7 @@
   {
     "id": "131",
     "name": "Farinha de Mandioca Branca Juju 1kg",
-    "price": 5.79,
+    "price": 5.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85567_20191010164351_thumb_Farinha_de_Mandioca_Branca_Juju_1kg.png",
     "market": "Extrabom"
   },
@@ -1332,7 +1332,7 @@
   {
     "id": "191",
     "name": "Coração de Frango Congelado Oi Frango Bandeja 1kg",
-    "price": 47.9,
+    "price": 40.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167988_20211223110221_thumb_167988_Coracao_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png",
     "market": "Extrabom"
   },

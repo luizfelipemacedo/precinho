@@ -365,58 +365,58 @@
   },
   {
     "id": "53",
-    "name": "Feijão Preto Zuppa Tipo 1 1kg\n\nR$ 4,49\n\nSEM CLUBE\n\nR$ 4,79",
-    "price": 4.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "54",
     "name": "Feijão Rajado Nico Tipo 1 1Kg",
     "price": 9.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "54",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "55",
     "name": "Feijão Vermelho das Lorenção 1Kg",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/2911_7898293221942.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "56",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
     "price": 10.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "57",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg\n\nR$ 9,79\n\nSEM CLUBE\n\nR$ 10,48",
     "price": 9.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "58",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 9.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9321_7896612700062.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "60",
+    "id": "59",
     "name": "Feijão Vermelho Sepé T1 1kg",
     "price": 11.79,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "market": "Extrabom"
+  },
+  {
+    "id": "60",
+    "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
+    "price": 9.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
     "market": "Extrabom"
   },
   {
@@ -814,7 +814,7 @@
   {
     "id": "117",
     "name": "Biscoito recheado Mini Oreo original 35g",
-    "price": 3.39,
+    "price": 3.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
@@ -1143,7 +1143,7 @@
   {
     "id": "164",
     "name": "Biscoito recheado Mini Oreo original 35g",
-    "price": 3.39,
+    "price": 3.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
@@ -1394,8 +1394,8 @@
   },
   {
     "id": "200",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 9,90",
-    "price": 9.9,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 8,99",
+    "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },

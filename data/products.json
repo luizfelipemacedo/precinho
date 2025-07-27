@@ -184,7 +184,7 @@
   {
     "id": "27",
     "name": "Arroz Integral Parboilizado Gourmet Sepé 1kg",
-    "price": 5.98,
+    "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/31632_20231103123006_thumb_Sem_titulo11.png",
     "market": "Extrabom"
   },
@@ -1044,114 +1044,114 @@
   },
   {
     "id": "150",
+    "name": "Farinha de Trigo Regina Gourmet 1kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 5,98",
+    "price": 5.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100462_20240502154204_thumb_Sem_titulo26.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "151",
     "name": "Farinha de Trigo Regina Integral 1kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 5,98",
     "price": 5.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/33759_20240502154543_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
   {
-    "id": "151",
+    "id": "152",
     "name": "Farinha de Trigo Regina para Pizza com Massa Madre 1kg",
     "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193332_20240502160813_thumb_Sem_titulo28.png",
     "market": "Extrabom"
   },
   {
-    "id": "152",
+    "id": "153",
     "name": "Farinha de Trigo Rosa Branca 1kg",
     "price": 3.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19733_20241210165650_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
-    "id": "153",
+    "id": "154",
     "name": "Farinha de Trigo Rosa Branca Papel 1kg",
     "price": 3.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100620_20241210165731_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "154",
+    "id": "155",
     "name": "Farinha de Trigo Rosa Branca Premium 1kg",
     "price": 4.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100621_20190514131444_thumb_100621FarinhadeTrigoRosaBrancaPremium1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "155",
+    "id": "156",
     "name": "Farinha de Trigo Tia Ofélia Tipo 1 1Kg",
     "price": 3.78,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/143057_20230708121339_thumb_ofelia.png",
     "market": "Extrabom"
   },
   {
-    "id": "156",
+    "id": "157",
     "name": "Farinha de Trigo Tipo 1 Extra Clara Adria Premium 1kg",
     "price": 4.19,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/184652_extrabom_farinhas-farofas_farinha-de-trigo-tipo-1-extra-clara-adria-premium-pacote-1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "157",
+    "id": "158",
     "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "158",
+    "id": "159",
     "name": "Farinha de Trigo com Fermento Rosa Branca 1kg",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/32175_20190514101923_thumb_32175FarinhadeTrigocomFermentoRosaBranca1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "159",
+    "id": "160",
     "name": "Cesta Básica Nossa Cesta Unidade",
     "price": 85.18,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
-    "id": "160",
+    "id": "161",
     "name": "Biscoito Cookies Orgânico Mãe Terra Banana e Cacau 120G",
     "price": 15.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/40795_extrabom_biscoitos_biscoito-cookies-organico-mae-terra-banana-e-cacau-120g_8.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "161",
+    "id": "162",
     "name": "Biscoito Leite Maltado Cobertura Chocolate Piraquê 80g",
     "price": 4.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/149111_extrabom_biscoitos_biscoito-leite-maltado-cobertura-chocolate-piraque-80g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "162",
+    "id": "163",
     "name": "Biscoito Orgânico Tribos Coco Mãe Terra 130g",
     "price": 10.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93113_extrabom_biscoitos_biscoito-organico-tribos-coco-mae-terra-130g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "163",
+    "id": "164",
     "name": "Biscoito recheado Chocolícia 132g",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167890_extrabom_biscoitos_biscoito-recheado-chocolicia-132g_3.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "164",
+    "id": "165",
     "name": "Biscoito recheado Mini Oreo original 35g",
     "price": 3.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "165",
-    "name": "Biscoito Recheado Oreo Chocolate 90g",
-    "price": 4.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_50.jpg",
     "market": "Extrabom"
   },
   {

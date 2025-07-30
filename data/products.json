@@ -3,21 +3,21 @@
     "id": "1",
     "name": "Leite Fermentado Fiore Baunilha 1L",
     "price": 16.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/150512_20210302144229_thumb_150512_Leite_Fermentado_Fiore_Baunilha_1kg.png",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/150512_20250729161558_thumb_Sem_titulo6.png",
     "market": "Extrabom"
   },
   {
     "id": "2",
     "name": "Leite Fiore Zero Lactose Semi Desnatado 1L",
     "price": 9.99,
-    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/108551_20250728182209_thumb_Sem_titulo1.png",
     "market": "Extrabom"
   },
   {
     "id": "3",
-    "name": "Leite Longa Vida Capel Integral 1L",
-    "price": 4.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4039_7897366700162.jpg",
+    "name": "Leite Integral Pasteurizado Fiore 1L",
+    "price": 8.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/6875_20250729162136_thumb_Sem_titulo7.png",
     "market": "Extrabom"
   },
   {
@@ -477,86 +477,86 @@
   },
   {
     "id": "69",
-    "name": "Café em pó 3 Corações Vácuo 500g\n\nR$ 30,78\n\nSEM CLUBE\n\nR$ 33,90",
-    "price": 30.78,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-em-po-3-coracoes-vacuo-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "70",
     "name": "Café em Pó Fort 500g\n\nR$ 26,59\n\nSEM CLUBE\n\nR$ 33,90",
     "price": 26.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "71",
+    "id": "70",
     "name": "Café Grão 3 Corações Espresso Gourmet 500g\n\nR$ 59,98\n\nSEM CLUBE\n\nR$ 69,98",
     "price": 59.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "71",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 29.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "72",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 29.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "73",
     "name": "Café Grão Melitta Spresso Pouch 500g",
     "price": 73.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "74",
     "name": "Café Melitta Especial Vácuo 500G",
     "price": 49.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8167_extrabom_cafes-chas_cafe-melitta-especial-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "75",
     "name": "Café Melitta Extra Forte 500G",
     "price": 36.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "76",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 44.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "77",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 44.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "78",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 36.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Tradicional Vácuo 500G",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Meridiano em Grãos Classic 500G",
+    "price": 44.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132977_20241022144602_thumb_132977.png",
     "market": "Extrabom"
   },
   {
@@ -757,8 +757,8 @@
   },
   {
     "id": "109",
-    "name": "Óleo de Soja Coamo PVC 900Ml",
-    "price": 7.58,
+    "name": "Óleo de Soja Coamo PVC 900Ml\n\nR$ 6,99\n\nSEM CLUBE\n\nR$ 7,48",
+    "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/65639_20201008094536_thumb_65639_OLEO_SOJA_COAMO_900ML.png",
     "market": "Extrabom"
   },

@@ -142,14 +142,14 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 87.31,
+    "price": 87.82,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
     "id": "22",
-    "name": "Arroz Alegre Tipo 1 5 kg\n\nR$ 15,98\n\nSEM CLUBE\n\nR$ 16,80",
-    "price": 15.98,
+    "name": "Arroz Alegre Tipo 1 5 kg",
+    "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165535_20230817151529_thumb_Arroz_alegre.jpg",
     "market": "Extrabom"
   },
@@ -162,7 +162,7 @@
   },
   {
     "id": "24",
-    "name": "Arroz Calafate Tipo 1 5 Kg",
+    "name": "Arroz Calafate Tipo 1 5 Kg\n\nR$ 16,98\n\nSEM CLUBE\n\nR$ 17,98",
     "price": 16.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8067_7896010300017.jpg",
     "market": "Extrabom"
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 87.31,
+    "price": 87.82,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -421,8 +421,8 @@
   },
   {
     "id": "61",
-    "name": "Café 3 Corações Fort Vácuo 500G\n\nR$ 25,98\n\nSEM CLUBE\n\nR$ 28,90",
-    "price": 25.98,
+    "name": "Café 3 Corações Fort Vácuo 500G",
+    "price": 35.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7960_extrabom_cafes-chas_cafe-3-coracoes-fort-vacuo-500g.jpg",
     "market": "Extrabom"
   },
@@ -491,15 +491,15 @@
   },
   {
     "id": "71",
-    "name": "Café em Pó Fort 500g\n\nR$ 25,98\n\nSEM CLUBE\n\nR$ 28,90",
-    "price": 25.98,
+    "name": "Café em Pó Fort 500g",
+    "price": 35.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "72",
-    "name": "Café Grão 3 Corações Espresso Gourmet 500g\n\nR$ 59,98\n\nSEM CLUBE\n\nR$ 69,98",
-    "price": 59.98,
+    "name": "Café Grão 3 Corações Espresso Gourmet 500g",
+    "price": 79.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg",
     "market": "Extrabom"
   },
@@ -569,7 +569,7 @@
   {
     "id": "82",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 87.31,
+    "price": 87.82,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -589,8 +589,8 @@
   },
   {
     "id": "85",
-    "name": "Açúcar Cristal Coagro 5kg\n\nR$ 15,98\n\nSEM CLUBE\n\nR$ 16,80",
-    "price": 15.98,
+    "name": "Açúcar Cristal Coagro 5kg\n\nR$ 15,80\n\nSEM CLUBE\n\nR$ 16,80",
+    "price": 15.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9289_20250710084154_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
@@ -744,7 +744,7 @@
   {
     "id": "107",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 87.31,
+    "price": 87.82,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -779,7 +779,7 @@
   {
     "id": "112",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 87.31,
+    "price": 87.82,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -814,7 +814,7 @@
   {
     "id": "117",
     "name": "Biscoito Recheado Oreo Chocolate 90g",
-    "price": 3.49,
+    "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54198_extrabom_biscoitos_biscoito-recheado-oreo-chocolate-90g_50.jpg",
     "market": "Extrabom"
   },
@@ -1010,49 +1010,49 @@
   {
     "id": "145",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 87.31,
+    "price": 87.82,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
     "id": "146",
-    "name": "Farinha de Trigo com Fermento Número Um 1Kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 5,98",
-    "price": 5.49,
+    "name": "Farinha de Trigo com Fermento Número Um 1Kg",
+    "price": 5.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8448_20240502153350_thumb_Sem_titulo24.png",
     "market": "Extrabom"
   },
   {
     "id": "147",
-    "name": "Farinha de Trigo Número Um 1Kg\n\nR$ 3,58\n\nSEM CLUBE\n\nR$ 3,98",
-    "price": 3.58,
+    "name": "Farinha de Trigo Número Um 1Kg",
+    "price": 4.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "148",
-    "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg\n\nR$ 3,58\n\nSEM CLUBE\n\nR$ 3,98",
-    "price": 3.58,
+    "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
+    "price": 4.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/58232_20240502144927_thumb_Sem_titulo21.png",
     "market": "Extrabom"
   },
   {
     "id": "149",
-    "name": "Farinha de Trigo Regina 1Kg\n\nR$ 4,58\n\nSEM CLUBE\n\nR$ 4,98",
-    "price": 4.58,
+    "name": "Farinha de Trigo Regina 1Kg",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8464_20240502153745_thumb_Sem_titulo25.png",
     "market": "Extrabom"
   },
   {
     "id": "150",
-    "name": "Farinha de Trigo Regina Gourmet 1kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 5,98",
-    "price": 5.49,
+    "name": "Farinha de Trigo Regina Gourmet 1kg",
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100462_20240502154204_thumb_Sem_titulo26.png",
     "market": "Extrabom"
   },
   {
     "id": "151",
-    "name": "Farinha de Trigo Regina Integral 1kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 5,98",
-    "price": 5.49,
+    "name": "Farinha de Trigo Regina Integral 1kg",
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/33759_20240502154543_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
@@ -1115,7 +1115,7 @@
   {
     "id": "160",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 87.31,
+    "price": 87.82,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1401,15 +1401,15 @@
   },
   {
     "id": "201",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nDe: R$ 11,75 Por: R$ 8,38",
-    "price": 6.98,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nR$ 11,75",
+    "price": 9.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png",
     "market": "Extrabom"
   },
   {
     "id": "202",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nDe: R$ 9,79 Por: R$ 6,98",
-    "price": 6.98,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 9,79",
+    "price": 9.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },

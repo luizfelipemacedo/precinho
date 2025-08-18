@@ -218,65 +218,65 @@
   },
   {
     "id": "32",
-    "name": "Arroz Minaminai Azuma 1kg",
-    "price": 24.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/49786_20200303145011_thumb_Arroz_Minaminai_1kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "33",
     "name": "Arroz Parboilizado Prato Fino 1kg",
     "price": 6.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/99391_20200227121218_thumb_Arroz_Parboilizado_Prato_Fino_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "34",
+    "id": "33",
     "name": "Arroz Prato Fino Tipo 1 5kg",
     "price": 32.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "35",
+    "id": "34",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
     "price": 18.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "36",
+    "id": "35",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 2kg",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7793_7896546113327.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "37",
+    "id": "36",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 5kg",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7800_20250326170832_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "38",
+    "id": "37",
     "name": "Arroz Saboroso Tipo 1 2kg",
     "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/172987_20220819154506_thumb_Arroz_Saboroso_5kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "39",
+    "id": "38",
     "name": "Arroz Saboroso TP1 5Kg",
     "price": 17.8,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137986_20220422095538_thumb_137986_removebg_preview.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "40",
+    "id": "39",
     "name": "Arroz Sepé Bianco Tipo 1 1Kg",
     "price": 3.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7848_20241004103605_thumb_Sem_titulo2.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "40",
+    "name": "Arroz Sepé Bianco Tipo 1 2kg",
+    "price": 7.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7852_20241004103941_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {

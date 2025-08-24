@@ -1079,8 +1079,8 @@
   },
   {
     "id": "155",
-    "name": "Farinha de Trigo Tia Ofélia Tipo 1 1Kg",
-    "price": 3.78,
+    "name": "Farinha de Trigo Tia Ofélia Tipo 1 1Kg\n\nR$ 2,89\n\nSEM CLUBE\n\nR$ 3,49",
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/143057_20230708121339_thumb_ofelia.png",
     "market": "Extrabom"
   },
@@ -1415,16 +1415,16 @@
   },
   {
     "id": "203",
-    "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 20,38",
-    "price": 11.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg",
+    "name": "Coxa E Sobrecoxa De Frango Congelada Sem Osso Sadia 1Kg Bandeja",
+    "price": 23.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/24561_extrabom_aves-congeladas_coxa-e-sobrecoxa-desossada-sadia-bandeja-1kg_1.jpg",
     "market": "Extrabom"
   },
   {
     "id": "204",
-    "name": "COXA FRANGO ASSADO KG\nQuantidade mínima: 0,400 kg",
-    "price": 49.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/52206_20191212155910_thumb_52206COXAFRANGOASSADOKG.png",
+    "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 20,38",
+    "price": 11.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg",
     "market": "Extrabom"
   }
 ]

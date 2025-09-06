@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.7,
+    "price": 85.62,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -176,8 +176,8 @@
   },
   {
     "id": "26",
-    "name": "Arroz Calafate Tipo 1 5 Kg",
-    "price": 17.99,
+    "name": "Arroz Calafate Tipo 1 5 Kg\n\nR$ 15,98\n\nSEM CLUBE\n\nR$ 19,90",
+    "price": 15.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8067_7896010300017.jpg",
     "market": "Extrabom"
   },
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.7,
+    "price": 85.62,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -310,7 +310,7 @@
   {
     "id": "45",
     "name": "Feijão Fradinho Nico Tipo 1 kg",
-    "price": 8.98,
+    "price": 8.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/107919_20210126174137_thumb_Feijao_Fradinho_Nico_Tipo_1_kg.png",
     "market": "Extrabom"
   },
@@ -464,7 +464,7 @@
   {
     "id": "67",
     "name": "Café em pó 3 Corações Extraforte 500g",
-    "price": 32.98,
+    "price": 30.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-500g.jpg",
     "market": "Extrabom"
   },
@@ -478,7 +478,7 @@
   {
     "id": "69",
     "name": "Café em pó 3 Corações Tradicional 500g",
-    "price": 32.98,
+    "price": 30.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g_7.jpg",
     "market": "Extrabom"
   },
@@ -492,7 +492,7 @@
   {
     "id": "71",
     "name": "Café em Pó Fort 500g",
-    "price": 31.58,
+    "price": 30.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
@@ -506,14 +506,14 @@
   {
     "id": "73",
     "name": "Café Grão da Roça Extra Forte 500G",
-    "price": 25.98,
+    "price": 26.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
     "id": "74",
     "name": "Café Grão da Roça Tradicional 500G",
-    "price": 25.98,
+    "price": 26.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
@@ -569,7 +569,7 @@
   {
     "id": "82",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.7,
+    "price": 85.62,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -624,79 +624,79 @@
   },
   {
     "id": "90",
+    "name": "Açúcar Cristal Santa Isabel 2Kg",
+    "price": 7.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "91",
     "name": "Açúcar Cristal Santa Isabel 5Kg",
     "price": 17.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9397_7898187830052.png",
     "market": "Extrabom"
   },
   {
-    "id": "91",
+    "id": "92",
     "name": "Açúcar Demerara Santa Isabel 1kg",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189528_20231106092700_thumb_Sem_titulo232.png",
     "market": "Extrabom"
   },
   {
-    "id": "92",
+    "id": "93",
     "name": "Açúcar Demerara Caravelas 1kg",
     "price": 5.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101903_20190103101129_thumb_101903ACUCARDEMERARACARAVELAS1KG.png",
     "market": "Extrabom"
   },
   {
-    "id": "93",
+    "id": "94",
     "name": "Açúcar Demerara Orgânico Itajá 1kg",
     "price": 8.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88183_extrabom_acucar-adocantes_acucar-demerara-organico-itaja-1kg_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "94",
+    "id": "95",
     "name": "Açúcar Demerara Orgânico Native 1Kg\n\nR$ 9,79\n\nSEM CLUBE\n\nR$ 10,90",
     "price": 9.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10120_20240422104710_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
   {
-    "id": "95",
+    "id": "96",
     "name": "Açúcar Demerara União Naturale 1kg",
     "price": 6.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/59826_20250716152631_thumb_image__2__removebg_preview.png",
     "market": "Extrabom"
   },
   {
-    "id": "96",
+    "id": "97",
     "name": "Açúcar Mascavo Da Colônia 1kg",
     "price": 13.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/112063_20191217123545_thumb_112063ACUCARMASCAVODACOLONIA1KG.png",
     "market": "Extrabom"
   },
   {
-    "id": "97",
+    "id": "98",
     "name": "Açúcar Mascavo União 1kg",
     "price": 21.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/106191_20200311094324_thumb_Acucar_Mascavo_Uniao_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "98",
+    "id": "99",
     "name": "Açúcar Refinado Caravelas 1Kg",
-    "price": 4.89,
+    "price": 4.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/79862_20170901084633_thumb_79862_AcucarRefinadoCaravelas1kg__2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "99",
+    "id": "100",
     "name": "Açúcar Refinado Granulado Doçúcar União 1Kg",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9424_7891910007059.JPG",
-    "market": "Extrabom"
-  },
-  {
-    "id": "100",
-    "name": "Açúcar Refinado União 1Kg",
-    "price": 5.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -744,7 +744,7 @@
   {
     "id": "107",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.7,
+    "price": 85.62,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -793,7 +793,7 @@
   {
     "id": "114",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.7,
+    "price": 85.62,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -857,7 +857,7 @@
     "id": "123",
     "name": "Maionese Hellmann's Tradicional 335G",
     "price": 15.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g_2.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g.jpg",
     "market": "Extrabom"
   },
   {
@@ -871,14 +871,14 @@
     "id": "125",
     "name": "Maionese Hellmanns Alho Squeeze 335g",
     "price": 15.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
     "id": "126",
     "name": "Maionese Hellmanns Churrasco Squeeze 335g",
     "price": 15.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
@@ -892,7 +892,7 @@
     "id": "128",
     "name": "Maionese Hellmanns Supreme Squeeze 330g",
     "price": 17.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171857_extrabom_maioneses-molhos_maionese-hellmanns-supreme-squeeze-330g_3.jpg",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171857_extrabom_maioneses-molhos_maionese-hellmanns-supreme-squeeze-330g.jpg",
     "market": "Extrabom"
   },
   {
@@ -904,8 +904,8 @@
   },
   {
     "id": "130",
-    "name": "Farinha de Mandioca Amarela Juparanã 1kg",
-    "price": 6.99,
+    "name": "Farinha de Mandioca Amarela Juparanã 1kg\n\nR$ 5,98\n\nSEM CLUBE\n\nR$ 6,49",
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg",
     "market": "Extrabom"
   },
@@ -925,8 +925,8 @@
   },
   {
     "id": "133",
-    "name": "Farinha de Mandioca Branca Juparana 1kg",
-    "price": 5.98,
+    "name": "Farinha de Mandioca Branca Juparana 1kg\n\nR$ 5,48\n\nSEM CLUBE\n\nR$ 5,79",
+    "price": 5.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83260_20190226104522_thumb_83260FarinhadeMandiocaBrancaJuparana1kg.png",
     "market": "Extrabom"
   },
@@ -1010,7 +1010,7 @@
   {
     "id": "145",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.7,
+    "price": 85.62,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1024,14 +1024,14 @@
   {
     "id": "147",
     "name": "Farinha de Trigo Número Um 1Kg",
-    "price": 4.49,
+    "price": 3.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "148",
     "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
-    "price": 4.49,
+    "price": 3.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/58232_20240502144927_thumb_Sem_titulo21.png",
     "market": "Extrabom"
   },
@@ -1100,58 +1100,58 @@
   },
   {
     "id": "158",
-    "name": "Farinha de Trigo Venturelli Pacote Papel 1kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 6,49",
-    "price": 5.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "159",
     "name": "Farinha de Trigo com Fermento Rosa Branca 1kg",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/32175_20190514101923_thumb_32175FarinhadeTrigocomFermentoRosaBranca1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "160",
+    "id": "159",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.7,
+    "price": 85.62,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
-    "id": "161",
+    "id": "160",
     "name": "Biscoito Leite Maltado Cobertura Chocolate Piraquê 80g",
     "price": 4.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/149111_extrabom_biscoitos_biscoito-leite-maltado-cobertura-chocolate-piraque-80g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "162",
+    "id": "161",
     "name": "Biscoito Passatempo Recheado Chocolate 130g\nCONTÉM GLÚTEN.",
     "price": 3.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62379_extrabom_biscoitos_biscoito-passatempo-recheado-chocolate-130g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "163",
+    "id": "162",
     "name": "Biscoito recheado Chocolícia 132g",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167890_extrabom_biscoitos_biscoito-recheado-chocolicia-132g_3.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "164",
+    "id": "163",
     "name": "Biscoito recheado Mini Oreo original 35g",
     "price": 3.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "165",
+    "id": "164",
     "name": "Biscoito Recheado Oreo Milkshake de Morango Multipack 144g",
     "price": 8.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "165",
+    "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
+    "price": 13.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g.jpg",
     "market": "Extrabom"
   },
   {
@@ -1415,23 +1415,23 @@
   },
   {
     "id": "203",
-    "name": "Coxa E Sobrecoxa De Frango Congelada Sem Osso Sadia 1Kg Bandeja",
-    "price": 24.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/24561_extrabom_aves-congeladas_coxa-e-sobrecoxa-desossada-sadia-bandeja-1kg_1.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "204",
     "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 20,38",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "205",
+    "id": "204",
     "name": "COXA FRANGO ASSADO KG\nQuantidade mínima: 0,400 kg",
     "price": 49.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/52206_20191212155910_thumb_52206COXAFRANGOASSADOKG.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "205",
+    "name": "Coxas de Frango Bandeja Sadia 1Kg\n\nR$ 16,99\n\nSEM CLUBE\n\nR$ 17,99",
+    "price": 16.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/47_extrabom_aves-congeladas_coxas-de-frango-bandeja-sadia-1kg.jpg",
     "market": "Extrabom"
   }
 ]

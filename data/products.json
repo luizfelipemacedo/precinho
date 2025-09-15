@@ -807,85 +807,85 @@
   {
     "id": "116",
     "name": "Biscoito recheado Mini Oreo original 35g",
-    "price": 3.59,
+    "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
   {
     "id": "117",
     "name": "Biscoito Recheado Oreo Milkshake de Morango Multipack 144g",
-    "price": 8.39,
+    "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "118",
-    "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
-    "price": 13.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "119",
     "name": "Biscoito recheado Oreo original multipack 144g",
-    "price": 8.39,
+    "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54202_extrabom_biscoitos_biscoito-recheado-oreo-original-multipack-144g_41.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "120",
+    "id": "119",
     "name": "Bombom GAROTO Serenata de Amor 825g\nALÉRGICOS: CONTÉM CASTANHA-DE-CAJU E DERIVADOS DE LEITE, DE SOJA, DE AVEIA, DE CENTEIO E DE TRIGO. PODE CONTER AMENDOIM, AMÊNDOA, CASTANHA-DO-PARÁ, AVELÃ, NOZES E CEVADA. CONTÉM LACTOSE. CONTÉM GLÚTEN. Contém aromatizante sintético idêntico ao natural.",
     "price": 63.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/113657_extrabom_bomboniere_bombom-garoto-serenata-de-amor-825g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "121",
+    "id": "120",
     "name": "Maionese Hellmann's Light 500G\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "122",
+    "id": "121",
     "name": "Maionese Hellmann's Tradicional 335G",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "123",
+    "id": "122",
     "name": "Maionese Hellmann's Tradicional 500G",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1049_extrabom_molhos_maionese-hellmann-s-tradicional-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "124",
+    "id": "123",
     "name": "Maionese Hellmanns Alho Squeeze 335g",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "125",
+    "id": "124",
     "name": "Maionese Hellmanns Churrasco Squeeze 335g",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "126",
+    "id": "125",
     "name": "Maionese Hellmanns Light Squeeze 335G",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/176046_extrabom_maioneses-molhos_maionese-hellmanns-light-squeeze-335g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "127",
+    "id": "126",
     "name": "Maionese Hellmanns Supreme Squeeze 330g",
     "price": 19.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171857_extrabom_maioneses-molhos_maionese-hellmanns-supreme-squeeze-330g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "127",
+    "name": "Maionese Hellmanns Verde Squeeze 335g",
+    "price": 16.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159938_extrabom_maioneses-molhos_maionese-hellmanns-verde-squeeze-335g_7.jpg",
     "market": "Extrabom"
   },
   {
@@ -1115,29 +1115,29 @@
   {
     "id": "160",
     "name": "Biscoito recheado Chocolícia 132g",
-    "price": 6.99,
+    "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167890_extrabom_biscoitos_biscoito-recheado-chocolicia-132g_3.jpg",
     "market": "Extrabom"
   },
   {
     "id": "161",
     "name": "Biscoito recheado Mini Oreo original 35g",
-    "price": 3.59,
+    "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
   {
     "id": "162",
     "name": "Biscoito Recheado Oreo Milkshake de Morango Multipack 144g",
-    "price": 8.39,
+    "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "163",
-    "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
-    "price": 13.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g.jpg",
+    "name": "Biscoito recheado Oreo original multipack 144g",
+    "price": 7.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54202_extrabom_biscoitos_biscoito-recheado-oreo-original-multipack-144g_41.jpg",
     "market": "Extrabom"
   },
   {

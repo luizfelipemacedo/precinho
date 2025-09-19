@@ -2,14 +2,14 @@
   {
     "id": "1",
     "name": "Leite Fermentado Fiore Baunilha 1L",
-    "price": 16.49,
+    "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/150512_20250729161558_thumb_Sem_titulo6.png",
     "market": "Extrabom"
   },
   {
     "id": "2",
     "name": "Leite Fiore A2A2 Garrafa 1L",
-    "price": 9.79,
+    "price": 8.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/155259_20210302151000_thumb_155259_Leite_Fiore_A2A2_Garrafa_1L.png",
     "market": "Extrabom"
   },
@@ -43,106 +43,106 @@
   },
   {
     "id": "7",
-    "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 4.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "8",
     "name": "Leite Longa Vida Damare Semi Desnatado 1L",
     "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/55760_20220901164735_thumb_Leite_Damare_Semidesnatado.png",
     "market": "Extrabom"
   },
   {
-    "id": "9",
+    "id": "8",
     "name": "Leite Longa Vida Integral Leitíssimo Sachê 1L",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/107887_20210211135222_thumb_Leite_Longa_Vida_Integral_Leitissimo_Sache_1L.png",
     "market": "Extrabom"
   },
   {
-    "id": "10",
+    "id": "9",
     "name": "Leite Longa Vida Itambé Kids Natural Milk Integral 1L",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/99348_20190608103132_thumb_99348LeiteLongaVidaNaturalMilk1L.png",
     "market": "Extrabom"
   },
   {
-    "id": "11",
+    "id": "10",
     "name": "Leite Longa Vida Itambé Premium Dez Vitaminas Integral 1L",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4059_20240315170107_thumb_Sem_titulo584.png",
     "market": "Extrabom"
   },
   {
-    "id": "12",
+    "id": "11",
     "name": "Leite Longa Vida Itambé Zero Lactose Desnatado 1L",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/41460_7896051128076.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "13",
+    "id": "12",
     "name": "Leite Longa Vida Itambé Zero Lactose Integral 1L",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/76245_20190417163959_thumb_76245LeiteLongaVidaItambeNolacIntegral1L.png",
     "market": "Extrabom"
   },
   {
-    "id": "14",
+    "id": "13",
     "name": "Leite Longa Vida Itambé Zero Lactose Semidesnatado 1L",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4051_7896051111764.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "15",
+    "id": "14",
     "name": "Leite Longa Vida Leitíssimo Desnatado 1L",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62238_20190801172140_thumb_62238.png",
     "market": "Extrabom"
   },
   {
-    "id": "16",
+    "id": "15",
     "name": "Leite Longa Vida Leitíssimo Integral 1L",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4049_leite_longa_vida_leitissimo_integral_1l_.png",
     "market": "Extrabom"
   },
   {
-    "id": "17",
+    "id": "16",
     "name": "Leite Longa Vida Leitíssimo Integral Zero Lactose 1L",
     "price": 10.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62239_20190801172443_thumb_62239.png",
     "market": "Extrabom"
   },
   {
-    "id": "18",
+    "id": "17",
     "name": "Leite Longa Vida Molico Desnatado + Pro 1L",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141387_20200519172718_thumb_Proteinas_FRONT.png",
     "market": "Extrabom"
   },
   {
-    "id": "19",
+    "id": "18",
     "name": "Leite Longa Vida Molico Desnatado 1l",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/144375_20200831143703_thumb_LEITE_LV_MOLICO_DESNATADO_1L.png",
     "market": "Extrabom"
   },
   {
-    "id": "20",
+    "id": "19",
     "name": "Leite Longa Vida Molico Zero Lactose Desnatado 1l",
     "price": 7.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141386_20200918160148_thumb_141386_leite_lv_ninho_semi_desn_zero_lac_1l.png",
     "market": "Extrabom"
   },
   {
+    "id": "20",
+    "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
+    "price": 9.79,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg",
+    "market": "Extrabom"
+  },
+  {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.62,
+    "price": 85.63,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -282,14 +282,14 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.62,
+    "price": 85.63,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
     "id": "42",
     "name": "Feijão Carioca Juju Tipo 1 1kg",
-    "price": 6.49,
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85562_20210204152621_thumb_85562_Feijao_Carioca_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
@@ -317,7 +317,7 @@
   {
     "id": "46",
     "name": "Feijão Preto Combrasil Tipo 1 1kg",
-    "price": 6.49,
+    "price": 5.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9071_20250625171600_thumb_Sem_titulo6.png",
     "market": "Extrabom"
   },
@@ -344,15 +344,15 @@
   },
   {
     "id": "50",
-    "name": "Feijão Preto Ranchinho 1kg\n\nR$ 3,98\n\nSEM CLUBE\n\nR$ 4,79",
-    "price": 3.98,
+    "name": "Feijão Preto Ranchinho 1kg",
+    "price": 4.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9081_7896612700055.png",
     "market": "Extrabom"
   },
   {
     "id": "51",
-    "name": "Feijão Preto Sepé T1 1kg",
-    "price": 5.79,
+    "name": "Feijão Preto Sepé T1 1kg\n\nR$ 4,49\n\nSEM CLUBE\n\nR$ 5,49",
+    "price": 4.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/204042_20250609115348_thumb_image__65.png",
     "market": "Extrabom"
   },
@@ -373,7 +373,7 @@
   {
     "id": "54",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
-    "price": 11.98,
+    "price": 10.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
@@ -505,15 +505,15 @@
   },
   {
     "id": "73",
-    "name": "Café Grão da Roça Extra Forte 500G",
-    "price": 27.9,
+    "name": "Café Grão da Roça Extra Forte 500G\n\nR$ 23,98\n\nSEM CLUBE\n\nR$ 25,80",
+    "price": 23.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
     "id": "74",
-    "name": "Café Grão da Roça Tradicional 500G",
-    "price": 27.9,
+    "name": "Café Grão da Roça Tradicional 500G\n\nR$ 23,98\n\nSEM CLUBE\n\nR$ 25,80",
+    "price": 23.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
@@ -569,7 +569,7 @@
   {
     "id": "82",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.62,
+    "price": 85.63,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -737,7 +737,7 @@
   {
     "id": "106",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.62,
+    "price": 85.63,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -786,14 +786,14 @@
   {
     "id": "113",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.62,
+    "price": 85.63,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
     "id": "114",
-    "name": "Maionese Hellmann's Apimentada 335 g",
-    "price": 16.99,
+    "name": "Maionese Hellmann's Apimentada 335 g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
+    "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159939_extrabom_maioneses-molhos_maionese-hellmann-s-apimentada-335-g.jpg",
     "market": "Extrabom"
   },
@@ -848,8 +848,8 @@
   },
   {
     "id": "122",
-    "name": "Maionese Hellmann's Tradicional 335G",
-    "price": 16.99,
+    "name": "Maionese Hellmann's Tradicional 335G\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
+    "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g.jpg",
     "market": "Extrabom"
   },
@@ -862,29 +862,29 @@
   },
   {
     "id": "124",
-    "name": "Maionese Hellmanns Alho Squeeze 335g",
-    "price": 16.99,
+    "name": "Maionese Hellmanns Alho Squeeze 335g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
+    "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
     "id": "125",
-    "name": "Maionese Hellmanns Churrasco Squeeze 335g",
-    "price": 16.99,
+    "name": "Maionese Hellmanns Churrasco Squeeze 335g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
+    "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
     "id": "126",
-    "name": "Maionese Hellmanns Light Squeeze 335G",
-    "price": 16.99,
+    "name": "Maionese Hellmanns Light Squeeze 335G\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
+    "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/176046_extrabom_maioneses-molhos_maionese-hellmanns-light-squeeze-335g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "127",
-    "name": "Maionese Hellmanns Supreme Squeeze 330g",
-    "price": 19.99,
+    "name": "Maionese Hellmanns Supreme Squeeze 330g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
+    "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171857_extrabom_maioneses-molhos_maionese-hellmanns-supreme-squeeze-330g.jpg",
     "market": "Extrabom"
   },
@@ -996,7 +996,7 @@
   {
     "id": "143",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.62,
+    "price": 85.63,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1094,7 +1094,7 @@
   {
     "id": "157",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.62,
+    "price": 85.63,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1282,8 +1282,8 @@
   },
   {
     "id": "184",
-    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nR$ 35,70",
-    "price": 11.9,
+    "name": "Frango com Miúdos Congelado Oi Frango Kg\nAproximadamente 3kg\nDe: R$ 35,70 Por: R$ 32,97",
+    "price": 10.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png",
     "market": "Extrabom"
   },
@@ -1394,8 +1394,8 @@
   },
   {
     "id": "200",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 8,99",
-    "price": 8.99,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 8,79",
+    "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },

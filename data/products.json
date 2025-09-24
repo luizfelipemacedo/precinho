@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.63,
+    "price": 86.43,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -155,8 +155,8 @@
   },
   {
     "id": "23",
-    "name": "Arroz Arbório La Pastina 1Kg",
-    "price": 31.98,
+    "name": "Arroz Arbório La Pastina 1Kg\n\nR$ 24,98\n\nSEM CLUBE\n\nR$ 29,98",
+    "price": 24.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8022_20200109163431_thumb_arroz.png",
     "market": "Extrabom"
   },
@@ -211,8 +211,8 @@
   },
   {
     "id": "31",
-    "name": "Arroz Integral Prato Fino 1Kg",
-    "price": 6.99,
+    "name": "Arroz Integral Prato Fino 1Kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 6,98",
+    "price": 5.49,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
@@ -239,22 +239,22 @@
   },
   {
     "id": "35",
-    "name": "Arroz Parboilizado Prato Fino 1kg",
-    "price": 6.49,
+    "name": "Arroz Parboilizado Prato Fino 1kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 6,98",
+    "price": 5.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/99391_20250911155225_thumb_PACKSHOT_PF_1KG_PARBO.png",
     "market": "Extrabom"
   },
   {
     "id": "36",
-    "name": "Arroz Prato Fino Tipo 1 2kg",
-    "price": 14.98,
+    "name": "Arroz Prato Fino Tipo 1 2kg\n\nR$ 10,98\n\nSEM CLUBE\n\nR$ 11,98",
+    "price": 10.98,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
   {
     "id": "37",
-    "name": "Arroz Prato Fino Tipo 1 5kg",
-    "price": 34.98,
+    "name": "Arroz Prato Fino Tipo 1 5kg\n\nR$ 29,98\n\nSEM CLUBE\n\nR$ 31,90",
+    "price": 29.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
@@ -282,14 +282,14 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.63,
+    "price": 86.43,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
     "id": "42",
     "name": "Feijão Carioca Juju Tipo 1 1kg",
-    "price": 5.98,
+    "price": 6.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85562_20210204152621_thumb_85562_Feijao_Carioca_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
@@ -303,7 +303,7 @@
   {
     "id": "44",
     "name": "Feijão Carioca Zuppa Tipo 1 1Kg",
-    "price": 5.49,
+    "price": 6.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173046_20220819153936_thumb_Feijao_Carioca_Zuppa_1kg.png",
     "market": "Extrabom"
   },
@@ -317,21 +317,21 @@
   {
     "id": "46",
     "name": "Feijão Preto Combrasil Tipo 1 1kg",
-    "price": 5.69,
+    "price": 6.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9071_20250625171600_thumb_Sem_titulo6.png",
     "market": "Extrabom"
   },
   {
     "id": "47",
     "name": "Feijão Preto Juju Tipo 1 1kg",
-    "price": 5.99,
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85565_20210204152652_thumb_85565_Feijao_Preto_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "48",
     "name": "Feijão Preto Lívia Tipo 1 1kg",
-    "price": 4.99,
+    "price": 5.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/201286_20250528164943_thumb_image__57.png",
     "market": "Extrabom"
   },
@@ -345,7 +345,7 @@
   {
     "id": "50",
     "name": "Feijão Preto Ranchinho 1kg",
-    "price": 4.79,
+    "price": 4.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9081_7896612700055.png",
     "market": "Extrabom"
   },
@@ -359,7 +359,7 @@
   {
     "id": "52",
     "name": "Feijão Preto Zuppa Tipo 1 1kg",
-    "price": 3.99,
+    "price": 4.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg",
     "market": "Extrabom"
   },
@@ -373,49 +373,49 @@
   {
     "id": "54",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
-    "price": 10.99,
+    "price": 12.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
     "id": "55",
     "name": "Feijão Vermelho das Lorenção 1Kg",
-    "price": 11.98,
+    "price": 12.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/2911_7898293221942.JPG",
     "market": "Extrabom"
   },
   {
     "id": "56",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
-    "price": 9.98,
+    "price": 11.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
     "id": "57",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
-    "price": 9.49,
+    "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
     "id": "58",
     "name": "Feijão Vermelho Ranchinho 1Kg",
-    "price": 8.99,
+    "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9321_7896612700062.jpg",
     "market": "Extrabom"
   },
   {
     "id": "59",
     "name": "Feijão Vermelho Sepé T1 1kg",
-    "price": 11.98,
+    "price": 12.98,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
   {
     "id": "60",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
-    "price": 8.49,
+    "price": 9.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
     "market": "Extrabom"
   },
@@ -505,15 +505,15 @@
   },
   {
     "id": "73",
-    "name": "Café Grão da Roça Extra Forte 500G\n\nR$ 23,98\n\nSEM CLUBE\n\nR$ 25,80",
-    "price": 23.98,
+    "name": "Sujeito à disponibilidade de estoque\nCafé Grão da Roça Extra Forte 500G\n\nR$ 23,96\n\nSEM CLUBE\n\nR$ 25,80",
+    "price": 23.96,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
     "id": "74",
-    "name": "Café Grão da Roça Tradicional 500G\n\nR$ 23,98\n\nSEM CLUBE\n\nR$ 25,80",
-    "price": 23.98,
+    "name": "Sujeito à disponibilidade de estoque\nCafé Grão da Roça Tradicional 500G\n\nR$ 23,96\n\nSEM CLUBE\n\nR$ 25,80",
+    "price": 23.96,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
@@ -569,7 +569,7 @@
   {
     "id": "82",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.63,
+    "price": 86.43,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -744,7 +744,7 @@
   {
     "id": "107",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.63,
+    "price": 86.43,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -758,141 +758,141 @@
   {
     "id": "109",
     "name": "Óleo de Soja Coamo PVC 900Ml",
-    "price": 7.89,
+    "price": 8.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/65639_20201008094536_thumb_65639_OLEO_SOJA_COAMO_900ML.png",
     "market": "Extrabom"
   },
   {
     "id": "110",
     "name": "Óleo de Soja Liza 900ml",
-    "price": 8.49,
+    "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8958_extrabom_oleos-azeites_oleo-de-soja-liza-900ml_2.jpg",
     "market": "Extrabom"
   },
   {
     "id": "111",
     "name": "Óleo de Soja Primor 900ml",
-    "price": 7.98,
+    "price": 8.59,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/194543_extrabom_oleo-de-soja_oleo-de-soja-primor-900ml.jpg",
     "market": "Extrabom"
   },
   {
     "id": "112",
     "name": "Óleo de Soja Soya 900Ml",
-    "price": 8.39,
+    "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8960_7891107101621.png",
     "market": "Extrabom"
   },
   {
     "id": "113",
     "name": "Óleo de Soja Vila Velha 900ml",
-    "price": 7.89,
+    "price": 8.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19735_20180502095541_thumb_19735oleo_vila_velha_900ml.jpg",
     "market": "Extrabom"
   },
   {
     "id": "114",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.63,
+    "price": 86.43,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
     "id": "115",
-    "name": "Maionese Hellmann's Apimentada 335 g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
-    "price": 15.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159939_extrabom_maioneses-molhos_maionese-hellmann-s-apimentada-335-g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "116",
     "name": "Biscoito Passatempo Recheado Chocolate 130g\nCONTÉM GLÚTEN.\n\nR$ 2,49\n\nSEM CLUBE\n\nR$ 2,99",
     "price": 2.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62379_extrabom_biscoitos_biscoito-passatempo-recheado-chocolate-130g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "117",
+    "id": "116",
     "name": "Biscoito recheado Mini Oreo original 35g",
     "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "118",
+    "id": "117",
     "name": "Biscoito Recheado Oreo Milkshake de Morango Multipack 144g",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "119",
+    "id": "118",
     "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "120",
+    "id": "119",
     "name": "Biscoito recheado Oreo original multipack 144g",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54202_extrabom_biscoitos_biscoito-recheado-oreo-original-multipack-144g_41.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "121",
+    "id": "120",
     "name": "Bombom GAROTO Serenata de Amor 825g\nALÉRGICOS: CONTÉM CASTANHA-DE-CAJU E DERIVADOS DE LEITE, DE SOJA, DE AVEIA, DE CENTEIO E DE TRIGO. PODE CONTER AMENDOIM, AMÊNDOA, CASTANHA-DO-PARÁ, AVELÃ, NOZES E CEVADA. CONTÉM LACTOSE. CONTÉM GLÚTEN. Contém aromatizante sintético idêntico ao natural.",
     "price": 63.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/113657_extrabom_bomboniere_bombom-garoto-serenata-de-amor-825g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "122",
+    "id": "121",
     "name": "Maionese Hellmann's Light 500G\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "123",
+    "id": "122",
     "name": "Maionese Hellmann's Tradicional 335G\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "124",
+    "id": "123",
     "name": "Maionese Hellmann's Tradicional 500G",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1049_extrabom_molhos_maionese-hellmann-s-tradicional-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "125",
+    "id": "124",
     "name": "Maionese Hellmanns Alho Squeeze 335g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "126",
+    "id": "125",
     "name": "Maionese Hellmanns Churrasco Squeeze 335g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "127",
+    "id": "126",
     "name": "Maionese Hellmanns Light Squeeze 335G\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/176046_extrabom_maioneses-molhos_maionese-hellmanns-light-squeeze-335g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "128",
+    "id": "127",
     "name": "Maionese Hellmanns Supreme Squeeze 330g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171857_extrabom_maioneses-molhos_maionese-hellmanns-supreme-squeeze-330g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "128",
+    "name": "Maionese Hellmanns Verde Squeeze 335g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
+    "price": 15.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159938_extrabom_maioneses-molhos_maionese-hellmanns-verde-squeeze-335g_7.jpg",
     "market": "Extrabom"
   },
   {
@@ -904,8 +904,8 @@
   },
   {
     "id": "130",
-    "name": "Farinha de Mandioca Amarela Juparanã 1kg\n\nR$ 5,98\n\nSEM CLUBE\n\nR$ 6,49",
-    "price": 5.98,
+    "name": "Farinha de Mandioca Amarela Juparanã 1kg",
+    "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg",
     "market": "Extrabom"
   },
@@ -925,8 +925,8 @@
   },
   {
     "id": "133",
-    "name": "Farinha de Mandioca Branca Juparana 1kg\n\nR$ 5,48\n\nSEM CLUBE\n\nR$ 5,79",
-    "price": 5.48,
+    "name": "Farinha de Mandioca Branca Juparana 1kg",
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/83260_20190226104522_thumb_83260FarinhadeMandiocaBrancaJuparana1kg.png",
     "market": "Extrabom"
   },
@@ -1010,7 +1010,7 @@
   {
     "id": "145",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.63,
+    "price": 86.43,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1108,7 +1108,7 @@
   {
     "id": "159",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 85.63,
+    "price": 86.43,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1415,8 +1415,8 @@
   },
   {
     "id": "203",
-    "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 18,34",
-    "price": 10.79,
+    "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 20,38",
+    "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg",
     "market": "Extrabom"
   },

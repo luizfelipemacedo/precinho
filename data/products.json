@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 83.03,
+    "price": 84.53,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -169,8 +169,8 @@
   },
   {
     "id": "25",
-    "name": "Arroz Calafate Tipo 1 5 Kg\n\nR$ 16,98\n\nSEM CLUBE\n\nR$ 18,90",
-    "price": 16.98,
+    "name": "Arroz Calafate Tipo 1 5 Kg",
+    "price": 18.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8067_7896010300017.jpg",
     "market": "Extrabom"
   },
@@ -183,7 +183,7 @@
   },
   {
     "id": "27",
-    "name": "Arroz Dono da Casa Tipo 1 5kg\n\nR$ 14,48\n\nSEM CLUBE\n\nR$ 15,98",
+    "name": "Arroz Dono da Casa Tipo 1 5kg\n\nR$ 14,48\n\nSEM CLUBE\n\nR$ 16,80",
     "price": 14.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/145775_20200803171342_thumb_145775_ARROZ_DONO_DA_CASA_TIPO_1_5KG.png",
     "market": "Extrabom"
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 83.03,
+    "price": 84.53,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -317,7 +317,7 @@
   {
     "id": "46",
     "name": "Feijão Preto Combrasil Tipo 1 1kg",
-    "price": 4.79,
+    "price": 6.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9071_20250625171600_thumb_Sem_titulo6.png",
     "market": "Extrabom"
   },
@@ -484,85 +484,85 @@
   },
   {
     "id": "70",
-    "name": "Café em pó 3 Corações Vácuo 500g",
-    "price": 34.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-em-po-3-coracoes-vacuo-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "71",
     "name": "Café em Pó Fort 500g",
     "price": 32.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "71",
     "name": "Café Grão 3 Corações Espresso Gourmet 500g",
-    "price": 79.98,
+    "price": 67.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "72",
     "name": "Café Grão da Roça Extra Forte 500G\n\nR$ 23,90\n\nSEM CLUBE\n\nR$ 25,80",
     "price": 23.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "73",
     "name": "Café Grão da Roça Tradicional 500G\n\nR$ 23,90\n\nSEM CLUBE\n\nR$ 25,80",
     "price": 23.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "74",
     "name": "Café Grão Melitta Spresso Pouch 500g",
     "price": 73.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "75",
     "name": "Café Melitta Especial Vácuo 500G",
     "price": 44.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8167_extrabom_cafes-chas_cafe-melitta-especial-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "76",
     "name": "Café Melitta Extra Forte 500G",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "77",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "78",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
+    "id": "80",
+    "name": "Café Melitta Tradicional Vácuo 500G",
+    "price": 34.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg",
+    "market": "Extrabom"
+  },
+  {
     "id": "81",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 83.03,
+    "price": 84.53,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -744,7 +744,7 @@
   {
     "id": "107",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 83.03,
+    "price": 84.53,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -793,7 +793,7 @@
   {
     "id": "114",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 83.03,
+    "price": 84.53,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1010,7 +1010,7 @@
   {
     "id": "145",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 83.03,
+    "price": 84.53,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1065,15 +1065,15 @@
   },
   {
     "id": "153",
-    "name": "Farinha de Trigo Rosa Branca 1kg\n\nR$ 3,28\n\nSEM CLUBE\n\nR$ 3,79",
-    "price": 3.28,
+    "name": "Farinha de Trigo Rosa Branca 1kg",
+    "price": 3.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19733_20241210165650_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
     "id": "154",
-    "name": "Farinha de Trigo Rosa Branca Papel 1kg\n\nR$ 3,28\n\nSEM CLUBE\n\nR$ 3,79",
-    "price": 3.28,
+    "name": "Farinha de Trigo Rosa Branca Papel 1kg",
+    "price": 3.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100620_20241210165731_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
@@ -1093,8 +1093,8 @@
   },
   {
     "id": "157",
-    "name": "Farinha de Trigo Venturelli Pacote Papel 1kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 6,49",
-    "price": 5.49,
+    "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
+    "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png",
     "market": "Extrabom"
   },
@@ -1108,7 +1108,7 @@
   {
     "id": "159",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 83.03,
+    "price": 84.53,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1170,14 +1170,14 @@
   },
   {
     "id": "168",
-    "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,29",
+    "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101537_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-carne-defumada-69g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "169",
-    "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,29",
+    "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101536_extrabom_massas_macarrao-instantaneo-cup-noodles-cheddar-69g.jpg",
     "market": "Extrabom"
@@ -1212,7 +1212,7 @@
   },
   {
     "id": "174",
-    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,29",
+    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101538_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-69g.jpg",
     "market": "Extrabom"
@@ -1282,15 +1282,15 @@
   },
   {
     "id": "184",
-    "name": "Macarrão Instantâneo Lámen Adria Carne Zero Fritura 75g\n\nR$ 1,89\n\nSEM CLUBE\n\nR$ 1,99",
-    "price": 1.89,
+    "name": "Macarrão Instantâneo Lámen Adria Carne Zero Fritura 75g",
+    "price": 1.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200423_extrabom_massas_macarrao-instantaneo-adria-carne-75g_2.jpg",
     "market": "Extrabom"
   },
   {
     "id": "185",
-    "name": "Macarrão Instantâneo Lámen Adria Galinha Caipira Zero Fritura 75g\n\nR$ 1,89\n\nSEM CLUBE\n\nR$ 1,99",
-    "price": 1.89,
+    "name": "Macarrão Instantâneo Lámen Adria Galinha Caipira Zero Fritura 75g",
+    "price": 1.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200425_extrabom_massas_macarrao-instantaneo-adria-galinha-caipira-75g.jpg",
     "market": "Extrabom"
   },

@@ -246,37 +246,37 @@
   },
   {
     "id": "36",
-    "name": "Arroz Prato Fino Tipo 1 5kg",
-    "price": 34.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "37",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
     "price": 19.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "38",
+    "id": "37",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 2kg",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7793_7896546113327.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "39",
+    "id": "38",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 5kg",
     "price": 18.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7800_20250326170832_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "40",
+    "id": "39",
     "name": "Arroz Saboroso TP1 5Kg\n\nR$ 15,70\n\nSEM CLUBE\n\nR$ 17,80",
     "price": 15.7,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137986_20250919153214_thumb_image__4__removebg_preview.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "40",
+    "name": "Arroz Sepé Bianco Tipo 1 1Kg",
+    "price": 4.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7848_20241004103605_thumb_Sem_titulo2.png",
     "market": "Extrabom"
   },
   {
@@ -429,14 +429,14 @@
   {
     "id": "62",
     "name": "Café Cafuso 500G",
-    "price": 28.9,
+    "price": 27.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
     "market": "Extrabom"
   },
   {
     "id": "63",
     "name": "Café Cafuso Extra Forte 500G",
-    "price": 28.9,
+    "price": 27.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100480_20200625125831_thumb_100480_Cafe_Cafuso_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
@@ -785,114 +785,114 @@
   },
   {
     "id": "113",
+    "name": "Óleo de Soja Vila Velha 900ml",
+    "price": 8.58,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19735_20180502095541_thumb_19735oleo_vila_velha_900ml.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "114",
     "name": "Cesta Básica Nossa Cesta Unidade",
     "price": 85.53,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
   {
-    "id": "114",
+    "id": "115",
     "name": "Biscoito Passatempo Recheado Chocolate 130g\nCONTÉM GLÚTEN.",
     "price": 3.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62379_extrabom_biscoitos_biscoito-passatempo-recheado-chocolate-130g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "115",
+    "id": "116",
     "name": "Biscoito recheado Mini Oreo original 35g",
     "price": 3.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137031_extrabom_biscoitos_biscoito-recheado-mini-oreo-original-35g_24.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "116",
+    "id": "117",
     "name": "Biscoito Recheado Oreo Milkshake de Morango Multipack 144g",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137016_extrabom_biscoitos_biscoito-recheado-oreo-milkshake-de-morango-multipack-144g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "117",
+    "id": "118",
     "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "118",
+    "id": "119",
     "name": "Biscoito recheado Oreo original multipack 144g",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/54202_extrabom_biscoitos_biscoito-recheado-oreo-original-multipack-144g_41.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "119",
+    "id": "120",
     "name": "Bombom GAROTO Serenata de Amor 825g\nALÉRGICOS: CONTÉM CASTANHA-DE-CAJU E DERIVADOS DE LEITE, DE SOJA, DE AVEIA, DE CENTEIO E DE TRIGO. PODE CONTER AMENDOIM, AMÊNDOA, CASTANHA-DO-PARÁ, AVELÃ, NOZES E CEVADA. CONTÉM LACTOSE. CONTÉM GLÚTEN. Contém aromatizante sintético idêntico ao natural.",
     "price": 63.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/113657_extrabom_bomboniere_bombom-garoto-serenata-de-amor-825g_6.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "120",
+    "id": "121",
     "name": "Maionese Hellmann's Light 500G\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "121",
+    "id": "122",
     "name": "Maionese Hellmann's Tradicional 335G\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "122",
+    "id": "123",
     "name": "Maionese Hellmann's Tradicional 500G",
     "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1049_extrabom_molhos_maionese-hellmann-s-tradicional-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "123",
+    "id": "124",
     "name": "Maionese Hellmanns Alho Squeeze 335g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maioneses-molhos_maionese-hellmanns-alho-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "124",
+    "id": "125",
     "name": "Maionese Hellmanns Churrasco Squeeze 335g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maioneses-molhos_maionese-hellmanns-churrasco-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "125",
+    "id": "126",
     "name": "Maionese Hellmanns Light Squeeze 335G",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/176046_extrabom_maioneses-molhos_maionese-hellmanns-light-squeeze-335g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "126",
+    "id": "127",
     "name": "Maionese Hellmanns Supreme Squeeze 330g",
     "price": 19.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171857_extrabom_maioneses-molhos_maionese-hellmanns-supreme-squeeze-330g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "127",
+    "id": "128",
     "name": "Maionese Hellmanns Verde Squeeze 335g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
     "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159938_extrabom_maioneses-molhos_maionese-hellmanns-verde-squeeze-335g_7.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "128",
-    "name": "Margarina cremosa sem sal Qualy pote 500g\nContém Glúten* : Não Contém Aromatizante* : Artificial;Sintético Idêntico ao Natural Aromatizante Artificial : Contém Contém Gordura Vegetal : Contém Contém Lactose : Contém Contém Leite - Derivados : Contém Contém Soja - Derivados : Contém",
-    "price": 11.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/42219_extrabom_margarinas_margarina-cremosa-sem-sal-qualy-pote-500g.jpg",
     "market": "Extrabom"
   },
   {

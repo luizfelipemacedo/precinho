@@ -1394,44 +1394,44 @@
   },
   {
     "id": "200",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nR$ 10,79",
-    "price": 8.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "201",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 8,79",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "202",
+    "id": "201",
     "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 20,38",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "203",
+    "id": "202",
     "name": "Coxa e Sobrecoxa de Frango Congelado Pif Paf Pacote 1,5Kg\nAproximadamente 1,5Kg\nR$ 25,49",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3075_20250522164841_thumb_Sem_titulo2.png",
     "market": "Extrabom"
   },
   {
-    "id": "204",
+    "id": "203",
     "name": "COXA FRANGO ASSADO KG\nQuantidade mínima: 0,400 kg",
     "price": 49.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/52206_20191212155910_thumb_52206COXAFRANGOASSADOKG.png",
     "market": "Extrabom"
   },
   {
-    "id": "205",
+    "id": "204",
     "name": "Coxas de Frango Bandeja Sadia 1Kg",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/47_extrabom_aves-congeladas_coxas-de-frango-bandeja-sadia-1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "205",
+    "name": "Coxinha da Asa de Frango Congelada OI Frango Bandeja 1kg",
+    "price": 21.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167990_20240826161807_thumb_coxa.png",
     "market": "Extrabom"
   }
 ]

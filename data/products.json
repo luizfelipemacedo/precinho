@@ -499,7 +499,7 @@
   {
     "id": "72",
     "name": "Café Grão 3 Corações Espresso Gourmet 500g",
-    "price": 67.98,
+    "price": 79.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg",
     "market": "Extrabom"
   },
@@ -883,8 +883,8 @@
   },
   {
     "id": "127",
-    "name": "Maionese Hellmanns Supreme Squeeze 330g",
-    "price": 19.99,
+    "name": "Maionese Hellmanns Supreme Squeeze 330g\n\nR$ 15,90\n\nSEM CLUBE\n\nR$ 16,90",
+    "price": 15.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/171857_extrabom_maioneses-molhos_maionese-hellmanns-supreme-squeeze-330g.jpg",
     "market": "Extrabom"
   },
@@ -1331,100 +1331,100 @@
   },
   {
     "id": "191",
-    "name": "Coração de Frango Congelado Aurora Bandeja 1kg",
-    "price": 31.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/197595_20240712101700_thumb_Sem_titulo2.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "192",
     "name": "Coração de Frango Congelado Oi Frango Bandeja 1kg",
     "price": 40.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167988_20211223110221_thumb_167988_Coracao_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "193",
+    "id": "192",
     "name": "Coração de Frango Sadia 1kg",
     "price": 35.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/133_extrabom_aves-congeladas_coracao-de-frango-sadia-1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "194",
+    "id": "193",
     "name": "Coxa de Frango Congelada Oi Frango 1Kg",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167989_20220218152655_thumb_167989_COXAS_FRANGO_CONG_OI_FGO_BDJ_1KG_removebg_preview.png",
     "market": "Extrabom"
   },
   {
-    "id": "195",
+    "id": "194",
     "name": "Coxa de frango congelada Sadia 1kg",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "196",
+    "id": "195",
     "name": "Coxa de Frango Congelado Pif Paf IQF 1kg",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
     "market": "Extrabom"
   },
   {
-    "id": "197",
+    "id": "196",
     "name": "Coxa de Frango Temperado Assa Fácil Perdigão 1,2kg",
     "price": 20.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/59721_20200717142040_thumb_59721Coxa_de_Frango_Temperado_Assa_Facil_Perdigao_1_2kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "198",
+    "id": "197",
     "name": "Coxa de Frango Uniaves Pacote 1,2kg\nAproximadamente 1,200Kg\nR$ 12,95",
     "price": 10.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/138369_20240925094005_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
   {
-    "id": "199",
+    "id": "198",
     "name": "Coxa e Sobrecoxa de Frango à Passarinho Congelado Sadia 1kg",
     "price": 19.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/45_extrabom_congelados_coxa-e-sobrecoxa-de-frango-a-passarinho-congelado-sadia-1kg_1.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "200",
+    "id": "199",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 8,79",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "201",
+    "id": "200",
     "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\nAproximadamente 1,7Kg\nR$ 20,38",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "202",
+    "id": "201",
     "name": "Coxa e Sobrecoxa de Frango Congelado Pif Paf Pacote 1,5Kg\nAproximadamente 1,5Kg\nR$ 25,49",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3075_20250522164841_thumb_Sem_titulo2.png",
     "market": "Extrabom"
   },
   {
-    "id": "203",
+    "id": "202",
     "name": "COXA FRANGO ASSADO KG\nQuantidade mínima: 0,400 kg",
     "price": 49.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/52206_20191212155910_thumb_52206COXAFRANGOASSADOKG.png",
     "market": "Extrabom"
   },
   {
-    "id": "204",
+    "id": "203",
     "name": "Coxas de Frango Bandeja Sadia 1Kg",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/47_extrabom_aves-congeladas_coxas-de-frango-bandeja-sadia-1kg.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "204",
+    "name": "Coxinha da Asa de Frango Aurora 1kg",
+    "price": 22.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/98592_20240722172026_thumb_Sem_titulo17.png",
     "market": "Extrabom"
   },
   {

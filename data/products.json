@@ -239,44 +239,44 @@
   },
   {
     "id": "35",
+    "name": "Arroz Parboilizado Prato Fino 1kg",
+    "price": 6.49,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/99391_20250911155225_thumb_PACKSHOT_PF_1KG_PARBO.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "36",
     "name": "Arroz Prato Fino Tipo 1 2kg",
     "price": 14.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8123_20251014164419_thumb_image__17.png",
     "market": "Extrabom"
   },
   {
-    "id": "36",
+    "id": "37",
     "name": "Arroz Prato Fino Tipo 1 5kg",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "37",
+    "id": "38",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
     "price": 19.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "38",
+    "id": "39",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 2kg",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7793_7896546113327.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "39",
+    "id": "40",
     "name": "Arroz Saboroso Tipo 1 2kg",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/172987_20220819154506_thumb_Arroz_Saboroso_5kg.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "40",
-    "name": "Arroz Saboroso TP1 5Kg",
-    "price": 17.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137986_20250919153214_thumb_image__4__removebg_preview.png",
     "market": "Extrabom"
   },
   {
@@ -330,93 +330,93 @@
   },
   {
     "id": "48",
-    "name": "Feijão Preto Lívia Tipo 1 1kg",
-    "price": 5.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/201286_20250528164943_thumb_image__57.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "49",
     "name": "Feijão Preto Nico Tipo 1 1Kg",
     "price": 3.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "50",
+    "id": "49",
     "name": "Feijão Preto Ranchinho 1kg",
     "price": 4.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9081_7896612700055.png",
     "market": "Extrabom"
   },
   {
-    "id": "51",
+    "id": "50",
     "name": "Feijão Preto Sepé T1 1kg",
     "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/204042_20251014155524_thumb_image__6.png",
     "market": "Extrabom"
   },
   {
-    "id": "52",
+    "id": "51",
     "name": "Feijão Preto Zuppa Tipo 1 1kg",
     "price": 4.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "53",
+    "id": "52",
     "name": "Feijão Rajado Nico Tipo 1 1Kg",
     "price": 8.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "54",
+    "id": "53",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
     "price": 12.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "54",
     "name": "Feijão Vermelho das Lorenção 1Kg",
     "price": 10.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/2911_7898293221942.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "55",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
     "price": 11.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "56",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
     "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "57",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9321_7896612700062.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "58",
     "name": "Feijão Vermelho Sepé T1 1kg",
     "price": 9.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "60",
+    "id": "59",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "60",
+    "name": "Feijão Carioca Combrasil 1kg",
+    "price": 8.58,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png",
     "market": "Extrabom"
   },
   {
@@ -624,79 +624,79 @@
   },
   {
     "id": "90",
-    "name": "Açúcar Cristal Santa Isabel 2Kg",
-    "price": 8.79,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "91",
     "name": "Açúcar Cristal Santa Isabel 5Kg",
     "price": 18.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9397_7898187830052.png",
     "market": "Extrabom"
   },
   {
-    "id": "92",
+    "id": "91",
     "name": "Açúcar Demerara Santa Isabel 1kg",
     "price": 5.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189528_20231106092700_thumb_Sem_titulo232.png",
     "market": "Extrabom"
   },
   {
-    "id": "93",
+    "id": "92",
     "name": "Açúcar Demerara Caravelas 1kg",
     "price": 5.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101903_20190103101129_thumb_101903ACUCARDEMERARACARAVELAS1KG.png",
     "market": "Extrabom"
   },
   {
-    "id": "94",
+    "id": "93",
     "name": "Açúcar Demerara Orgânico Itajá 1kg",
     "price": 8.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88183_extrabom_acucar-adocantes_acucar-demerara-organico-itaja-1kg_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "95",
+    "id": "94",
     "name": "Açúcar Demerara Orgânico Native 1Kg",
     "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10120_20240422104710_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
   {
-    "id": "96",
+    "id": "95",
     "name": "Açúcar Demerara União Naturale 1kg",
     "price": 6.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/59826_20250716152631_thumb_image__2__removebg_preview.png",
     "market": "Extrabom"
   },
   {
-    "id": "97",
+    "id": "96",
     "name": "Açúcar Mascavo Da Colônia 1kg",
     "price": 13.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/112063_20191217123545_thumb_112063ACUCARMASCAVODACOLONIA1KG.png",
     "market": "Extrabom"
   },
   {
-    "id": "98",
+    "id": "97",
     "name": "Açúcar Mascavo União 1kg",
     "price": 21.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/106191_20200311094324_thumb_Acucar_Mascavo_Uniao_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "99",
+    "id": "98",
     "name": "Açúcar Refinado Caravelas 1Kg",
     "price": 4.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/79862_20170901084633_thumb_79862_AcucarRefinadoCaravelas1kg__2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "100",
+    "id": "99",
     "name": "Açúcar Refinado Granulado Doçúcar União 1Kg",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9424_7891910007059.JPG",
+    "market": "Extrabom"
+  },
+  {
+    "id": "100",
+    "name": "Açúcar Refinado União 1Kg",
+    "price": 4.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
     "market": "Extrabom"
   },
   {
@@ -1149,85 +1149,85 @@
   },
   {
     "id": "165",
-    "name": "Macarrão Instantâneo Cup Noodles Bolonhesa 72G\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Bolonhesa 72G\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101535_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-bolonhesa-72g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "166",
-    "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101537_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-carne-defumada-69g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "167",
-    "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101536_extrabom_massas_macarrao-instantaneo-cup-noodles-cheddar-69g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "168",
-    "name": "Macarrão Instantâneo Cup Noodles Costelinha com Molho de Churrasco 68g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Costelinha com Molho de Churrasco 68g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101539_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-costelinha-com-molho-de-churrasco-68g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "169",
-    "name": "Macarrão Instantâneo Cup Noodles Feijoada 67g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Feijoada 67g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/162591_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-feijoada-67g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "170",
-    "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101904_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-frango-teriyaki-72g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "171",
-    "name": "Macarrão Instantâneo Cup Noodles Frutos do Mar 65g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Frutos do Mar 65g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101534_extrabom_massas_macarrao-instantaneo-cup-noodles-frutos-do-mar-65g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "172",
-    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101538_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-69g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "173",
-    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira Picante 68g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira Picante 68g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101540_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-picante-68g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "174",
-    "name": "Macarrão Instantâneo Cup Noodles Nacho 68g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Nacho 68g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/201258_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-nacho-68g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "175",
-    "name": "Macarrão Instantâneo Cup Noodles Parmegiana 68g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Parmegiana 68g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/202605_20250527120215_thumb_image__85.png",
     "market": "Extrabom"
   },
   {
     "id": "176",
-    "name": "Macarrão Instantâneo Cup Noodles Yakissoba 70g\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,39",
-    "price": 3.99,
+    "name": "Macarrão Instantâneo Cup Noodles Yakissoba 70g\n\nR$ 4,99\n\nSEM CLUBE\n\nR$ 5,39",
+    "price": 4.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/105385_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-yakissoba-70g.jpg",
     "market": "Extrabom"
   },
@@ -1261,29 +1261,29 @@
   },
   {
     "id": "181",
-    "name": "Macarrão Instantâneo Lámen Nissin Miojo Bacon 85G\n\nR$ 2,49\n\nSEM CLUBE\n\nR$ 2,89",
-    "price": 2.49,
+    "name": "Macarrão Instantâneo Lámen Nissin Miojo Bacon 85G",
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8780_20171106150821_thumb_8780_MacarraoInstantaneoLamenNissinMiojoBacon85g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "182",
-    "name": "Macarrão Instantâneo Lámen Nissin Miojo Calabresa Picante 85g\n\nR$ 2,49\n\nSEM CLUBE\n\nR$ 2,89",
-    "price": 2.49,
+    "name": "Macarrão Instantâneo Lámen Nissin Miojo Calabresa Picante 85g",
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/206563_20250825112219_thumb_image__33.png",
     "market": "Extrabom"
   },
   {
     "id": "183",
-    "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne 85G\n\nR$ 2,49\n\nSEM CLUBE\n\nR$ 2,89",
-    "price": 2.49,
+    "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne 85G",
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8764_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-carne-85g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "184",
-    "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne com Tomate 85G\n\nR$ 2,49\n\nSEM CLUBE\n\nR$ 2,89",
-    "price": 2.49,
+    "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne com Tomate 85G",
+    "price": 2.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8808_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-carne-com-tomate-85g.jpg",
     "market": "Extrabom"
   },
@@ -1387,8 +1387,8 @@
   },
   {
     "id": "199",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nR$ 10,79",
-    "price": 8.99,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nDe: R$ 10,79 Por: R$ 9,58",
+    "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png",
     "market": "Extrabom"
   },
@@ -1415,16 +1415,16 @@
   },
   {
     "id": "203",
-    "name": "COXA FRANGO ASSADO KG\nQuantidade mínima: 0,400 kg",
-    "price": 49.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/52206_20191212155910_thumb_52206COXAFRANGOASSADOKG.png",
+    "name": "Coxas de Frango Bandeja Sadia 1Kg",
+    "price": 16.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/47_extrabom_aves-congeladas_coxas-de-frango-bandeja-sadia-1kg.jpg",
     "market": "Extrabom"
   },
   {
     "id": "204",
-    "name": "Coxas de Frango Bandeja Sadia 1Kg",
-    "price": 16.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/47_extrabom_aves-congeladas_coxas-de-frango-bandeja-sadia-1kg.jpg",
+    "name": "Coxinha da Asa de Frango Congelada OI Frango Bandeja 1kg",
+    "price": 18.99,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167990_20240826161807_thumb_coxa.png",
     "market": "Extrabom"
   }
 ]

@@ -148,8 +148,8 @@
   },
   {
     "id": "22",
-    "name": "Arroz Alegre Tipo 1 5 kg",
-    "price": 16.98,
+    "name": "Arroz Alegre Tipo 1 5 kg\n\nR$ 13,98\n\nSEM CLUBE\n\nR$ 16,98",
+    "price": 13.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165535_20230817151529_thumb_Arroz_alegre.jpg",
     "market": "Extrabom"
   },
@@ -540,23 +540,23 @@
   },
   {
     "id": "78",
-    "name": "Café Melitta Especial Vácuo 500G",
-    "price": 44.9,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8167_extrabom_cafes-chas_cafe-melitta-especial-vacuo-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "79",
     "name": "Café Melitta Extra Forte 500G",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
+    "price": 34.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg",
     "market": "Extrabom"
   },
   {

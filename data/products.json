@@ -29,15 +29,15 @@
   },
   {
     "id": "5",
-    "name": "Leite Longa Vida Capel Integral 1L",
-    "price": 4.58,
+    "name": "Leite Longa Vida Capel Integral 1L\n\nR$ 4,48\n\nSEM CLUBE\n\nR$ 4,78",
+    "price": 4.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4039_7897366700162.jpg",
     "market": "Extrabom"
   },
   {
     "id": "6",
-    "name": "Leite Longa Vida Crescer Pirakids Piracanjuba Zero Lactose Integral 1L",
-    "price": 7.98,
+    "name": "Leite Longa Vida Crescer Pirakids Piracanjuba Zero Lactose Integral 1L\n\nR$ 5,98\n\nSEM CLUBE\n\nR$ 6,49",
+    "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/64986_extrabom_leites_leite-longa-vida-crescer-pirakids-piracanjuba-zero-lactose-integral-1l_5.jpg",
     "market": "Extrabom"
   },
@@ -176,8 +176,8 @@
   },
   {
     "id": "26",
-    "name": "Arroz Calafate Tipo 1 5 Kg\n\nR$ 15,80\n\nSEM CLUBE\n\nR$ 17,98",
-    "price": 15.8,
+    "name": "Arroz Calafate Tipo 1 5 Kg",
+    "price": 18.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8067_7896010300017.jpg",
     "market": "Extrabom"
   },
@@ -190,8 +190,8 @@
   },
   {
     "id": "28",
-    "name": "Arroz Dono da Casa Tipo 1 5kg",
-    "price": 15.99,
+    "name": "Arroz Dono da Casa Tipo 1 5kg\n\nR$ 12,98\n\nSEM CLUBE\n\nR$ 16,98",
+    "price": 12.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/145775_20200803171342_thumb_145775_ARROZ_DONO_DA_CASA_TIPO_1_5KG.png",
     "market": "Extrabom"
   },
@@ -365,58 +365,58 @@
   },
   {
     "id": "53",
-    "name": "Feijão Rajado Nico Tipo 1 1Kg",
-    "price": 8.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "54",
     "name": "Feijão Vermelho Combrasil T1 1Kg\n\nR$ 10,98\n\nSEM CLUBE\n\nR$ 11,98",
     "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "54",
     "name": "Feijão Vermelho das Lorenção 1Kg",
     "price": 10.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/2911_7898293221942.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "55",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
     "price": 11.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "56",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg\n\nR$ 7,98\n\nSEM CLUBE\n\nR$ 10,98",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "57",
     "name": "Feijão Vermelho Ranchinho 1Kg\n\nR$ 7,98\n\nSEM CLUBE\n\nR$ 8,98",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9321_7896612700062.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "58",
     "name": "Feijão Vermelho Sepé T1 1kg\n\nR$ 9,98\n\nSEM CLUBE\n\nR$ 11,98",
     "price": 9.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "60",
+    "id": "59",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
-    "price": 8.79,
+    "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "60",
+    "name": "Feijão Carioca Combrasil 1kg",
+    "price": 8.58,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png",
     "market": "Extrabom"
   },
   {
@@ -428,135 +428,135 @@
   },
   {
     "id": "62",
-    "name": "Café 3 Corações Pouch Extra Forte Leve 500g Pague 475g",
-    "price": 26.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174497_extrabom_cafes-chas_cafe-3-coracoes-pouch-extra-forte-leve-500g-pague-475g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "63",
-    "name": "Café 3 Corações Pouch Tradicional Leve 500g Pague 475g",
-    "price": 26.99,
+    "name": "Café 3 Corações Pouch Tradicional Leve 500g Pague 475g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 33,90",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174498_extrabom_cafes-chas_cafe-3-coracoes-pouch-tradicional-leve-500g-pague-475g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "64",
+    "id": "63",
     "name": "Café Cafuso 500G",
     "price": 27.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "65",
+    "id": "64",
     "name": "Café Cafuso Extra Forte 500G",
     "price": 27.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100480_20200625125831_thumb_100480_Cafe_Cafuso_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "66",
+    "id": "65",
     "name": "Café em Grãos Número Um Sentidos Gourmet 500g",
     "price": 54.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189134_20240507095434_thumb_Sem_titulo28.png",
     "market": "Extrabom"
   },
   {
-    "id": "67",
+    "id": "66",
     "name": "Café em pó 3 Corações Estrada Real 500g",
     "price": 44.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/157500_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-500g_7.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "68",
+    "id": "67",
     "name": "Café em pó 3 Corações Estrada Real Vácuo 500g",
     "price": 48.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/157499_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-vacuo-500g_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "69",
-    "name": "Café em pó 3 Corações Extraforte 500g",
-    "price": 34.98,
+    "id": "68",
+    "name": "Café em pó 3 Corações Extraforte 500g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 35,90",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "70",
-    "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
-    "price": 34.98,
+    "id": "69",
+    "name": "Café em pó 3 Corações Extraforte Vácuo 500g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 35,90",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7943_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "71",
-    "name": "Café em pó 3 Corações Tradicional 500g",
-    "price": 34.98,
+    "id": "70",
+    "name": "Café em pó 3 Corações Tradicional 500g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 35,90",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g_7.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
-    "name": "Café em pó 3 Corações Vácuo 500g",
-    "price": 34.98,
+    "id": "71",
+    "name": "Café em pó 3 Corações Vácuo 500g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 35,90",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-em-po-3-coracoes-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "72",
     "name": "Café em Pó Fort 500g",
     "price": 32.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "73",
     "name": "Café Grão 3 Corações Espresso Gourmet 500g",
-    "price": 79.98,
+    "price": 63.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "74",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 24.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "75",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 24.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "76",
     "name": "Café Grão Melitta Spresso Pouch 500g",
     "price": 73.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "77",
     "name": "Café Melitta Extra Forte 500G",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "78",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Melitta Tradicional Pouch 500g",
+    "price": 34.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
@@ -618,21 +618,21 @@
   {
     "id": "89",
     "name": "Açúcar Cristal Santa Isabel 2Kg",
-    "price": 8.79,
+    "price": 6.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9390_7898187830021.jpg",
     "market": "Extrabom"
   },
   {
     "id": "90",
     "name": "Açúcar Cristal Santa Isabel 5Kg",
-    "price": 18.98,
+    "price": 16.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9397_7898187830052.png",
     "market": "Extrabom"
   },
   {
     "id": "91",
     "name": "Açúcar Demerara Santa Isabel 1kg",
-    "price": 5.89,
+    "price": 4.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189528_20231106092700_thumb_Sem_titulo232.png",
     "market": "Extrabom"
   },
@@ -702,14 +702,14 @@
   {
     "id": "101",
     "name": "Sal Refinado Globo 1Kg",
-    "price": 2.49,
+    "price": 2.69,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10338_7896029310014.jpg",
     "market": "Extrabom"
   },
   {
     "id": "102",
     "name": "Sal Refinado Globo Extra 500G",
-    "price": 5.79,
+    "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173891_20220820111237_thumb_Sal_Globo___Refinado_Extra___Stand_Up_500g.jpg",
     "market": "Extrabom"
   },
@@ -765,14 +765,14 @@
   {
     "id": "110",
     "name": "Óleo de Soja Liza 900ml",
-    "price": 8.98,
+    "price": 9.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8958_extrabom_oleos-azeites_oleo-de-soja-liza-900ml_2.jpg",
     "market": "Extrabom"
   },
   {
     "id": "111",
-    "name": "Óleo de Soja Vila Velha 900ml\n\nR$ 8,58\n\nSEM CLUBE\n\nR$ 8,89",
-    "price": 8.58,
+    "name": "Óleo de Soja Vila Velha 900ml",
+    "price": 8.78,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19735_20180502095541_thumb_19735oleo_vila_velha_900ml.jpg",
     "market": "Extrabom"
   },
@@ -828,7 +828,7 @@
   {
     "id": "119",
     "name": "Maionese Hellmann's Tradicional 335G",
-    "price": 16.99,
+    "price": 17.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/926_extrabom_molhos_maionese-hellmann-s-tradicional-335g.jpg",
     "market": "Extrabom"
   },
@@ -842,21 +842,21 @@
   {
     "id": "121",
     "name": "Maionese Hellmanns Alho Squeeze 335g",
-    "price": 16.99,
+    "price": 17.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maionese-molhos_maionese-hellmanns-alho-squeeze-335g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "122",
-    "name": "Maionese Hellmanns Churrasco Squeeze 335g",
-    "price": 16.99,
+    "name": "Maionese Hellmanns Churrasco Squeeze 335g\n\nR$ 16,90\n\nSEM CLUBE\n\nR$ 17,90",
+    "price": 16.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maionese-molhos_maionese-hellmanns-churrasco-squeeze-335g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "123",
-    "name": "Maionese Hellmanns Light Squeeze 335G",
-    "price": 16.99,
+    "name": "Maionese Hellmanns Light Squeeze 335G\n\nR$ 16,90\n\nSEM CLUBE\n\nR$ 17,90",
+    "price": 16.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/176046_extrabom_maionese-molhos_maionese-hellmanns-light-squeeze-335g.jpg",
     "market": "Extrabom"
   },
@@ -869,8 +869,8 @@
   },
   {
     "id": "125",
-    "name": "Maionese Hellmanns Verde Squeeze 335g",
-    "price": 16.99,
+    "name": "Maionese Hellmanns Verde Squeeze 335g\n\nR$ 16,90\n\nSEM CLUBE\n\nR$ 17,90",
+    "price": 16.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159938_extrabom_maionese-molhos_maionese-hellmanns-verde-squeeze-335g.jpg",
     "market": "Extrabom"
   },
@@ -898,7 +898,7 @@
   {
     "id": "129",
     "name": "Farinha de Mandioca Amarela Juju 1kg",
-    "price": 5.98,
+    "price": 6.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85568_20220523120408_thumb_85568_FARINHA_MAND_AMAR_JUJU_1KG_removebg_preview.png",
     "market": "Extrabom"
   },
@@ -1037,8 +1037,8 @@
   },
   {
     "id": "149",
-    "name": "Farinha de Trigo Regina 1Kg",
-    "price": 4.99,
+    "name": "Farinha de Trigo Regina 1Kg\n\nR$ 4,48\n\nSEM CLUBE\n\nR$ 4,98",
+    "price": 4.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8464_20240502153745_thumb_Sem_titulo25.png",
     "market": "Extrabom"
   },
@@ -1156,84 +1156,84 @@
   },
   {
     "id": "166",
-    "name": "Macarrão Instantâneo Cup Noodles Bolonhesa 72G",
+    "name": "Macarrão Instantâneo Cup Noodles Bolonhesa 72G\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101535_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-bolonhesa-72g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "167",
-    "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g",
+    "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101537_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-carne-defumada-69g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "168",
-    "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G",
+    "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101536_extrabom_massas_macarrao-instantaneo-cup-noodles-cheddar-69g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "169",
-    "name": "Macarrão Instantâneo Cup Noodles Costelinha com Molho de Churrasco 68g",
+    "name": "Macarrão Instantâneo Cup Noodles Costelinha com Molho de Churrasco 68g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101539_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-costelinha-com-molho-de-churrasco-68g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "170",
-    "name": "Macarrão Instantâneo Cup Noodles Feijoada 67g",
+    "name": "Macarrão Instantâneo Cup Noodles Feijoada 67g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/162591_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-feijoada-67g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "171",
-    "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g",
+    "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101904_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-frango-teriyaki-72g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "172",
-    "name": "Macarrão Instantâneo Cup Noodles Frutos do Mar 65g",
+    "name": "Macarrão Instantâneo Cup Noodles Frutos do Mar 65g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101534_extrabom_massas_macarrao-instantaneo-cup-noodles-frutos-do-mar-65g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "173",
-    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g",
+    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101538_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-69g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "174",
-    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira Picante 68g",
+    "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira Picante 68g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/101540_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-picante-68g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "175",
-    "name": "Macarrão Instantâneo Cup Noodles Nacho 68g",
+    "name": "Macarrão Instantâneo Cup Noodles Nacho 68g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/201258_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-nacho-68g.jpg",
     "market": "Extrabom"
   },
   {
     "id": "176",
-    "name": "Macarrão Instantâneo Cup Noodles Parmegiana 68g",
+    "name": "Macarrão Instantâneo Cup Noodles Parmegiana 68g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/202605_20250527120215_thumb_image__85.png",
     "market": "Extrabom"
   },
   {
     "id": "177",
-    "name": "Macarrão Instantâneo Cup Noodles Yakissoba 70g",
+    "name": "Macarrão Instantâneo Cup Noodles Yakissoba 70g\n\nR$ 5,79\n\nSEM CLUBE\n\nR$ 5,99",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/105385_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-yakissoba-70g.jpg",
     "market": "Extrabom"
@@ -1373,22 +1373,22 @@
   },
   {
     "id": "197",
-    "name": "Coxa de Frango Uniaves Pacote 1,2kg\nAproximadamente 1,200Kg\nR$ 14,39",
-    "price": 11.99,
+    "name": "Coxa de Frango Uniaves Pacote 1,2kg\nAproximadamente 1,200Kg\nR$ 15,59",
+    "price": 12.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/138369_20240925094005_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
   {
     "id": "198",
     "name": "Coxa e Sobrecoxa de Frango à Passarinho Congelado Sadia 1kg",
-    "price": 19.99,
+    "price": 20.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/45_extrabom_congelados_coxa-e-sobrecoxa-de-frango-a-passarinho-congelado-sadia-1kg_1.jpg",
     "market": "Extrabom"
   },
   {
     "id": "199",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nDe: R$ 11,27 Por: R$ 9,59",
-    "price": 7.99,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nR$ 11,27",
+    "price": 9.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png",
     "market": "Extrabom"
   },
@@ -1402,7 +1402,7 @@
   {
     "id": "201",
     "name": "Coxa E Sobrecoxa De Frango Congelada Sem Osso Sadia 1Kg Bandeja",
-    "price": 24.9,
+    "price": 21.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/24561_extrabom_aves-congeladas_coxa-e-sobrecoxa-desossada-sadia-bandeja-1kg_1.jpg",
     "market": "Extrabom"
   },

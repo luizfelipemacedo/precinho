@@ -51,7 +51,7 @@
   {
     "id": "8",
     "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 4.79,
+    "price": 4.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png",
     "market": "Extrabom"
   },
@@ -253,8 +253,8 @@
   },
   {
     "id": "37",
-    "name": "Arroz Saboroso TP1 5Kg\n\nR$ 14,78\n\nSEM CLUBE\n\nR$ 16,98",
-    "price": 14.78,
+    "name": "Arroz Saboroso TP1 5Kg\n\nR$ 13,98\n\nSEM CLUBE\n\nR$ 16,98",
+    "price": 13.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/137986_20250919153214_thumb_image__4__removebg_preview.png",
     "market": "Extrabom"
   },
@@ -491,8 +491,8 @@
   },
   {
     "id": "71",
-    "name": "Café em Pó Fort 500g\n\nR$ 27,95\n\nSEM CLUBE\n\nR$ 31,98",
-    "price": 27.95,
+    "name": "Café em Pó Fort 500g",
+    "price": 32.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
@@ -688,7 +688,7 @@
   {
     "id": "99",
     "name": "Açúcar Refinado União 1Kg",
-    "price": 4.99,
+    "price": 4.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
     "market": "Extrabom"
   },
@@ -786,7 +786,7 @@
   {
     "id": "113",
     "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
-    "price": 11.99,
+    "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g.jpg",
     "market": "Extrabom"
   },
@@ -822,28 +822,28 @@
     "id": "118",
     "name": "Maionese Hellmann's Tradicional 500G",
     "price": 11.98,
-    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1049_extrabom_maionese-molhos_maionese-hellmann-s-tradicional-500g_6.jpg",
     "market": "Extrabom"
   },
   {
     "id": "119",
     "name": "Maionese Hellmanns Alho Squeeze 335g\n\nR$ 16,90\n\nSEM CLUBE\n\nR$ 17,90",
     "price": 16.9,
-    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/193364_extrabom_maionese-molhos_maionese-hellmanns-alho-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
     "id": "120",
     "name": "Maionese Hellmanns Churrasco Squeeze 335g\n\nR$ 16,90\n\nSEM CLUBE\n\nR$ 17,90",
     "price": 16.9,
-    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/179009_extrabom_maionese-molhos_maionese-hellmanns-churrasco-squeeze-335g_4.jpg",
     "market": "Extrabom"
   },
   {
     "id": "121",
     "name": "Maionese Hellmanns Light Squeeze 335G\n\nR$ 16,90\n\nSEM CLUBE\n\nR$ 17,90",
     "price": 16.9,
-    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/176046_extrabom_maionese-molhos_maionese-hellmanns-light-squeeze-335g_3.jpg",
     "market": "Extrabom"
   },
   {
@@ -857,7 +857,7 @@
     "id": "123",
     "name": "Maionese Hellmanns Verde Squeeze 335g\n\nR$ 16,90\n\nSEM CLUBE\n\nR$ 17,90",
     "price": 16.9,
-    "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2",
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/159938_extrabom_maionese-molhos_maionese-hellmanns-verde-squeeze-335g_5.jpg",
     "market": "Extrabom"
   },
   {
@@ -1059,7 +1059,7 @@
   {
     "id": "152",
     "name": "Farinha de Trigo Tipo 1 Extra Clara Adria Premium 1kg",
-    "price": 4.19,
+    "price": 3.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/184652_extrabom_farinhas-farofas_farinha-de-trigo-tipo-1-extra-clara-adria-premium-pacote-1kg.jpg",
     "market": "Extrabom"
   },
@@ -1115,7 +1115,7 @@
   {
     "id": "160",
     "name": "Biscoito recheado Oreo original embalagem econômica multipack 270g",
-    "price": 11.99,
+    "price": 13.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/161896_extrabom_biscoitos_biscoito-recheado-oreo-original-embalagem-economica-multipack-270g.jpg",
     "market": "Extrabom"
   },

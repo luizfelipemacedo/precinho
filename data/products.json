@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Leite Fermentado Fiore Baunilha 1L",
-    "price": 12.99,
+    "price": 16.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/150512_20250729161558_thumb_Sem_titulo6.png",
     "market": "Extrabom"
   },
@@ -92,57 +92,57 @@
   },
   {
     "id": "14",
-    "name": "Leite Longa Vida Leitíssimo Integral Zero Lactose 1L",
-    "price": 10.39,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/62239_20190801172443_thumb_62239.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "15",
     "name": "Leite Longa Vida Molico Desnatado + Pro 1L",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141387_20200519172718_thumb_Proteinas_FRONT.png",
     "market": "Extrabom"
   },
   {
-    "id": "16",
+    "id": "15",
     "name": "Leite Longa Vida Molico Desnatado 1l",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/144375_20200831143703_thumb_LEITE_LV_MOLICO_DESNATADO_1L.png",
     "market": "Extrabom"
   },
   {
-    "id": "17",
+    "id": "16",
     "name": "Leite Longa Vida Molico Zero Lactose Desnatado 1l",
     "price": 7.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141386_20200918160148_thumb_141386_leite_lv_ninho_semi_desn_zero_lac_1l.png",
     "market": "Extrabom"
   },
   {
-    "id": "18",
+    "id": "17",
     "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
     "price": 9.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "19",
+    "id": "18",
     "name": "Leite Longa Vida Ninho Integral Vitaminado 1lt",
     "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141384_20200918155839_thumb_141384_LEITE_LV_NINHO_INTEGRAL_VIT_1L.png",
     "market": "Extrabom"
   },
   {
-    "id": "20",
+    "id": "19",
     "name": "Leite Longa Vida Ninho Integral Zero Lactose 1l",
     "price": 7.39,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/144373_20200907150547_thumb_LEITE_LV_NINHO_INTEGRAL_ZERO_LAC_1L.png",
     "market": "Extrabom"
   },
   {
+    "id": "20",
+    "name": "Leite Longa Vida Ninho Semi Desnatado Vit 1l",
+    "price": 6.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/141385_20200918160010_thumb_141385_LEITE_LV_NINHO_SEMI_DESN_VIT_1L.png",
+    "market": "Extrabom"
+  },
+  {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 84.97,
+    "price": 86.88,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 84.97,
+    "price": 86.88,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -330,93 +330,93 @@
   },
   {
     "id": "48",
-    "name": "Feijão Preto Lívia Tipo 1 1kg",
-    "price": 5.49,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/201286_20250528164943_thumb_image__57.png",
-    "market": "Extrabom"
-  },
-  {
-    "id": "49",
     "name": "Feijão Preto Nico Tipo 1 1Kg",
     "price": 3.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "50",
+    "id": "49",
     "name": "Feijão Preto Ranchinho 1kg",
     "price": 4.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9081_7896612700055.png",
     "market": "Extrabom"
   },
   {
-    "id": "51",
+    "id": "50",
     "name": "Feijão Preto Sepé T1 1kg",
     "price": 5.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/204042_20251014155524_thumb_image__6.png",
     "market": "Extrabom"
   },
   {
-    "id": "52",
+    "id": "51",
     "name": "Feijão Preto Zuppa Tipo 1 1kg\n\nR$ 3,98\n\nSEM CLUBE\n\nR$ 4,49",
     "price": 3.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "53",
+    "id": "52",
     "name": "Feijão Rajado Nico Tipo 1 1Kg",
     "price": 8.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "54",
+    "id": "53",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
     "price": 12.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "54",
     "name": "Feijão Vermelho das Lorenção 1Kg",
     "price": 10.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/2911_7898293221942.JPG",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "55",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
     "price": 11.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "56",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "57",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9321_7896612700062.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "58",
     "name": "Feijão Vermelho Sepé T1 1kg",
     "price": 10.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png",
     "market": "Extrabom"
   },
   {
-    "id": "60",
+    "id": "59",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "60",
+    "name": "Feijão Carioca Combrasil 1kg",
+    "price": 8.58,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png",
     "market": "Extrabom"
   },
   {
@@ -428,8 +428,8 @@
   },
   {
     "id": "62",
-    "name": "Café Cafuso 500G",
-    "price": 27.58,
+    "name": "Café Cafuso 500G\n\nR$ 24,90\n\nSEM CLUBE\n\nR$ 26,90",
+    "price": 24.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
     "market": "Extrabom"
   },
@@ -562,7 +562,7 @@
   {
     "id": "81",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 84.97,
+    "price": 86.88,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -575,8 +575,8 @@
   },
   {
     "id": "83",
-    "name": "Açúcar Cristal Alcon 5Kg",
-    "price": 15.98,
+    "name": "Açúcar Cristal Alcon 5Kg\n\nR$ 15,48\n\nSEM CLUBE\n\nR$ 18,90",
+    "price": 15.48,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/39157_acucar_cristal_alcon_5kg.jpg",
     "market": "Extrabom"
   },
@@ -730,7 +730,7 @@
   {
     "id": "105",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 84.97,
+    "price": 86.88,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -758,14 +758,14 @@
   {
     "id": "109",
     "name": "Óleo de Soja Vila Velha 900ml",
-    "price": 8.78,
+    "price": 8.89,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19735_20180502095541_thumb_19735oleo_vila_velha_900ml.jpg",
     "market": "Extrabom"
   },
   {
     "id": "110",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 84.97,
+    "price": 86.88,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -975,7 +975,7 @@
   {
     "id": "140",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 84.97,
+    "price": 86.88,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1073,7 +1073,7 @@
   {
     "id": "154",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 84.97,
+    "price": 86.88,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1352,15 +1352,15 @@
   },
   {
     "id": "194",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nR$ 11,27",
-    "price": 9.39,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\nAproximadamente 1,200kg\nDe: R$ 11,39 Por: R$ 9,59\n\nR$ 7,99/kg\n\nSEM CLUBE\n\nR$ 9,49/kg",
+    "price": 7.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png",
     "market": "Extrabom"
   },
   {
     "id": "195",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nR$ 9,39",
-    "price": 9.39,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\nAproximadamente 1Kg\nDe: R$ 9,79 Por: R$ 7,99\n\nR$ 7,99/kg\n\nSEM CLUBE\n\nR$ 9,79/kg",
+    "price": 7.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg",
     "market": "Extrabom"
   },

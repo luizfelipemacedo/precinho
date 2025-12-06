@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 82.96,
+    "price": 82.56,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -254,7 +254,7 @@
   {
     "id": "37",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
-    "price": 19.9,
+    "price": 14.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg",
     "market": "Extrabom"
   },
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 82.96,
+    "price": 82.56,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -351,7 +351,7 @@
   },
   {
     "id": "51",
-    "name": "Feijão Preto Zuppa Tipo 1 1kg\n\nR$ 3,98\n\nSEM CLUBE\n\nR$ 4,79",
+    "name": "Feijão Preto Zuppa Tipo 1 1kg",
     "price": 3.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg",
     "market": "Extrabom"
@@ -407,7 +407,7 @@
   },
   {
     "id": "59",
-    "name": "Feijão Vermelho Zuppa Tipo 1 1kg\n\nR$ 6,98\n\nSEM CLUBE\n\nR$ 7,98",
+    "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 6.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png",
     "market": "Extrabom"
@@ -428,141 +428,141 @@
   },
   {
     "id": "62",
-    "name": "Café 3 Corações Pouch Extra Forte Leve 500g Pague 475g\n\nR$ 25,18\n\nSEM CLUBE\n\nR$ 27,88",
-    "price": 25.18,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/174497_extrabom_cafes-chas_cafe-3-coracoes-pouch-extra-forte-leve-500g-pague-475g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "63",
-    "name": "Café Cafuso 500G",
-    "price": 27.58,
+    "name": "Café Cafuso 500G\n\nR$ 23,90\n\nSEM CLUBE\n\nR$ 29,90",
+    "price": 23.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "64",
-    "name": "Café Cafuso Extra Forte 500G",
-    "price": 27.58,
+    "id": "63",
+    "name": "Café Cafuso Extra Forte 500G\n\nR$ 23,90\n\nSEM CLUBE\n\nR$ 29,90",
+    "price": 23.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/100480_20200625125831_thumb_100480_Cafe_Cafuso_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "65",
+    "id": "64",
     "name": "Café em Grãos Número Um Sentidos Gourmet 500g",
     "price": 54.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/189134_20240507095434_thumb_Sem_titulo28.png",
     "market": "Extrabom"
   },
   {
-    "id": "66",
+    "id": "65",
     "name": "Café em pó 3 Corações Estrada Real 500g",
     "price": 44.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/157500_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-500g_7.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "67",
+    "id": "66",
     "name": "Café em pó 3 Corações Estrada Real Vácuo 500g",
     "price": 48.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/157499_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-vacuo-500g_4.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "68",
-    "name": "Café em pó 3 Corações Extraforte 500g\n\nR$ 27,98\n\nSEM CLUBE\n\nR$ 30,98",
-    "price": 27.98,
+    "id": "67",
+    "name": "Café em pó 3 Corações Extraforte 500g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 33,60",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7927_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "69",
-    "name": "Café em pó 3 Corações Extraforte Vácuo 500g\n\nR$ 27,98\n\nSEM CLUBE\n\nR$ 30,98",
-    "price": 27.98,
+    "id": "68",
+    "name": "Café em pó 3 Corações Extraforte Vácuo 500g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 33,90",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7943_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "70",
-    "name": "Café em pó 3 Corações Tradicional 500g\n\nR$ 27,98\n\nSEM CLUBE\n\nR$ 30,98",
-    "price": 27.98,
+    "id": "69",
+    "name": "Café em pó 3 Corações Tradicional 500g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 33,60",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g_7.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "71",
-    "name": "Café em pó 3 Corações Vácuo 500g\n\nR$ 27,98\n\nSEM CLUBE\n\nR$ 30,98",
-    "price": 27.98,
+    "id": "70",
+    "name": "Café em pó 3 Corações Vácuo 500g\n\nR$ 30,98\n\nSEM CLUBE\n\nR$ 33,90",
+    "price": 30.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8017_extrabom_cafes-chas_cafe-em-po-3-coracoes-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "71",
     "name": "Café em Pó Fort 500g",
     "price": 32.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
-    "name": "Café Grão 3 Corações Espresso Gourmet 500g\n\nR$ 24,98\n\nSEM CLUBE\n\nR$ 29,98",
-    "price": 24.98,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "74",
+    "id": "72",
     "name": "Café Grão da Roça Extra Forte 500G\n\nR$ 21,90\n\nSEM CLUBE\n\nR$ 25,98",
     "price": 21.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "73",
     "name": "Café Grão da Roça Tradicional 500G\n\nR$ 21,90\n\nSEM CLUBE\n\nR$ 25,98",
     "price": 21.9,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "74",
     "name": "Café Melitta Extra Forte 500G",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "75",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "76",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "77",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "78",
     "name": "Café Melitta Tradicional Vácuo 500G",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg",
     "market": "Extrabom"
   },
   {
+    "id": "79",
+    "name": "Café Meridiano em Grãos Classic 500G",
+    "price": 44.98,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132977_20241022144602_thumb_132977.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Meridiano Extra Forte 500G\n\nR$ 25,78\n\nSEM CLUBE\n\nR$ 26,98",
+    "price": 25.78,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png",
+    "market": "Extrabom"
+  },
+  {
     "id": "81",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 82.96,
+    "price": 82.56,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -603,7 +603,7 @@
   },
   {
     "id": "87",
-    "name": "Açúcar Cristal Orgânico Native 1Kg\n\nR$ 5,99\n\nSEM CLUBE\n\nR$ 7,99",
+    "name": "Açúcar Cristal Orgânico Native 1Kg",
     "price": 5.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10102_20240426094610_thumb_Sem_titulo28.png",
     "market": "Extrabom"
@@ -638,14 +638,14 @@
   },
   {
     "id": "92",
-    "name": "Açúcar Demerara Orgânico Native 1Kg\n\nR$ 6,99\n\nSEM CLUBE\n\nR$ 8,99",
+    "name": "Açúcar Demerara Orgânico Native 1Kg",
     "price": 6.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/10120_20240422104710_thumb_Sem_titulo27.png",
     "market": "Extrabom"
   },
   {
     "id": "93",
-    "name": "Açúcar Demerara União Naturale 1kg\n\nR$ 5,49\n\nSEM CLUBE\n\nR$ 6,49",
+    "name": "Açúcar Demerara União Naturale 1kg",
     "price": 5.49,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/59826_20250716152631_thumb_image__2__removebg_preview.png",
     "market": "Extrabom"
@@ -666,14 +666,14 @@
   },
   {
     "id": "96",
-    "name": "Açúcar Refinado Granulado Doçúcar União 1Kg\n\nR$ 4,98\n\nSEM CLUBE\n\nR$ 5,99",
+    "name": "Açúcar Refinado Granulado Doçúcar União 1Kg",
     "price": 4.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9424_7891910007059.JPG",
     "market": "Extrabom"
   },
   {
     "id": "97",
-    "name": "Açúcar Refinado União 1Kg\n\nR$ 3,99\n\nSEM CLUBE\n\nR$ 4,99",
+    "name": "Açúcar Refinado União 1Kg",
     "price": 3.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/9440_20170913100738_thumb_9440_AcucarRefinadoUniao1kg.jpg",
     "market": "Extrabom"
@@ -716,7 +716,7 @@
   {
     "id": "103",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 82.96,
+    "price": 82.56,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -729,28 +729,28 @@
   },
   {
     "id": "105",
-    "name": "Óleo de Soja ABC 900ml",
-    "price": 8.79,
+    "name": "Óleo de Soja ABC 900ml\n\nR$ 7,98\n\nSEM CLUBE\n\nR$ 8,58",
+    "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/44389_20170420085437_thumb_44389_oleo_soja_refinado_abc_900ml.jpg",
     "market": "Extrabom"
   },
   {
     "id": "106",
-    "name": "Óleo de Soja Coamo PVC 900Ml\n\nR$ 8,48\n\nSEM CLUBE\n\nR$ 8,78",
-    "price": 8.48,
+    "name": "Óleo de Soja Coamo PVC 900Ml\n\nR$ 7,98\n\nSEM CLUBE\n\nR$ 8,58",
+    "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/65639_20201008094536_thumb_65639_OLEO_SOJA_COAMO_900ML.png",
     "market": "Extrabom"
   },
   {
     "id": "107",
-    "name": "Oléo de Soja Concordia Pet 900ML",
-    "price": 8.79,
+    "name": "Oléo de Soja Concordia Pet 900ML\n\nR$ 7,98\n\nSEM CLUBE\n\nR$ 8,58",
+    "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/165062_extrabom_oleo-de-soja_oleo-de-soja-concordia-pet-900ml.jpg",
     "market": "Extrabom"
   },
   {
     "id": "108",
-    "name": "Óleo de Soja Liza 900ml\n\nR$ 8,58\n\nSEM CLUBE\n\nR$ 8,98",
+    "name": "Óleo de Soja Liza 900ml",
     "price": 8.58,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/8958_extrabom_oleos-azeites_oleo-de-soja-liza-900ml_2.jpg",
     "market": "Extrabom"
@@ -764,15 +764,15 @@
   },
   {
     "id": "110",
-    "name": "Óleo de Soja Vila Velha 900ml\n\nR$ 8,48\n\nSEM CLUBE\n\nR$ 8,78",
-    "price": 8.48,
+    "name": "Óleo de Soja Vila Velha 900ml\n\nR$ 7,98\n\nSEM CLUBE\n\nR$ 8,58",
+    "price": 7.98,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/19735_20180502095541_thumb_19735oleo_vila_velha_900ml.jpg",
     "market": "Extrabom"
   },
   {
     "id": "111",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 82.96,
+    "price": 82.56,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -792,8 +792,8 @@
   },
   {
     "id": "114",
-    "name": "Maionese Hellmann's Tradicional 500G",
-    "price": 11.98,
+    "name": "Maionese Hellmann's Tradicional 500G\n\nR$ 8,99\n\nSEM CLUBE\n\nR$ 11,98",
+    "price": 8.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/1049_extrabom_maionese-molhos_maionese-hellmann-s-tradicional-500g_6.jpg",
     "market": "Extrabom"
   },
@@ -954,7 +954,7 @@
   {
     "id": "137",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 82.96,
+    "price": 82.56,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },
@@ -1052,7 +1052,7 @@
   {
     "id": "151",
     "name": "Sujeito à disponibilidade de estoque\nCesta Básica Nossa Cesta Unidade",
-    "price": 82.96,
+    "price": 82.56,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png",
     "market": "Extrabom"
   },

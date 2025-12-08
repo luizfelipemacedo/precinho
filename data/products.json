@@ -1387,23 +1387,23 @@
   },
   {
     "id": "199",
-    "name": "Coxas de Frango Bandeja Sadia 1Kg",
-    "price": 14.99,
-    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/47_extrabom_aves-congeladas_coxas-de-frango-bandeja-sadia-1kg.jpg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "200",
     "name": "Coxinha da Asa de Frango Congelada OI Frango Bandeja 1kg",
     "price": 19.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/167990_20240826161807_thumb_coxa.png",
     "market": "Extrabom"
   },
   {
-    "id": "201",
+    "id": "200",
     "name": "Coxinha da Asa de Frango Congelada Pif Paf Bandeja 1kg",
     "price": 23.99,
     "image": "https://www.extrabom.com.br/uploads/produtos/200x200/3676_20250522171632_thumb_Sem_titulo5.png",
+    "market": "Extrabom"
+  },
+  {
+    "id": "201",
+    "name": "Coxinha da Asa de Frango Congelada Sadia 1kg",
+    "price": 20.9,
+    "image": "https://www.extrabom.com.br/uploads/produtos/200x200/132_extrabom_aves-congeladas_coxinha-da-asa-de-frango-congelada-sadia-1kg.jpg",
     "market": "Extrabom"
   }
 ]

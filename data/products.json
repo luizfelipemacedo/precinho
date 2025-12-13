@@ -92,51 +92,51 @@
   },
   {
     "id": "14",
+    "name": "Leite Longa Vida Itambé Zero Lactose Semidesnatado 1L",
+    "price": 5.39,
+    "image": "media/produtos/200x200/4051_7896051111764.JPG_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "15",
     "name": "Leite Longa Vida Leitíssimo Desnatado 1L",
     "price": 9.99,
     "image": "media/produtos/200x200/62238_20190801172140_thumb_62238.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "15",
+    "id": "16",
     "name": "Leite Longa Vida Leitíssimo Integral 1L",
     "price": 9.99,
     "image": "media/produtos/200x200/4049_leite_longa_vida_leitissimo_integral_1l_.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "16",
+    "id": "17",
     "name": "Leite Longa Vida Molico Desnatado + Pro 1L",
     "price": 8.99,
     "image": "media/produtos/200x200/141387_20200519172718_thumb_Proteinas_FRONT.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "17",
+    "id": "18",
     "name": "Leite Longa Vida Molico Desnatado 1l",
     "price": 7.79,
     "image": "media/produtos/200x200/144375_20200831143703_thumb_LEITE_LV_MOLICO_DESNATADO_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "18",
+    "id": "19",
     "name": "Leite Longa Vida Molico Zero Lactose Desnatado 1l",
     "price": 7.49,
     "image": "media/produtos/200x200/141386_20200918160148_thumb_141386_leite_lv_ninho_semi_desn_zero_lac_1l.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "19",
+    "id": "20",
     "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
     "price": 9.79,
     "image": "media/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "20",
-    "name": "Leite Longa Vida Ninho Integral Vitaminado 1lt",
-    "price": 6.99,
-    "image": "media/produtos/200x200/141384_20200918155839_thumb_141384_LEITE_LV_NINHO_INTEGRAL_VIT_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -289,7 +289,7 @@
   {
     "id": "42",
     "name": "Feijão Carioca Sepé 1kg",
-    "price": 7.98,
+    "price": 7.49,
     "image": "media/produtos/200x200/204043_20251013174752_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
@@ -345,7 +345,7 @@
   {
     "id": "50",
     "name": "Feijão Preto Sepé T1 1kg",
-    "price": 5.98,
+    "price": 5.79,
     "image": "media/produtos/200x200/204042_20251014155524_thumb_image__6.png_.jpeg",
     "market": "Extrabom"
   },
@@ -386,37 +386,37 @@
   },
   {
     "id": "56",
+    "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
+    "price": 8.49,
+    "image": "media/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "57",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 10.98,
     "image": "media/produtos/200x200/9321_7896612700062.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "58",
     "name": "Feijão Vermelho Sepé T1 1kg",
-    "price": 10.98,
+    "price": 9.98,
     "image": "media/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "59",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 6.98,
     "image": "media/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "60",
     "name": "Feijão Carioca Combrasil 1kg",
     "price": 7.99,
     "image": "media/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "60",
-    "name": "Feijão Carioca das Montanhas 1kg",
-    "price": 8.98,
-    "image": "media/produtos/200x200/2938_7898293221966.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -498,65 +498,65 @@
   },
   {
     "id": "72",
-    "name": "Café em pó 3 Corações Vácuo 500g",
-    "price": 30.98,
-    "image": "media/produtos/200x200/8017_extrabom_cafes-chas_cafe-em-po-3-coracoes-vacuo-500g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "73",
     "name": "Café em Pó Fort 500g",
     "price": 32.9,
     "image": "media/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "73",
     "name": "Café Grão 3 Corações Espresso Gourmet 500g",
     "price": 24.98,
     "image": "media/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "74",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "75",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "76",
     "name": "Café Melitta Extra Forte 500G",
     "price": 34.98,
     "image": "media/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "77",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "78",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Melitta Tradicional Vácuo 500G",
+    "price": 34.98,
+    "image": "media/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -744,21 +744,21 @@
   {
     "id": "107",
     "name": "Óleo de Soja ABC 900ml",
-    "price": 7.98,
+    "price": 8.79,
     "image": "media/produtos/200x200/44389_20170420085437_thumb_44389_oleo_soja_refinado_abc_900ml.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "108",
     "name": "Óleo de Soja Coamo PVC 900Ml",
-    "price": 7.98,
+    "price": 8.79,
     "image": "media/produtos/200x200/65639_20201008094536_thumb_65639_OLEO_SOJA_COAMO_900ML.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "109",
     "name": "Oléo de Soja Concordia Pet 900ML",
-    "price": 7.98,
+    "price": 8.79,
     "image": "media/produtos/200x200/165062_extrabom_oleo-de-soja_oleo-de-soja-concordia-pet-900ml.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -779,7 +779,7 @@
   {
     "id": "112",
     "name": "Óleo de Soja Vila Velha 900ml",
-    "price": 7.98,
+    "price": 8.79,
     "image": "media/produtos/200x200/19735_20180502095541_thumb_19735oleo_vila_velha_900ml.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -828,7 +828,7 @@
   {
     "id": "119",
     "name": "Maionese Hellmanns Supreme Squeeze 330g",
-    "price": 19.99,
+    "price": 18.99,
     "image": "media/produtos/200x200/171857_extrabom_maioneses-molhos_maionese-hellmanns-supreme-squeeze-330g.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -981,135 +981,135 @@
   },
   {
     "id": "141",
-    "name": "Farinha de Trigo Número Um 1Kg",
-    "price": 3.29,
-    "image": "media/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "142",
     "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
     "price": 3.29,
     "image": "media/produtos/200x200/58232_20240502144927_thumb_Sem_titulo21.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "143",
+    "id": "142",
     "name": "Farinha de Trigo Regina 1Kg",
     "price": 3.98,
     "image": "media/produtos/200x200/8464_20240502153745_thumb_Sem_titulo25.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "144",
+    "id": "143",
     "name": "Farinha de Trigo Regina Gourmet 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/100462_20240502154204_thumb_Sem_titulo26.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "145",
+    "id": "144",
     "name": "Farinha de Trigo Regina Integral 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/33759_20240502154543_thumb_Sem_titulo27.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "146",
+    "id": "145",
     "name": "Farinha de Trigo Regina para Pizza com Massa Madre 1kg",
     "price": 6.39,
     "image": "media/produtos/200x200/193332_20240502160813_thumb_Sem_titulo28.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "147",
+    "id": "146",
     "name": "Farinha de Trigo Rosa Branca 1kg",
     "price": 3.79,
     "image": "media/produtos/200x200/19733_20241210165650_thumb_Sem_titulo4.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "148",
+    "id": "147",
     "name": "Farinha de Trigo Rosa Branca Premium 1kg",
     "price": 4.98,
     "image": "media/produtos/200x200/100621_20190514131444_thumb_100621FarinhadeTrigoRosaBrancaPremium1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "149",
+    "id": "148",
     "name": "Farinha de Trigo Tia Ofélia Tipo 1 1Kg",
     "price": 3.38,
     "image": "media/produtos/200x200/143057_20230708121339_thumb_ofelia.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "150",
+    "id": "149",
     "name": "Farinha de Trigo Tipo 1 Extra Clara Adria Premium 1kg",
     "price": 3.98,
     "image": "media/produtos/200x200/184652_extrabom_farinhas-farofas_farinha-de-trigo-tipo-1-extra-clara-adria-premium-pacote-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "151",
+    "id": "150",
     "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
     "price": 6.79,
     "image": "media/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "152",
+    "id": "151",
     "name": "Farinha de Trigo com Fermento Rosa Branca 1kg",
     "price": 4.99,
     "image": "media/produtos/200x200/32175_20190514101923_thumb_32175FarinhadeTrigocomFermentoRosaBranca1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "153",
+    "id": "152",
     "name": "Cesta Básica Nossa Cesta Unidade",
     "price": 82.15,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "154",
+    "id": "153",
     "name": "Biscoito Cookie com Gotas de Chocolate Vegano Integral Chocolate Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10242_extrabom_biscoitos_biscoito-cookie-com-gotas-de-chocolate-vegano-integral-chocolate-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "155",
+    "id": "154",
     "name": "Biscoito Cookie Vegano Integral Ameixa e Coco Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10205_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-ameixa-e-coco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "156",
+    "id": "155",
     "name": "Biscoito Cookie Vegano Integral Cappuccino e Avelã Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10217_extrabom_biscoitos_biscoito-cookie-vegano-integral-cappuccino-e-avela-zero-acucar-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "157",
+    "id": "156",
     "name": "Biscoito Cookie Vegano Integral Castanha do Pará Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10042_extrabom_biscoitos_biscoito-cookie-vegano-integral-castanha-do-para-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "158",
+    "id": "157",
     "name": "Biscoito Cookie Vegano Integral Damasco com Chocolate Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10227_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-damasco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "159",
+    "id": "158",
     "name": "Biscoito Leite Maltado Cobertura Chocolate Piraquê 80g",
     "price": 4.39,
     "image": "media/produtos/200x200/149111_extrabom_biscoitos_biscoito-leite-maltado-cobertura-chocolate-piraque-80g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "159",
+    "name": "Biscoito Rosquinha Integral Aveia e Mel Zero Lactose Jasmine 120g",
+    "price": 11.39,
+    "image": "media/produtos/200x200/41019_extrabom_biscoitos_rosquinha-integral-jasmine-aveia-e-mel-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -1339,7 +1339,7 @@
   {
     "id": "192",
     "name": "Coxa e Sobrecoxa de Frango à Passarinho Congelado Sadia 1kg",
-    "price": 21.9,
+    "price": 23.9,
     "image": "media/produtos/200x200/45_extrabom_congelados_coxa-e-sobrecoxa-de-frango-a-passarinho-congelado-sadia-1kg_1.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -1366,30 +1366,30 @@
   },
   {
     "id": "196",
-    "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\n\nAproximadamente 1,7Kg\nR$ 20,38",
-    "price": 11.99,
+    "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\n\nAproximadamente 1,7Kg\nR$ 22,08",
+    "price": 12.99,
     "image": "media/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "197",
-    "name": "Coxa e Sobrecoxa de Frango Congelado Pif Paf Pacote 1,5Kg\n\nAproximadamente 1,5Kg\nR$ 19,49",
-    "price": 12.99,
-    "image": "media/produtos/200x200/3075_20250522164841_thumb_Sem_titulo2.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "198",
     "name": "Coxinha da Asa de Frango Congelada OI Frango Bandeja 1kg",
     "price": 19.99,
     "image": "media/produtos/200x200/167990_20240826161807_thumb_coxa.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "199",
+    "id": "198",
     "name": "Coxinha da Asa de Frango Congelada Pif Paf Bandeja 1kg",
-    "price": 23.99,
+    "price": 21.9,
     "image": "media/produtos/200x200/3676_20250522171632_thumb_Sem_titulo5.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "199",
+    "name": "Coxinha da Asa de Frango Congelada Sadia 1kg",
+    "price": 20.9,
+    "image": "media/produtos/200x200/132_extrabom_aves-congeladas_coxinha-da-asa-de-frango-congelada-sadia-1kg.jpg_.jpeg",
     "market": "Extrabom"
   }
 ]

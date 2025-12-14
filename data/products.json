@@ -135,7 +135,7 @@
   {
     "id": "20",
     "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
-    "price": 9.79,
+    "price": 8.39,
     "image": "media/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -505,23 +505,23 @@
   },
   {
     "id": "73",
-    "name": "Café Grão 3 Corações Espresso Gourmet 500g",
-    "price": 24.98,
-    "image": "media/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "74",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "74",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "75",
+    "name": "Café Grão Melitta Spresso Pouch 500g",
+    "price": 73.9,
+    "image": "media/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -744,42 +744,42 @@
   {
     "id": "107",
     "name": "Óleo de Soja ABC 900ml",
-    "price": 8.79,
+    "price": 8.48,
     "image": "media/produtos/200x200/44389_20170420085437_thumb_44389_oleo_soja_refinado_abc_900ml.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "108",
     "name": "Óleo de Soja Coamo PVC 900Ml",
-    "price": 8.79,
+    "price": 8.48,
     "image": "media/produtos/200x200/65639_20201008094536_thumb_65639_OLEO_SOJA_COAMO_900ML.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "109",
     "name": "Oléo de Soja Concordia Pet 900ML",
-    "price": 8.79,
+    "price": 8.48,
     "image": "media/produtos/200x200/165062_extrabom_oleo-de-soja_oleo-de-soja-concordia-pet-900ml.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "110",
     "name": "Óleo de Soja Liza 900ml",
-    "price": 8.98,
+    "price": 8.58,
     "image": "media/produtos/200x200/8958_extrabom_oleos-azeites_oleo-de-soja-liza-900ml_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "111",
     "name": "Óleo de Soja Soya 900Ml",
-    "price": 8.98,
+    "price": 8.58,
     "image": "media/produtos/200x200/8960_7891107101621.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "112",
     "name": "Óleo de Soja Vila Velha 900ml",
-    "price": 8.79,
+    "price": 8.48,
     "image": "media/produtos/200x200/19735_20180502095541_thumb_19735oleo_vila_velha_900ml.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -981,135 +981,135 @@
   },
   {
     "id": "141",
+    "name": "Farinha de Trigo Número Um 1Kg",
+    "price": 3.29,
+    "image": "media/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "142",
     "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
     "price": 3.29,
     "image": "media/produtos/200x200/58232_20240502144927_thumb_Sem_titulo21.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "142",
+    "id": "143",
     "name": "Farinha de Trigo Regina 1Kg",
     "price": 3.98,
     "image": "media/produtos/200x200/8464_20240502153745_thumb_Sem_titulo25.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "143",
+    "id": "144",
     "name": "Farinha de Trigo Regina Gourmet 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/100462_20240502154204_thumb_Sem_titulo26.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "144",
+    "id": "145",
     "name": "Farinha de Trigo Regina Integral 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/33759_20240502154543_thumb_Sem_titulo27.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "145",
+    "id": "146",
     "name": "Farinha de Trigo Regina para Pizza com Massa Madre 1kg",
     "price": 6.39,
     "image": "media/produtos/200x200/193332_20240502160813_thumb_Sem_titulo28.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "146",
+    "id": "147",
     "name": "Farinha de Trigo Rosa Branca 1kg",
     "price": 3.79,
     "image": "media/produtos/200x200/19733_20241210165650_thumb_Sem_titulo4.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "147",
+    "id": "148",
     "name": "Farinha de Trigo Rosa Branca Premium 1kg",
     "price": 4.98,
     "image": "media/produtos/200x200/100621_20190514131444_thumb_100621FarinhadeTrigoRosaBrancaPremium1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "148",
+    "id": "149",
     "name": "Farinha de Trigo Tia Ofélia Tipo 1 1Kg",
     "price": 3.38,
     "image": "media/produtos/200x200/143057_20230708121339_thumb_ofelia.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "149",
+    "id": "150",
     "name": "Farinha de Trigo Tipo 1 Extra Clara Adria Premium 1kg",
     "price": 3.98,
     "image": "media/produtos/200x200/184652_extrabom_farinhas-farofas_farinha-de-trigo-tipo-1-extra-clara-adria-premium-pacote-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "150",
+    "id": "151",
     "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
     "price": 6.79,
     "image": "media/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "151",
+    "id": "152",
     "name": "Farinha de Trigo com Fermento Rosa Branca 1kg",
     "price": 4.99,
     "image": "media/produtos/200x200/32175_20190514101923_thumb_32175FarinhadeTrigocomFermentoRosaBranca1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "152",
+    "id": "153",
     "name": "Cesta Básica Nossa Cesta Unidade",
     "price": 82.15,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "153",
+    "id": "154",
     "name": "Biscoito Cookie com Gotas de Chocolate Vegano Integral Chocolate Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10242_extrabom_biscoitos_biscoito-cookie-com-gotas-de-chocolate-vegano-integral-chocolate-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "154",
+    "id": "155",
     "name": "Biscoito Cookie Vegano Integral Ameixa e Coco Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10205_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-ameixa-e-coco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "155",
+    "id": "156",
     "name": "Biscoito Cookie Vegano Integral Cappuccino e Avelã Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10217_extrabom_biscoitos_biscoito-cookie-vegano-integral-cappuccino-e-avela-zero-acucar-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "156",
+    "id": "157",
     "name": "Biscoito Cookie Vegano Integral Castanha do Pará Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10042_extrabom_biscoitos_biscoito-cookie-vegano-integral-castanha-do-para-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "157",
+    "id": "158",
     "name": "Biscoito Cookie Vegano Integral Damasco com Chocolate Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10227_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-damasco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "158",
+    "id": "159",
     "name": "Biscoito Leite Maltado Cobertura Chocolate Piraquê 80g",
     "price": 4.39,
     "image": "media/produtos/200x200/149111_extrabom_biscoitos_biscoito-leite-maltado-cobertura-chocolate-piraque-80g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "159",
-    "name": "Biscoito Rosquinha Integral Aveia e Mel Zero Lactose Jasmine 120g",
-    "price": 11.39,
-    "image": "media/produtos/200x200/41019_extrabom_biscoitos_rosquinha-integral-jasmine-aveia-e-mel-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {

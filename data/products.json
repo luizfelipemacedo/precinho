@@ -78,65 +78,65 @@
   },
   {
     "id": "12",
-    "name": "Leite Longa Vida Itambé Zero Lactose Desnatado 1L",
-    "price": 5.99,
-    "image": "media/produtos/200x200/41460_7896051128076.JPG_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "13",
     "name": "Leite Longa Vida Itambé Zero Lactose Integral 1L",
     "price": 6.79,
     "image": "media/produtos/200x200/76245_20190417163959_thumb_76245LeiteLongaVidaItambeNolacIntegral1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "14",
+    "id": "13",
     "name": "Leite Longa Vida Itambé Zero Lactose Semidesnatado 1L",
     "price": 5.39,
     "image": "media/produtos/200x200/4051_7896051111764.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "15",
+    "id": "14",
     "name": "Leite Longa Vida Leitíssimo Desnatado 1L",
     "price": 9.99,
     "image": "media/produtos/200x200/62238_20190801172140_thumb_62238.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "16",
+    "id": "15",
     "name": "Leite Longa Vida Leitíssimo Integral 1L",
     "price": 9.99,
     "image": "media/produtos/200x200/4049_leite_longa_vida_leitissimo_integral_1l_.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "17",
+    "id": "16",
     "name": "Leite Longa Vida Molico Desnatado + Pro 1L",
     "price": 8.99,
     "image": "media/produtos/200x200/141387_20200519172718_thumb_Proteinas_FRONT.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "18",
+    "id": "17",
     "name": "Leite Longa Vida Molico Desnatado 1l",
     "price": 7.79,
     "image": "media/produtos/200x200/144375_20200831143703_thumb_LEITE_LV_MOLICO_DESNATADO_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "19",
+    "id": "18",
     "name": "Leite Longa Vida Molico Zero Lactose Desnatado 1l",
     "price": 7.49,
     "image": "media/produtos/200x200/141386_20200918160148_thumb_141386_leite_lv_ninho_semi_desn_zero_lac_1l.png_.jpeg",
     "market": "Extrabom"
   },
   {
+    "id": "19",
+    "name": "Leite Longa Vida Ninho Integral Vitaminado 1lt",
+    "price": 6.99,
+    "image": "media/produtos/200x200/141384_20200918155839_thumb_141384_LEITE_LV_NINHO_INTEGRAL_VIT_1L.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
     "id": "20",
-    "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
-    "price": 8.39,
-    "image": "media/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg_.jpeg",
+    "name": "Leite Longa Vida Ninho Integral Zero Lactose 1l",
+    "price": 7.39,
+    "image": "media/produtos/200x200/144373_20200907150547_thumb_LEITE_LV_NINHO_INTEGRAL_ZERO_LAC_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -499,7 +499,7 @@
   {
     "id": "72",
     "name": "Café em Pó Fort 500g",
-    "price": 32.9,
+    "price": 27.98,
     "image": "media/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -576,7 +576,7 @@
   {
     "id": "83",
     "name": "Açúcar Cristal Alcon 5Kg",
-    "price": 14.9,
+    "price": 13.98,
     "image": "media/produtos/200x200/39157_acucar_cristal_alcon_5kg.jpg_.jpeg",
     "market": "Extrabom"
   },

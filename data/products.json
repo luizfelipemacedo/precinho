@@ -36,107 +36,107 @@
   },
   {
     "id": "6",
-    "name": "Leite Longa Vida Capel Integral 1L",
-    "price": 3.98,
-    "image": "media/produtos/200x200/4039_7897366700162.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "7",
     "name": "Leite Longa Vida Crescer Pirakids Piracanjuba Zero Lactose Integral 1L",
-    "price": 7.98,
+    "price": 6.79,
     "image": "media/produtos/200x200/64986_extrabom_leites_leite-longa-vida-crescer-pirakids-piracanjuba-zero-lactose-integral-1l_5.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "8",
+    "id": "7",
     "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 4.48,
+    "price": 3.89,
     "image": "media/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "9",
+    "id": "8",
     "name": "Leite Longa Vida Damare Semi Desnatado 1L",
-    "price": 4.48,
+    "price": 3.89,
     "image": "media/produtos/200x200/55760_20220901164735_thumb_Leite_Damare_Semidesnatado.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "10",
+    "id": "9",
     "name": "Leite Longa Vida Itambé Kids Natural Milk Integral 1L",
     "price": 5.99,
     "image": "media/produtos/200x200/99348_20190608103132_thumb_99348LeiteLongaVidaNaturalMilk1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "11",
+    "id": "10",
     "name": "Leite Longa Vida Itambé Premium Dez Vitaminas Integral 1L",
-    "price": 6.39,
+    "price": 6.49,
     "image": "media/produtos/200x200/4059_20240315170107_thumb_Sem_titulo584.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "12",
+    "id": "11",
     "name": "Leite Longa Vida Itambé Zero Lactose Integral 1L",
-    "price": 6.79,
+    "price": 5.79,
     "image": "media/produtos/200x200/76245_20190417163959_thumb_76245LeiteLongaVidaItambeNolacIntegral1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "13",
+    "id": "12",
     "name": "Leite Longa Vida Leitíssimo Desnatado 1L",
     "price": 9.99,
     "image": "media/produtos/200x200/62238_20190801172140_thumb_62238.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "14",
+    "id": "13",
     "name": "Leite Longa Vida Leitíssimo Integral 1L",
     "price": 9.99,
     "image": "media/produtos/200x200/4049_leite_longa_vida_leitissimo_integral_1l_.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "15",
+    "id": "14",
     "name": "Leite Longa Vida Molico Desnatado + Pro 1L",
     "price": 8.99,
     "image": "media/produtos/200x200/141387_20200519172718_thumb_Proteinas_FRONT.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "16",
+    "id": "15",
     "name": "Leite Longa Vida Molico Desnatado 1l",
-    "price": 7.79,
+    "price": 6.98,
     "image": "media/produtos/200x200/144375_20200831143703_thumb_LEITE_LV_MOLICO_DESNATADO_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "17",
+    "id": "16",
     "name": "Leite Longa Vida Molico Zero Lactose Desnatado 1l",
-    "price": 7.49,
+    "price": 6.98,
     "image": "media/produtos/200x200/141386_20200918160148_thumb_141386_leite_lv_ninho_semi_desn_zero_lac_1l.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "18",
+    "id": "17",
     "name": "Leite Longa Vida Ninho Integral Vitaminado 1lt",
-    "price": 6.99,
+    "price": 6.79,
     "image": "media/produtos/200x200/141384_20200918155839_thumb_141384_LEITE_LV_NINHO_INTEGRAL_VIT_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "19",
+    "id": "18",
     "name": "Leite Longa Vida Ninho Integral Zero Lactose 1l",
-    "price": 7.39,
+    "price": 6.79,
     "image": "media/produtos/200x200/144373_20200907150547_thumb_LEITE_LV_NINHO_INTEGRAL_ZERO_LAC_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "20",
+    "id": "19",
     "name": "Leite Longa Vida Ninho Semi Desnatado Vit 1l",
-    "price": 6.98,
+    "price": 6.79,
     "image": "media/produtos/200x200/141385_20200918160010_thumb_141385_LEITE_LV_NINHO_SEMI_DESN_VIT_1L.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "20",
+    "name": "Leite Longa Vida Ninho Semi Desnatado Zero Lac 1l",
+    "price": 6.79,
+    "image": "media/produtos/200x200/144374_20200907150111_thumb_LEITE_LV_NINHO_SEMI_DESN_ZERO_LAC_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -484,79 +484,79 @@
   },
   {
     "id": "70",
-    "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
-    "price": 30.98,
-    "image": "media/produtos/200x200/7943_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-vacuo-500g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "71",
     "name": "Café em pó 3 Corações Tradicional 500g",
     "price": 30.98,
     "image": "media/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g_7.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "71",
     "name": "Café em Pó Fort 500g",
-    "price": 27.98,
+    "price": 32.9,
     "image": "media/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "72",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "73",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "74",
     "name": "Café Grão Melitta Spresso Pouch 500g",
     "price": 73.9,
     "image": "media/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "75",
     "name": "Café Melitta Extra Forte 500G",
     "price": 34.98,
     "image": "media/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "76",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "77",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "78",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Tradicional Vácuo 500G",
     "price": 34.98,
     "image": "media/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Meridiano Extra Forte 500G",
+    "price": 28.9,
+    "image": "media/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png_.jpeg",
     "market": "Extrabom"
   },
   {

@@ -37,7 +37,7 @@
   {
     "id": "6",
     "name": "Leite Longa Vida Capel Integral 1L",
-    "price": 3.98,
+    "price": 3.79,
     "image": "media/produtos/200x200/4039_7897366700162.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -372,51 +372,51 @@
   },
   {
     "id": "54",
+    "name": "Feijão Vermelho Juju Tipo 1 1kg",
+    "price": 9.39,
+    "image": "media/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "55",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
     "price": 8.49,
     "image": "media/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "56",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 8.98,
     "image": "media/produtos/200x200/9321_7896612700062.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "57",
     "name": "Feijão Vermelho Sepé T1 1kg",
     "price": 9.98,
     "image": "media/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "58",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 6.98,
     "image": "media/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "59",
     "name": "Feijão Carioca Combrasil 1kg",
     "price": 7.48,
     "image": "media/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "60",
     "name": "Feijão Carioca das Montanhas 1kg",
     "price": 8.98,
     "image": "media/produtos/200x200/2938_7898293221966.JPG_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "60",
-    "name": "Feijão Carioca Lívia Tipo 1 1kg",
-    "price": 6.49,
-    "image": "media/produtos/200x200/8627_20170921130942_thumb_8627_FeijaoCariocaLiviaTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -1051,65 +1051,65 @@
   },
   {
     "id": "151",
-    "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
-    "price": 6.79,
-    "image": "media/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "152",
     "name": "Farinha de Trigo com Fermento Rosa Branca 1kg",
     "price": 4.99,
     "image": "media/produtos/200x200/32175_20190514101923_thumb_32175FarinhadeTrigocomFermentoRosaBranca1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "153",
+    "id": "152",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
     "price": 81.66,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "154",
+    "id": "153",
     "name": "Biscoito Cookie com Gotas de Chocolate Vegano Integral Chocolate Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10242_extrabom_biscoitos_biscoito-cookie-com-gotas-de-chocolate-vegano-integral-chocolate-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "155",
+    "id": "154",
     "name": "Biscoito Cookie Vegano Integral Ameixa e Coco Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10205_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-ameixa-e-coco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "156",
+    "id": "155",
     "name": "Biscoito Cookie Vegano Integral Cappuccino e Avelã Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10217_extrabom_biscoitos_biscoito-cookie-vegano-integral-cappuccino-e-avela-zero-acucar-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "157",
+    "id": "156",
     "name": "Biscoito Cookie Vegano Integral Castanha do Pará Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10042_extrabom_biscoitos_biscoito-cookie-vegano-integral-castanha-do-para-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "158",
+    "id": "157",
     "name": "Biscoito Cookie Vegano Integral Damasco com Chocolate Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10227_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-damasco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "159",
+    "id": "158",
     "name": "Biscoito Leite Maltado Cobertura Chocolate Piraquê 80g",
     "price": 4.39,
     "image": "media/produtos/200x200/149111_extrabom_biscoitos_biscoito-leite-maltado-cobertura-chocolate-piraque-80g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "159",
+    "name": "Biscoito Rosquinha Integral Aveia e Mel Zero Lactose Jasmine 120g",
+    "price": 11.39,
+    "image": "media/produtos/200x200/41019_extrabom_biscoitos_rosquinha-integral-jasmine-aveia-e-mel-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {

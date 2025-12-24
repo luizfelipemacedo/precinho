@@ -50,93 +50,93 @@
   },
   {
     "id": "8",
-    "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 3.89,
-    "image": "media/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "9",
-    "name": "Leite Longa Vida Damare Semi Desnatado 1L",
-    "price": 3.89,
-    "image": "media/produtos/200x200/55760_20220901164735_thumb_Leite_Damare_Semidesnatado.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "10",
     "name": "Leite Longa Vida Itambé Kids Natural Milk Integral 1L",
     "price": 5.99,
     "image": "media/produtos/200x200/99348_20190608103132_thumb_99348LeiteLongaVidaNaturalMilk1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "11",
+    "id": "9",
     "name": "Leite Longa Vida Itambé Premium Dez Vitaminas Integral 1L",
     "price": 6.49,
     "image": "media/produtos/200x200/4059_20240315170107_thumb_Sem_titulo584.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "12",
-    "name": "Leite Longa Vida Itambé Zero Lactose Integral 1L",
-    "price": 5.79,
-    "image": "media/produtos/200x200/76245_20190417163959_thumb_76245LeiteLongaVidaItambeNolacIntegral1L.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "13",
+    "id": "10",
     "name": "Leite Longa Vida Leitíssimo Desnatado 1L",
     "price": 9.99,
     "image": "media/produtos/200x200/62238_20190801172140_thumb_62238.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "14",
+    "id": "11",
     "name": "Leite Longa Vida Leitíssimo Integral 1L",
     "price": 9.99,
     "image": "media/produtos/200x200/4049_leite_longa_vida_leitissimo_integral_1l_.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "15",
+    "id": "12",
     "name": "Leite Longa Vida Molico Desnatado + Pro 1L",
     "price": 8.99,
     "image": "media/produtos/200x200/141387_20200519172718_thumb_Proteinas_FRONT.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "16",
+    "id": "13",
     "name": "Leite Longa Vida Molico Desnatado 1l",
     "price": 6.98,
     "image": "media/produtos/200x200/144375_20200831143703_thumb_LEITE_LV_MOLICO_DESNATADO_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "17",
+    "id": "14",
     "name": "Leite Longa Vida Molico Zero Lactose Desnatado 1l",
     "price": 6.98,
     "image": "media/produtos/200x200/141386_20200918160148_thumb_141386_leite_lv_ninho_semi_desn_zero_lac_1l.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "18",
+    "id": "15",
     "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
     "price": 8.39,
     "image": "media/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "19",
+    "id": "16",
     "name": "Leite Longa Vida Ninho Integral Vitaminado 1lt",
     "price": 6.79,
     "image": "media/produtos/200x200/141384_20200918155839_thumb_141384_LEITE_LV_NINHO_INTEGRAL_VIT_1L.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "20",
+    "id": "17",
     "name": "Leite Longa Vida Ninho Integral Zero Lactose 1l",
     "price": 6.79,
     "image": "media/produtos/200x200/144373_20200907150547_thumb_LEITE_LV_NINHO_INTEGRAL_ZERO_LAC_1L.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "18",
+    "name": "Leite Longa Vida Ninho Semi Desnatado Vit 1l",
+    "price": 6.79,
+    "image": "media/produtos/200x200/141385_20200918160010_thumb_141385_LEITE_LV_NINHO_SEMI_DESN_VIT_1L.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "19",
+    "name": "Leite Longa Vida Ninho Semi Desnatado Zero Lac 1l",
+    "price": 6.79,
+    "image": "media/produtos/200x200/144374_20200907150111_thumb_LEITE_LV_NINHO_SEMI_DESN_ZERO_LAC_1L.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "20",
+    "name": "Leite Longa Vida Piracanjuba A2A2 Semidesnatado 1L",
+    "price": 7.98,
+    "image": "media/produtos/200x200/174232_20231002160508_thumb_Sem_titulo440.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -204,51 +204,51 @@
   },
   {
     "id": "30",
-    "name": "Arroz Integral Rampinelli 1kg",
-    "price": 3.99,
-    "image": "media/produtos/200x200/95155_20180821135102_thumb_95155ArrozIntegralRampinelli1kg1.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "31",
     "name": "Arroz Integral Tio João 1Kg",
     "price": 5.98,
     "image": "media/produtos/200x200/9527_20190412103138_thumb_9527ArrozIntegralTioJoao1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "32",
+    "id": "31",
     "name": "Arroz Minaminai Azuma 1kg",
     "price": 25.9,
     "image": "media/produtos/200x200/49786_20200303145011_thumb_Arroz_Minaminai_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "33",
+    "id": "32",
     "name": "Arroz Parboilizado Prato Fino 1kg",
     "price": 5.99,
     "image": "media/produtos/200x200/99391_20250911155225_thumb_PACKSHOT_PF_1KG_PARBO.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "34",
+    "id": "33",
     "name": "Arroz Prato Fino Tipo 1 2kg",
     "price": 11.99,
     "image": "media/produtos/200x200/8123_20251014164419_thumb_image__17.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "35",
+    "id": "34",
     "name": "Arroz Prato Fino Tipo 1 5kg",
     "price": 29.98,
     "image": "media/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
+    "id": "35",
+    "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
+    "price": 14.98,
+    "image": "media/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
     "id": "36",
-    "name": "Arroz Rampinelli Tipo 1 Parboilizado 5kg",
-    "price": 15.98,
-    "image": "media/produtos/200x200/7800_20250326170832_thumb_Sem_titulo3.png_.jpeg",
+    "name": "Arroz Saboroso Tipo 1 2kg",
+    "price": 6.49,
+    "image": "media/produtos/200x200/172987_20220819154506_thumb_Arroz_Saboroso_5kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -309,114 +309,114 @@
   },
   {
     "id": "45",
+    "name": "Feijão Fradinho Nico Tipo 1 kg",
+    "price": 7.79,
+    "image": "media/produtos/200x200/107919_20210126174137_thumb_Feijao_Fradinho_Nico_Tipo_1_kg.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "46",
     "name": "Feijão Preto Combrasil Tipo 1 1kg",
     "price": 4.89,
     "image": "media/produtos/200x200/9071_20250625171600_thumb_Sem_titulo6.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "46",
+    "id": "47",
     "name": "Feijão Preto Juju Tipo 1 1kg",
     "price": 4.98,
     "image": "media/produtos/200x200/85565_20210204152652_thumb_85565_Feijao_Preto_Juju_Tipo_1_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "47",
+    "id": "48",
     "name": "Feijão Preto Lívia Tipo 1 1kg",
     "price": 4.98,
     "image": "media/produtos/200x200/201286_20250528164943_thumb_image__57.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "48",
+    "id": "49",
+    "name": "Feijão Preto Nico Tipo 1 1Kg",
+    "price": 3.98,
+    "image": "media/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "50",
     "name": "Feijão Preto Ranchinho 1kg",
     "price": 4.98,
     "image": "media/produtos/200x200/9081_7896612700055.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "49",
+    "id": "51",
     "name": "Feijão Preto Sepé T1 1kg",
     "price": 5.79,
     "image": "media/produtos/200x200/204042_20251014155524_thumb_image__6.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "50",
+    "id": "52",
     "name": "Feijão Preto Zuppa Tipo 1 1kg",
     "price": 3.98,
     "image": "media/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "51",
+    "id": "53",
     "name": "Feijão Rajado Nico Tipo 1 1Kg",
     "price": 10.98,
     "image": "media/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "52",
+    "id": "54",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
     "price": 8.98,
     "image": "media/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "53",
+    "id": "55",
     "name": "Feijão Vermelho das Lorenção 1Kg",
     "price": 10.79,
     "image": "media/produtos/200x200/2911_7898293221942.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "54",
+    "id": "56",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
     "price": 9.39,
     "image": "media/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "57",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
     "price": 8.49,
     "image": "media/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "58",
     "name": "Feijão Vermelho Ranchinho 1Kg",
-    "price": 8.98,
+    "price": 10.98,
     "image": "media/produtos/200x200/9321_7896612700062.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "59",
     "name": "Feijão Vermelho Sepé T1 1kg",
     "price": 9.98,
     "image": "media/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "60",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 6.98,
     "image": "media/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "59",
-    "name": "Feijão Carioca Combrasil 1kg",
-    "price": 7.48,
-    "image": "media/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "60",
-    "name": "Feijão Carioca das Montanhas 1kg",
-    "price": 8.98,
-    "image": "media/produtos/200x200/2938_7898293221966.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -464,14 +464,14 @@
   {
     "id": "67",
     "name": "Café em pó 3 Corações Estrada Real 500g",
-    "price": 44.98,
+    "price": 39.9,
     "image": "media/produtos/200x200/157500_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-500g_7.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "68",
     "name": "Café em pó 3 Corações Estrada Real Vácuo 500g",
-    "price": 48.98,
+    "price": 39.9,
     "image": "media/produtos/200x200/157499_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-vacuo-500g_4.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -491,72 +491,72 @@
   },
   {
     "id": "71",
+    "name": "Café em pó 3 Corações Vácuo 500g",
+    "price": 34.98,
+    "image": "media/produtos/200x200/8017_extrabom_cafes-chas_cafe-em-po-3-coracoes-vacuo-500g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "72",
     "name": "Café em Pó Fort 500g",
     "price": 32.9,
     "image": "media/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "73",
+    "name": "Café Grão 3 Corações Espresso Gourmet 500g",
+    "price": 69.9,
+    "image": "media/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "74",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "75",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "76",
     "name": "Café Grão Melitta Spresso Pouch 500g",
     "price": 73.9,
     "image": "media/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "77",
     "name": "Café Melitta Extra Forte 500G",
     "price": 34.98,
     "image": "media/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "78",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "79",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "80",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "79",
-    "name": "Café Melitta Tradicional Vácuo 500G",
-    "price": 34.98,
-    "image": "media/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "80",
-    "name": "Café Meridiano Extra Forte 500G",
-    "price": 24.78,
-    "image": "media/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -765,7 +765,7 @@
   {
     "id": "110",
     "name": "Óleo de Soja Liza 900ml",
-    "price": 7.98,
+    "price": 8.58,
     "image": "media/produtos/200x200/8958_extrabom_oleos-azeites_oleo-de-soja-liza-900ml_2.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -794,7 +794,7 @@
     "id": "114",
     "name": "Maionese Hellmann's Tradicional 335G",
     "price": 15.99,
-    "image": "media/produtos/200x200/926_extrabom_maionese-molhos_maionese-hellmann-s-tradicional-335g_2.jpg_.jpeg",
+    "image": "media/produtos/200x200/926_extrabom_maionese-molhos_maionese-hellmann-s-tradicional-335g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -862,534 +862,506 @@
   },
   {
     "id": "124",
-    "name": "Farinha de Mandioca Amarela Juju 1kg",
-    "price": 6.49,
-    "image": "media/produtos/200x200/85568_20220523120408_thumb_85568_FARINHA_MAND_AMAR_JUJU_1KG_removebg_preview.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "125",
-    "name": "Farinha de Mandioca Amarela Juparanã 1kg",
-    "price": 6.99,
-    "image": "media/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "126",
     "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/173044_20220819154652_thumb_Farinha_Amarela_Zuppa_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "127",
+    "id": "125",
     "name": "Farinha de Mandioca Branca Juju 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/85567_20191010164351_thumb_Farinha_de_Mandioca_Branca_Juju_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "128",
+    "id": "126",
     "name": "Farinha de Mandioca Branca Juparana 1kg",
     "price": 5.39,
     "image": "media/produtos/200x200/83260_20190226104522_thumb_83260FarinhadeMandiocaBrancaJuparana1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "129",
+    "id": "127",
     "name": "Farinha de Mandioca Dinda 1Kg",
     "price": 3.98,
     "image": "media/produtos/200x200/8447_farinha_de_mandioca_dinda_1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "130",
+    "id": "128",
     "name": "Farinha de Mandioca Leste 1Kg",
     "price": 5.98,
     "image": "media/produtos/200x200/8457_7896010300192.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "131",
+    "id": "129",
     "name": "Farinha de Mandioca Leste Torrada 500G",
     "price": 4.19,
     "image": "media/produtos/200x200/95684_20240924140845_thumb_Farinha_de_Mandioca_Leste_Torrada_500G.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "132",
+    "id": "130",
     "name": "Farinha de Mandioca Torrada Monsil 1Kg",
     "price": 5.98,
     "image": "media/produtos/200x200/8479_7896035911168.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "133",
-    "name": "Farinha de Mandioca Torrado Japurana 1kg",
-    "price": 6.98,
-    "image": "media/produtos/200x200/83263_20190130150417_thumb_83263FarinhadeMandiocaTorradoJapurana1kg.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "134",
+    "id": "131",
     "name": "Farinha de Mandioca Amarela das Montanhas 1kg",
     "price": 10.39,
     "image": "media/produtos/200x200/2955_7896137894055.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "135",
-    "name": "Farinha de Mandioca Amarelinha da Bahia Leste 1kg",
-    "price": 6.98,
-    "image": "media/produtos/200x200/8391_20170527110859_thumb_8391_FarinhadeMandiocaAmarelinhadaBahiaLeste1kg.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "136",
+    "id": "132",
     "name": "Farinha de Mandioca Branca das Montanhas 1kg",
     "price": 9.79,
     "image": "media/produtos/200x200/2924_7898293221928.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "137",
+    "id": "133",
     "name": "Farinha de Mandioca Branca Nico 1kg",
     "price": 4.79,
     "image": "media/produtos/200x200/8425_20170921125304_thumb_8425_FarinhadeMandiocaBrancaNico1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "138",
+    "id": "134",
     "name": "Farinha de Mandioca Torrada das Montanhas 1kg",
     "price": 9.79,
     "image": "media/produtos/200x200/2981_7898137890365.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "139",
+    "id": "135",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
     "price": 81.66,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "140",
+    "id": "136",
     "name": "Farinha de Trigo com Fermento Número Um 1Kg",
     "price": 5.99,
     "image": "media/produtos/200x200/8448_20240502153350_thumb_Sem_titulo24.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "141",
+    "id": "137",
     "name": "Farinha de Trigo Número Um 1Kg",
     "price": 3.29,
     "image": "media/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "142",
+    "id": "138",
     "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
     "price": 3.29,
     "image": "media/produtos/200x200/58232_20240502144927_thumb_Sem_titulo21.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "143",
+    "id": "139",
     "name": "Farinha de Trigo Regina 1Kg",
     "price": 3.98,
     "image": "media/produtos/200x200/8464_20240502153745_thumb_Sem_titulo25.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "144",
+    "id": "140",
     "name": "Farinha de Trigo Regina Gourmet 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/100462_20240502154204_thumb_Sem_titulo26.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "145",
+    "id": "141",
     "name": "Farinha de Trigo Regina Integral 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/33759_20240502154543_thumb_Sem_titulo27.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "146",
+    "id": "142",
     "name": "Farinha de Trigo Regina para Pizza com Massa Madre 1kg",
     "price": 6.39,
     "image": "media/produtos/200x200/193332_20240502160813_thumb_Sem_titulo28.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "147",
+    "id": "143",
     "name": "Farinha de Trigo Rosa Branca 1kg",
     "price": 3.79,
     "image": "media/produtos/200x200/19733_20241210165650_thumb_Sem_titulo4.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "148",
+    "id": "144",
     "name": "Farinha de Trigo Rosa Branca Premium 1kg",
     "price": 4.98,
     "image": "media/produtos/200x200/100621_20190514131444_thumb_100621FarinhadeTrigoRosaBrancaPremium1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "149",
+    "id": "145",
     "name": "Farinha de Trigo Tia Ofélia Tipo 1 1Kg",
     "price": 3.38,
     "image": "media/produtos/200x200/143057_20230708121339_thumb_ofelia.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "150",
+    "id": "146",
     "name": "Farinha de Trigo Tipo 1 Extra Clara Adria Premium 1kg",
-    "price": 3.98,
+    "price": 3.29,
     "image": "media/produtos/200x200/184652_extrabom_farinhas-farofas_farinha-de-trigo-tipo-1-extra-clara-adria-premium-pacote-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "151",
+    "id": "147",
+    "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
+    "price": 6.79,
+    "image": "media/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "148",
     "name": "Farinha de Trigo com Fermento Rosa Branca 1kg",
     "price": 4.99,
     "image": "media/produtos/200x200/32175_20190514101923_thumb_32175FarinhadeTrigocomFermentoRosaBranca1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "152",
+    "id": "149",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
     "price": 81.66,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "153",
+    "id": "150",
     "name": "Biscoito Cookie com Gotas de Chocolate Vegano Integral Chocolate Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10242_extrabom_biscoitos_biscoito-cookie-com-gotas-de-chocolate-vegano-integral-chocolate-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "154",
+    "id": "151",
     "name": "Biscoito Cookie Vegano Integral Ameixa e Coco Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10205_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-ameixa-e-coco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "155",
+    "id": "152",
     "name": "Biscoito Cookie Vegano Integral Cappuccino e Avelã Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10217_extrabom_biscoitos_biscoito-cookie-vegano-integral-cappuccino-e-avela-zero-acucar-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "156",
+    "id": "153",
     "name": "Biscoito Cookie Vegano Integral Castanha do Pará Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10042_extrabom_biscoitos_biscoito-cookie-vegano-integral-castanha-do-para-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "157",
+    "id": "154",
     "name": "Biscoito Cookie Vegano Integral Damasco com Chocolate Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10227_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-damasco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "158",
+    "id": "155",
     "name": "Biscoito Leite Maltado Cobertura Chocolate Piraquê 80g",
     "price": 4.39,
     "image": "media/produtos/200x200/149111_extrabom_biscoitos_biscoito-leite-maltado-cobertura-chocolate-piraque-80g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "159",
-    "name": "Biscoito Rosquinha Integral Aveia e Mel Zero Lactose Jasmine 120g",
-    "price": 11.39,
-    "image": "media/produtos/200x200/41019_extrabom_biscoitos_rosquinha-integral-jasmine-aveia-e-mel-120g_2.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "160",
+    "id": "156",
     "name": "Macarrão Instantâneo Cup Noodles Bolonhesa 72G",
     "price": 4.99,
     "image": "media/produtos/200x200/101535_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-bolonhesa-72g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "161",
+    "id": "157",
     "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g",
     "price": 4.99,
     "image": "media/produtos/200x200/101537_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-carne-defumada-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "162",
+    "id": "158",
     "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G",
     "price": 4.99,
     "image": "media/produtos/200x200/101536_extrabom_massas_macarrao-instantaneo-cup-noodles-cheddar-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "163",
+    "id": "159",
     "name": "Macarrão Instantâneo Cup Noodles Costelinha com Molho de Churrasco 68g",
     "price": 4.99,
     "image": "media/produtos/200x200/101539_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-costelinha-com-molho-de-churrasco-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "164",
+    "id": "160",
     "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g",
     "price": 4.99,
     "image": "media/produtos/200x200/101904_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-frango-teriyaki-72g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "165",
+    "id": "161",
     "name": "Macarrão Instantâneo Cup Noodles Frutos do Mar 65g",
     "price": 4.99,
     "image": "media/produtos/200x200/101534_extrabom_massas_macarrao-instantaneo-cup-noodles-frutos-do-mar-65g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "166",
+    "id": "162",
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g",
     "price": 4.99,
     "image": "media/produtos/200x200/101538_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "167",
+    "id": "163",
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira Picante 68g",
     "price": 4.99,
     "image": "media/produtos/200x200/101540_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-picante-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "168",
+    "id": "164",
     "name": "Macarrão Instantâneo Cup Noodles Nacho 68g",
     "price": 4.99,
     "image": "media/produtos/200x200/201258_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-nacho-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "169",
+    "id": "165",
     "name": "Macarrão Instantâneo Cup Noodles Parmegiana 68g",
     "price": 4.99,
     "image": "media/produtos/200x200/202605_20250527120215_thumb_image__85.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "170",
+    "id": "166",
     "name": "Macarrão Instantâneo Cup Noodles Yakissoba 70g",
     "price": 4.99,
     "image": "media/produtos/200x200/105385_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-yakissoba-70g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "171",
+    "id": "167",
     "name": "Macarrão Instantâneo de Arroz sem Glúten Karui Carne 78g",
     "price": 3.79,
     "image": "media/produtos/200x200/201444_extrabom_macarrao-instantaneo-de-arroz-sem-gluten-karui-carne-78g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "172",
+    "id": "168",
     "name": "Macarrão Instantâneo de Arroz sem Glúten Karui Galinha 78g",
     "price": 3.79,
     "image": "media/produtos/200x200/201447_extrabom_massas-instantaneas_macarrao-instantaneo-de-arroz-sem-gluten-karui-galinha-78g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "173",
+    "id": "169",
     "name": "Macarrão Instantâneo de Arroz sem Glúten Karui Galinha Caipira 78g",
     "price": 3.79,
     "image": "media/produtos/200x200/201445_extrabom_massas-instantaneas_macarrao-instantaneo-de-arroz-sem-gluten-karui-galinha-caipira-78g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "174",
+    "id": "170",
     "name": "Macarrão Instantâneo de Arroz sem Glúten Karui Legumes 78g",
     "price": 3.79,
     "image": "media/produtos/200x200/201446_extrabom_massas-instantaneas_macarrao-instantaneo-de-arroz-sem-gluten-karui-legumes-78g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "175",
+    "id": "171",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Bacon 85G",
     "price": 2.89,
     "image": "media/produtos/200x200/8780_20171106150821_thumb_8780_MacarraoInstantaneoLamenNissinMiojoBacon85g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "176",
+    "id": "172",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Calabresa Picante 85g",
     "price": 2.89,
     "image": "media/produtos/200x200/206563_20250825112219_thumb_image__33.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "177",
+    "id": "173",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne 85G",
     "price": 2.89,
     "image": "media/produtos/200x200/8764_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-carne-85g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "178",
+    "id": "174",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne com Tomate 85G",
     "price": 2.89,
     "image": "media/produtos/200x200/8808_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-carne-com-tomate-85g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "179",
+    "id": "175",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne Picante 85g",
     "price": 2.89,
     "image": "media/produtos/200x200/206625_20250825112646_thumb_image__35.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "180",
-    "name": "Frango com Miúdos Congelado Oi Frango Kg\n\nAproximadamente 3kg\nR$ 38,97",
-    "price": 12.99,
-    "image": "media/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "181",
+    "id": "176",
     "name": "Asa Frango Congelada Uniaves Pacote 1,5Kg\n\nAproximadamente 1,5Kg\nR$ 23,99",
     "price": 15.99,
     "image": "media/produtos/200x200/3111_20170711131335_thumb_3111_AsaFrangoUniaves.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "182",
+    "id": "177",
     "name": "Big Chicken frango tradicional 1kg Perdigão",
     "price": 29.9,
     "image": "media/produtos/200x200/3794_extrabom_congelados_big-chicken-frango-tradicional-1kg-perdigao_1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "183",
+    "id": "178",
     "name": "Coração de Frango Congelado Aurora Bandeja 1kg",
     "price": 31.9,
     "image": "media/produtos/200x200/197595_20240712101700_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "184",
+    "id": "179",
     "name": "Coração de Frango Congelado Oi Frango Bandeja 1kg",
     "price": 40.99,
     "image": "media/produtos/200x200/167988_20211223110221_thumb_167988_Coracao_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "185",
+    "id": "180",
     "name": "CORAÇAO DE FRANGO PIF PAF BANDEJA 1KG",
     "price": 49.9,
     "image": "media/produtos/200x200/3766_20250522173337_thumb_Sem_titulo1.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "186",
+    "id": "181",
     "name": "Coração de Frango Sadia 1kg",
     "price": 37.9,
     "image": "media/produtos/200x200/133_extrabom_aves-congeladas_coracao-de-frango-sadia-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "187",
+    "id": "182",
     "name": "Coxa com Sobrecoxa de Frango Congelado Temperado Perdigão Chester Nabrasa Embalagem 1,5kg\n\nAproximadamente 1,5kg\nDe: R$ 41,22 Por: R$ 33,72",
     "price": 22.48,
     "image": "media/produtos/200x200/200950_20241209135521_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "188",
+    "id": "183",
     "name": "Coxa de Frango Congelada Oi Frango 1Kg",
     "price": 14.99,
     "image": "media/produtos/200x200/167989_20220218152655_thumb_167989_COXAS_FRANGO_CONG_OI_FGO_BDJ_1KG_removebg_preview.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "189",
+    "id": "184",
     "name": "Coxa de frango congelada Sadia 1kg",
     "price": 12.99,
     "image": "media/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "190",
-    "name": "Coxa de Frango Congelado Pif Paf IQF 1kg",
-    "price": 13.99,
-    "image": "media/produtos/200x200/166488_20251119103214_thumb_image__24.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "191",
+    "id": "185",
     "name": "Coxa de Frango Temperado Assa Fácil Perdigão 1,2kg",
     "price": 18.99,
     "image": "media/produtos/200x200/59721_20200717142040_thumb_59721Coxa_de_Frango_Temperado_Assa_Facil_Perdigao_1_2kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "192",
+    "id": "186",
     "name": "Coxa de Frango Uniaves Pacote 1,2kg\n\nAproximadamente 1,200Kg\nR$ 15,59",
     "price": 12.99,
     "image": "media/produtos/200x200/138369_20240925094005_thumb_Sem_titulo27.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "193",
+    "id": "187",
     "name": "Coxa e Sobrecoxa de Frango à Passarinho Congelado Sadia 1kg",
     "price": 23.9,
     "image": "media/produtos/200x200/45_extrabom_congelados_coxa-e-sobrecoxa-de-frango-a-passarinho-congelado-sadia-1kg_1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "194",
+    "id": "188",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\n\nAproximadamente 1,200kg\nR$ 11,99",
     "price": 9.99,
     "image": "media/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "195",
+    "id": "189",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\n\nAproximadamente 1Kg\nR$ 8,79",
     "price": 8.79,
     "image": "media/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "196",
+    "id": "190",
     "name": "Coxa E Sobrecoxa De Frango Congelada Sem Osso Sadia 1Kg Bandeja",
     "price": 24.9,
     "image": "media/produtos/200x200/24561_extrabom_aves-congeladas_coxa-e-sobrecoxa-desossada-sadia-bandeja-1kg_1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "197",
+    "id": "191",
     "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\n\nAproximadamente 1,7Kg\nR$ 22,08",
     "price": 12.99,
     "image": "media/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "198",
+    "id": "192",
     "name": "Coxa e Sobrecoxa de Frango Congelado Pif Paf Pacote 1,5Kg\n\nAproximadamente 1,5Kg\nR$ 19,49",
     "price": 12.99,
     "image": "media/produtos/200x200/3075_20250522164841_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "199",
+    "id": "193",
+    "name": "Coxa Frango Pif Paf Bandeja 1Kg",
+    "price": 12.99,
+    "image": "frontend/img/no-image-200x200.png?v=2_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "194",
     "name": "Coxas de Frango Bandeja Sadia 1Kg",
     "price": 14.99,
     "image": "media/produtos/200x200/47_extrabom_aves-congeladas_coxas-de-frango-bandeja-sadia-1kg.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "195",
+    "name": "Coxinha da Asa de Frango Aurora 1kg",
+    "price": 22.9,
+    "image": "media/produtos/200x200/98592_20240722172026_thumb_Sem_titulo17.png_.jpeg",
     "market": "Extrabom"
   }
 ]

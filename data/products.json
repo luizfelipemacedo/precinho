@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 80.07,
+    "price": 79.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 80.07,
+    "price": 79.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -428,141 +428,141 @@
   },
   {
     "id": "62",
-    "name": "Café 3 Corações Pouch Tradicional Leve 500g Pague 475g",
-    "price": 27.9,
-    "image": "media/produtos/200x200/174498_extrabom_cafes-chas_cafe-3-coracoes-pouch-tradicional-leve-500g-pague-475g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "63",
     "name": "Café Cafuso 500G",
     "price": 27.58,
     "image": "media/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "64",
+    "id": "63",
     "name": "Café Cafuso Extra Forte 500G",
     "price": 27.58,
     "image": "media/produtos/200x200/100480_20200625125831_thumb_100480_Cafe_Cafuso_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "65",
+    "id": "64",
     "name": "Café em Grãos Número Um Sentidos Gourmet 500g",
     "price": 46.99,
     "image": "media/produtos/200x200/189134_20240507095434_thumb_Sem_titulo28.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "66",
+    "id": "65",
     "name": "Café em pó 3 Corações Estrada Real 500g",
     "price": 44.98,
     "image": "media/produtos/200x200/157500_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-500g_7.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "67",
+    "id": "66",
     "name": "Café em pó 3 Corações Estrada Real Vácuo 500g",
     "price": 48.98,
     "image": "media/produtos/200x200/157499_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-vacuo-500g_4.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "68",
+    "id": "67",
     "name": "Café em pó 3 Corações Extraforte 500g",
     "price": 28.9,
     "image": "media/produtos/200x200/7927_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "69",
+    "id": "68",
     "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
     "price": 28.9,
     "image": "media/produtos/200x200/7943_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-vacuo-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "70",
+    "id": "69",
     "name": "Café em pó 3 Corações Tradicional 500g",
     "price": 28.9,
     "image": "media/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g_7.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "71",
+    "id": "70",
     "name": "Café em pó 3 Corações Vácuo 500g",
     "price": 28.9,
     "image": "media/produtos/200x200/8017_extrabom_cafes-chas_cafe-em-po-3-coracoes-vacuo-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "71",
     "name": "Café em Pó Fort 500g",
     "price": 32.9,
     "image": "media/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "72",
     "name": "Café Grão 3 Corações Espresso Gourmet 500g",
     "price": 24.98,
     "image": "media/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "73",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "74",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 24.98,
     "image": "media/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "75",
     "name": "Café Grão Melitta Spresso Pouch 500g",
     "price": 73.9,
     "image": "media/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "76",
     "name": "Café Melitta Extra Forte 500G",
     "price": 34.98,
     "image": "media/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "77",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "78",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
+    "id": "80",
+    "name": "Café Melitta Tradicional Vácuo 500G",
+    "price": 27.8,
+    "image": "media/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
     "id": "81",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 80.07,
+    "price": 79.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -723,7 +723,7 @@
   {
     "id": "104",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 80.07,
+    "price": 79.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -779,7 +779,7 @@
   {
     "id": "112",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 80.07,
+    "price": 79.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -968,7 +968,7 @@
   {
     "id": "139",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 80.07,
+    "price": 79.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -989,7 +989,7 @@
   {
     "id": "142",
     "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
-    "price": 3.69,
+    "price": 3.29,
     "image": "media/produtos/200x200/58232_20240502144927_thumb_Sem_titulo21.png_.jpeg",
     "market": "Extrabom"
   },
@@ -1066,7 +1066,7 @@
   {
     "id": "153",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 80.07,
+    "price": 79.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -1282,58 +1282,58 @@
   },
   {
     "id": "184",
+    "name": "Coração de Frango Congelado Aurora Bandeja 1kg",
+    "price": 31.9,
+    "image": "media/produtos/200x200/197595_20240712101700_thumb_Sem_titulo2.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "185",
     "name": "Coração de Frango Congelado Oi Frango Bandeja 1kg",
     "price": 40.99,
     "image": "media/produtos/200x200/167988_20211223110221_thumb_167988_Coracao_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "185",
+    "id": "186",
     "name": "CORAÇAO DE FRANGO PIF PAF BANDEJA 1KG",
     "price": 49.9,
     "image": "media/produtos/200x200/3766_20250522173337_thumb_Sem_titulo1.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "186",
+    "id": "187",
     "name": "Coração de Frango Sadia 1kg",
     "price": 37.9,
     "image": "media/produtos/200x200/133_extrabom_aves-congeladas_coracao-de-frango-sadia-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "187",
+    "id": "188",
     "name": "Coxa com Sobrecoxa de Frango Congelado Temperado Perdigão Chester Nabrasa Embalagem 1,5kg\n\nAproximadamente 1,5kg\nDe: R$ 43,35 Por: R$ 29,97",
     "price": 19.98,
     "image": "media/produtos/200x200/200950_20241209135521_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "188",
+    "id": "189",
     "name": "Coxa de Frango Congelada Oi Frango 1Kg",
     "price": 14.99,
     "image": "media/produtos/200x200/167989_20220218152655_thumb_167989_COXAS_FRANGO_CONG_OI_FGO_BDJ_1KG_removebg_preview.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "189",
+    "id": "190",
     "name": "Coxa de frango congelada Sadia 1kg",
     "price": 14.99,
     "image": "media/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "190",
+    "id": "191",
     "name": "Coxa de Frango Congelado Pif Paf IQF 1kg",
     "price": 13.99,
     "image": "media/produtos/200x200/166488_20251119103214_thumb_image__24.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "191",
-    "name": "Coxa de Frango Temperado Assa Fácil Perdigão 1,2kg",
-    "price": 18.99,
-    "image": "media/produtos/200x200/59721_20200717142040_thumb_59721Coxa_de_Frango_Temperado_Assa_Facil_Perdigao_1_2kg.png_.jpeg",
     "market": "Extrabom"
   },
   {

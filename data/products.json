@@ -246,37 +246,37 @@
   },
   {
     "id": "36",
+    "name": "Arroz Prato Fino Tipo 1 5kg",
+    "price": 25.9,
+    "image": "media/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "37",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
     "price": 14.98,
     "image": "media/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "37",
+    "id": "38",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 5kg",
     "price": 15.98,
     "image": "media/produtos/200x200/7800_20250326170832_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "38",
+    "id": "39",
     "name": "Arroz Saboroso TP1 5Kg",
     "price": 14.98,
     "image": "media/produtos/200x200/137986_20250919153214_thumb_image__4__removebg_preview.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "39",
+    "id": "40",
     "name": "Arroz Sepé Bianco Tipo 1 1Kg",
     "price": 3.79,
     "image": "media/produtos/200x200/7848_20241004103605_thumb_Sem_titulo2.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "40",
-    "name": "Arroz Sepé Bianco Tipo 1 2kg",
-    "price": 6.98,
-    "image": "media/produtos/200x200/7852_20241004103941_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -498,65 +498,65 @@
   },
   {
     "id": "72",
+    "name": "Café Grão 3 Corações Espresso Gourmet 500g",
+    "price": 24.98,
+    "image": "media/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "73",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 23.8,
     "image": "media/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "74",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 23.8,
     "image": "media/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "75",
     "name": "Café Grão Melitta Spresso Pouch 500g",
     "price": 49.98,
     "image": "media/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "76",
     "name": "Café Melitta Extra Forte 500G",
     "price": 27.8,
     "image": "media/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "77",
     "name": "Café Melitta Sabor da Fazenda Pouch 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "78",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "79",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 27.8,
     "image": "media/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "80",
     "name": "Café Melitta Tradicional Vácuo 500G",
     "price": 27.8,
     "image": "media/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "80",
-    "name": "Café Meridiano Extra Forte 500G",
-    "price": 24.98,
-    "image": "media/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png_.jpeg",
     "market": "Extrabom"
   },
   {

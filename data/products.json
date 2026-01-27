@@ -492,7 +492,7 @@
   {
     "id": "71",
     "name": "Café em Pó Fort 500g",
-    "price": 25.9,
+    "price": 32.9,
     "image": "media/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -533,30 +533,30 @@
   },
   {
     "id": "77",
-    "name": "Café Melitta Sabor da Fazenda Pouch 500g",
-    "price": 34.98,
-    "image": "media/produtos/200x200/200690_extrabom_cafes-chas_cafe-melitta-sabor-da-fazenda-pouch-500g.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "78",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "78",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 27.8,
     "image": "media/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
+    "id": "79",
     "name": "Café Melitta Tradicional Vácuo 500G",
     "price": 27.8,
     "image": "media/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "80",
+    "name": "Café Meridiano Extra Forte 500G",
+    "price": 24.98,
+    "image": "media/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -800,7 +800,7 @@
   {
     "id": "115",
     "name": "Maionese Hellmann's Tradicional 500G",
-    "price": 10.9,
+    "price": 11.98,
     "image": "media/produtos/200x200/1049_extrabom_maionese-molhos_maionese-hellmann-s-tradicional-500g_6.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -1051,65 +1051,65 @@
   },
   {
     "id": "151",
-    "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
-    "price": 6.79,
-    "image": "media/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "152",
     "name": "Farinha de Trigo com Fermento Rosa Branca 1kg",
     "price": 4.99,
     "image": "media/produtos/200x200/32175_20190514101923_thumb_32175FarinhadeTrigocomFermentoRosaBranca1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "153",
+    "id": "152",
     "name": "Cesta Básica Nossa Cesta Unidade",
     "price": 79.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "154",
+    "id": "153",
     "name": "Biscoito Cookie com Gotas de Chocolate Vegano Integral Chocolate Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10242_extrabom_biscoitos_biscoito-cookie-com-gotas-de-chocolate-vegano-integral-chocolate-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "155",
+    "id": "154",
     "name": "Biscoito Cookie Vegano Integral Ameixa e Coco Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10205_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-ameixa-e-coco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "156",
+    "id": "155",
     "name": "Biscoito Cookie Vegano Integral Cappuccino e Avelã Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10217_extrabom_biscoitos_biscoito-cookie-vegano-integral-cappuccino-e-avela-zero-acucar-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "157",
+    "id": "156",
     "name": "Biscoito Cookie Vegano Integral Castanha do Pará Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10042_extrabom_biscoitos_biscoito-cookie-vegano-integral-castanha-do-para-jasmine-120g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "158",
+    "id": "157",
     "name": "Biscoito Cookie Vegano Integral Damasco com Chocolate Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "media/produtos/200x200/10227_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-damasco-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "159",
+    "id": "158",
     "name": "Biscoito Leite Maltado Cobertura Chocolate Piraquê 80g",
     "price": 4.39,
     "image": "media/produtos/200x200/149111_extrabom_biscoitos_biscoito-leite-maltado-cobertura-chocolate-piraque-80g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "159",
+    "name": "Biscoito Rosquinha Integral Aveia e Mel Zero Lactose Jasmine 120g",
+    "price": 11.39,
+    "image": "media/produtos/200x200/41019_extrabom_biscoitos_rosquinha-integral-jasmine-aveia-e-mel-120g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {

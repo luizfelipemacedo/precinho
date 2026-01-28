@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 79.67,
+    "price": 78.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -239,71 +239,71 @@
   },
   {
     "id": "35",
+    "name": "Arroz Prato Fino Tipo 1 2kg",
+    "price": 10.79,
+    "image": "media/produtos/200x200/8123_20251014164419_thumb_image__17.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "36",
     "name": "Arroz Prato Fino Tipo 1 5kg",
     "price": 25.9,
     "image": "media/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "36",
+    "id": "37",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
     "price": 14.98,
     "image": "media/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "37",
+    "id": "38",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 5kg",
     "price": 15.98,
     "image": "media/produtos/200x200/7800_20250326170832_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "38",
+    "id": "39",
     "name": "Arroz Saboroso TP1 5Kg",
-    "price": 14.98,
+    "price": 13.49,
     "image": "media/produtos/200x200/137986_20250919153214_thumb_image__4__removebg_preview.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "39",
+    "id": "40",
     "name": "Arroz Sepé Bianco Tipo 1 1Kg",
     "price": 3.79,
     "image": "media/produtos/200x200/7848_20241004103605_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "40",
-    "name": "Arroz Sepé Bianco Tipo 1 2kg",
-    "price": 6.98,
-    "image": "media/produtos/200x200/7852_20241004103941_thumb_Sem_titulo3.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
     "id": "41",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 79.67,
+    "price": 78.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "42",
     "name": "Feijão Carioca Juju Tipo 1 1kg",
-    "price": 7.98,
+    "price": 7.89,
     "image": "media/produtos/200x200/85562_20210204152621_thumb_85562_Feijao_Carioca_Juju_Tipo_1_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "43",
     "name": "Feijão Carioca Sepé 1kg",
-    "price": 7.49,
+    "price": 8.49,
     "image": "media/produtos/200x200/204043_20251013174752_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "44",
     "name": "Feijão Carioca Zuppa Tipo 1 1Kg",
-    "price": 6.49,
+    "price": 6.98,
     "image": "media/produtos/200x200/173046_20220819153936_thumb_Feijao_Carioca_Zuppa_1kg.png_.jpeg",
     "market": "Extrabom"
   },
@@ -317,21 +317,21 @@
   {
     "id": "46",
     "name": "Feijão Preto Combrasil Tipo 1 1kg",
-    "price": 6.49,
+    "price": 6.98,
     "image": "media/produtos/200x200/9071_20250625171600_thumb_Sem_titulo6.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "47",
     "name": "Feijão Preto Juju Tipo 1 1kg",
-    "price": 4.98,
+    "price": 6.79,
     "image": "media/produtos/200x200/85565_20210204152652_thumb_85565_Feijao_Preto_Juju_Tipo_1_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "48",
     "name": "Feijão Preto Lívia Tipo 1 1kg",
-    "price": 4.98,
+    "price": 5.98,
     "image": "media/produtos/200x200/201286_20250528164943_thumb_image__57.png_.jpeg",
     "market": "Extrabom"
   },
@@ -352,14 +352,14 @@
   {
     "id": "51",
     "name": "Feijão Preto Sepé T1 1kg",
-    "price": 5.79,
+    "price": 6.89,
     "image": "media/produtos/200x200/204042_20251014155524_thumb_image__6.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "52",
     "name": "Feijão Preto Zuppa Tipo 1 1kg",
-    "price": 4.49,
+    "price": 4.98,
     "image": "media/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -373,49 +373,49 @@
   {
     "id": "54",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
-    "price": 12.98,
+    "price": 11.98,
     "image": "media/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "55",
     "name": "Feijão Vermelho das Lorenção 1Kg",
-    "price": 10.79,
+    "price": 12.49,
     "image": "media/produtos/200x200/2911_7898293221942.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "56",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
-    "price": 9.39,
+    "price": 8.89,
     "image": "media/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "57",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
-    "price": 8.49,
+    "price": 8.79,
     "image": "media/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "58",
     "name": "Feijão Vermelho Ranchinho 1Kg",
-    "price": 10.98,
+    "price": 8.49,
     "image": "media/produtos/200x200/9321_7896612700062.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "59",
     "name": "Feijão Vermelho Sepé T1 1kg",
-    "price": 8.79,
+    "price": 8.99,
     "image": "media/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "60",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
-    "price": 7.79,
+    "price": 7.98,
     "image": "media/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png_.jpeg",
     "market": "Extrabom"
   },
@@ -428,141 +428,141 @@
   },
   {
     "id": "62",
+    "name": "Café 3 Corações Pouch Tradicional Leve 500g Pague 475g",
+    "price": 27.9,
+    "image": "media/produtos/200x200/174498_extrabom_cafes-chas_cafe-3-coracoes-pouch-tradicional-leve-500g-pague-475g.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "63",
     "name": "Café Cafuso 500G",
     "price": 27.58,
     "image": "media/produtos/200x200/88115_20200625125428_thumb_88115_Cafe_Cafuso_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "63",
+    "id": "64",
     "name": "Café Cafuso Extra Forte 500G",
     "price": 27.58,
     "image": "media/produtos/200x200/100480_20200625125831_thumb_100480_Cafe_Cafuso_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "64",
+    "id": "65",
     "name": "Café em Grãos Número Um Sentidos Gourmet 500g",
     "price": 46.99,
     "image": "media/produtos/200x200/189134_20240507095434_thumb_Sem_titulo28.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "65",
+    "id": "66",
     "name": "Café em pó 3 Corações Estrada Real 500g",
     "price": 44.98,
     "image": "media/produtos/200x200/157500_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-500g_7.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "66",
+    "id": "67",
     "name": "Café em pó 3 Corações Estrada Real Vácuo 500g",
     "price": 48.98,
     "image": "media/produtos/200x200/157499_extrabom_cafes-chas_cafe-3-coracoes-premium-estrada-real-vacuo-500g_4.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "67",
+    "id": "68",
     "name": "Café em pó 3 Corações Extraforte 500g",
     "price": 28.9,
     "image": "media/produtos/200x200/7927_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "68",
+    "id": "69",
     "name": "Café em pó 3 Corações Extraforte Vácuo 500g",
     "price": 28.9,
     "image": "media/produtos/200x200/7943_extrabom_cafes-chas_cafe-em-po-3-coracoes-extraforte-vacuo-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "69",
+    "id": "70",
     "name": "Café em pó 3 Corações Tradicional 500g",
     "price": 28.9,
     "image": "media/produtos/200x200/8005_extrabom_cafes-chas_cafe-em-po-3-coracoes-tradicional-500g_7.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "70",
+    "id": "71",
     "name": "Café em pó 3 Corações Vácuo 500g",
     "price": 28.9,
     "image": "media/produtos/200x200/8017_extrabom_cafes-chas_cafe-em-po-3-coracoes-vacuo-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "71",
+    "id": "72",
     "name": "Café em Pó Fort 500g",
     "price": 32.9,
     "image": "media/produtos/200x200/7957_extrabom_cafes-chas_cafe-em-po-fort-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "72",
+    "id": "73",
     "name": "Café Grão 3 Corações Espresso Gourmet 500g",
     "price": 24.98,
     "image": "media/produtos/200x200/199826_extrabom_cafes-chas_cafe-grao-3-coracoes-espresso-gourmet-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "73",
+    "id": "74",
     "name": "Café Grão da Roça Extra Forte 500G",
     "price": 23.8,
     "image": "media/produtos/200x200/110560_20200910162916_thumb_110560_Cafe_Grao_da_Roca_Extra_Forte_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "74",
+    "id": "75",
     "name": "Café Grão da Roça Tradicional 500G",
     "price": 23.8,
     "image": "media/produtos/200x200/110561_20200910162943_thumb_110561_Cafe_Grao_da_Roca_Tradicional_500g.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "75",
+    "id": "76",
     "name": "Café Grão Melitta Spresso Pouch 500g",
     "price": 49.98,
     "image": "media/produtos/200x200/200734_extrabom_cafes-chas_cafe-grao-melitta-spresso-pouch-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "76",
+    "id": "77",
     "name": "Café Melitta Extra Forte 500G",
     "price": 27.8,
     "image": "media/produtos/200x200/132596_extrabom_cafe-melitta-extra-forte-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "77",
+    "id": "78",
     "name": "Café Melitta Sabor da Fazenda Vácuo 500g",
     "price": 34.98,
     "image": "media/produtos/200x200/200691_extrabom_cafe-melitta-sabor-da-fazenda-vacuo-500g_2.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "78",
+    "id": "79",
     "name": "Café Melitta Tradicional Pouch 500g",
     "price": 27.8,
     "image": "media/produtos/200x200/64725_extrabom_cafes-chas_cafe-melitta-tradicional-pouch-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "79",
+    "id": "80",
     "name": "Café Melitta Tradicional Vácuo 500G",
     "price": 27.8,
     "image": "media/produtos/200x200/8249_extrabom_cafes-chas_cafe-melitta-tradicional-vacuo-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "80",
-    "name": "Café Meridiano Extra Forte 500G",
-    "price": 24.98,
-    "image": "media/produtos/200x200/8324_20240923102608_thumb_Sem_titulo9.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
     "id": "81",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 79.67,
+    "price": 78.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -723,7 +723,7 @@
   {
     "id": "104",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 79.67,
+    "price": 78.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -779,7 +779,7 @@
   {
     "id": "112",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 79.67,
+    "price": 78.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -968,7 +968,7 @@
   {
     "id": "139",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 79.67,
+    "price": 78.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -1059,7 +1059,7 @@
   {
     "id": "152",
     "name": "Cesta Básica Nossa Cesta Unidade",
-    "price": 79.67,
+    "price": 78.67,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -1359,8 +1359,8 @@
   },
   {
     "id": "195",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\n\nAproximadamente 1Kg\nR$ 8,99",
-    "price": 8.99,
+    "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\n\nAproximadamente 1Kg\nDe: R$ 8,99 Por: R$ 7,99",
+    "price": 7.99,
     "image": "media/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg_.jpeg",
     "market": "Extrabom"
   },

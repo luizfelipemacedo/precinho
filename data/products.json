@@ -330,93 +330,93 @@
   },
   {
     "id": "48",
-    "name": "Feijão Preto Lívia Tipo 1 1kg",
-    "price": 5.98,
-    "image": "media/produtos/200x200/201286_20250528164943_thumb_image__57.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "49",
     "name": "Feijão Preto Nico Tipo 1 1Kg",
     "price": 4.79,
     "image": "media/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "50",
+    "id": "49",
     "name": "Feijão Preto Ranchinho 1kg",
     "price": 4.89,
     "image": "media/produtos/200x200/9081_7896612700055.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "51",
+    "id": "50",
     "name": "Feijão Preto Sepé T1 1kg",
     "price": 6.89,
     "image": "media/produtos/200x200/204042_20251014155524_thumb_image__6.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "52",
+    "id": "51",
     "name": "Feijão Preto Zuppa Tipo 1 1kg",
     "price": 4.98,
     "image": "media/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "53",
+    "id": "52",
     "name": "Feijão Rajado Nico Tipo 1 1Kg",
     "price": 7.98,
     "image": "media/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "54",
+    "id": "53",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
     "price": 11.98,
     "image": "media/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "54",
     "name": "Feijão Vermelho das Lorenção 1Kg",
     "price": 12.49,
     "image": "media/produtos/200x200/2911_7898293221942.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "55",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
     "price": 8.89,
     "image": "media/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "56",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
     "price": 8.79,
     "image": "media/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "57",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 8.49,
     "image": "media/produtos/200x200/9321_7896612700062.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "58",
     "name": "Feijão Vermelho Sepé T1 1kg",
     "price": 8.99,
     "image": "media/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "60",
+    "id": "59",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 7.98,
     "image": "media/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "60",
+    "name": "Feijão Carioca Combrasil 1kg",
+    "price": 8.79,
+    "image": "media/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -1129,21 +1129,21 @@
   {
     "id": "162",
     "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/101537_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-carne-defumada-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "163",
     "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/101536_extrabom_massas_macarrao-instantaneo-cup-noodles-cheddar-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "164",
     "name": "Macarrão Instantâneo Cup Noodles Costelinha com Molho de Churrasco 68g",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/101539_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-costelinha-com-molho-de-churrasco-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -1157,42 +1157,42 @@
   {
     "id": "166",
     "name": "Macarrão Instantâneo Cup Noodles Frutos do Mar 65g",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/101534_extrabom_massas_macarrao-instantaneo-cup-noodles-frutos-do-mar-65g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "167",
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/101538_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "168",
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira Picante 68g",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/101540_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-picante-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "169",
     "name": "Macarrão Instantâneo Cup Noodles Nacho 68g",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/201258_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-nacho-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "170",
     "name": "Macarrão Instantâneo Cup Noodles Parmegiana 68g",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/202605_20250527120215_thumb_image__85.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "171",
     "name": "Macarrão Instantâneo Cup Noodles Yakissoba 70g",
-    "price": 4.79,
+    "price": 4.69,
     "image": "media/produtos/200x200/105385_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-yakissoba-70g.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -1261,142 +1261,142 @@
   },
   {
     "id": "181",
-    "name": "Frango com Miúdos Congelado Oi Frango Kg\n\nAproximadamente 3kg\nR$ 38,97",
-    "price": 12.99,
+    "name": "Frango com Miúdos Congelado Oi Frango Kg\n\nAproximadamente 3kg\nR$ 41,97",
+    "price": 13.99,
     "image": "media/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "182",
-    "name": "Asa Frango Congelada Uniaves Pacote 1,5Kg\n\nAproximadamente 1,5Kg\nR$ 26,99",
-    "price": 17.99,
-    "image": "media/produtos/200x200/3111_20170711131335_thumb_3111_AsaFrangoUniaves.jpg_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "183",
     "name": "Big Chicken Frango com Queijo 1kg Perdigão",
     "price": 25.9,
     "image": "media/produtos/200x200/3800_extrabom_congelados_big-chicken-frango-com-queijo-1kg-perdigao_1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "184",
+    "id": "183",
     "name": "Big Chicken frango tradicional 1kg Perdigão",
     "price": 29.9,
     "image": "media/produtos/200x200/3794_extrabom_congelados_big-chicken-frango-tradicional-1kg-perdigao_1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "185",
-    "name": "Coração de Frango Congelado Aurora Bandeja 1kg",
-    "price": 31.9,
-    "image": "media/produtos/200x200/197595_20240712101700_thumb_Sem_titulo2.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "186",
+    "id": "184",
     "name": "Coração de Frango Congelado Oi Frango Bandeja 1kg",
     "price": 40.99,
     "image": "media/produtos/200x200/167988_20211223110221_thumb_167988_Coracao_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "187",
+    "id": "185",
     "name": "CORAÇAO DE FRANGO PIF PAF BANDEJA 1KG",
     "price": 49.9,
     "image": "media/produtos/200x200/3766_20250522173337_thumb_Sem_titulo1.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "188",
+    "id": "186",
     "name": "Coração de Frango Sadia 1kg",
     "price": 37.9,
     "image": "media/produtos/200x200/133_extrabom_aves-congeladas_coracao-de-frango-sadia-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "189",
+    "id": "187",
     "name": "Coxa com Sobrecoxa de Frango Congelado Temperado Perdigão Chester Nabrasa Embalagem 1,5kg\n\nAproximadamente 1,5kg\nR$ 43,35",
     "price": 28.9,
     "image": "media/produtos/200x200/200950_20241209135521_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "190",
+    "id": "188",
     "name": "Coxa de Frango Congelada Oi Frango 1Kg",
     "price": 14.99,
     "image": "media/produtos/200x200/167989_20220218152655_thumb_167989_COXAS_FRANGO_CONG_OI_FGO_BDJ_1KG_removebg_preview.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "191",
+    "id": "189",
     "name": "Coxa de frango congelada Sadia 1kg",
     "price": 14.99,
     "image": "media/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "192",
+    "id": "190",
     "name": "Coxa de Frango Temperado Assa Fácil Perdigão 1,2kg",
     "price": 21.9,
     "image": "media/produtos/200x200/59721_20200717142040_thumb_59721Coxa_de_Frango_Temperado_Assa_Facil_Perdigao_1_2kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "193",
+    "id": "191",
     "name": "Coxa de Frango Uniaves Pacote 1,2kg\n\nAproximadamente 1,200Kg\nR$ 15,59",
     "price": 12.99,
     "image": "media/produtos/200x200/138369_20240925094005_thumb_Sem_titulo27.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "194",
+    "id": "192",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\n\nAproximadamente 1,200kg\nR$ 11,99",
     "price": 9.99,
     "image": "media/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "195",
+    "id": "193",
     "name": "Coxa e Sobrecoxa de Frango com Dorso Uniaves Pacote 1Kg\n\nAproximadamente 1Kg\nR$ 8,99",
     "price": 8.99,
     "image": "media/produtos/200x200/56400_20170308133852_thumb_56400_coxa_sobrecoxa_com_dorso_uniaves.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "196",
+    "id": "194",
     "name": "Coxa E Sobrecoxa De Frango Congelada Sem Osso Sadia 1Kg Bandeja",
     "price": 19.98,
     "image": "media/produtos/200x200/24561_extrabom_aves-congeladas_coxa-e-sobrecoxa-desossada-sadia-bandeja-1kg_1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "197",
+    "id": "195",
     "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\n\nAproximadamente 1,7Kg\nR$ 22,08",
     "price": 12.99,
     "image": "media/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "198",
+    "id": "196",
     "name": "Coxa e Sobrecoxa de Frango Congelado Pif Paf Pacote 1,5Kg\n\nAproximadamente 1,5Kg\nR$ 19,49",
     "price": 12.99,
     "image": "media/produtos/200x200/3075_20250522164841_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "199",
+    "id": "197",
     "name": "Coxa Frango Pif Paf Bandeja 1Kg",
     "price": 16.99,
     "image": "frontend/img/no-image-200x200.png?v=2_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "200",
+    "id": "198",
+    "name": "Coxas de Frango Bandeja Sadia 1Kg",
+    "price": 14.99,
+    "image": "media/produtos/200x200/47_extrabom_aves-congeladas_coxas-de-frango-bandeja-sadia-1kg.jpg_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "199",
     "name": "Coxinha da Asa de Frango Congelada OI Frango Bandeja 1kg",
     "price": 19.99,
     "image": "media/produtos/200x200/167990_20240826161807_thumb_coxa.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "200",
+    "name": "Coxinha da Asa de Frango Congelada Pif Paf Bandeja 1kg",
+    "price": 21.9,
+    "image": "media/produtos/200x200/3676_20250522171632_thumb_Sem_titulo5.png_.jpeg",
     "market": "Extrabom"
   }
 ]

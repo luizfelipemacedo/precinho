@@ -246,37 +246,37 @@
   },
   {
     "id": "36",
-    "name": "Arroz Prato Fino Tipo 1 5kg",
-    "price": 25.9,
-    "image": "media/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "37",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
     "price": 14.49,
     "image": "media/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "38",
+    "id": "37",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 2kg",
     "price": 6.79,
     "image": "media/produtos/200x200/7793_7896546113327.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "39",
+    "id": "38",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 5kg",
     "price": 16.99,
     "image": "media/produtos/200x200/7800_20250326170832_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "40",
+    "id": "39",
     "name": "Arroz Saboroso Tipo 1 2kg",
     "price": 6.49,
     "image": "media/produtos/200x200/172987_20220819154506_thumb_Arroz_Saboroso_5kg.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "40",
+    "name": "Arroz Saboroso TP1 5Kg",
+    "price": 13.98,
+    "image": "media/produtos/200x200/137986_20250919153214_thumb_image__4__removebg_preview.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -1024,7 +1024,7 @@
   {
     "id": "147",
     "name": "Farinha de Trigo Tia Ofélia Tipo 1 1Kg",
-    "price": 3.19,
+    "price": 3.38,
     "image": "media/produtos/200x200/143057_20230708121339_thumb_ofelia.png_.jpeg",
     "market": "Extrabom"
   },

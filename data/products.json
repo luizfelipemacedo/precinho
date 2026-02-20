@@ -36,16 +36,16 @@
   },
   {
     "id": "6",
-    "name": "Leite Longa Vida Crescer Pirakids Piracanjuba Zero Lactose Integral 1L",
-    "price": 6.79,
-    "image": "media/produtos/200x200/64986_extrabom_leites_leite-longa-vida-crescer-pirakids-piracanjuba-zero-lactose-integral-1l_5.jpg_.jpeg",
+    "name": "Leite Longa Vida Capel Integral 1L",
+    "price": 3.89,
+    "image": "media/produtos/200x200/4039_7897366700162.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "7",
-    "name": "Leite Longa Vida Damare Integral 1L",
-    "price": 3.98,
-    "image": "media/produtos/200x200/4121_20220901164355_thumb_Leite_Damare_integral.png_.jpeg",
+    "name": "Leite Longa Vida Crescer Pirakids Piracanjuba Zero Lactose Integral 1L",
+    "price": 6.79,
+    "image": "media/produtos/200x200/64986_extrabom_leites_leite-longa-vida-crescer-pirakids-piracanjuba-zero-lactose-integral-1l_5.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -142,7 +142,7 @@
   {
     "id": "21",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
-    "price": 79.86,
+    "price": 80.06,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -282,7 +282,7 @@
   {
     "id": "41",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
-    "price": 79.86,
+    "price": 80.06,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -317,7 +317,7 @@
   {
     "id": "46",
     "name": "Feijão Preto Combrasil Tipo 1 1kg",
-    "price": 6.98,
+    "price": 5.39,
     "image": "media/produtos/200x200/9071_20250625171600_thumb_Sem_titulo6.png_.jpeg",
     "market": "Extrabom"
   },
@@ -330,93 +330,93 @@
   },
   {
     "id": "48",
+    "name": "Feijão Preto Lívia Tipo 1 1kg",
+    "price": 5.98,
+    "image": "media/produtos/200x200/201286_20250528164943_thumb_image__57.png_.jpeg",
+    "market": "Extrabom"
+  },
+  {
+    "id": "49",
     "name": "Feijão Preto Nico Tipo 1 1Kg",
     "price": 5.58,
     "image": "media/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "49",
+    "id": "50",
     "name": "Feijão Preto Ranchinho 1kg",
     "price": 5.79,
     "image": "media/produtos/200x200/9081_7896612700055.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "50",
+    "id": "51",
     "name": "Feijão Preto Sepé T1 1kg",
     "price": 6.89,
     "image": "media/produtos/200x200/204042_20251014155524_thumb_image__6.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "51",
+    "id": "52",
     "name": "Feijão Preto Zuppa Tipo 1 1kg",
     "price": 5.98,
     "image": "media/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "52",
+    "id": "53",
     "name": "Feijão Rajado Nico Tipo 1 1Kg",
     "price": 7.98,
     "image": "media/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "53",
+    "id": "54",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
     "price": 10.99,
     "image": "media/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "54",
+    "id": "55",
     "name": "Feijão Vermelho das Lorenção 1Kg",
     "price": 13.49,
     "image": "media/produtos/200x200/2911_7898293221942.JPG_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "56",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
     "price": 9.98,
     "image": "media/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "57",
     "name": "Feijão Vermelho Lívia Tipo 1 1Kg",
     "price": 9.79,
     "image": "media/produtos/200x200/9313_20170921131221_thumb_9313_FeijaoVermelhoLiviaTipo11kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "58",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 8.79,
     "image": "media/produtos/200x200/9321_7896612700062.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "59",
     "name": "Feijão Vermelho Sepé T1 1kg",
     "price": 9.98,
     "image": "media/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png_.jpeg",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "60",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 8.99,
     "image": "media/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png_.jpeg",
-    "market": "Extrabom"
-  },
-  {
-    "id": "60",
-    "name": "Feijão Carioca Combrasil 1kg",
-    "price": 9.79,
-    "image": "media/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png_.jpeg",
     "market": "Extrabom"
   },
   {
@@ -562,7 +562,7 @@
   {
     "id": "81",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
-    "price": 79.86,
+    "price": 80.06,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -695,7 +695,7 @@
   {
     "id": "100",
     "name": "Sal Refinado Globo 1Kg",
-    "price": 2.39,
+    "price": 2.59,
     "image": "media/produtos/200x200/10338_7896029310014.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -723,14 +723,14 @@
   {
     "id": "104",
     "name": "Sal Refinado Nico 1kg",
-    "price": 1.78,
+    "price": 2.09,
     "image": "media/produtos/200x200/48498_20170921130611_thumb_48498_SalRefinadoNico1kg.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "105",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
-    "price": 79.86,
+    "price": 80.06,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -779,14 +779,14 @@
   {
     "id": "112",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
-    "price": 79.86,
+    "price": 80.06,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "113",
     "name": "Maionese Hellmann's Light 500G\n\nSabor e cremosidade incomparáveis com apenas 30kcal. -Perfeito para sanduíches, wraps, hambúrgueres, preparar molhos e saladas. -Não talha, faça pratos quentes deliciosos. -Com Hellmann's você transforma seus lanches e refeições em deliciosos momentos.",
-    "price": 11.99,
+    "price": 14.99,
     "image": "media/produtos/200x200/1067_extrabom_molhos_maionese-hellmann-s-light-500g.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -800,7 +800,7 @@
   {
     "id": "115",
     "name": "Maionese Hellmann's Tradicional 500G",
-    "price": 11.98,
+    "price": 13.99,
     "image": "media/produtos/200x200/1049_extrabom_maionese-molhos_maionese-hellmann-s-tradicional-500g_6.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -961,7 +961,7 @@
   {
     "id": "138",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
-    "price": 79.86,
+    "price": 80.06,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -1045,7 +1045,7 @@
   {
     "id": "150",
     "name": "Sujeito à disponibilidade de estoque\n\nCesta Básica Nossa Cesta Unidade",
-    "price": 79.86,
+    "price": 80.06,
     "image": "media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.jpeg",
     "market": "Extrabom"
   },
@@ -1108,77 +1108,77 @@
   {
     "id": "159",
     "name": "Macarrão Instantâneo Cup Noodles Bolonhesa 72G",
-    "price": 4.69,
+    "price": 4.99,
     "image": "media/produtos/200x200/101535_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-bolonhesa-72g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "160",
     "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/101537_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-carne-defumada-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "161",
     "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/101536_extrabom_massas_macarrao-instantaneo-cup-noodles-cheddar-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "162",
     "name": "Macarrão Instantâneo Cup Noodles Costelinha com Molho de Churrasco 68g",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/101539_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-costelinha-com-molho-de-churrasco-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "163",
     "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g",
-    "price": 4.69,
+    "price": 4.99,
     "image": "media/produtos/200x200/101904_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-frango-teriyaki-72g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "164",
     "name": "Macarrão Instantâneo Cup Noodles Frutos do Mar 65g",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/101534_extrabom_massas_macarrao-instantaneo-cup-noodles-frutos-do-mar-65g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "165",
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/101538_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-69g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "166",
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira Picante 68g",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/101540_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-picante-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "167",
     "name": "Macarrão Instantâneo Cup Noodles Nacho 68g",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/201258_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-nacho-68g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "168",
     "name": "Macarrão Instantâneo Cup Noodles Parmegiana 68g",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/202605_20250527120215_thumb_image__85.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "169",
     "name": "Macarrão Instantâneo Cup Noodles Yakissoba 70g",
-    "price": 4.79,
+    "price": 4.99,
     "image": "media/produtos/200x200/105385_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-yakissoba-70g.jpg_.jpeg",
     "market": "Extrabom"
   },
@@ -1213,35 +1213,35 @@
   {
     "id": "174",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Bacon 85G",
-    "price": 2.89,
+    "price": 2.79,
     "image": "media/produtos/200x200/8780_20171106150821_thumb_8780_MacarraoInstantaneoLamenNissinMiojoBacon85g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "175",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Calabresa Picante 85g",
-    "price": 2.89,
+    "price": 2.79,
     "image": "media/produtos/200x200/206563_20250825112219_thumb_image__33.png_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "176",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne 85G",
-    "price": 2.89,
+    "price": 2.79,
     "image": "media/produtos/200x200/8764_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-carne-85g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "177",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne com Tomate 85G",
-    "price": 2.89,
+    "price": 2.79,
     "image": "media/produtos/200x200/8808_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-carne-com-tomate-85g.jpg_.jpeg",
     "market": "Extrabom"
   },
   {
     "id": "178",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne Picante 85g",
-    "price": 2.89,
+    "price": 2.79,
     "image": "media/produtos/200x200/206625_20250825112646_thumb_image__35.png_.jpeg",
     "market": "Extrabom"
   },

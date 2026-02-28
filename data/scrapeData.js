@@ -1,4 +1,4 @@
-import fs from "fs";
+import fs from "node:fs";
 import { join } from "node:path";
 import puppeteer from "puppeteer";
 import { MARKETS, SEARCH_TERMS } from "./constants.js";
@@ -81,13 +81,24 @@ async function scrapeDataFromMarket(
   const images = await pageInstance.$$eval(`${productImageSelector}`, (imgs) =>
     imgs.map((img) => img.getAttribute("src"))
   );
+  const pageBaseUrl = new URL(pageUrl).origin;
 
   return products.map((name, index) => {
     return {
       name,
       price: prices[index],
-      image: images[index],
+      image: getImageUrl(images[index], pageBaseUrl),
       market: marketName,
     };
   });
+
+ function getImageUrl(imageSrc, pageBaseUrl) {
+    if (!imageSrc) return null;
+
+    if (imageSrc.startsWith("http")) {
+      return imageSrc;
+    }
+    const imageUrl = new URL(imageSrc, pageBaseUrl);
+    return imageUrl.href.replace('jpeg', 'webp'); // for extrabom, to get higher quality images
+  } 
 }

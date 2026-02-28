@@ -9,14 +9,14 @@ const MARKETS = [
     },
   },
   {
-    name: "Carone",
-    url: "https://www.carone.com.br/",
+    name: "Perim",
+    url: "https://www.perim.com.br/busca?termo=",
     selectors: {
-      productNameSelector: ".product-name",
-      productPriceSelector: ".skuBestPrice",
-      productImageSelector: "div.product-image img",
+      productNameSelector: 'span[data-cy="produto-descricao"]',
+      productPriceSelector: 'span[data-cy="preco"]',
+      productImageSelector: 'vip-image[data-cy^="card_produto_"] img',
     },
-  },
+  }
 ];
 
 const SEARCH_TERMS = [

@@ -1,6 +1,6 @@
-import { fetchData } from "../fetchData.js";
 import { until } from "../asyncUtils.js";
 import { loadMenuComponent } from "../components/menu.js";
+import { fetchData } from "../fetchData.js";
 const urlParams = new URLSearchParams(window.location.search);
 
 const instruction = document.querySelector("#resultado > .instruction");
@@ -107,7 +107,7 @@ function showProducts(products) {
 
     const productPrice = document.createElement("span");
     productPrice.classList.add("product-price");
-    productPrice.textContent = `R$ ${price.toLocaleString("pt-BR")}`;
+    productPrice.textContent = price ? `R$ ${price.toLocaleString("pt-BR")}` : "Preço indisponível";
     productDiv.appendChild(productPrice);
 
     const productName = document.createElement("span");

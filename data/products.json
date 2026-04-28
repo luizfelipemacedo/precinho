@@ -64,79 +64,79 @@
   },
   {
     "id": "10",
-    "name": "Leite Longa Vida Itambé Premium Dez Vitaminas Integral 1L",
-    "price": 6.49,
-    "image": "https://www.extrabom.com.br/media/produtos/200x200/4059_20240315170107_thumb_Sem_titulo584.png_.webp",
-    "market": "Extrabom"
-  },
-  {
-    "id": "11",
     "name": "Leite Longa Vida Leitíssimo Desnatado 1L",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/62238_20190801172140_thumb_62238.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "12",
+    "id": "11",
     "name": "Leite Longa Vida Leitíssimo Integral 1L",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/4049_leite_longa_vida_leitissimo_integral_1l_.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "13",
+    "id": "12",
     "name": "Leite Longa Vida Leitíssimo Integral Zero Lactose 1L",
     "price": 10.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/62239_20190801172443_thumb_62239.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "14",
+    "id": "13",
     "name": "Leite Longa Vida Molico Desnatado + Pro 1L",
     "price": 10.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/141387_20200519172718_thumb_Proteinas_FRONT.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "15",
+    "id": "14",
     "name": "Leite Longa Vida Molico Desnatado 1l",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/144375_20200831143703_thumb_LEITE_LV_MOLICO_DESNATADO_1L.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "16",
+    "id": "15",
     "name": "Leite Longa Vida Molico Zero Lactose Desnatado 1l",
     "price": 8.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/141386_20200918160148_thumb_141386_leite_lv_ninho_semi_desn_zero_lac_1l.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "17",
+    "id": "16",
     "name": "Leite Longa Vida Ninho A2A2 Semidesnatado Fort+ 1L",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/199599_extrabom_leites-longa-vida_leite-longa-vida-ninho-a2a2-semidesnatado-fort-1l_5.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "18",
+    "id": "17",
     "name": "Leite Longa Vida Ninho Integral Vitaminado 1lt",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/141384_20200918155839_thumb_141384_LEITE_LV_NINHO_INTEGRAL_VIT_1L.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "19",
+    "id": "18",
     "name": "Leite Longa Vida Ninho Integral Zero Lactose 1l",
     "price": 9.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/144373_20200907150547_thumb_LEITE_LV_NINHO_INTEGRAL_ZERO_LAC_1L.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "20",
+    "id": "19",
     "name": "Leite Longa Vida Ninho Semi Desnatado Vit 1l",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/141385_20200918160010_thumb_141385_LEITE_LV_NINHO_SEMI_DESN_VIT_1L.png_.webp",
+    "market": "Extrabom"
+  },
+  {
+    "id": "20",
+    "name": "Leite Longa Vida Ninho Semi Desnatado Zero Lac 1l",
+    "price": 8.39,
+    "image": "https://www.extrabom.com.br/media/produtos/200x200/144374_20200907150111_thumb_LEITE_LV_NINHO_SEMI_DESN_ZERO_LAC_1L.png_.webp",
     "market": "Extrabom"
   },
   {
@@ -344,79 +344,79 @@
   },
   {
     "id": "50",
+    "name": "Leite Damare Integral 1l Un",
+    "price": 5.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/f4a9a390-c952-4344-8db4-73591fb7537a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "51",
     "name": "Leite Em Pó Piracanjuba Instantâneo Integral Sach 400g",
     "price": 17.97,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/446616cc-fe76-486a-a863-55f8aca251c7.jpg",
     "market": "Perim"
   },
   {
-    "id": "51",
+    "id": "52",
     "name": "Leite Longa Vida Piracanjuba Integral Zero Lactose Tp 1l",
     "price": 9.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/6e88d544-ff09-478e-93bb-5bea23819932.jpg",
     "market": "Perim"
   },
   {
-    "id": "52",
+    "id": "53",
     "name": "Leite Uht Itambé Nolac Integral Zero Lactose Caixa Com Tampa 1l",
     "price": 7.79,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a6d80da4-c0b8-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "53",
+    "id": "54",
     "name": "Leite Pó Italac Integral Sch 400g",
     "price": 18.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/edd0b7c9-d56f-4dac-a255-731ebd515183.jpg",
     "market": "Perim"
   },
   {
-    "id": "54",
+    "id": "55",
     "name": "Leite Longa Vida Selita Com Tampa Desnatado Tp 1l",
     "price": 5.59,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/42f940da-3559-4ffa-906a-4e0d65779f35.jpg",
     "market": "Perim"
   },
   {
-    "id": "55",
+    "id": "56",
     "name": "Leite Em Pó Desnatado Molico Total Cálcio 500g",
     "price": 45.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0f7dc4b2-c633-40b2-beaa-58d031c6496c.jpg",
     "market": "Perim"
   },
   {
-    "id": "56",
+    "id": "57",
     "name": "Leite Condensado Nestlé Moça Semidesnatado Tp 395g",
     "price": 9.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bb45cd7d-659f-46a5-a393-a2896d692604.jpg",
     "market": "Perim"
   },
   {
-    "id": "57",
+    "id": "58",
     "name": "Leite Fermentado Integral Com Probióticos E Preparado De Frutas Linhaça, Morango & Banana Activia Café Da Manhã Pote 170g",
     "price": 7.29,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/9960cc55-2133-47b5-97a6-cbb668dfbf7f.jpg",
     "market": "Perim"
   },
   {
-    "id": "58",
+    "id": "59",
     "name": "Leite De Coco Tradicional Coco Do Vale Vidro 200ml",
     "price": 6.49,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/5557e1e9-c0bb-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "59",
+    "id": "60",
     "name": "Leite De Coco Tradicional Pasteurizado Homogeneizado Sococo Caixa 200ml",
     "price": 9.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c53a8a93-9675-4d8a-9d47-1bee504e88b0.jpg",
-    "market": "Perim"
-  },
-  {
-    "id": "60",
-    "name": "Leite De Coco Pasteurizado E Homogeneizado Mais Coco Vidro 200ml",
-    "price": 7.69,
-    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/5494708a-c0bb-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
@@ -1660,65 +1660,65 @@
   },
   {
     "id": "238",
+    "name": "Açúcar Cristal Alcon 2kg",
+    "price": 7.39,
+    "image": "https://www.extrabom.com.br/media/produtos/200x200/39156_20170705144313_thumb_39156_acucar_cristal_alcon_2kg.jpg_.webp",
+    "market": "Extrabom"
+  },
+  {
+    "id": "239",
     "name": "Açúcar Cristal Alcon 5Kg",
     "price": 14.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/39157_acucar_cristal_alcon_5kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "239",
+    "id": "240",
     "name": "Açúcar Cristal Extra Fino Santa Isabel 1Kg",
     "price": 3.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9416_7898187830038.JPG_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "240",
+    "id": "241",
     "name": "Açúcar Cristal Orgânico Itajá 1kg",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/88184_extrabom_acucar-adocantes_acucar-cristal-organico-itaja-1kg_2.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "241",
+    "id": "242",
     "name": "Açúcar Cristal Orgânico Itajá 5kg",
     "price": 34.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/151718_extrabom_acucar-cristal-organico-itaja-5kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "242",
+    "id": "243",
     "name": "Açúcar Cristal Orgânico Native 1Kg",
     "price": 10.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10102_20240426094610_thumb_Sem_titulo28.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "243",
+    "id": "244",
     "name": "Açúcar Cristal Orgânico União 1Kg",
     "price": 7.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10077_20250716152502_thumb_image__1__removebg_preview_removebg_preview.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "244",
+    "id": "245",
     "name": "Açúcar Cristal Santa Isabel 2Kg",
     "price": 7.49,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9390_7898187830021.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "245",
+    "id": "246",
     "name": "Açúcar Cristal Santa Isabel 5Kg",
     "price": 15.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9397_7898187830052.png_.webp",
-    "market": "Extrabom"
-  },
-  {
-    "id": "246",
-    "name": "Açúcar Demerara Santa Isabel 1kg",
-    "price": 3.79,
-    "image": "https://www.extrabom.com.br/media/produtos/200x200/189528_20231106092700_thumb_Sem_titulo232.png_.webp",
     "market": "Extrabom"
   },
   {
@@ -1793,268 +1793,268 @@
   },
   {
     "id": "257",
+    "name": "Açúcar União Demerara Pacote 1kg",
+    "price": 5.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7acb1b72-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "258",
     "name": "Açúcar Refinado União 1kg",
     "price": 4.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/77ddefe9-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "258",
+    "id": "259",
     "name": "Açúcar União Glaçúcar De Confeiteiro 500g",
     "price": 3.89,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7bc04550-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "259",
+    "id": "260",
     "name": "Açúcar Natural Demerara Caravelas Pacote 1kg",
     "price": 5.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/11421f49-b17e-4724-8817-6c8bc6ce0a74.jpg",
     "market": "Perim"
   },
   {
-    "id": "260",
+    "id": "261",
     "name": "Acucar Magro Light Com Stevia 400g",
     "price": 19.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7d0d44f5-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "261",
+    "id": "262",
     "name": "Açucar Cristal Paineiras 5kg",
     "price": 14.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e50c419f-5d20-47d7-8fd3-927bf4282bce.jpg",
     "market": "Perim"
   },
   {
-    "id": "262",
+    "id": "263",
     "name": "Açucar Mascavo Guimaraes 500g",
     "price": 9.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/f116eaba-61e4-4984-a3e6-7f820ed3393e.jpg",
     "market": "Perim"
   },
   {
-    "id": "263",
+    "id": "264",
     "name": "Açúcar Demerara Natural Life 500g",
     "price": 8.49,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/beb2872e-adbb-42d6-9d67-21b10a28d6d5.jpg",
     "market": "Perim"
   },
   {
-    "id": "264",
+    "id": "265",
     "name": "Açucar Mascavo Da Roça Juliana 1kg",
     "price": 13.49,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e3c154ed-1976-4f4b-bac5-baba66848439.jpg",
     "market": "Perim"
   },
   {
-    "id": "265",
+    "id": "266",
     "name": "Açucar Mascavo Da Roça Juliana 500g",
     "price": 8.19,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/75d78599-e23f-4032-b5f2-d8bd197a536d.jpg",
     "market": "Perim"
   },
   {
-    "id": "266",
+    "id": "267",
     "name": "Açúcar Mascavo Vale Das Águas 500g",
     "price": 7.39,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/4a24ef0d-912b-4370-96f1-4888a2ffa5a2.jpg",
     "market": "Perim"
   },
   {
-    "id": "267",
+    "id": "268",
     "name": "Açúcar Cristal Caravelas Pacote 2kg",
     "price": 8.59,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e6b57692-ff90-4e5a-8f88-60097df9487d.jpg",
     "market": "Perim"
   },
   {
-    "id": "268",
+    "id": "269",
     "name": "Po P/pudim Lowcucar Zero Acucar Leite Cond Cx 25g",
     "price": 5.19,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/9882a36c-2eba-47c9-a6f3-769e29c19cf5.jpg",
     "market": "Perim"
   },
   {
-    "id": "269",
+    "id": "270",
     "name": "Po P/pudim Lowcucar Zero Acucar Coco Cx 25g",
     "price": 5.19,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d4cbe7f8-76aa-4c85-95aa-9d4a444ca07b.jpg",
     "market": "Perim"
   },
   {
-    "id": "270",
+    "id": "271",
     "name": "Preparo De Gelatina Em Pó Framboesa Zero Açúcar Royal Pacote 12g",
     "price": 4.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/9b247fa2-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "271",
+    "id": "272",
     "name": "Granola Ws Naturais Zero Açúcar Pacote 500g",
     "price": 29.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8c772457-f1c8-43e5-8435-b5179d0b19c2.jpg",
     "market": "Perim"
   },
   {
-    "id": "272",
+    "id": "273",
     "name": "Po P/gelatina Lowcucar Zero Acucar Amora Cx 10g",
     "price": 4.39,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/37649812-89f6-4971-9ce2-716f32e46272.jpg",
     "market": "Perim"
   },
   {
-    "id": "273",
+    "id": "274",
     "name": "Iogurte Ligth Morango 180g",
     "price": 4.19,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e2ed5daa-c0b2-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "274",
+    "id": "275",
     "name": "Condimento Preparado De Mostarda Amarela Americana Sem Adição De Açúcar Hemmer Zero Squeeze 200g",
     "price": 13.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/4fe6684b-4e56-462b-949c-9270062df553.jpg",
     "market": "Perim"
   },
   {
-    "id": "275",
+    "id": "276",
     "name": "Biscoito Com Recheio De Dark Vanilla Zero Lactose Zero Açúcar Lowçucar Pacote 120g",
     "price": 9.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/2fc33886-7e80-434c-8130-d2567fe110bc.jpg",
     "market": "Perim"
   },
   {
-    "id": "276",
+    "id": "277",
     "name": "Ketchup Tradicional Sem Adição De Açúcar Hemmer Zero Squeeze 310g",
     "price": 10.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8f26c2ab-f485-487f-a873-e4e98569ac56.jpg",
     "market": "Perim"
   },
   {
-    "id": "277",
+    "id": "278",
     "name": "Refrigerante Soda Limonada Antarctica Zero Adição De Açúcar Pet 2 Litros",
     "price": 8.49,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/808236aa-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "278",
+    "id": "279",
     "name": "Doce De Leite Flormel Zero Açucar 20g",
     "price": 6.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bd9267a2-0587-40a1-9a66-81e776bd389a.jpg",
     "market": "Perim"
   },
   {
-    "id": "279",
+    "id": "280",
     "name": "Refrigerante Água Tônica Antarctica Diet Lata 350ml",
     "price": 4.39,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0b136680-4f70-44a1-a650-64150e61ef74.jpg",
     "market": "Perim"
   },
   {
-    "id": "280",
+    "id": "281",
     "name": "Biscoito Maisena Para Dietas De Ingestão Controlada De Açúcares E Para Restrição De Lactose Zero Gorduras Trans Zero Lactose Sem Adição De Açúcar Lowç",
     "price": 9.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d8b7bf7c-0ad8-4336-b5f7-b087a0996895.jpg",
     "market": "Perim"
   },
   {
-    "id": "281",
+    "id": "282",
     "name": "Preparado Sólido De Fruta Para Refresco Em Pó Maracujá Zero Açúcar Clight Pacote 8g",
     "price": 2.39,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a2fe9665-3ec2-4a86-91fb-02bdc9fe9fae.jpg",
     "market": "Perim"
   },
   {
-    "id": "282",
+    "id": "283",
     "name": "Refrigerante De Laranja Fanta Zero Adição De Açúcar Pet 2 Litros",
     "price": 6.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/cd31bcd9-2447-4f0b-b0e9-2dba45e27f15.jpg",
     "market": "Perim"
   },
   {
-    "id": "283",
+    "id": "284",
     "name": "Refresco Em Pó Tangerina Zero Açúcar Fit Pacote 10g",
     "price": 1.79,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/fddf84d5-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "284",
+    "id": "285",
     "name": "Biscoito Wafer Com Recheio De Morango Zero Gorduras Trans Zero Lactose Sem Adição De Açúcar Lowçucar Pacote 115g",
     "price": 12.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/2db804b6-2cbd-4311-8451-68bef442edd1.jpg",
     "market": "Perim"
   },
   {
-    "id": "285",
+    "id": "286",
     "name": "Pó Para Gelatina Para Dietas De Ingestão Controlada De Açúcares Artificial De Morango Lowçucar Caixa 10g",
     "price": 4.39,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/261098fc-dcc7-41bc-a1af-ea1afcfc83ea.jpg",
     "market": "Perim"
   },
   {
-    "id": "286",
+    "id": "287",
     "name": "Gelatina Em Pó Com Stevia Limão Zero Açúcar Para Dietas De Ingestão Controlada De Açúcares Lowçucar Plus Caixa 10g",
     "price": 4.79,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/34d3a99c-50cb-49f8-b979-5d62d5363eae.jpg",
     "market": "Perim"
   },
   {
-    "id": "287",
+    "id": "288",
     "name": "Refresco Em Pó Magro Uva Zero 8g",
     "price": 1.89,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/11dab5be-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "288",
+    "id": "289",
     "name": "Refresco Em Pó Uva Zero Açúcar Fit Pacote 8g",
     "price": 1.79,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/14e43135-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "289",
+    "id": "290",
     "name": "Vinagre De Frutas Maca Senhor Viccino Zero 500ml",
     "price": 22.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/14bdaccc-b847-48f4-a3e0-a3b79c866cdd.jpg",
     "market": "Perim"
   },
   {
-    "id": "290",
+    "id": "291",
     "name": "Iogurte Polpa Veneza Morango Zero Acucar 800g",
     "price": 11.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e64bd2f7-0861-4847-b72d-7a002127b1ea.jpg",
     "market": "Perim"
   },
   {
-    "id": "291",
+    "id": "292",
     "name": "Refresco Em Pó Magro Limão Zero 8g",
     "price": 1.89,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/1211165c-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
     "market": "Perim"
   },
   {
-    "id": "292",
+    "id": "293",
     "name": "Gelatina Lowcucar Zero Ac.10g Framboesa",
     "price": 4.39,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/54245c62-93f4-441a-a0bd-e3c0eeb11cf9.jpg",
     "market": "Perim"
   },
   {
-    "id": "293",
+    "id": "294",
     "name": "Geleia Casa Madeira 220g Sugar Free Amora",
     "price": 33.99,
     "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/aad178f0-4865-4f70-9569-e357e3efc25f.jpg",
-    "market": "Perim"
-  },
-  {
-    "id": "294",
-    "name": "Chocolate Meio Amargo 50% Cacau Zero Açúcar Vitao Pacote 22g",
-    "price": 8.49,
-    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/021624ef-4395-4b4f-aacb-b28709c7d7c8.jpg",
     "market": "Perim"
   },
   {
@@ -4152,9 +4152,9 @@
   },
   {
     "id": "594",
-    "name": "Coxa e Sobrecoxa de Frango Congelada Uniaves Pacote 1,5Kg\n\nAproximadamente 1,7Kg\nR$ 20,38",
-    "price": 11.99,
-    "image": "https://www.extrabom.com.br/media/produtos/200x200/3056_20170525181210_thumb_3056_CoxaseSobrecoxas.jpg_.webp",
+    "name": "Coxa e Sobrecoxa de Frango Congelado Pif Paf Pacote 1,5Kg\n\nAproximadamente 1,5Kg\nR$ 19,49",
+    "price": 12.99,
+    "image": "https://www.extrabom.com.br/media/produtos/200x200/3075_20250522164841_thumb_Sem_titulo2.png_.webp",
     "market": "Extrabom"
   },
   {

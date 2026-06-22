@@ -149,7 +149,7 @@
   {
     "id": "22",
     "name": "Arroz Alegre Tipo 1 5 kg",
-    "price": 15.8,
+    "price": 15.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/165535_20230817151529_thumb_Arroz_alegre.jpg_.webp",
     "market": "Extrabom"
   },
@@ -177,7 +177,7 @@
   {
     "id": "26",
     "name": "Arroz Calafate Tipo 1 5Kg",
-    "price": 15.98,
+    "price": 14.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8067_7896010300017.jpg_.webp",
     "market": "Extrabom"
   },
@@ -204,79 +204,79 @@
   },
   {
     "id": "30",
+    "name": "Arroz Integral Prato Fino 1Kg",
+    "price": 5.39,
+    "image": "https://www.extrabom.com.br/media/produtos/200x200/9509_20250925173825_thumb_image.png_.webp",
+    "market": "Extrabom"
+  },
+  {
+    "id": "31",
     "name": "Arroz Integral Rampinelli 1kg",
     "price": 4.19,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/95155_20180821135102_thumb_95155ArrozIntegralRampinelli1kg1.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "31",
+    "id": "32",
     "name": "Arroz Integral Tio João 1Kg",
     "price": 5.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9527_20190412103138_thumb_9527ArrozIntegralTioJoao1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "32",
+    "id": "33",
     "name": "Arroz Jasmine Tailandesa Tio João 1kg",
     "price": 15.99,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "33",
+    "id": "34",
     "name": "Arroz Minaminai Azuma 1kg",
     "price": 25.9,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/49786_20200303145011_thumb_Arroz_Minaminai_1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "34",
+    "id": "35",
     "name": "Arroz Parboilizado Prato Fino 1kg",
     "price": 5.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/99391_20250911155225_thumb_PACKSHOT_PF_1KG_PARBO.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "35",
+    "id": "36",
     "name": "Arroz Prato Fino Tipo 1 2kg",
     "price": 10.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8123_20251014164419_thumb_image__17.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "36",
+    "id": "37",
+    "name": "Arroz Prato Fino Tipo 1 5kg",
+    "price": 26.9,
+    "image": "https://www.extrabom.com.br/media/produtos/200x200/8127_20250813141521_thumb_Sem_titulo3.png_.webp",
+    "market": "Extrabom"
+  },
+  {
+    "id": "38",
     "name": "Arroz Puro Grão Branco Tipo 1 5Kg",
     "price": 17.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8133_20221117165327_thumb_Mockup_Puro_Grao_Tipo_1_5_kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "37",
+    "id": "39",
     "name": "Arroz Rampinelli Tipo 1 Parboilizado 2kg",
     "price": 7.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/7793_7896546113327.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "38",
+    "id": "40",
     "name": "Arroz Saboroso TP1 5Kg",
     "price": 16.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/137986_20250919153214_thumb_image__4__removebg_preview.png_.webp",
-    "market": "Extrabom"
-  },
-  {
-    "id": "39",
-    "name": "Arroz Sepé Bianco Tipo 1 1Kg",
-    "price": 4.79,
-    "image": "https://www.extrabom.com.br/media/produtos/200x200/7848_20241004103605_thumb_Sem_titulo2.png_.webp",
-    "market": "Extrabom"
-  },
-  {
-    "id": "40",
-    "name": "Arroz Sepé Bianco Tipo 1 2kg",
-    "price": 8.39,
-    "image": "https://www.extrabom.com.br/media/produtos/200x200/7852_20241004103941_thumb_Sem_titulo3.png_.webp",
     "market": "Extrabom"
   },
   {
@@ -330,93 +330,93 @@
   },
   {
     "id": "48",
+    "name": "Feijão Preto Juju Tipo 1 1kg",
+    "price": 6.89,
+    "image": "https://www.extrabom.com.br/media/produtos/200x200/85565_20210204152652_thumb_85565_Feijao_Preto_Juju_Tipo_1_1kg.png_.webp",
+    "market": "Extrabom"
+  },
+  {
+    "id": "49",
     "name": "Feijão Preto Lívia Tipo 1 1kg",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/201286_20250528164943_thumb_image__57.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "49",
+    "id": "50",
     "name": "Feijão Preto Nico Tipo 1 1Kg",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9076_20170619100409_thumb_9076_feijao_preto_nico_1kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "50",
+    "id": "51",
     "name": "Feijão Preto Ranchinho 1kg",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9081_7896612700055.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "51",
+    "id": "52",
     "name": "Feijão Preto Sepé T1 1kg",
     "price": 8.49,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/204042_20251014155524_thumb_image__6.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "52",
+    "id": "53",
     "name": "Feijão Preto Zuppa Tipo 1 1kg",
     "price": 5.58,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/173047_20220819152543_thumb_feijao_preto__1.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "53",
+    "id": "54",
     "name": "Feijão Rajado Nico Tipo 1 1Kg",
     "price": 7.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9296_20170921130313_thumb_9296_FeijaoRajadoNicoTipo11kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "54",
+    "id": "55",
     "name": "Feijão Vermelho Combrasil T1 1Kg",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9304_20250625174058_thumb_Sem_titulo4.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "55",
+    "id": "56",
     "name": "Feijão Vermelho das Lorenção 1Kg",
     "price": 13.49,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/2911_7898293221942.JPG_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "56",
+    "id": "57",
     "name": "Feijão Vermelho Juju Tipo 1 1kg",
     "price": 8.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/85564_20191010164534_thumb_Feijao_Vermelho_Juju_Tipo_1_1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "57",
+    "id": "58",
     "name": "Feijão Vermelho Ranchinho 1Kg",
     "price": 8.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/9321_7896612700062.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "58",
+    "id": "59",
     "name": "Feijão Vermelho Sepé T1 1kg",
     "price": 9.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/204044_20251013174944_thumb_Sem_titulo3.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "59",
+    "id": "60",
     "name": "Feijão Vermelho Zuppa Tipo 1 1kg",
     "price": 6.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/173048_20220819154035_thumb_Feijao_Vermelho_Zuppa_1kg.png_.webp",
-    "market": "Extrabom"
-  },
-  {
-    "id": "60",
-    "name": "Feijão Carioca Combrasil 1kg",
-    "price": 11.9,
-    "image": "https://www.extrabom.com.br/media/produtos/200x200/8615_20250625161132_thumb_Sem_titulo2.png_.webp",
     "market": "Extrabom"
   },
   {
@@ -841,555 +841,975 @@
   },
   {
     "id": "121",
+    "name": "Óleo De Soja Liza Pet 900ml",
+    "price": 7.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/2ffa7f4a-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "122",
+    "name": "Óleo De Soja Soya Pet 900ml",
+    "price": 7.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/309aab63-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "123",
+    "name": "Óleo De Soja Abc Pet 900ml",
+    "price": 7.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3646dbd1-3749-4255-9c92-7df12c61d741.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "124",
+    "name": "Óleo De Coco Natural Life 200ml",
+    "price": 29.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/fa7f2fdb-e91e-4ac2-9874-4c42f076bfd2.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "125",
+    "name": "Óleo Misto De Soja E Azeite De Oliva Faisão Real Vidro 500ml",
+    "price": 14.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c49f8149-2116-4745-b3a1-c67e31edf7cb.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "126",
+    "name": "Óleo Misto De Soja E Oliva Português Casablanca Vidro 500ml",
+    "price": 12.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d9db503f-9506-4a1c-bc0e-f5f0fea191da.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "127",
+    "name": "Óleo De Milho Sinhá Pet 900ml",
+    "price": 13.69,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/2f916ef7-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "128",
+    "name": "Óleo Para Máquina King Lubrificante Multiuso 100ml",
+    "price": 6.49,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/11af21dd-c0b9-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "129",
+    "name": "Óleo De Girassol Sinhá Pet 900ml",
+    "price": 11.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3137c59e-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "130",
+    "name": "Óleo Sinhá Canola Pet 900ml",
+    "price": 13.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/80b8657d-4f4b-49de-9db2-82fc8c322b1b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "131",
+    "name": "Óleo De Canola Liza Pet 900ml",
+    "price": 17.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/311996a4-c0b6-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "132",
+    "name": "Óleo Para Móveis Peroba King Squeeze 200ml",
+    "price": 18.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/38275ec1-c0ba-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "133",
+    "name": "Óleo De Canola Purilev Pet 900ml",
+    "price": 19.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/ad5c43d9-c0ba-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "134",
+    "name": "Óleo De Girassol Liza Pet 900ml",
+    "price": 17.49,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/4cc3d8a7-0208-4d6b-a963-b4f7cfe48135.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "135",
+    "name": "Óleo Para Móveis Peroba King Squeeze 500ml",
+    "price": 39.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0198820b-b8af-474e-91de-f0c6137a8ffe.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "136",
+    "name": "Óleo De Milho Liza Pet 900ml",
+    "price": 19.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/b64b8b9e-f355-4f7d-a6c0-dbe224260dd4.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "137",
+    "name": "Óleo De Banana Ideal Frasco 30ml",
+    "price": 5.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/22ec75bb-c0b8-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "138",
+    "name": "Óleo Lubrificante Singer 100ml",
+    "price": 7.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/ab30da5f-564c-4e41-95c7-a29abe58defd.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "139",
+    "name": "Óleo Para Móveis Peroba King Squeeze 100ml",
+    "price": 10.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/38f21c98-c0ba-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "140",
+    "name": "Óleo Composto Faisão 200ml",
+    "price": 8.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/5ca582e3-9297-4d15-8fd8-ec67d6f99a2f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "141",
     "name": "Farinha de Mandioca Amarela Fina Rocha 1kg",
     "price": 5.49,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/106146_20190514134524_thumb_106146FarinhadeMandiocaAmarelaFinaRocha1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "122",
+    "id": "142",
     "name": "Farinha de Mandioca Amarela Juju 1kg",
     "price": 6.19,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/85568_20220523120408_thumb_85568_FARINHA_MAND_AMAR_JUJU_1KG_removebg_preview.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "123",
+    "id": "143",
     "name": "Farinha de Mandioca Amarela Juparanã 1kg",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/83261_20211209144216_thumb_83261_Farinha_de_Mandioca_Amarela_Juparana_1kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "124",
+    "id": "144",
     "name": "Farinha de Mandioca Amarela Zuppa Tipo 1 1kg",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/173044_20220819154652_thumb_Farinha_Amarela_Zuppa_1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "125",
+    "id": "145",
     "name": "Farinha de Mandioca Branca Juju 1kg",
     "price": 5.49,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/85567_20191010164351_thumb_Farinha_de_Mandioca_Branca_Juju_1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "126",
+    "id": "146",
     "name": "Farinha de Mandioca Branca Juparana 1kg",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/83260_20190226104522_thumb_83260FarinhadeMandiocaBrancaJuparana1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "127",
+    "id": "147",
     "name": "Farinha de Mandioca Branca Rocha 1kg",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "128",
+    "id": "148",
     "name": "Farinha de Mandioca Dinda 1Kg",
     "price": 4.49,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8447_farinha_de_mandioca_dinda_1kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "129",
+    "id": "149",
     "name": "Farinha de Mandioca Flocada Biju Rocha 500g",
     "price": 3.98,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "130",
+    "id": "150",
     "name": "Farinha de Mandioca Leste 1Kg",
     "price": 5.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8457_7896010300192.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "131",
+    "id": "151",
     "name": "Farinha de Mandioca Leste Torrada 500G",
     "price": 3.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/95684_20240924140845_thumb_Farinha_de_Mandioca_Leste_Torrada_500G.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "132",
+    "id": "152",
     "name": "Farinha de Mandioca Torrado Japurana 1kg",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/83263_20190130150417_thumb_83263FarinhadeMandiocaTorradoJapurana1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "133",
+    "id": "153",
     "name": "Farinha de Mandioca Torrado Rocha 1kg",
     "price": 5.99,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "134",
+    "id": "154",
     "name": "Farinha de Mandioca Amarela das Montanhas 1kg",
     "price": 9.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/2955_7896137894055.JPG_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "135",
+    "id": "155",
     "name": "Farinha de Mandioca Amarelinha da Bahia Leste 1kg",
     "price": 6.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8391_20170527110859_thumb_8391_FarinhadeMandiocaAmarelinhadaBahiaLeste1kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "136",
+    "id": "156",
     "name": "Farinha de Mandioca Branca das Montanhas 1kg",
     "price": 9.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/2924_7898293221928.JPG_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "137",
+    "id": "157",
     "name": "Farinha de Mandioca Branca Nico 1kg",
     "price": 4.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8425_20170921125304_thumb_8425_FarinhadeMandiocaBrancaNico1kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "138",
+    "id": "158",
     "name": "Farinha de Mandioca Torrada das Montanhas 1kg",
     "price": 9.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/2981_7898137890365.JPG_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "139",
+    "id": "159",
     "name": "Cesta Básica Nossa Cesta Unidade",
     "price": 79.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "140",
+    "id": "160",
     "name": "Farinha de Trigo Número Um 1Kg",
     "price": 3.29,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8458_20211213112931_thumb_8458_Farinha_de_Trigo_Numero_Um_1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "141",
+    "id": "161",
     "name": "Farinha de Trigo Número Um Embalagem de Papel 1kg",
     "price": 3.29,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/58232_20240502144927_thumb_Sem_titulo21.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "142",
+    "id": "162",
     "name": "Farinha de Trigo Regina 1Kg",
     "price": 4.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8464_20240502153745_thumb_Sem_titulo25.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "143",
+    "id": "163",
     "name": "Farinha de Trigo Regina Gourmet 1kg",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/100462_20240502154204_thumb_Sem_titulo26.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "144",
+    "id": "164",
     "name": "Farinha de Trigo Regina Integral 1kg",
     "price": 5.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/33759_20240502154543_thumb_Sem_titulo27.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "145",
+    "id": "165",
     "name": "Farinha de Trigo Regina para Pizza com Massa Madre 1kg",
     "price": 5.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/193332_20240502160813_thumb_Sem_titulo28.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "146",
+    "id": "166",
     "name": "Farinha de Trigo Rosa Branca 1kg",
     "price": 3.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/19733_20241210165650_thumb_Sem_titulo4.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "147",
+    "id": "167",
     "name": "Farinha de Trigo Tipo 1 Extra Clara Adria Premium 1kg",
     "price": 3.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/184652_extrabom_farinhas-farofas_farinha-de-trigo-tipo-1-extra-clara-adria-premium-pacote-1kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "148",
+    "id": "168",
     "name": "Farinha de Trigo Venturelli Pacote Papel 1kg",
     "price": 6.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101419_20200227114342_thumb_Farinha_de_Trigo_Venturelli_Pacote_Papel_1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "149",
+    "id": "169",
     "name": "Farinha de Trigo com Fermento Rosa Branca 1kg",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/32175_20190514101923_thumb_32175FarinhadeTrigocomFermentoRosaBranca1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "150",
+    "id": "170",
     "name": "Cesta Básica Nossa Cesta Unidade",
     "price": 79.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/17875_20210414122255_thumb_17875_cesta_basica_Ideal.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "151",
+    "id": "171",
     "name": "Amido de Milho Maizena 500g Oferta Especial",
     "price": 14.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/187307_extrabom_farinhas-graos-secos_amido-de-milho-maizena-500g-oferta-especial.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "152",
+    "id": "172",
     "name": "Biscoito Cookie com Gotas de Chocolate Vegano Integral Chocolate Jasmine 120g",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10242_extrabom_biscoitos_biscoito-cookie-com-gotas-de-chocolate-vegano-integral-chocolate-jasmine-120g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "153",
+    "id": "173",
     "name": "Biscoito Cookie Vegano Integral Ameixa e Coco Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10205_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-ameixa-e-coco-120g_2.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "154",
+    "id": "174",
     "name": "Biscoito Cookie Vegano Integral Cappuccino e Avelã Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10217_extrabom_biscoitos_biscoito-cookie-vegano-integral-cappuccino-e-avela-zero-acucar-jasmine-120g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "155",
+    "id": "175",
     "name": "Biscoito Cookie Vegano Integral Castanha do Pará Jasmine 120g",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10042_extrabom_biscoitos_biscoito-cookie-vegano-integral-castanha-do-para-jasmine-120g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "156",
+    "id": "176",
     "name": "Biscoito Cookie Vegano Integral Damasco com Chocolate Zero Açúcar Jasmine 120g",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10227_extrabom_biscoitos_biscoito-cookies-jasmine-integral-diet-damasco-120g_2.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "157",
+    "id": "177",
     "name": "Biscoito Leite Maltado Cobertura Chocolate Piraquê 80g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/149111_extrabom_biscoitos_biscoito-leite-maltado-cobertura-chocolate-piraque-80g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "158",
+    "id": "178",
     "name": "Biscoito Rosquinha Integral Aveia e Mel Zero Lactose Jasmine 120g",
     "price": 11.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/41019_extrabom_biscoitos_rosquinha-integral-jasmine-aveia-e-mel-120g_2.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "159",
+    "id": "179",
     "name": "Biscoito Rosquinha Vegano Integral Maçã e Banana Jasmine 120g",
     "price": 11.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10055_extrabom_biscoitos_rosquinha-integral-jasmine-banana-e-maca-120g_2.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "160",
+    "id": "180",
     "name": "Macarrão Instantâneo Cup Noodles Bolonhesa 72G",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101535_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-bolonhesa-72g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "161",
+    "id": "181",
     "name": "Macarrão Instantâneo Cup Noodles Carne Defumada 69g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101537_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-carne-defumada-69g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "162",
+    "id": "182",
     "name": "Macarrão Instantâneo Cup Noodles Cheddar 69G",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101536_extrabom_massas_macarrao-instantaneo-cup-noodles-cheddar-69g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "163",
+    "id": "183",
     "name": "Macarrão Instantâneo Cup Noodles Costelinha com Molho de Churrasco 68g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101539_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-costelinha-com-molho-de-churrasco-68g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "164",
+    "id": "184",
     "name": "Macarrão Instantâneo Cup Noodles Frango Teriyaki 72g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101904_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-frango-teriyaki-72g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "165",
+    "id": "185",
     "name": "Macarrão Instantâneo Cup Noodles Frutos do Mar 65g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101534_extrabom_massas_macarrao-instantaneo-cup-noodles-frutos-do-mar-65g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "166",
+    "id": "186",
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira 69g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101538_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-69g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "167",
+    "id": "187",
     "name": "Macarrão Instantâneo Cup Noodles Galinha Caipira Picante 68g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/101540_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-galinha-caipira-picante-68g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "168",
+    "id": "188",
     "name": "Macarrão Instantâneo Cup Noodles Nacho 68g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/201258_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-nacho-68g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "169",
+    "id": "189",
     "name": "Macarrão Instantâneo Cup Noodles Parmegiana 68g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/202605_20250527120215_thumb_image__85.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "170",
+    "id": "190",
     "name": "Macarrão Instantâneo Cup Noodles Yakissoba 70g",
     "price": 4.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/105385_extrabom_massas-instantaneas_macarrao-instantaneo-cup-noodles-yakissoba-70g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "171",
+    "id": "191",
     "name": "Macarrão Instantâneo de Arroz sem Glúten Karui Galinha Caipira 78g",
     "price": 3.79,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/201445_extrabom_massas-instantaneas_macarrao-instantaneo-de-arroz-sem-gluten-karui-galinha-caipira-78g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "172",
+    "id": "192",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Bacon 85G",
     "price": 2.89,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8780_20171106150821_thumb_8780_MacarraoInstantaneoLamenNissinMiojoBacon85g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "173",
+    "id": "193",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Calabresa Picante 85g",
     "price": 2.89,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/206563_20250825112219_thumb_image__33.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "174",
+    "id": "194",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne 85G",
     "price": 2.89,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8764_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-carne-85g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "175",
+    "id": "195",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne com Tomate 85G",
     "price": 2.89,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8808_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-carne-com-tomate-85g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "176",
+    "id": "196",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Carne Picante 85g",
     "price": 2.89,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/206625_20250825112646_thumb_image__35.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "177",
+    "id": "197",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Frango Assado com Toque de Limão 85g",
     "price": 2.89,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/37222_20171106162523_thumb_37222_MacarraoInstantaneoLamenNissinMiojoFrangoAssadocomToquedeLimao85g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "178",
+    "id": "198",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Galinha 85G",
     "price": 2.89,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8767_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-galinha-85g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "179",
+    "id": "199",
     "name": "Macarrão Instantâneo Lámen Nissin Miojo Galinha Caipira 85G",
     "price": 2.89,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/8813_extrabom_massas_macarrao-instantaneo-lamen-nissin-miojo-galinha-caipira-85g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "180",
+    "id": "200",
+    "name": "Macarrão Instantâneo Com Tempero De Picanha Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bc24e78d-3667-43b2-a9c7-3ef72a9ff84f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "201",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/38d67525-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "202",
+    "name": "Macarrão Instantâneo Com Tempero De Bolonhesa Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d3c5134b-ce9b-41fd-ba9b-f2b8bbc5261b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "203",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Com Tomate Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c55aca93-1509-4d9a-9b8e-a9e24e6993d8.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "204",
+    "name": "Macarrão Instantâneo Com Tempero De Costela Nissin Lámen Pacote 85g Sendo 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/b477fc43-bdcd-48c1-b266-f411ccc3b20b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "205",
+    "name": "Macarrão Instantâneo Com Tempero De Frango Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3158fe62-34db-4ad8-ad4c-415c6946bcb3.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "206",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/caf5998d-686d-428e-a78e-c2406d2f7559.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "207",
+    "name": "Macarrão Instantâneo Com Tempero De Bacon Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/30c92096-4b34-454d-a458-c1becdcef74c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "208",
+    "name": "Macarrão Instantâneo Com Tempero De Galinha Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e861e454-98d7-48fd-a7cb-57fae325ac3f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "209",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Com Tomate Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bb06bd47-8171-490e-9fec-0f82e7352742.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "210",
+    "name": "Macarrão Instantâneo Com Tempero De Galinha Caipira Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/390ee5ec-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "211",
+    "name": "Macarrão Instantâneo Com Tempero De Frango Assado Com Toque De Limão Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3c8760ba-5f37-4f3a-a72d-a025361e362b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "212",
+    "name": "Macarrão Instantâneo Com Tempero De Tomate Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/180fdb2b-e748-4aa2-a33e-9b8ee676c6ee.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "213",
+    "name": "Macarrão Instantâneo Yakissoba Nissin Pacote 500g",
+    "price": 9.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a828682b-512b-436f-8555-db6d630108c3.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "214",
+    "name": "Macarrão Instantâneo Com Tempero De Queijo Cheddar Nissin Cup Noodles Copo 69g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0deef69e-52d6-402f-977d-ef124b2e5aff.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "215",
+    "name": "Macarrão Instantâneo Com Tempero Curry Nissin Cup Noodles Copo 70g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a3fe45bd-a094-4ad5-ada9-5961cfb6eb8f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "216",
+    "name": "Macarrão Instantâneo Com Tempero De Frango Com Molho Teriyaki Nissin Cup Noodles Copo 72g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/eec12f27-6e2b-4bfb-bec6-fb01817a7bfe.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "217",
+    "name": "Macarrão Instantâneo Com Tempero De Bolonhesa Nissin Cup Noodles Copo 72g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/6057cc6a-a152-49ed-b74f-5f9a654bf2a2.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "218",
+    "name": "Macarrão Instantâneo Com Tempero De Costela Com Molho De Churrasco Nissin Cup Noodles Copo 68g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/431134cd-d52d-46b3-a179-5e92bdac31dc.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "219",
+    "name": "Macarrão Instantâneo Espaguete Com Ovos 3 Minutos Nissin Pacote 500g",
+    "price": 9.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3a3d5d34-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "220",
     "name": "Frango com Miúdos Congelado Oi Frango Kg\n\nAproximadamente 3kg\nR$ 41,97",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/147406_20210225104807_thumb_Frango_com_Miudos_Congelado_Oi_Frango_Kg__1.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "181",
+    "id": "221",
     "name": "Linguiça de Frango Congelado Kifrango kg\n\nQuantidade mínima: 0,300 kg",
     "price": 17.99,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "182",
+    "id": "222",
     "name": "Asa Frango Congelada Kifrango Pacote 1,5Kg\n\nAproximadamente 1,5Kg\nDe: R$ 25,49 Por: R$ 22,47",
     "price": 14.98,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/3099_20190315150748_thumb_3099AsaFrangoCongeladoKifrangoPacote1_5Kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "183",
+    "id": "223",
     "name": "Asa Frango Congelada Uniaves Pacote 1,5Kg\n\nAproximadamente 1,5Kg\nR$ 28,49",
     "price": 18.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/3111_20170711131335_thumb_3111_AsaFrangoUniaves.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "184",
+    "id": "224",
     "name": "Asa Frango Sadia Bandeja 1Kg",
     "price": 21.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/10_extrabom_aves-congeladas_asa-frango-sadia-bandeja-1kg_1.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "185",
+    "id": "225",
     "name": "Big Chicken Frango com Queijo 1kg Perdigão",
     "price": 31.9,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/3800_extrabom_congelados_big-chicken-frango-com-queijo-1kg-perdigao_1.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "186",
+    "id": "226",
     "name": "Big Chicken frango tradicional 1kg Perdigão",
     "price": 31.9,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/3794_extrabom_congelados_big-chicken-frango-tradicional-1kg-perdigao_1.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "187",
+    "id": "227",
     "name": "Caldo Knorr Galinha 152 g 16 cubos",
     "price": 6.39,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/193831_extrabom_temperos-prontos_caldo-knorr-galinha-152g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "188",
+    "id": "228",
     "name": "Caldo Knorr Legumes 57g 6 cubos",
     "price": 3.19,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/343_extrabom_temperos-prontos_caldo-knorr-legumes-57g.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "189",
+    "id": "229",
     "name": "Coração de Frango Congelado Aurora Bandeja 1kg",
     "price": 35.9,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/197595_20240712101700_thumb_Sem_titulo2.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "190",
+    "id": "230",
     "name": "Coração de Frango Congelado Oi Frango Bandeja 1kg",
     "price": 46.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/167988_20211223110221_thumb_167988_Coracao_de_Frango_Congelado_Oi_Frango_Bandeja_1kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "191",
+    "id": "231",
     "name": "CORAÇAO DE FRANGO PIF PAF BANDEJA 1KG",
     "price": 49.9,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/3766_20250522173337_thumb_Sem_titulo1.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "192",
+    "id": "232",
     "name": "Coração de Frango Resfriado Temperado Corella kg\n\nQuantidade mínima: 1,000 kg",
     "price": 69.9,
     "image": "https://www.extrabom.com.br/frontend/img/no-image-200x200.png?v=2_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "193",
+    "id": "233",
     "name": "Coração de Frango Sadia 1kg",
     "price": 40.9,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/133_extrabom_aves-congeladas_coracao-de-frango-sadia-1kg.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "194",
+    "id": "234",
     "name": "Coxa de Frango Congelada Oi Frango 1Kg",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/167989_20220218152655_thumb_167989_COXAS_FRANGO_CONG_OI_FGO_BDJ_1KG_removebg_preview.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "195",
+    "id": "235",
+    "name": "Coxa de frango congelada Sadia 1kg",
+    "price": 16.99,
+    "image": "https://www.extrabom.com.br/media/produtos/200x200/149850_extrabom_aves-congeladas_coxa-de-frango-congelada-sadia-1kg.jpg_.webp",
+    "market": "Extrabom"
+  },
+  {
+    "id": "236",
     "name": "Coxa de Frango Congelado Pif Paf IQF 1kg",
     "price": 13.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/166488_20251119103214_thumb_image__24.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "196",
+    "id": "237",
     "name": "Coxa de Frango Temperado Assa Fácil Perdigão 1,2kg",
     "price": 23.9,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/59721_20200717142040_thumb_59721Coxa_de_Frango_Temperado_Assa_Facil_Perdigao_1_2kg.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "197",
+    "id": "238",
     "name": "Coxa de Frango Uniaves Pacote 1,2kg\n\nAproximadamente 1,200Kg\nR$ 14,39",
     "price": 11.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/138369_20240925094005_thumb_Sem_titulo27.png_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "198",
+    "id": "239",
     "name": "Coxa e Sobrecoxa de Frango à Passarinho Congelado Sadia 1kg",
     "price": 27.99,
     "image": "https://www.extrabom.com.br/media/produtos/200x200/45_extrabom_congelados_coxa-e-sobrecoxa-de-frango-a-passarinho-congelado-sadia-1kg_1.jpg_.webp",
     "market": "Extrabom"
   },
   {
-    "id": "199",
-    "name": "Coxa e Sobrecoxa de Frango com Dorso Oi Frango 1,200Kg\n\nAproximadamente 1,200kg\nR$ 10,07",
-    "price": 8.39,
-    "image": "https://www.extrabom.com.br/media/produtos/200x200/93444_20220518171649_thumb_93444_Coxa_e_Sobrecoxa_de_Frango_com_Dorso_Oi_Frango_1_200kg.png_.webp",
-    "market": "Extrabom"
+    "id": "240",
+    "name": "Frango A Passarinho Coxa/sobrecoxa Uniaves Temperado 700g",
+    "price": 11.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/10d416ee-724d-4505-9c18-016e7aebd76a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "241",
+    "name": "Frango A Passarinho Peito, Coxas, Sobrecoxas, Coxinhas Das Asas Com Meios Das Asas E Dorso Congelado Sadia 1kg",
+    "price": 17.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0f2cca1b-28df-406a-88a9-dcacb36876b6.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "242",
+    "name": "Frango À Parmegiana Sadia Pacote 500g",
+    "price": 24.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/ee4e0e57-1cb2-41fc-a4e4-9ba8efe88622.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "243",
+    "name": "Farinha Água Na Boca Para Empanado Frango 250g",
+    "price": 7.69,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8b4cc26c-1f1b-4360-9e5d-072689cf3b8c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "244",
+    "name": "Frango Em Tiras Vegetal Fazenda Futuro Caixa 200g",
+    "price": 30.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/ebad73f2-2055-4a36-bf2b-ee94bb48a03b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "245",
+    "name": "Frango Congelado A Passarinho Temperado Aurora 800g",
+    "price": 16.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3b2aade7-8370-4461-901d-f0194679a3de.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "246",
+    "name": "Sobrecoxa De Frango Congelada Temperada No Forno Sadia Frango Fácil 800g",
+    "price": 14.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e5a2e7f5-73b7-4d81-b5f7-5cf1f3957426.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "247",
+    "name": "Empanado De Frango Seara Big Tekitos Frango E Orégano Pacote 900g",
+    "price": 24.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/f6fad126-aeae-4d24-bc8d-debe8d1aadd8.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "248",
+    "name": "Pedaços De Peito De Frango Empanado Iscas De Frango Sadia Tempurá Pacote 300g",
+    "price": 17.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a758cf57-9df7-4b28-9c69-bcc97abd8b91.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "249",
+    "name": "Tempero Sazón Para Frango Pacote 60g 12 Unidades De 5g Cada",
+    "price": 6.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/35336eb1-c0b4-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "250",
+    "name": "Moela Frango Uniaves 1kg",
+    "price": 20.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bf3d1129-a127-4453-8037-19dc808a4b84.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "251",
+    "name": "Filé De Peito De Frango Congelado Sadia 1kg",
+    "price": 23.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0f8b7742-f891-4522-aef4-63ebc23a53cb.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "252",
+    "name": "Alimento Para Cães Adultos Frango Ao Molho Cozido A Vapor Pedigree Vital Pro Sachê 100g",
+    "price": 3.48,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e55e3dd8-c0b8-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "253",
+    "name": "Lasanha Pif Paf Frango 600g",
+    "price": 12.49,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7520bdb3-a08e-4259-8a7c-d8477e6058b0.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "254",
+    "name": "Tempero Para Carnes Bovina, Suína Ou Frango Toque De Alho Sazón Pacote 60g 12 Unidades De 5g Cada",
+    "price": 6.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/4c68ea18-c0b4-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "255",
+    "name": "Empanado À Base De Carne De Frango Queijo Perdigão Mini Chicken Pacote 275g",
+    "price": 8.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0796b456-79b3-45e7-aa9a-2034287bbd6f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "256",
+    "name": "Mortadela Cofril Frango 500g",
+    "price": 9.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/dd5a23bc-1af0-4aa2-b952-0a1aef8bdd29.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "257",
+    "name": "Capeletti De Frango Mezzani Bandeja 400g",
+    "price": 16.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0bb0c4e9-a10c-4703-9f72-47eae790bba6.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "258",
+    "name": "Empanado De Frango Perdigão Dia A Dia Steak Pacote 100g",
+    "price": 2.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/dee8f8ad-cc79-4bd2-be69-780e0262d91c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "259",
+    "name": "Alimento Para Cães Dog Chow 100g Filhote Frango Ao Molho",
+    "price": 3.18,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/9ab2545e-2e35-4790-a11a-d9aa6914675f.jpg",
+    "market": "Perim"
   }
 ]

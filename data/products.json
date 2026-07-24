@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Farinha De Mandioca Juparanã Torrado T2 1kg",
+    "price": 6.69,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/616bb62c-5dda-4291-9780-0bc3d818a605.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "2",
+    "name": "Farinha De Mandioca Nico 1kg",
+    "price": 4.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d54b22dc-5ce0-45ad-91cf-de833520bfd1.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "3",
+    "name": "Farinha De Mandioca Flocada Grupo Bijusada Tipo Único Acidez Baixa Yoki Pacote 500g",
+    "price": 13.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/fae70adf-7b95-4eb5-b7d9-f2b0b266f2a5.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "4",
+    "name": "Farinha De Mandioca Branca Da Roça 1kg",
+    "price": 5.99,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "5",
+    "name": "Farinha De Mandioca Torrada Da Roça 1kg",
+    "price": 8.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/31e78629-ba6b-4408-8ca7-61429f77febf.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "6",
+    "name": "Farinha De Mandioca Amarela Juparanã 1kg",
+    "price": 6.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e5fe3562-068b-4bd0-be78-b8b5eea16778.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "7",
+    "name": "Farinha De Mandioca Amarela Nico 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/23581699-f0fd-45b2-a8ec-ac95eff41ec0.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "8",
+    "name": "Farinha De Mandioca Pereira 1kg Amarela",
+    "price": 5.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/472d030d-762b-4a9e-88cc-5ed7f2629e37.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "9",
+    "name": "Farinha De Mandioca Branca Bela 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/48cc7538-addd-432f-987b-b20e28c3933a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "10",
+    "name": "Farinha De Mandioca Branca Juparanã 1kg",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c0914e56-a83e-4d21-a841-6517e55bbe2f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "11",
+    "name": "Farinha De Mandioca Branca Mundial 1kg",
+    "price": 9.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/6a5e5a8f-257c-4a36-b7e8-9cc27944e521.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "12",
+    "name": "Farinha De Mandioca Branca Pinduca 1kg",
+    "price": 5.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7019dd86-d1e4-495d-8754-064fd360074e.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "13",
+    "name": "Farinha De Mandioca Torrada Dorico 1kg",
+    "price": 5.59,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "14",
+    "name": "Farinha De Mandioca Torrada Pinduca 1kg",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/5166315d-acef-4dfe-b709-6c7f01085b4d.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "15",
+    "name": "Farinha De Mandioca Amarela Da Roça 1kg",
+    "price": 8.19,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "16",
+    "name": "Farinha De Amêndoas Pote - Aprox. 150g",
+    "price": 16.48,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "17",
+    "name": "Farinha Mandioca Amarela Bela Pacote 1kg",
+    "price": 5.19,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "18",
+    "name": "Farinha Água Na Boca Para Empanado Frango 250g",
+    "price": 7.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8b4cc26c-1f1b-4360-9e5d-072689cf3b8c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "19",
+    "name": "Farinha De Trigo Regina Papel 1kg",
+    "price": 4.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/03e85f99-7aef-4d88-8923-ab8b40fd5bac.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "20",
+    "name": "Farinha Trigo Regina Integral 1kg",
+    "price": 7.29,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c5f14b7f-9d98-49a2-a939-ac551caa6904.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "21",
+    "name": "Frango A Passarinho Coxa/sobrecoxa Uniaves Temperado 700g",
+    "price": 8.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/10d416ee-724d-4505-9c18-016e7aebd76a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "22",
+    "name": "Frango A Passarinho Peito, Coxas, Sobrecoxas, Coxinhas Das Asas Com Meios Das Asas E Dorso Congelado Sadia 1kg",
+    "price": 17.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0f2cca1b-28df-406a-88a9-dcacb36876b6.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "23",
+    "name": "Frango À Parmegiana Sadia Pacote 500g",
+    "price": 24.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/ee4e0e57-1cb2-41fc-a4e4-9ba8efe88622.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "24",
+    "name": "Farinha Água Na Boca Para Empanado Frango 250g",
+    "price": 7.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8b4cc26c-1f1b-4360-9e5d-072689cf3b8c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "25",
+    "name": "Frango Em Tiras Vegetal Fazenda Futuro Caixa 200g",
+    "price": 30.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/ebad73f2-2055-4a36-bf2b-ee94bb48a03b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "26",
+    "name": "Frango Congelado A Passarinho Temperado Aurora 800g",
+    "price": 15.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3b2aade7-8370-4461-901d-f0194679a3de.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "27",
+    "name": "Sobrecoxa De Frango Congelada Temperada No Forno Sadia Frango Fácil 800g",
+    "price": 14.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e5a2e7f5-73b7-4d81-b5f7-5cf1f3957426.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "28",
+    "name": "Empanado De Frango Seara Big Tekitos Frango E Orégano Pacote 900g",
+    "price": 24.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/f6fad126-aeae-4d24-bc8d-debe8d1aadd8.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "29",
+    "name": "Pedaços De Peito De Frango Empanado Iscas De Frango Sadia Tempurá Pacote 300g",
+    "price": 17.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a758cf57-9df7-4b28-9c69-bcc97abd8b91.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "30",
+    "name": "Tempero Sazón Para Frango Pacote 60g 12 Unidades De 5g Cada",
+    "price": 6.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/35336eb1-c0b4-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "31",
+    "name": "Moela Frango Uniaves 1kg",
+    "price": 20.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bf3d1129-a127-4453-8037-19dc808a4b84.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "32",
+    "name": "Filé De Peito De Frango Congelado Sadia 1kg",
+    "price": 23.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0f8b7742-f891-4522-aef4-63ebc23a53cb.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "33",
+    "name": "Alimento Para Cães Adultos Frango Ao Molho Cozido A Vapor Pedigree Vital Pro Sachê 100g",
+    "price": 3.48,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e55e3dd8-c0b8-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "34",
+    "name": "Lasanha Pif Paf Frango 600g",
+    "price": 10.98,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7520bdb3-a08e-4259-8a7c-d8477e6058b0.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "35",
+    "name": "Tempero Para Carnes Bovina, Suína Ou Frango Toque De Alho Sazón Pacote 60g 12 Unidades De 5g Cada",
+    "price": 6.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/4c68ea18-c0b4-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "36",
+    "name": "Empanado À Base De Carne De Frango Queijo Perdigão Mini Chicken Pacote 275g",
+    "price": 8.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0796b456-79b3-45e7-aa9a-2034287bbd6f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "37",
+    "name": "Mortadela Cofril Frango 500g",
+    "price": 9.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/dd5a23bc-1af0-4aa2-b952-0a1aef8bdd29.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "38",
+    "name": "Capeletti De Frango Mezzani Bandeja 400g",
+    "price": 16.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0bb0c4e9-a10c-4703-9f72-47eae790bba6.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "39",
+    "name": "Empanado De Frango Perdigão Dia A Dia Steak Pacote 100g",
+    "price": 2.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/dee8f8ad-cc79-4bd2-be69-780e0262d91c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "40",
+    "name": "Alimento Para Cães Dog Chow 100g Filhote Frango Ao Molho",
+    "price": 2.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/9ab2545e-2e35-4790-a11a-d9aa6914675f.jpg",
+    "market": "Perim"
+  }
+]

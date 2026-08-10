@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Farinha De Mandioca Juparanã Torrado T2 1kg",
+    "price": 6.69,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/616bb62c-5dda-4291-9780-0bc3d818a605.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "2",
+    "name": "Farinha De Mandioca Nico 1kg",
+    "price": 4.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d54b22dc-5ce0-45ad-91cf-de833520bfd1.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "3",
+    "name": "Farinha De Mandioca Flocada Grupo Bijusada Tipo Único Acidez Baixa Yoki Pacote 500g",
+    "price": 13.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/fae70adf-7b95-4eb5-b7d9-f2b0b266f2a5.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "4",
+    "name": "Farinha De Mandioca Branca Da Roça 1kg",
+    "price": 5.99,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "5",
+    "name": "Farinha De Mandioca Torrada Da Roça 1kg",
+    "price": 8.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/31e78629-ba6b-4408-8ca7-61429f77febf.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "6",
+    "name": "Farinha De Mandioca Amarela Juparanã 1kg",
+    "price": 5.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e5fe3562-068b-4bd0-be78-b8b5eea16778.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "7",
+    "name": "Farinha De Mandioca Amarela Nico 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/23581699-f0fd-45b2-a8ec-ac95eff41ec0.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "8",
+    "name": "Farinha De Mandioca Branca Bela 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/48cc7538-addd-432f-987b-b20e28c3933a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "9",
+    "name": "Farinha De Mandioca Branca Juparanã 1kg",
+    "price": 5.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c0914e56-a83e-4d21-a841-6517e55bbe2f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "10",
+    "name": "Farinha De Mandioca Branca Mundial 1kg",
+    "price": 9.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/6a5e5a8f-257c-4a36-b7e8-9cc27944e521.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "11",
+    "name": "Farinha De Mandioca Branca Pinduca 1kg",
+    "price": 5.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7019dd86-d1e4-495d-8754-064fd360074e.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "12",
+    "name": "Farinha De Mandioca Torrada Dorico 1kg",
+    "price": 5.59,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "13",
+    "name": "Farinha De Mandioca Torrada Pinduca 1kg",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/5166315d-acef-4dfe-b709-6c7f01085b4d.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "14",
+    "name": "Farinha De Mandioca Amarela Da Roça 1kg",
+    "price": 8.19,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "15",
+    "name": "Farinha De Amêndoas Pote - Aprox. 150g",
+    "price": 16.48,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "16",
+    "name": "Farinha Mandioca Amarela Bela Pacote 1kg",
+    "price": 5.19,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "17",
+    "name": "Farinha Água Na Boca Para Empanado Frango 250g",
+    "price": 7.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8b4cc26c-1f1b-4360-9e5d-072689cf3b8c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "18",
+    "name": "Farinha De Trigo Regina Papel 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/03e85f99-7aef-4d88-8923-ab8b40fd5bac.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "19",
+    "name": "Farinha Trigo Regina Integral 1kg",
+    "price": 7.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c5f14b7f-9d98-49a2-a939-ac551caa6904.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "20",
+    "name": "Farinha De Aveia Yoki Caixa 170g",
+    "price": 5.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a45f9a3f-c0ba-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "21",
+    "name": "Macarrão Instantâneo Com Tempero De Picanha Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bc24e78d-3667-43b2-a9c7-3ef72a9ff84f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "22",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/38d67525-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "23",
+    "name": "Macarrão Instantâneo Com Tempero De Bolonhesa Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d3c5134b-ce9b-41fd-ba9b-f2b8bbc5261b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "24",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Com Tomate Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c55aca93-1509-4d9a-9b8e-a9e24e6993d8.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "25",
+    "name": "Macarrão Instantâneo Com Tempero De Frango Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3158fe62-34db-4ad8-ad4c-415c6946bcb3.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "26",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/caf5998d-686d-428e-a78e-c2406d2f7559.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "27",
+    "name": "Macarrão Instantâneo Com Tempero De Bacon Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/30c92096-4b34-454d-a458-c1becdcef74c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "28",
+    "name": "Macarrão Instantâneo Com Tempero De Galinha Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e861e454-98d7-48fd-a7cb-57fae325ac3f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "29",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Com Tomate Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bb06bd47-8171-490e-9fec-0f82e7352742.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "30",
+    "name": "Macarrão Instantâneo Com Tempero De Galinha Caipira Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/390ee5ec-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "31",
+    "name": "Macarrão Instantâneo Com Tempero De Tomate Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/180fdb2b-e748-4aa2-a33e-9b8ee676c6ee.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "32",
+    "name": "Macarrão Instantâneo Com Tempero De Queijo Cheddar Nissin Cup Noodles Copo 69g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0deef69e-52d6-402f-977d-ef124b2e5aff.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "33",
+    "name": "Macarrão Instantâneo Com Tempero Curry Nissin Cup Noodles Copo 70g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a3fe45bd-a094-4ad5-ada9-5961cfb6eb8f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "34",
+    "name": "Macarrão Instantâneo Com Tempero De Frango Com Molho Teriyaki Nissin Cup Noodles Copo 72g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/eec12f27-6e2b-4bfb-bec6-fb01817a7bfe.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "35",
+    "name": "Macarrão Instantâneo Com Tempero De Bolonhesa Nissin Cup Noodles Copo 72g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/6057cc6a-a152-49ed-b74f-5f9a654bf2a2.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "36",
+    "name": "Macarrão Instantâneo Com Tempero De Costela Com Molho De Churrasco Nissin Cup Noodles Copo 68g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/431134cd-d52d-46b3-a179-5e92bdac31dc.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "37",
+    "name": "Macarrão Instantâneo Espaguete Com Ovos 3 Minutos Nissin Pacote 500g",
+    "price": 9.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3a3d5d34-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "38",
+    "name": "Macarrão Instantâneo Com Tempero De Legumes Com Azeite Nissin Cup Noodles Copo 67g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/22005d5a-e003-47c5-938a-3e8810ae47a4.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "39",
+    "name": "Macarrão Instantâneo Com Tempero De Galinha Caipira Nissin Cup Noodles Copo 69g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/75200a46-615c-4513-85b4-8389e39841cf.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "40",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Defumada Nissin Cup Noodles Copo 69g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7751788b-3fe9-4248-88d1-69a4be19a164.jpg",
+    "market": "Perim"
+  }
+]

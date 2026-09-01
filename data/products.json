@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Farinha De Mandioca Juparanã Torrado T2 1kg",
+    "price": 6.69,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/616bb62c-5dda-4291-9780-0bc3d818a605.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "2",
+    "name": "Farinha De Mandioca Nico 1kg",
+    "price": 4.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d54b22dc-5ce0-45ad-91cf-de833520bfd1.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "3",
+    "name": "Farinha De Mandioca Flocada Grupo Bijusada Tipo Único Acidez Baixa Yoki Pacote 500g",
+    "price": 14.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/fae70adf-7b95-4eb5-b7d9-f2b0b266f2a5.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "4",
+    "name": "Farinha De Mandioca Branca Da Roça 1kg",
+    "price": 5.99,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "5",
+    "name": "Farinha De Mandioca Torrada Da Roça 1kg",
+    "price": 8.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/31e78629-ba6b-4408-8ca7-61429f77febf.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "6",
+    "name": "Farinha De Mandioca Amarela Juparanã 1kg",
+    "price": 5.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e5fe3562-068b-4bd0-be78-b8b5eea16778.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "7",
+    "name": "Farinha De Mandioca Amarela Nico 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/23581699-f0fd-45b2-a8ec-ac95eff41ec0.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "8",
+    "name": "Farinha De Mandioca Pereira 1kg Amarela",
+    "price": 5.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/472d030d-762b-4a9e-88cc-5ed7f2629e37.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "9",
+    "name": "Farinha De Mandioca Branca Bela 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/48cc7538-addd-432f-987b-b20e28c3933a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "10",
+    "name": "Farinha De Mandioca Branca Juparanã 1kg",
+    "price": 5.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c0914e56-a83e-4d21-a841-6517e55bbe2f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "11",
+    "name": "Farinha De Mandioca Branca Mundial 1kg",
+    "price": 9.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/6a5e5a8f-257c-4a36-b7e8-9cc27944e521.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "12",
+    "name": "Farinha De Mandioca Branca Pinduca 1kg",
+    "price": 5.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7019dd86-d1e4-495d-8754-064fd360074e.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "13",
+    "name": "Farinha De Mandioca Torrada Dorico 1kg",
+    "price": 5.59,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "14",
+    "name": "Farinha De Mandioca Torrada Pinduca 1kg",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/5166315d-acef-4dfe-b709-6c7f01085b4d.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "15",
+    "name": "Farinha De Mandioca Amarela Da Roça 1kg",
+    "price": 8.19,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "16",
+    "name": "Farinha De Amêndoas Pote - Aprox. 150g",
+    "price": 16.48,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "17",
+    "name": "Farinha Mandioca Amarela Bela Pacote 1kg",
+    "price": 5.19,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "18",
+    "name": "Farinha Água Na Boca Para Empanado Frango 250g",
+    "price": 7.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8b4cc26c-1f1b-4360-9e5d-072689cf3b8c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "19",
+    "name": "Farinha De Trigo Regina Papel 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/03e85f99-7aef-4d88-8923-ab8b40fd5bac.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "20",
+    "name": "Farinha Trigo Regina Integral 1kg",
+    "price": 7.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c5f14b7f-9d98-49a2-a939-ac551caa6904.jpg",
+    "market": "Perim"
+  }
+]

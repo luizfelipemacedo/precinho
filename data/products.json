@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Açucar Cristal Paineiras 2kg",
+    "price": 6.68,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8e863ddc-e515-49a4-a88b-0ff5eb028fc4.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "2",
+    "name": "Açúcar Refinado Especial Caravelas Pacote 1kg",
+    "price": 3.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/1766e7cc-1109-4eae-a2bc-d919585682df.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "3",
+    "name": "Açúcar União Demerara Pacote 1kg",
+    "price": 6.29,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7acb1b72-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "4",
+    "name": "Açúcar Refinado União Granulado Em Cubos Pote 250g",
+    "price": 12.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7aaa820a-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "5",
+    "name": "Açúcar Refinado União 1kg",
+    "price": 4.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/77ddefe9-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "6",
+    "name": "Açúcar União Glaçúcar De Confeiteiro 500g",
+    "price": 3.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7bc04550-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "7",
+    "name": "Açúcar Diet União Sucralose 50 Unids De 800mg",
+    "price": 9.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7cf390cf-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "8",
+    "name": "Açúcar Natural Demerara Caravelas Pacote 1kg",
+    "price": 4.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/11421f49-b17e-4724-8817-6c8bc6ce0a74.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "9",
+    "name": "Acucar Magro Light Com Stevia 400g",
+    "price": 19.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7d0d44f5-c0b5-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "10",
+    "name": "Açucar Cristal Paineiras 5kg",
+    "price": 14.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e50c419f-5d20-47d7-8fd3-927bf4282bce.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "11",
+    "name": "Açúcar Demerara Natural Life 500g",
+    "price": 8.49,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/beb2872e-adbb-42d6-9d67-21b10a28d6d5.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "12",
+    "name": "Açucar Mascavo Da Roça Juliana 1kg",
+    "price": 14.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e3c154ed-1976-4f4b-bac5-baba66848439.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "13",
+    "name": "Açucar Mascavo Da Roça Juliana 500g",
+    "price": 8.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/75d78599-e23f-4032-b5f2-d8bd197a536d.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "14",
+    "name": "Açúcar Mascavo Vale Das Águas 500g",
+    "price": 7.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/4a24ef0d-912b-4370-96f1-4888a2ffa5a2.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "15",
+    "name": "Açúcar Cristal Caravelas Pacote 2kg",
+    "price": 6.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e6b57692-ff90-4e5a-8f88-60097df9487d.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "16",
+    "name": "Alimento À Base De Soja Ades Original Zero Açúcares Caixa 1 Litro",
+    "price": 9.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/ea0611ba-c0b9-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "17",
+    "name": "Po P/pudim Lowcucar Zero Acucar Leite Cond Cx 25g",
+    "price": 5.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/9882a36c-2eba-47c9-a6f3-769e29c19cf5.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "18",
+    "name": "Po P/pudim Lowcucar Zero Acucar Coco Cx 25g",
+    "price": 5.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d4cbe7f8-76aa-4c85-95aa-9d4a444ca07b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "19",
+    "name": "Granola Ws Naturais Zero Açúcar Pacote 500g",
+    "price": 27.45,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/8c772457-f1c8-43e5-8435-b5179d0b19c2.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "20",
+    "name": "Po P/gelatina Lowcucar Zero Acucar Amora Cx 10g",
+    "price": 4.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/37649812-89f6-4971-9ce2-716f32e46272.jpg",
+    "market": "Perim"
+  }
+]

@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Sal Refinado Globo Light 500g",
+    "price": 8.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/38161d64-c0b4-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "2",
+    "name": "Sal Refinado Globo 1kg",
+    "price": 2.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/47e9e36b-c0b4-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "3",
+    "name": "Sal Refinado Polar 1kg",
+    "price": 2.29,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/4924c1ad-c0b4-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "4",
+    "name": "Sal Refinado Iodado Casa De Mãe Pacote 1kg",
+    "price": 2.29,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d432b1cc-9014-4ef0-bf92-928a92246387.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "5",
+    "name": "Sal Refinado Extra Globo Standup 500g",
+    "price": 5.19,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a4ba0515-86f6-4efd-8f46-751820a01045.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "6",
+    "name": "Sal Grosso Globo P/ Churrasco",
+    "price": 3.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/63282936-91b9-4bd1-b152-c66a0482434f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "7",
+    "name": "Sal Marinho Integral Comum Moído Iodado Tipo 1 Vitao Pacote 1kg",
+    "price": 7.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/6a7c81c0-b381-4b58-9a05-3fcc30298c6f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "8",
+    "name": "Sal Rosa Himalaia Natural Life Moido Pacote 500g",
+    "price": 13.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/79451a7f-d15c-4796-a679-a9e121ca2c16.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "9",
+    "name": "Sal Globo Grill Para Churrasco Pote 500g",
+    "price": 5.59,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/be11dcc3-14b2-4b48-94b6-6b6a195aa36b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "10",
+    "name": "Sal Globo Pote 500g",
+    "price": 4.89,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/28cfa7eb-f1ac-40f9-aa23-fcd5242fee00.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "11",
+    "name": "Sal Grosso Tonete Para Churrasco 500g",
+    "price": 7.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/051dc280-f082-407d-8c29-49759113c94b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "12",
+    "name": "Sal Grosso Tonete Completo 500g",
+    "price": 6.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0c204902-e0a3-4a0e-98eb-c8bc91051122.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "13",
+    "name": "Sal Grosso Tonete Especial Para Churrasco 500g",
+    "price": 5.69,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/7dbfe9a2-4aad-4c4f-a8d1-9373a04a9b66.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "14",
+    "name": "Sal Rosa Himalaia Fino Shuma Vidro 100g",
+    "price": 5.49,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/058b41bf-8f65-4133-8c95-34ae407a80d6.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "15",
+    "name": "Sal Rosa Himalaia Grosso Shuma Pacote 500g",
+    "price": 11.99,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "16",
+    "name": "Sal Amoniaco Shuma 50g",
+    "price": 5.29,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "17",
+    "name": "Sal Parrilla Br Spices Para Churrasco E Carnes Frasco 330g",
+    "price": 20.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/f7efd4b6-412f-467e-adaf-d8f16748d227.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "18",
+    "name": "Sal Grosso Iodado Casa De Mãe Pacote 1kg",
+    "price": 2.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/09894ca4-0e2d-4073-ad8e-3b4d850f0c44.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "19",
+    "name": "Sal Marinho Globo Standup 500g",
+    "price": 5.39,
+    "image": "https://www.perim.com.br/assets/images/default_image_md.png",
+    "market": "Perim"
+  },
+  {
+    "id": "20",
+    "name": "Sal Parrilla Globo Natural Standup 500g",
+    "price": 6.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/c20f6f52-8429-44ee-b0d0-902945b8d604.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "21",
+    "name": "Macarrão Instantâneo Com Tempero De Picanha Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bc24e78d-3667-43b2-a9c7-3ef72a9ff84f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "22",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/38d67525-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "23",
+    "name": "Macarrão Instantâneo Com Tempero De Bolonhesa Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/d3c5134b-ce9b-41fd-ba9b-f2b8bbc5261b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "24",
+    "name": "Macarrão Instantâneo Com Tempero De Frango Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3158fe62-34db-4ad8-ad4c-415c6946bcb3.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "25",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.98,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/caf5998d-686d-428e-a78e-c2406d2f7559.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "26",
+    "name": "Macarrão Instantâneo Com Tempero De Bacon Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/30c92096-4b34-454d-a458-c1becdcef74c.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "27",
+    "name": "Macarrão Instantâneo Com Tempero De Galinha Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.98,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/e861e454-98d7-48fd-a7cb-57fae325ac3f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "28",
+    "name": "Macarrão Instantâneo Com Tempero De Carne Com Tomate Nissin Miojo Talharim Pacote 99g Com 90g De Macarrão E 9g De Tempero",
+    "price": 3.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/bb06bd47-8171-490e-9fec-0f82e7352742.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "29",
+    "name": "Macarrão Instantâneo Com Tempero De Galinha Caipira Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/390ee5ec-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "30",
+    "name": "Macarrão Instantâneo Com Tempero De Frango Assado Com Toque De Limão Nissin Miojo Lámen Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.99,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3c8760ba-5f37-4f3a-a72d-a025361e362b.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "31",
+    "name": "Macarrão Instantâneo Com Tempero De Tomate Suave Nissin Miojo Turma Da Mônica Pacote 85g Com 80g De Macarrão E 5g De Tempero",
+    "price": 2.98,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/180fdb2b-e748-4aa2-a33e-9b8ee676c6ee.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "32",
+    "name": "Macarrão Instantâneo Yakissoba Nissin Pacote 500g",
+    "price": 9.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a828682b-512b-436f-8555-db6d630108c3.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "33",
+    "name": "Macarrão Instantâneo Com Tempero De Queijo Cheddar Nissin Cup Noodles Copo 69g",
+    "price": 5.78,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/0deef69e-52d6-402f-977d-ef124b2e5aff.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "34",
+    "name": "Macarrão Instantâneo Com Tempero Curry Nissin Cup Noodles Copo 70g",
+    "price": 5.78,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/a3fe45bd-a094-4ad5-ada9-5961cfb6eb8f.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "35",
+    "name": "Macarrão Instantâneo Com Tempero De Bolonhesa Nissin Cup Noodles Copo 72g",
+    "price": 5.78,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/6057cc6a-a152-49ed-b74f-5f9a654bf2a2.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "36",
+    "name": "Macarrão Instantâneo Com Tempero De Costela Com Molho De Churrasco Nissin Cup Noodles Copo 68g",
+    "price": 5.78,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/431134cd-d52d-46b3-a179-5e92bdac31dc.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "37",
+    "name": "Macarrão Instantâneo Espaguete Com Ovos 3 Minutos Nissin Pacote 500g",
+    "price": 9.79,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3a3d5d34-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "38",
+    "name": "Macarrão Instantâneo Com Tempero De Legumes Com Azeite Nissin Cup Noodles Copo 67g",
+    "price": 5.78,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/22005d5a-e003-47c5-938a-3e8810ae47a4.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "39",
+    "name": "Macarrão Instantâneo Espaguete Com Ovos 5 Minutos Nissin Pacote 500g",
+    "price": 9.39,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/3a5f3a61-c0b3-11e7-a6aa-063e6e4e9f3a.jpg",
+    "market": "Perim"
+  },
+  {
+    "id": "40",
+    "name": "Macarrão Instantâneo Com Tempero De Galinha Caipira Nissin Cup Noodles Copo 69g",
+    "price": 5.78,
+    "image": "https://produto-assets-vipcommerce-com-br.br-se1.magaluobjects.com/250x250/75200a46-615c-4513-85b4-8389e39841cf.jpg",
+    "market": "Perim"
+  }
+]
